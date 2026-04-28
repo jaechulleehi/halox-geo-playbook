@@ -29,6 +29,8 @@
   - [05-01. Source와 Citation은 무엇이 다른가](pages/05-01-source-citation-difference.md)
   - [05-02. Entity와 브랜드 합의 신호를 만드는 법](pages/05-02-entity-consensus-offsite.md)
   - [05-03. 오프사이트 출처 후보 맵을 만드는 법](pages/05-03-offsite-source-map.md)
+  - [05-04. 채널별 Source 전략표는 어떻게 만들까](pages/05-04-channel-source-strategy.md)
+  - [05-05. 평판 리스크와 AI 답변 오해를 어떻게 줄일까](pages/05-05-reputation-risk-ai-answer.md)
 
 - [06. 테크니컬 GEO와 사이트 구조](pages/06-chapter-6.md)
   - [06-01. 테크니컬 GEO 기본 점검표](pages/06-01-technical-geo-checklist.md)
