@@ -23,7 +23,7 @@
 
 ## HaloX와 연결해서 보기
 
-이 주제는 HaloX의 [ai preferred content structure](https://haloxlabs.ai/ko/blog/ai-preferred-content-structure)와 함께 보면 좋습니다. 개념을 읽은 뒤에는 실제 질문셋과 지표를 기준으로 우리 브랜드가 어떤 답변에 등장하는지 확인해야 합니다.
+이 주제는 HaloX의 [AI 검색이 선택하는 콘텐츠 구조](https://haloxlabs.ai/ko/blog/ai-preferred-content-structure)와 함께 보면 좋습니다. 개념을 읽은 뒤에는 실제 질문셋과 지표를 기준으로 우리 브랜드가 어떤 답변에 등장하는지 확인해야 합니다.
 
 ## 체크리스트
 

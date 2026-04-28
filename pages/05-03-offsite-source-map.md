@@ -23,7 +23,7 @@
 
 ## HaloX와 연결해서 보기
 
-이 주제는 HaloX의 [how to get cited by ai](https://haloxlabs.ai/ko/blog/how-to-get-cited-by-ai)와 함께 보면 좋습니다. 개념을 읽은 뒤에는 실제 질문셋과 지표를 기준으로 우리 브랜드가 어떤 답변에 등장하는지 확인해야 합니다.
+이 주제는 HaloX의 [AI에게 인용되는 콘텐츠 가이드](https://haloxlabs.ai/ko/blog/how-to-get-cited-by-ai)와 함께 보면 좋습니다. 개념을 읽은 뒤에는 실제 질문셋과 지표를 기준으로 우리 브랜드가 어떤 답변에 등장하는지 확인해야 합니다.
 
 ## 체크리스트
 
