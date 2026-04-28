@@ -21,8 +21,8 @@ GEO에서 출처 전략은 “백링크를 많이 만들자”가 아닙니다. 
 - [05-01. Source와 Citation은 무엇이 다른가](https://wikidocs.net/346350)
 - [05-02. Entity와 브랜드 합의 신호를 만드는 법](https://wikidocs.net/346351)
 - [05-03. 오프사이트 출처 후보 맵을 만드는 법](https://wikidocs.net/346352)
-- 05-04. 채널별 Source 전략표는 어떻게 만들까
-- 05-05. 평판 리스크와 AI 답변 오해를 어떻게 줄일까
+- [05-04. 채널별 Source 전략표는 어떻게 만들까](https://wikidocs.net/346391)
+- [05-05. 평판 리스크와 AI 답변 오해를 어떻게 줄일까](https://wikidocs.net/346392)
 
 ## 사례로 보는 출처 전략
 
