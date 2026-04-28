@@ -36,6 +36,8 @@
   - [06-01. 테크니컬 GEO 기본 점검표](pages/06-01-technical-geo-checklist.md)
   - [06-02. CSR/SSR 렌더링은 GEO에서 왜 중요한가](pages/06-02-csr-ssr-rendering.md)
   - [06-03. llms.txt와 사이트 이전 리스크 관리](pages/06-03-llms-txt-migration-risk.md)
+  - [06-04. AI crawler 접근성과 robots/sitemap은 어떻게 점검할까](pages/06-04-ai-crawler-robots-sitemap.md)
+  - [06-05. Schema와 내부 링크는 AI 이해를 어떻게 돕나](pages/06-05-schema-internal-link-structure.md)
 
 - [07. 산업별 GEO 전략](pages/07-chapter-7.md)
   - [07-01. B2B SaaS GEO는 무엇이 다른가](pages/07-01-b2b-saas-geo.md)
