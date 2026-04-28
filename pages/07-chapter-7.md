@@ -24,9 +24,9 @@
 - [07-01. B2B SaaS GEO는 무엇이 다른가](https://wikidocs.net/346356)
 - [07-02. 커머스와 플랫폼은 GEO보다 AIO를 먼저 봐야 할까](https://wikidocs.net/346357)
 - [07-03. 로컬/전문 서비스 GEO는 무엇을 봐야 하나](https://wikidocs.net/346358)
-- 07-04. PR/뉴스룸 GEO는 왜 엔티티 전략인가
-- 07-05. 금융/규제 산업 GEO는 무엇을 조심해야 하나
-- 07-06. 캠페인 URL 인용 추적은 어떻게 설계할까
+- [07-04. PR/뉴스룸 GEO는 왜 엔티티 전략인가](https://wikidocs.net/346388)
+- [07-05. 금융/규제 산업 GEO는 무엇을 조심해야 하나](https://wikidocs.net/346389)
+- [07-06. 캠페인 URL 인용 추적은 어떻게 설계할까](https://wikidocs.net/346390)
 
 ## 읽는 순서
 

@@ -83,4 +83,4 @@ AI가 근처 업체나 전문가를 추천할 때는 지도, 리뷰, 지역명, 
 
 ## 다음 흐름
 
-이전: [07-02. 커머스와 플랫폼은 GEO보다 AIO를 먼저 봐야 할까](https://wikidocs.net/346357) / 다음: [08. 글로벌/영문 GEO 전략](https://wikidocs.net/346336)
+이전: [07-02. 커머스와 플랫폼은 GEO보다 AIO를 먼저 봐야 할까](https://wikidocs.net/346357) / 다음: [07-04. PR/뉴스룸 GEO는 왜 엔티티 전략인가](https://wikidocs.net/346388)
