@@ -20,8 +20,8 @@ GEO 사업화는 네 가지 질문으로 검증합니다.
 - [09-01. GEO 대행사는 무엇을 증명해야 하나](https://wikidocs.net/346362)
 - [09-02. GEO 도구와 리포트는 어떻게 검증할까](https://wikidocs.net/346363)
 - [09-03. GEO 사업화는 어떤 형태로 나뉘는가](https://wikidocs.net/346364)
-- [09-04. GEO 제안서는 어떤 구조로 써야 할까](pages/09-04-geo-proposal-structure.md)
-- [09-05. GEO 리포트 상품은 어떻게 반복 매출이 되는가](pages/09-05-recurring-geo-report-product.md)
+- [09-04. GEO 제안서는 어떤 구조로 써야 할까](https://wikidocs.net/346397)
+- [09-05. GEO 리포트 상품은 어떻게 반복 매출이 되는가](https://wikidocs.net/346398)
 
 ## 시장에서 자주 보이는 오해
 

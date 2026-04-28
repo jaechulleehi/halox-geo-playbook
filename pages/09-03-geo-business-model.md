@@ -99,4 +99,4 @@ GEO 사업화는 하나의 상품으로 시작하기보다 진단형, 전략형,
 
 ## 다음 흐름
 
-이전: [09-02. GEO 도구와 리포트는 어떻게 검증할까](https://wikidocs.net/346363) / 다음: [09-04. GEO 제안서는 어떤 구조로 써야 할까](pages/09-04-geo-proposal-structure.md)
+이전: [09-02. GEO 도구와 리포트는 어떻게 검증할까](https://wikidocs.net/346363) / 다음: [09-04. GEO 제안서는 어떤 구조로 써야 할까](https://wikidocs.net/346397)

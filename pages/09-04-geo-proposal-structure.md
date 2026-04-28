@@ -87,4 +87,4 @@ PR/뉴스룸형 고객은 보도자료가 많아도 AI가 공식 뉴스룸보다
 
 ## 다음 흐름
 
-이전: [09-03. GEO 사업화는 어떤 형태로 나뉘는가](https://wikidocs.net/346364) / 다음: [09-05. GEO 리포트 상품은 어떻게 반복 매출이 되는가](pages/09-05-recurring-geo-report-product.md)
+이전: [09-03. GEO 사업화는 어떤 형태로 나뉘는가](https://wikidocs.net/346364) / 다음: [09-05. GEO 리포트 상품은 어떻게 반복 매출이 되는가](https://wikidocs.net/346398)
