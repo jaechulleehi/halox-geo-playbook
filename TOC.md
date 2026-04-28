@@ -55,3 +55,5 @@
   - [10-02. 2주차: Fan-out 질문맵과 콘텐츠 갭](pages/10-02-week2-fanout-gap-workshop.md)
   - [10-03. 3주차: 콘텐츠 리라이트와 출처 설계](pages/10-03-week3-content-source-workshop.md)
   - [10-04. 4주차: 실행 리포트와 30일 액션 플랜](pages/10-04-week4-report-action-plan.md)
+
+- [90. 산업별 GEO 익명 케이스북](pages/90-industry-geo-casebook.md)
