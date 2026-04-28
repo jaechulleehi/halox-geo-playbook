@@ -21,8 +21,8 @@
 - [06-01. 테크니컬 GEO 기본 점검표](https://wikidocs.net/346353)
 - [06-02. CSR/SSR 렌더링은 GEO에서 왜 중요한가](https://wikidocs.net/346354)
 - [06-03. llms.txt와 사이트 이전 리스크 관리](https://wikidocs.net/346355)
-- 06-04. AI crawler 접근성과 robots/sitemap은 어떻게 점검할까
-- 06-05. Schema와 내부 링크는 AI 이해를 어떻게 돕나
+- [06-04. AI crawler 접근성과 robots/sitemap은 어떻게 점검할까](https://wikidocs.net/346393)
+- [06-05. Schema와 내부 링크는 AI 이해를 어떻게 돕나](https://wikidocs.net/346394)
 
 ## 사례로 보는 테크니컬 GEO
 

@@ -91,4 +91,4 @@ GEO 지식 베이스를 개편하는 사례에서는 글로서리와 블로그 U
 
 ## 다음 흐름
 
-이전: [06-02. CSR/SSR 렌더링은 GEO에서 왜 중요한가](https://wikidocs.net/346354) / 다음: 06-04. AI crawler 접근성과 robots/sitemap은 어떻게 점검할까
+이전: [06-02. CSR/SSR 렌더링은 GEO에서 왜 중요한가](https://wikidocs.net/346354) / 다음: [06-04. AI crawler 접근성과 robots/sitemap은 어떻게 점검할까](https://wikidocs.net/346393)
