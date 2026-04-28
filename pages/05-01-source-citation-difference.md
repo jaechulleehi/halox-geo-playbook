@@ -45,4 +45,4 @@ Source는 AI가 답변을 만들 때 참고한 정보 재료이고, citation은 
 
 ## 다음 흐름
 
-다음 페이지에서는 이 주제를 더 구체적인 실행 단위로 이어갑니다.
+이전: [05. Source/Citation/Entity와 오프사이트 전략](https://wikidocs.net/346333) / 다음: [05-02. Entity와 브랜드 합의 신호를 만드는 법](https://wikidocs.net/346351)
