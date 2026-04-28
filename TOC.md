@@ -56,6 +56,8 @@
   - [09-01. GEO 대행사는 무엇을 증명해야 하나](pages/09-01-geo-agency-checklist.md)
   - [09-02. GEO 도구와 리포트는 어떻게 검증할까](pages/09-02-geo-tool-report-criteria.md)
   - [09-03. GEO 사업화는 어떤 형태로 나뉘는가](pages/09-03-geo-business-model.md)
+  - [09-04. GEO 제안서는 어떤 구조로 써야 할까](pages/09-04-geo-proposal-structure.md)
+  - [09-05. GEO 리포트 상품은 어떻게 반복 매출이 되는가](pages/09-05-recurring-geo-report-product.md)
 
 - [10. 4주 챌린지와 실행 리포트](pages/10-chapter-10.md)
   - [10-01. 1주차: GEO Baseline 진단 워크숍](pages/10-01-week1-baseline-workshop.md)
