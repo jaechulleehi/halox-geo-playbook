@@ -25,4 +25,4 @@
 
 ## 다음에 읽을 글
 
-다음은 [검색 의도와 AI 질문 의도의 차이](01-03-search-intent-ai-question.md)입니다.
+다음은 [검색 의도와 AI 질문 의도의 차이](https://wikidocs.net/346339)입니다.

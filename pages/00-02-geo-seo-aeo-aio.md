@@ -19,4 +19,4 @@ HaloX의 [GEO vs SEO vs AEO 비교 글](https://haloxlabs.ai/ko/blog/geo-vs-seo-
 
 ## 다음에 읽을 글
 
-다음은 [AI 검색은 기존 검색과 무엇이 다른가](00-03-ai-search-difference.md)입니다.
+다음은 [AI 검색은 기존 검색과 무엇이 다른가](https://wikidocs.net/346310)입니다.

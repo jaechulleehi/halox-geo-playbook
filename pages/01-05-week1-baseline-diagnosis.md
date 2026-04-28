@@ -45,4 +45,4 @@
 
 ## 다음에 읽을 글
 
-다음 장에서는 [GEO 측정 지표와 HaloX 분석 프레임](02-chapter-2.md)을 다룹니다.
+다음 장에서는 [GEO 측정 지표와 HaloX 분석 프레임](https://wikidocs.net/346342)을 다룹니다.
