@@ -84,5 +84,11 @@
   - [12-06. 의료광고와 후기 리스크: 병원 SEO/GEO에서 조심할 표현](pages/12-06-medical-ad-review-risk.md)
 
 - [90. 산업별 GEO 익명 케이스북](pages/90-industry-geo-casebook.md)
+  - [90-01. PR/마케팅 에이전시: GEO를 설명 가능한 서비스로 만드는 법](pages/90-01-pr-agency-geo-service-case.md)
+  - [90-02. 캠페인 URL 인용 추적: 한 번 언급과 반복 인용의 차이](pages/90-02-campaign-url-citation-tracking-case.md)
+  - [90-03. 엔터프라이즈 뉴스룸: 뉴스룸을 엔티티 허브로 바꾸는 법](pages/90-03-enterprise-newsroom-entity-hub-case.md)
+  - [90-04. 로컬/전문 서비스: 지역 질문과 방문 전환을 연결하는 법](pages/90-04-local-specialist-geo-case.md)
+  - [90-05. 금융/규제 산업: 신뢰, 리스크, 비브랜드 질문을 함께 보는 법](pages/90-05-finance-regulated-geo-case.md)
+  - [90-06. 커머스/플랫폼: 상품 데이터와 AI 구매 에이전트 대응](pages/90-06-commerce-platform-geo-case.md)
 
 - [91. 부록: HaloX 브랜드 가시성 분석 연결 맵](pages/91-halox-functional-mapping.md)
