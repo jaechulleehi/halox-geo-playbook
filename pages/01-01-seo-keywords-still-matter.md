@@ -1,5 +1,7 @@
 ## SEO 키워드는 왜 여전히 중요한가
 
+![SEO 키워드에서 AI 질문셋으로 확장되는 흐름](../assets/images/page-heroes/halox-geo-01-01-seo-keywords-still-matter-hero.png)
+
 AI 검색 시대에도 SEO 키워드는 사라지지 않습니다. 키워드는 사람들이 어떤 문제를 말로 표현하는지, 어떤 카테고리를 인식하는지, 어떤 비교와 구매 의도가 있는지를 보여주는 출발점입니다. GEO는 이 키워드를 버리는 것이 아니라 질문/프롬프트 시장으로 확장합니다.
 
 예를 들어 `GEO 최적화 도구`라는 키워드는 “GEO 도구 추천”, “AI 검색 모니터링 도구 비교”, “우리 브랜드가 AI 답변에 나오는지 확인하는 방법” 같은 질문으로 확장됩니다. HaloX의 [SEO/GEO 키워드 전략 글](https://haloxlabs.ai/ko/blog/seo-geo-keyword-strategy-framework)은 이 연결을 실무 프레임으로 설명합니다.

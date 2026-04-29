@@ -1,5 +1,7 @@
 ## 키워드를 질문/프롬프트로 바꾸는 법
 
+![SEO 키워드를 질문과 프롬프트로 바꾸는 흐름](../assets/images/page-heroes/halox-geo-01-02-keyword-to-prompt-hero.png)
+
 키워드를 질문과 프롬프트로 바꾸면 AI 검색에서 브랜드가 어떤 맥락에 등장해야 하는지 더 선명해집니다. 이 질문은 [Fan-out 질문맵](https://wikidocs.net/346344)으로 확장할 수 있습니다.
 
 ## 기본 변환 공식
