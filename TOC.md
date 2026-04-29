@@ -20,7 +20,7 @@
   - [03-02. 질문 유형 포트폴리오를 어떻게 나눌까](pages/03-02-question-type-portfolio.md)
   - [03-03. 질문셋에서 콘텐츠 갭을 찾는 법](pages/03-03-content-gap-from-questions.md)
 
-- [04. AI가 읽기 좋은 콘텐츠 구조](pages/04-chapter-4.md)
+- [04. AI가 읽기 좋은 콘텐츠 구조: HTML에서 답변 재료까지](pages/04-chapter-4.md)
   - [04-01. Answer-first 콘텐츠는 어떻게 쓰는가](pages/04-01-answer-first-content.md)
   - [04-02. FAQ/표/schema는 언제 쓰는가](pages/04-02-faq-schema-table-structure.md)
   - [04-03. 기존 글을 GEO 콘텐츠로 리라이트하는 체크리스트](pages/04-03-geo-content-rewrite-checklist.md)
