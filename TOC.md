@@ -14,6 +14,10 @@
   - [01-05. 1주차 실습: 내 브랜드 GEO 기준선 진단](pages/01-05-week1-baseline-diagnosis.md)
 
 - [02. AI 검색 모니터링: 브랜드 언급률, 답변 근거, 화면 인용 읽는 법](pages/02-chapter-2.md)
+  - [02-01. ChatGPT 브랜드 노출은 어떻게 확인하나](pages/02-01-chatgpt-brand-visibility.md)
+  - [02-02. Perplexity SEO와 Google AI Overviews 최적화는 어떻게 다르게 볼까](pages/02-02-perplexity-ai-overviews-citation.md)
+  - [02-03. 브랜드 언급률, 답변 근거, 화면 인용은 어떻게 나눠 읽나](pages/02-03-mention-source-citation.md)
+  - [02-04. AI 검색 리포트는 어떤 지표로 읽어야 하나](pages/02-04-ai-search-report.md)
 
 - [03. Fan-out 질문 확장과 AI 질문셋](pages/03-chapter-3.md)
   - [03-01. Fan-out 질문맵으로 AI 질문셋 만드는 법](pages/03-01-fan-out-question-map.md)
