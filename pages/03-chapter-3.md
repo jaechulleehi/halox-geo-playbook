@@ -28,7 +28,7 @@
 
 ## HaloX로 이어지는 지점
 
-Fan-out 질문 확장은 HaloX의 [SEO/GEO 키워드 전략 프레임워크](https://haloxlabs.ai/ko/blog/seo-geo-keyword-strategy-framework)와 자연스럽게 연결됩니다. 이 장에서 질문맵을 만들고, HaloX 글에서 질문 확장이 콘텐츠 전략으로 이어지는 흐름을 보완합니다.
+Fan-out 질문 확장은 HaloX의 [SEO/GEO 키워드 전략 프레임워크](https://haloxlabs.ai/ko/blog/seo-geo-keyword-strategy-framework)와 자연스럽게 연결됩니다. 이 장에서 질문맵을 만들고, HaloX 글에서 질문 확장이 콘텐츠 전략으로 이어지는 흐름을 보완합니다. Fan-out으로 만든 질문은 결국 도움이 되는 답변 구조로 돌아와야 합니다. Google의 [유용한 콘텐츠 만들기](https://developers.google.com/search/docs/fundamentals/creating-helpful-content)는 질문 확장이 독자 문제 해결과 연결되는지 점검하는 보조 기준입니다.
 
 ## 다음 흐름
 

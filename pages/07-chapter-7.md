@@ -55,7 +55,7 @@
 
 ## HaloX로 이어지는 지점
 
-산업별 GEO를 읽은 뒤에는 HaloX의 [GEO 평판/브랜드 합의 신호](https://haloxlabs.ai/ko/blog/geo-reputation-brand-consensus)를 함께 보면 좋습니다. 업종마다 신뢰 신호와 비교 문맥이 달라지는 이유를 더 깊게 볼 수 있습니다.
+산업별 GEO를 읽은 뒤에는 HaloX의 [GEO 평판/브랜드 합의 신호](https://haloxlabs.ai/ko/blog/geo-reputation-brand-consensus)를 함께 보면 좋습니다. 업종마다 신뢰 신호와 비교 문맥이 달라지는 이유를 더 깊게 볼 수 있습니다. 산업별 전략을 나눌 때도 공통 기준은 “독자가 실제 선택에 필요한 정보를 얻는가”입니다. Google의 [유용한 콘텐츠 만들기](https://developers.google.com/search/docs/fundamentals/creating-helpful-content)를 공통 기준으로 두고, 산업별로 필요한 증거와 구조만 다르게 설계합니다.
 
 ## 다음 흐름
 

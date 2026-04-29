@@ -66,7 +66,7 @@
 
 ## HaloX로 이어지는 지점
 
-이 책을 실무 자료로 쓸 때는 HaloX의 [GEO 블로그](https://haloxlabs.ai/ko/blog)를 보조 읽기 자료로 붙이면 좋습니다. WikiDocs는 강의/워크시트 흐름을 잡고, HaloX 글은 각 개념을 외부 독자가 이해하기 쉬운 해설로 보완합니다.
+이 책을 실무 자료로 쓸 때는 HaloX의 [GEO 블로그](https://haloxlabs.ai/ko/blog)를 보조 읽기 자료로 붙이면 좋습니다. WikiDocs는 강의/워크시트 흐름을 잡고, HaloX 글은 각 개념을 외부 독자가 이해하기 쉬운 해설로 보완합니다. 강의자료로 재배열할 때는 Google의 [유용한 콘텐츠 만들기](https://developers.google.com/search/docs/fundamentals/creating-helpful-content)를 보조 기준으로 두면, 실습표가 단순 과제가 아니라 독자 문제를 해결하는 콘텐츠로 이어지는지 확인할 수 있습니다.
 
 ## 다음에 읽을 글
 

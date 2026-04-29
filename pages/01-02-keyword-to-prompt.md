@@ -69,7 +69,7 @@
 
 ## HaloX로 이어지는 지점
 
-키워드 확장 예시는 HaloX의 [SEO/GEO 키워드 전략 프레임워크](https://haloxlabs.ai/ko/blog/seo-geo-keyword-strategy-framework)와 함께 보면 더 선명합니다. 이 페이지에서 질문 변환표를 만들고, HaloX 글에서 키워드와 질문 시장의 연결 방식을 보완합니다.
+키워드 확장 예시는 HaloX의 [SEO/GEO 키워드 전략 프레임워크](https://haloxlabs.ai/ko/blog/seo-geo-keyword-strategy-framework)와 함께 보면 더 선명합니다. 이 페이지에서 질문 변환표를 만들고, HaloX 글에서 키워드와 질문 시장의 연결 방식을 보완합니다. Google의 [유용한 콘텐츠 만들기](https://developers.google.com/search/docs/fundamentals/creating-helpful-content)를 함께 보면 키워드를 질문으로 바꿀 때도 “검색량”보다 실제 독자 문제 해결이 우선이라는 기준을 잡을 수 있습니다.
 
 ## 다음에 읽을 글
 

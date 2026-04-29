@@ -12,6 +12,8 @@ HaloX의 [AVI 점수 가이드](https://haloxlabs.ai/ko/blog/avi-score-explained
 
 그래서 GEO에서는 “방문자가 몇 명 왔는가” 이전에 “AI가 우리 브랜드를 어떤 답변 재료로 쓰는가”를 봐야 합니다. 클릭이 없어도 브랜드가 비교 후보에 들어갔다면 수요 형성 단계에서 의미가 있습니다. 반대로 클릭은 있어도 AI 답변에서 경쟁사가 더 신뢰도 높은 선택지로 설명된다면 장기적으로는 위험 신호입니다.
 
+기존 검색 성과와 함께 baseline을 해석하려면 Google Search Console의 [성과 보고서 도움말](https://support.google.com/webmasters/answer/7576553)을 참고합니다. GEO에서는 이 기존 지표 위에 AI 답변 안의 mention/source/citation 변화를 겹쳐 봅니다.
+
 ## 다섯 가지 핵심 지표
 
 GEO 측정은 최소 다섯 가지 축으로 나눠야 합니다.

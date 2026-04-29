@@ -65,6 +65,8 @@
 
 금융/규제 산업은 HaloX의 [GEO vs SEO vs AEO](https://haloxlabs.ai/ko/blog/geo-vs-seo-vs-aeo), [AI 검색에서 GEO는 왜 평판 관리 문제가 되었을까?](https://haloxlabs.ai/ko/blog/geo-reputation-brand-consensus), [llms.txt 완전 가이드](https://haloxlabs.ai/ko/blog/llms-txt-setup-guide)를 함께 보면 좋습니다.
 
+금융/규제 산업에서는 과장보다 근거와 책임 범위가 중요합니다. Google의 [유용한 콘텐츠 만들기](https://developers.google.com/search/docs/fundamentals/creating-helpful-content)를 함께 보며 독자가 위험을 오해하지 않도록 설명했는지 확인합니다.
+
 ## 다음 흐름
 
 금융/규제 산업을 이해했다면 [07-06. 캠페인 URL 인용 추적은 어떻게 설계할까](https://wikidocs.net/346390)로 넘어가 특정 URL이 실제로 citation 되는지 추적하는 운영형 사례를 봅니다. 전체 사례 흐름은 [산업별 GEO 익명 케이스북](https://wikidocs.net/346381)에서 다시 확인할 수 있습니다.

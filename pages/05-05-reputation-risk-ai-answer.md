@@ -73,6 +73,8 @@ GEO는 노출을 늘리는 일만이 아닙니다. AI가 브랜드를 틀리게 
 
 평판 리스크 관리는 HaloX의 [AI 검색에서 GEO는 왜 평판 관리 문제가 되었을까?](https://haloxlabs.ai/ko/blog/geo-reputation-brand-consensus), [GEO vs SEO vs AEO](https://haloxlabs.ai/ko/blog/geo-vs-seo-vs-aeo), [AVI 점수란?](https://haloxlabs.ai/ko/blog/avi-score-explained)을 함께 보면 좋습니다.
 
+평판 리스크 대응 콘텐츠는 과장보다 정확한 도움과 근거가 중요합니다. Google의 [유용한 콘텐츠 만들기](https://developers.google.com/search/docs/fundamentals/creating-helpful-content)를 함께 보면 방어성 문구가 아니라 독자가 판단할 수 있는 설명인지 점검할 수 있습니다.
+
 ## 다음 흐름
 
 평판 리스크까지 정리했다면 [06. 테크니컬 GEO와 사이트 구조](https://wikidocs.net/346334)로 넘어가 AI crawler가 공식 설명과 최신 source를 읽을 수 있는지 확인합니다.

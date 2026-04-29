@@ -64,7 +64,7 @@
 
 ## HaloX로 이어지는 지점
 
-질문셋 포션을 잡은 뒤에는 HaloX의 [AI 검색 콘텐츠 구조 가이드](https://haloxlabs.ai/ko/blog/geo-content-structure)를 참고해 어떤 질문을 콘텐츠로 먼저 만들지 정리할 수 있습니다.
+질문셋 포션을 잡은 뒤에는 HaloX의 [AI 검색 콘텐츠 구조 가이드](https://haloxlabs.ai/ko/blog/geo-content-structure)를 참고해 어떤 질문을 콘텐츠로 먼저 만들지 정리할 수 있습니다. 질문셋 포션을 나눌 때도 Google의 [유용한 콘텐츠 만들기](https://developers.google.com/search/docs/fundamentals/creating-helpful-content)를 보조 기준으로 삼습니다. 질문 수보다 각 질문이 실제 의사결정에 도움이 되는지가 더 중요합니다.
 
 ## 다음에 읽을 글
 

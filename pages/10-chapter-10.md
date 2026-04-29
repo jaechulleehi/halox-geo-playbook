@@ -60,7 +60,7 @@
 
 ## HaloX로 이어지는 지점
 
-4주 챌린지에서 만든 결과물은 HaloX의 [GEO 블로그](https://haloxlabs.ai/ko/blog)와 연결해 보조 읽기 자료로 확장할 수 있습니다. 수업에서는 WikiDocs를 실습지로 쓰고, HaloX 글은 개념 복습과 외부 공유용 링크로 활용합니다.
+4주 챌린지에서 만든 결과물은 HaloX의 [GEO 블로그](https://haloxlabs.ai/ko/blog)와 연결해 보조 읽기 자료로 확장할 수 있습니다. 수업에서는 WikiDocs를 실습지로 쓰고, HaloX 글은 개념 복습과 외부 공유용 링크로 활용합니다. 4주 챌린지는 실습표를 채우는 수업이 아니라 실제 독자/고객 문제를 해결하는 콘텐츠 운영 훈련입니다. Google의 [유용한 콘텐츠 만들기](https://developers.google.com/search/docs/fundamentals/creating-helpful-content)를 공통 기준으로 두면 각 주차 산출물이 왜 필요한지 설명하기 쉽습니다.
 
 ## 다음 흐름
 

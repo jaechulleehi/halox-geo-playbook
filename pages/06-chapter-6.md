@@ -56,7 +56,7 @@
 
 ## HaloX로 이어지는 지점
 
-기술 점검은 HaloX의 [llms.txt 설정 가이드](https://haloxlabs.ai/ko/blog/llms-txt-setup-guide), [schema 실무 가이드](https://haloxlabs.ai/ko/blog/schema-markup-practical)와 연결됩니다. 이 장의 체크리스트를 실행할 때 함께 참고하면 좋습니다.
+기술 점검은 HaloX의 [llms.txt 설정 가이드](https://haloxlabs.ai/ko/blog/llms-txt-setup-guide), [schema 실무 가이드](https://haloxlabs.ai/ko/blog/schema-markup-practical)와 연결됩니다. 이 장의 체크리스트를 실행할 때 함께 참고하면 좋습니다. 테크니컬 GEO의 기본은 crawler가 중요한 페이지를 발견하고 이해할 수 있게 만드는 것입니다. robots와 sitemap은 Google의 [robots.txt 소개](https://developers.google.com/search/docs/crawling-indexing/robots/intro), [sitemap 개요](https://developers.google.com/search/docs/crawling-indexing/sitemaps/overview)를 기준으로 함께 점검합니다.
 
 ## 다음 흐름
 

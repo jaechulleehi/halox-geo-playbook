@@ -35,6 +35,8 @@ GEO 사업화는 네 가지 질문으로 검증합니다.
 
 HaloX는 GEO를 감으로 설명하지 않고 질문셋, AI 브리핑, mention/source/citation, 경쟁사 비교, 인용 안정성, 콘텐츠/기술 액션으로 나눠 보게 만드는 분석 프레임입니다. 이 장에서는 HaloX를 직접 판매 문구로 앞세우기보다, 좋은 GEO 제안서와 리포트가 어떤 정보를 담아야 하는지 설명한 뒤 [HaloX 공식 사이트](https://haloxlabs.ai/)와 [HaloX 블로그](https://haloxlabs.ai/ko/blog)를 심화 참고 자료로 연결합니다.
 
+사업화 장에서도 기본 원칙은 같습니다. Google의 [유용한 콘텐츠 만들기](https://developers.google.com/search/docs/fundamentals/creating-helpful-content)를 기준으로 두면 대행/리포트/제안서가 지표 포장보다 실제 의사결정 지원에 초점을 맞추는지 확인할 수 있습니다.
+
 ## 강의와 실무에서의 역할
 
 | 사용 장면 | 이 장의 역할 | 산출물 |

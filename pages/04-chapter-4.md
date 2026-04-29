@@ -28,7 +28,7 @@
 
 ## HaloX로 이어지는 지점
 
-AI가 읽기 좋은 글 구조는 HaloX의 [AI 선호 콘텐츠 구조](https://haloxlabs.ai/ko/blog/ai-preferred-content-structure)와 함께 보면 좋습니다. 4장은 리라이트 실습을, HaloX 글은 외부 독자에게 설명하기 쉬운 원칙을 제공합니다.
+AI가 읽기 좋은 글 구조는 HaloX의 [AI 선호 콘텐츠 구조](https://haloxlabs.ai/ko/blog/ai-preferred-content-structure)와 함께 보면 좋습니다. 4장은 리라이트 실습을, HaloX 글은 외부 독자에게 설명하기 쉬운 원칙을 제공합니다. 콘텐츠 구조를 고칠 때는 Google의 [구조화 데이터 소개](https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data)와 [유용한 콘텐츠 만들기](https://developers.google.com/search/docs/fundamentals/creating-helpful-content)를 함께 봅니다. schema는 본문을 대체하는 장치가 아니라, 본문 의미를 더 명확히 전달하는 보조 신호입니다.
 
 ## 다음 흐름
 

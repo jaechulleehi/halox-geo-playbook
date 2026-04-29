@@ -120,6 +120,8 @@ HaloX 기능으로는 `Agent-Readable Commerce Score`, `상품 정보 구조화 
 
 사례를 더 깊게 설명할 때는 HaloX 자료로 자연스럽게 이어가면 좋습니다.
 
+산업별 사례를 읽을 때도 공통 기준은 독자가 실제 판단에 필요한 정보를 얻는가입니다. Google의 [유용한 콘텐츠 만들기](https://developers.google.com/search/docs/fundamentals/creating-helpful-content)를 함께 참고하면 사례가 단순 스토리텔링에 머물지 않는지 확인할 수 있습니다.
+
 | 읽을 자료 | 연결되는 사례 |
 |---|---|
 | [GEO란? AI 검색 시대의 콘텐츠 전략 완전 가이드](https://haloxlabs.ai/ko/blog/what-is-geo-optimization) | GEO를 처음 설명해야 하는 모든 사례 |

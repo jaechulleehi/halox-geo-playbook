@@ -75,6 +75,8 @@ PR/뉴스룸형 고객은 보도자료가 많아도 AI가 공식 뉴스룸보다
 
 이 실습은 [HaloX 블로그](https://haloxlabs.ai/ko/blog), [02. GEO 측정 지표와 HaloX 분석 프레임](https://wikidocs.net/346342), [05-04. 채널별 Source 전략표는 어떻게 만들까](https://wikidocs.net/346391)와 함께 보면 좋습니다.
 
+제안서의 콘텐츠 개선 항목은 Google의 [SEO 시작 가이드](https://developers.google.com/search/docs/fundamentals/seo-starter-guide)와 함께 보면 기본 SEO 과제와 GEO 과제를 구분하기 쉽습니다.
+
 ## 흔한 질문
 
 **Q. 제안서에 가격을 먼저 넣어도 되나요?**

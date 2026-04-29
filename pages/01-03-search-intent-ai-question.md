@@ -63,7 +63,7 @@
 
 ## HaloX로 이어지는 지점
 
-검색 의도와 AI 질문 의도를 비교할 때는 HaloX의 [GEO/SEO/AEO 비교 글](https://haloxlabs.ai/ko/blog/geo-vs-seo-vs-aeo)을 같이 참고하면 좋습니다. SEO의 의도 분류가 AI 답변 환경에서 어떻게 바뀌는지 연결해서 볼 수 있습니다.
+검색 의도와 AI 질문 의도를 비교할 때는 HaloX의 [GEO/SEO/AEO 비교 글](https://haloxlabs.ai/ko/blog/geo-vs-seo-vs-aeo)을 같이 참고하면 좋습니다. SEO의 의도 분류가 AI 답변 환경에서 어떻게 바뀌는지 연결해서 볼 수 있습니다. 검색 의도를 기본 구조로 이해하려면 Google의 [SEO 시작 가이드](https://developers.google.com/search/docs/fundamentals/seo-starter-guide)를 참고합니다. 이 페이지는 그 의도가 AI 답변에서 비교/추천/검증 질문으로 확장되는 지점을 다룹니다.
 
 ## 다음에 읽을 글
 

@@ -27,3 +27,5 @@ GEO를 단순히 “AI에게 인용되는 글쓰기”로만 이해하면 부족
 ## 다음에 읽을 글
 
 먼저 [GEO란 무엇인가](https://wikidocs.net/346308)부터 읽으면 됩니다.
+
+기본 검색 최적화의 출발점은 Google Search Central의 [SEO 시작 가이드](https://developers.google.com/search/docs/fundamentals/seo-starter-guide)로 함께 확인하면 좋습니다. 이 책은 그 기본기를 AI 답변 환경으로 확장합니다.

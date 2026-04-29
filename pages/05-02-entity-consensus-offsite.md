@@ -85,6 +85,8 @@ Entity 전략은 HaloX에서 다음 흐름으로 설명할 수 있습니다.
 
 이 실습은 HaloX의 [GEO 평판 관리와 브랜드 합의 신호](https://haloxlabs.ai/ko/blog/geo-reputation-brand-consensus), [GEO란? AI 검색 시대의 콘텐츠 전략 완전 가이드](https://haloxlabs.ai/ko/blog/what-is-geo-optimization), [GEO 콘텐츠 구조화 가이드](https://haloxlabs.ai/ko/blog/geo-content-structure)와 함께 보면 좋습니다.
 
+엔티티 신호는 내부 페이지와 외부 출처가 서로 모순 없이 연결될 때 강해집니다. 기본적인 링크 발견성과 연결 구조는 Google의 [크롤 가능한 링크 가이드](https://developers.google.com/search/docs/crawling-indexing/links-crawlable)를 참고합니다.
+
 ## 흔한 질문
 
 **Q. Entity 전략은 브랜드 소개문만 고치면 되나요?**

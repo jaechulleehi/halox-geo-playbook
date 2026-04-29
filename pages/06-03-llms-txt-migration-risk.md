@@ -79,6 +79,8 @@ GEO 지식 베이스를 개편하는 사례에서는 글로서리와 블로그 U
 
 이 실습은 HaloX의 [llms.txt 완전 가이드](https://haloxlabs.ai/ko/blog/llms-txt-setup-guide), [사이트 이전 SEO 체크리스트](https://haloxlabs.ai/ko/blog/website-migration-seo-checklist)를 함께 보면 좋습니다.
 
+llms.txt만으로 크롤링/색인 문제가 해결되지는 않습니다. 사이트 이전과 접근성 점검은 Google의 [robots.txt 소개](https://developers.google.com/search/docs/crawling-indexing/robots/intro)와 [sitemap 개요](https://developers.google.com/search/docs/crawling-indexing/sitemaps/overview)를 함께 확인해야 합니다.
+
 ## 흔한 질문
 
 **Q. llms.txt만 만들면 AI가 우리 콘텐츠를 잘 읽나요?**

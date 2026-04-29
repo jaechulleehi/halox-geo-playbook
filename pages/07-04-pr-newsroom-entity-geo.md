@@ -67,6 +67,8 @@ PR/뉴스룸 GEO는 보도자료를 많이 내는 문제가 아닙니다. AI가 
 
 PR/뉴스룸 사례는 HaloX의 [AI에게 인용되는 콘텐츠 만드는 법](https://haloxlabs.ai/ko/blog/how-to-get-cited-by-ai), [AI 검색에서 GEO는 왜 평판 관리 문제가 되었을까?](https://haloxlabs.ai/ko/blog/geo-reputation-brand-consensus), [GEO 콘텐츠 구조화 가이드](https://haloxlabs.ai/ko/blog/geo-content-structure)를 함께 보면 좋습니다.
 
+뉴스룸/PR 자산은 기사와 조직 정보를 구조화하는 방식도 함께 봐야 합니다. Google의 [Article structured data](https://developers.google.com/search/docs/appearance/structured-data/article)를 참고하면 보도자료/뉴스룸 콘텐츠의 기본 구조를 점검할 수 있습니다.
+
 ## 다음 흐름
 
 PR/뉴스룸 구조를 이해했다면 [07-05. 금융/규제 산업 GEO는 무엇을 조심해야 하나](https://wikidocs.net/346389)로 넘어가 신뢰와 리스크가 강한 업종을 봅니다. 전체 사례 흐름은 [산업별 GEO 익명 케이스북](https://wikidocs.net/346381)에서 다시 확인할 수 있습니다.

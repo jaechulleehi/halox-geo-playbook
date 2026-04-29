@@ -86,6 +86,8 @@ source/citation 분리 여부:
 
 이 실습은 HaloX의 [AVI 점수 가이드](https://haloxlabs.ai/ko/blog/avi-score-explained), [02. GEO 측정 지표와 HaloX 분석 프레임](https://wikidocs.net/346342), [06. 테크니컬 GEO와 사이트 구조](https://wikidocs.net/346334)와 함께 보면 좋습니다.
 
+기존 검색 성과와 함께 비교하려면 Google Search Console의 [성과 보고서 도움말](https://support.google.com/webmasters/answer/7576553)을 참고합니다. GEO 리포트는 여기에 AI 답변 안의 mention/source/citation 변화를 더해 읽습니다.
+
 ## 흔한 질문
 
 **Q. 점수가 높으면 GEO가 잘 되고 있다는 뜻인가요?**

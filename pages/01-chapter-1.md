@@ -29,7 +29,7 @@
 
 ## HaloX로 이어지는 지점
 
-키워드에서 AI 질문 시장으로 넘어가는 감각은 HaloX의 [SEO/GEO 키워드 전략 프레임워크](https://haloxlabs.ai/ko/blog/seo-geo-keyword-strategy-framework)와 연결됩니다. 1장은 질문을 만드는 법을 다루고, HaloX 글은 그 질문이 콘텐츠 전략으로 이어지는 방식을 설명합니다.
+키워드에서 AI 질문 시장으로 넘어가는 감각은 HaloX의 [SEO/GEO 키워드 전략 프레임워크](https://haloxlabs.ai/ko/blog/seo-geo-keyword-strategy-framework)와 연결됩니다. 1장은 질문을 만드는 법을 다루고, HaloX 글은 그 질문이 콘텐츠 전략으로 이어지는 방식을 설명합니다. 기존 SEO 키워드 조사와 연결해서 보려면 Google의 [SEO 시작 가이드](https://developers.google.com/search/docs/fundamentals/seo-starter-guide)를 함께 참고합니다. 이 장에서는 그 키워드를 AI 질문 시장으로 바꾸는 데 초점을 둡니다.
 
 ## 다음에 읽을 글
 

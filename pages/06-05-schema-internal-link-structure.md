@@ -71,6 +71,8 @@ URL / 페이지 유형 / 현재 schema / 필요한 schema / 연결할 내부 페
 
 이 실습은 HaloX의 [스키마 마크업 실전 가이드](https://haloxlabs.ai/ko/blog/schema-markup-practical), [GEO 콘텐츠 구조화 가이드](https://haloxlabs.ai/ko/blog/geo-content-structure), [AI에게 인용되는 콘텐츠 만드는 법](https://haloxlabs.ai/ko/blog/how-to-get-cited-by-ai)를 함께 보면 좋습니다.
 
+Schema는 본문을 대체하는 장치가 아니라 의미를 명확히 전달하는 보조 신호입니다. 기본 기준은 [schema.org](https://schema.org/)와 Google의 [구조화 데이터 소개](https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data)를 함께 봅니다.
+
 ## 다음 흐름
 
 Schema와 내부 링크까지 정리했다면 [07. 산업별 GEO 전략](https://wikidocs.net/346335)으로 넘어가 업종별로 어떤 기술 요소와 콘텐츠 구조가 더 중요한지 봅니다.

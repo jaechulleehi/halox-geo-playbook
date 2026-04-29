@@ -28,7 +28,7 @@
 
 ## HaloX로 이어지는 지점
 
-글로벌 GEO는 출처와 브랜드 합의 신호가 중요합니다. HaloX의 [GEO 평판/브랜드 합의 신호](https://haloxlabs.ai/ko/blog/geo-reputation-brand-consensus)를 함께 보면 영문 source map을 왜 따로 만들어야 하는지 이해하기 쉽습니다.
+글로벌 GEO는 출처와 브랜드 합의 신호가 중요합니다. HaloX의 [GEO 평판/브랜드 합의 신호](https://haloxlabs.ai/ko/blog/geo-reputation-brand-consensus)를 함께 보면 영문 source map을 왜 따로 만들어야 하는지 이해하기 쉽습니다. 글로벌 페이지는 단순 번역보다 대상 시장과 언어 신호가 중요합니다. Google의 [다국어/다지역 사이트 가이드](https://developers.google.com/search/docs/specialty/international/localized-versions)를 함께 보면 hreflang과 locale 점검 기준을 잡기 쉽습니다.
 
 ## 다음 흐름
 

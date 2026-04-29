@@ -70,6 +70,8 @@ robots.txt를 열어두었다고 끝나는 문제가 아닙니다. 핵심 URL이
 
 이 실습은 HaloX의 [온페이지 SEO 체크리스트](https://haloxlabs.ai/ko/blog/on-page-seo-checklist-2026), [llms.txt 완전 가이드](https://haloxlabs.ai/ko/blog/llms-txt-setup-guide)를 함께 보면 좋습니다.
 
+점검 기준은 Google의 [robots.txt 소개](https://developers.google.com/search/docs/crawling-indexing/robots/intro), [sitemap 개요](https://developers.google.com/search/docs/crawling-indexing/sitemaps/overview), [크롤 가능한 링크 가이드](https://developers.google.com/search/docs/crawling-indexing/links-crawlable)를 함께 참고합니다.
+
 ## 다음 흐름
 
 AI crawler 접근성을 점검했다면 다음은 [06-05. Schema와 내부 링크는 AI 이해를 어떻게 돕나](https://wikidocs.net/346394)에서 페이지 의미와 관계를 더 분명하게 만드는 단계입니다.

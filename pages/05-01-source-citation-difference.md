@@ -86,6 +86,8 @@ Source/Citation 차이는 HaloX의 기능 설명과 바로 연결됩니다.
 
 이 실습은 HaloX의 [AVI 점수 가이드](https://haloxlabs.ai/ko/blog/avi-score-explained)와 [AI에게 인용되는 콘텐츠 만드는 법](https://haloxlabs.ai/ko/blog/how-to-get-cited-by-ai)를 함께 보면 좋습니다. 캠페인 URL 사례는 [07-06. 캠페인 URL 인용 추적은 어떻게 설계할까](https://wikidocs.net/346390)와 연결해 읽습니다.
 
+Source와 citation을 분리해 보려면 링크가 실제로 crawler에게 발견 가능한지도 확인해야 합니다. Google의 [크롤 가능한 링크 가이드](https://developers.google.com/search/docs/crawling-indexing/links-crawlable)를 함께 보면 citation 후보 페이지의 기본 접근성을 점검할 수 있습니다.
+
 ## 흔한 질문
 
 **Q. Citation이 없으면 source로도 쓰이지 않은 건가요?**

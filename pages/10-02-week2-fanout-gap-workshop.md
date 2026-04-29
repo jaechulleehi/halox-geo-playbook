@@ -85,6 +85,8 @@ Seed 질문 3~5개:
 
 이 실습은 [03-01. Fan-out 질문맵은 어떻게 만들까](https://wikidocs.net/346344), [03-03. 질문셋에서 콘텐츠 갭을 찾는 법](https://wikidocs.net/346346), HaloX의 [SEO/GEO 키워드 전략 프레임워크](https://haloxlabs.ai/ko/blog/seo-geo-keyword-strategy-framework)와 함께 보면 좋습니다.
 
+Fan-out 질문을 실제 콘텐츠 과제로 바꿀 때는 Google의 [유용한 콘텐츠 만들기](https://developers.google.com/search/docs/fundamentals/creating-helpful-content)를 보조 기준으로 둡니다. 질문 수를 늘리는 것보다 독자의 판단을 돕는 답변 재료를 찾는 것이 더 중요합니다.
+
 ## 흔한 질문
 
 **Q. Fan-out 질문은 AI에게 시켜도 되나요?**

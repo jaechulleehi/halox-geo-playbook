@@ -13,6 +13,12 @@
 | baseline 측정 | AI 답변에서 mention/source/citation을 기록한다 | baseline 표 |
 | 대표 질문 선정 | 2주차 Fan-out에 쓸 질문을 고른다 | 대표 질문 3개 |
 
+## 왜 1주차에 baseline을 먼저 잡나
+
+1주차는 좋은 점수를 만드는 시간이 아니라 현재 상태를 같은 기준으로 기록하는 시간입니다. 질문셋, 경쟁사, AI 답변, source/citation을 처음부터 같은 형식으로 남겨야 4주 뒤 변화가 보입니다.
+
+따라서 강의에서는 도구 사용법보다 “무엇을 같은 방식으로 반복 측정할 것인가”를 먼저 설명해야 합니다. 이 기준이 없으면 2~4주차 실습 결과도 개선인지 단순 변동인지 판단하기 어렵습니다.
+
 ## 90분 진행안
 
 | 시간 | 진행 | 강사 멘트의 초점 |
@@ -84,6 +90,8 @@ source/citation이 확인된 질문 수:
 ## 참고 링크 패키지
 
 이 실습은 [GEO란 무엇인가](https://wikidocs.net/346308), [01-05. 1주차 실습: 내 브랜드 GEO Baseline 진단](https://wikidocs.net/346341), [02. GEO 측정 지표와 HaloX 분석 프레임](https://wikidocs.net/346342), [HaloX 공식 사이트](https://haloxlabs.ai/)와 함께 보면 좋습니다.
+
+기존 검색 baseline과 함께 비교하려면 Google Search Console의 [성과 보고서 도움말](https://support.google.com/webmasters/answer/7576553)을 참고합니다. 1주차에서는 여기에 AI 답변의 mention/source/citation 기록을 덧붙입니다.
 
 ## 흔한 질문
 

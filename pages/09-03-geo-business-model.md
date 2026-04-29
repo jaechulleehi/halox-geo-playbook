@@ -87,6 +87,8 @@ GEO 사업화는 하나의 상품으로 시작하기보다 진단형, 전략형,
 
 이 실습은 [HaloX 공식 사이트](https://haloxlabs.ai/), [10. 4주 챌린지와 실행 리포트](https://wikidocs.net/346338), [90. 산업별 GEO 익명 케이스북](https://wikidocs.net/346381)과 함께 보면 좋습니다.
 
+사업화 모델을 만들 때도 결과물의 기본은 도움이 되는 콘텐츠와 검증 가능한 리포트입니다. Google의 [유용한 콘텐츠 만들기](https://developers.google.com/search/docs/fundamentals/creating-helpful-content)를 참고하면 상품 구성이 단순 산출물 나열에 머물지 않는지 점검할 수 있습니다.
+
 ## 흔한 질문
 
 **Q. GEO 사업은 컨설팅이 먼저인가요, SaaS가 먼저인가요?**
