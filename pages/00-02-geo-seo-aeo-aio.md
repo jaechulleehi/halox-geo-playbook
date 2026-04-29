@@ -18,6 +18,8 @@ HaloX의 [GEO vs SEO vs AEO 비교 글](https://haloxlabs.ai/ko/blog/geo-vs-seo-
 
 이 용어들을 구분하지 않으면 실행이 섞입니다. 예를 들어 schema를 넣는 일은 SEO와 AEO에도 중요하지만, GEO 성과를 보려면 그 schema가 실제 AI 답변의 근거 선택이나 브랜드 설명 품질에 어떤 영향을 주는지까지 봐야 합니다.
 
+SEO는 검색 결과에서 발견될 수 있는 기본 상태를 만들고, AEO는 질문에 직접 답할 수 있는 구조를 만들며, AIO는 Google AI Overviews 같은 AI 요약 영역의 노출을 봅니다. GEO는 여기에 ChatGPT/Perplexity/Gemini 같은 답변형 환경에서 브랜드가 어떻게 설명되고 비교되는지까지 포함합니다. AI Overviews 관련 구조화와 출처 이해는 Google의 [구조화 데이터 소개](https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data)를 함께 참고하면 좋습니다.
+
 ## 사례로 이해하기
 
 SEO, AEO, AIO, GEO를 같은 말처럼 쓰면 실행 과제가 섞입니다. 1주차에서는 용어별로 보는 화면과 지표를 먼저 분리해야 합니다.
@@ -40,7 +42,7 @@ SEO/AEO/AIO/GEO 비교표 / 우리 브랜드에 가장 급한 과제 / 혼동하
 
 ## 작성 예시
 
-아래 표는 “GEO/SEO/AEO/AIO 차이” 주제를 가상의 브랜드 상황에 적용한 예시입니다. 실제 작성 때는 자기 브랜드의 질문, 페이지, 출처 후보로 바꿔 적습니다.
+이 예시는 개념을 실제 운영 언어로 바꿔 보는 용도입니다. 그대로 베끼기보다 자기 브랜드의 질문, 페이지, 출처 후보로 바꿔 적습니다.
 
 | 입력 항목 | 작성 예시 |
 |---|---|

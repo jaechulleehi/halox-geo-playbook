@@ -16,6 +16,12 @@ HaloX의 [GEO 개념 가이드](https://haloxlabs.ai/ko/blog/what-is-geo-optimiz
 
 GEO를 “AI가 좋아하는 문체로 글쓰기”로만 보면 실행이 좁아집니다. GEO는 콘텐츠 구조뿐 아니라 질문 설계, 출처 설계, 테크니컬 접근성, 브랜드 평판, 산업별 검색 행동까지 함께 보는 운영 프레임입니다.
 
+## 검색 최적화의 연장선에서 보기
+
+GEO는 SEO를 대체하는 새 이름이 아닙니다. 검색 엔진이 문서를 발견하고 이해하고 평가하는 기본 구조 위에, AI 답변이 여러 출처를 요약하고 비교하는 단계가 더해진 것입니다. 그래서 먼저 검색의 기본 원리와 도움이 되는 콘텐츠 기준을 이해해야 합니다.
+
+기본기는 Google Search Central의 [SEO 시작 가이드](https://developers.google.com/search/docs/fundamentals/seo-starter-guide)와 [유용한 콘텐츠 만들기](https://developers.google.com/search/docs/fundamentals/creating-helpful-content)를 참고하면 됩니다. 이 책의 실습은 이 기본기를 AI 답변 환경의 mention/source/citation 관점으로 확장하는 방식입니다.
+
 ## 사례로 이해하기
 
 처음 GEO를 설명할 때는 “AI가 좋아하는 글쓰기”보다 “AI 답변에서 브랜드가 발견/비교/인용되는 구조를 만드는 일”이라고 말하는 편이 정확합니다.
@@ -38,7 +44,7 @@ GEO 한 문장 정의 / SEO와 다른 점 3개 / 우리 브랜드 대표 질문 
 
 ## 작성 예시
 
-아래 표는 “GEO란 무엇인가” 주제를 가상의 브랜드 상황에 적용한 예시입니다. 실제 작성 때는 자기 브랜드의 질문, 페이지, 출처 후보로 바꿔 적습니다.
+이 예시는 개념을 실제 운영 언어로 바꿔 보는 용도입니다. 그대로 베끼기보다 자기 브랜드의 질문, 페이지, 출처 후보로 바꿔 적습니다.
 
 | 입력 항목 | 작성 예시 |
 |---|---|
