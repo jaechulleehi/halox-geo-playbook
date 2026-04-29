@@ -64,4 +64,4 @@ NAP 정리가 끝나면 [05-02 Entity와 브랜드 합의 신호](https://wikido
 
 ## 다음 흐름
 
-다음 페이지에서는 NAP를 실제 지도와 플레이스 프로필에 어떻게 반영할지 봅니다.
+다음 페이지에서는 NAP를 [네이버 플레이스, Google Business Profile, 지도 SEO](https://wikidocs.net/346609)에 어떻게 반영할지 봅니다.

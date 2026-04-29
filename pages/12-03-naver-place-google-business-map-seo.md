@@ -83,8 +83,8 @@ Google의 [비즈니스 프로필 소개](https://support.google.com/business/an
 
 네이버 등록과 관리는 [네이버 스마트플레이스](https://smartplace.naver.com/)에서 시작합니다. Google 관리는 [Google Business Profile](https://support.google.com/business/answer/7091)을 확인합니다. Apple 지도 정보 관리는 [Apple Business Connect](https://businessconnect.apple.com/)에서 확인할 수 있습니다.
 
-지도 프로필을 정리한 뒤에는 12-02 NAP 점검에서 만든 표준값을 다시 대조하고, [05-03 오프사이트 출처 후보 맵](https://wikidocs.net/346352)과 연결해 외부 신호를 확장합니다. HaloX의 [블로그](https://haloxlabs.ai/ko/blog)는 GEO 콘텐츠와 측정 흐름을 더 볼 때 참고할 수 있습니다.
+지도 프로필을 정리한 뒤에는 [12-02 NAP 점검](https://wikidocs.net/346608)에서 만든 표준값을 다시 대조하고, [05-03 오프사이트 출처 후보 맵](https://wikidocs.net/346352)과 연결해 외부 신호를 확장합니다. HaloX의 [블로그](https://haloxlabs.ai/ko/blog)는 GEO 콘텐츠와 측정 흐름을 더 볼 때 참고할 수 있습니다.
 
 ## 다음 흐름
 
-다음 페이지에서는 리뷰, 네이버 영수증 리뷰, 지도 리뷰, 외부 후기, 협회/전문 플랫폼 신호를 나눠 봅니다.
+다음 페이지에서는 [리뷰, 네이버 영수증 리뷰, 지도 리뷰, 외부 후기](https://wikidocs.net/346610), 협회/전문 플랫폼 신호를 나눠 봅니다.
