@@ -87,6 +87,21 @@ URL / 페이지 유형 / 현재 schema / 필요한 schema / 연결할 내부 페
 
 Schema는 본문을 대체하는 장치가 아니라 의미를 명확히 전달하는 보조 신호입니다. 기본 기준은 [schema.org](https://schema.org/)와 Google의 [구조화 데이터 소개](https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data)를 함께 봅니다.
 
+## Schema/내부 링크 최종 점검표
+
+schema와 내부 링크는 별개 작업처럼 보이지만 GEO에서는 같은 목적을 가집니다. AI가 페이지의 의미와 관계를 안정적으로 이해하게 만드는 것입니다.
+
+| 점검 항목 | 좋은 상태 | 나쁜 상태 |
+|---|---|---|
+| Article/BlogPosting | 제목, 설명, 작성/수정일, 본문 주제가 일치 | 오래된 제목이나 다른 주제의 schema가 남아 있음 |
+| FAQPage | 본문에 실제 FAQ가 있고 schema와 일치 | schema에만 질문이 있고 본문에는 없음 |
+| Product | 가격/재고/리뷰가 본문/feed와 일치 | schema와 상세페이지 값이 다름 |
+| Breadcrumb | 허브/카테고리/하위 페이지 관계가 보임 | 현재 페이지 위치를 알기 어려움 |
+| 내부 링크 앵커 | 링크 문구가 다음 질문을 설명 | “여기”, “자세히” 같은 모호한 링크 반복 |
+| 허브 구조 | 대표 페이지가 하위 문서를 묶음 | 좋은 글이 서로 연결되지 않음 |
+
+완료 기준은 schema 테스트 통과만이 아닙니다. 본문, title, canonical, schema, 내부 링크가 모두 같은 의미를 가리켜야 합니다.
+
 ## 다음 흐름
 
 Schema와 내부 링크까지 정리했다면 [07. 산업별 GEO 전략](https://wikidocs.net/346335)으로 넘어가 업종별로 어떤 기술 요소와 콘텐츠 구조가 더 중요한지 봅니다.

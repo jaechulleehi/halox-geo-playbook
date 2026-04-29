@@ -70,6 +70,20 @@ AI가 HTML을 Markdown식 텍스트로 바꿔 읽는다고 생각하면, 기술 
 | 제품 설명 | HaloX 리포트의 원인을 기술 액션으로 연결 | citation 약한 URL의 기술 진단표 |
 | 책 | 혼자 따라 할 수 있는 사이트 점검 실습 노트 | robots/sitemap/schema/llms.txt 실습표 |
 
+## 개발팀에 넘기는 URL별 점검표
+
+테크니컬 GEO는 전체 사이트를 한 번에 고치는 일이 아닙니다. 02장에서 citation이 약하거나 04장에서 리라이트한 핵심 URL부터 점검합니다.
+
+| URL | 문제 유형 | 확인 방법 | 담당 | 완료 기준 |
+|---|---|---|---|---|
+| 핵심 가이드 URL | 초기 HTML에 본문 없음 | View source/렌더링 DOM 비교 | 개발 | 첫 답변과 H2가 HTML 텍스트로 확인됨 |
+| 비교표 페이지 | 표가 이미지로만 있음 | HTML table/리스트 구조 확인 | 콘텐츠/개발 | 기준/값/주의점이 텍스트로 읽힘 |
+| FAQ 페이지 | schema와 본문 불일치 | JSON-LD와 본문 대조 | 개발 | FAQ 본문과 schema 질문/답변 일치 |
+| 허브 페이지 | 내부 링크 약함 | href/anchor text 점검 | 콘텐츠 | 관련 하위 페이지가 발견 가능한 링크로 연결 |
+| 이전 URL | 구 URL이 남아 있음 | 301/canonical/sitemap 확인 | 개발 | 이전 URL이 새 URL로 안정적으로 연결 |
+
+이 표는 개발 티켓으로 그대로 옮길 수 있어야 합니다. “GEO 개선”처럼 넓게 요청하지 말고, URL/문제/완료 기준을 분리해야 실행됩니다.
+
 ## HaloX로 이어지는 지점
 
 기술 점검은 HaloX의 [llms.txt 설정 가이드](https://haloxlabs.ai/ko/blog/llms-txt-setup-guide), [schema 실무 가이드](https://haloxlabs.ai/ko/blog/schema-markup-practical)와 연결됩니다. 이 장의 체크리스트를 실행할 때 함께 참고하면 좋습니다. 테크니컬 GEO의 기본은 크롤러가 중요한 페이지를 발견하고 이해할 수 있게 만드는 것입니다. robots와 sitemap은 Google의 [robots.txt 소개](https://developers.google.com/search/docs/crawling-indexing/robots/intro), [sitemap 개요](https://developers.google.com/search/docs/crawling-indexing/sitemaps/overview)를 기준으로 함께 점검합니다.
