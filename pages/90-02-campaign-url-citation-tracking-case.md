@@ -67,3 +67,7 @@
 답변 근거와 화면 인용의 차이는 [05-01 답변 근거와 화면 인용](https://wikidocs.net/346350), 플랫폼별 측정은 [02-02 Perplexity SEO와 Google AI Overviews](https://wikidocs.net/346602), 캠페인 URL 설계는 [07-06 캠페인 URL 인용 추적](https://wikidocs.net/346390)과 연결됩니다.
 
 AI 검색 가시성을 점수와 리포트로 보고 싶다면 HaloX의 [AVI 점수 가이드](https://haloxlabs.ai/ko/blog/avi-score-explained)를 참고하면 좋습니다.
+
+## 케이스북 안에서 이어 읽기
+
+다른 산업 사례를 비교하려면 [90장 산업별 GEO 익명 케이스북](https://wikidocs.net/346381)으로 돌아가고, 뉴스룸을 엔티티 허브로 정리해야 한다면 [90-03 엔터프라이즈 뉴스룸](https://wikidocs.net/346620)으로 이어갑니다.

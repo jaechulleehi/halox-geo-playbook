@@ -58,3 +58,7 @@ AI가 `근처 추천`, `후기 좋은 곳`, `예약 가능한 곳` 같은 질문
 로컬 업종의 기본 구조는 [12장 병원/오프라인 매장 SEO/GEO 전략](https://wikidocs.net/346606), NAP는 [12-02 NAP 점검](https://wikidocs.net/346608), 지도 SEO는 [12-03 지도 SEO](https://wikidocs.net/346609), 표현 리스크는 [12-06 의료광고와 후기 리스크](https://wikidocs.net/346615)와 연결됩니다.
 
 HaloX의 [GEO 콘텐츠 구조화 가이드](https://haloxlabs.ai/ko/blog/geo-content-structure)는 지역 질문을 콘텐츠 구조로 바꿀 때 참고할 수 있습니다.
+
+## 케이스북 안에서 이어 읽기
+
+다른 산업 사례를 비교하려면 [90장 산업별 GEO 익명 케이스북](https://wikidocs.net/346381)으로 돌아가고, 규제 리스크가 큰 금융/전문 업종이라면 [90-05 금융/규제 산업](https://wikidocs.net/346622)으로 이어갑니다.

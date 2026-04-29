@@ -58,3 +58,7 @@
 규제 산업의 기본 판단은 [07-05 금융/규제 산업 GEO](https://wikidocs.net/346389), 평판 리스크는 [05-05 평판 리스크와 AI 답변 오해](https://wikidocs.net/346392), 리포트 운영은 [09-05 GEO 리포트 운영](https://wikidocs.net/346398)과 연결됩니다.
 
 기본 SEO 기준은 Google의 [SEO 시작 가이드](https://developers.google.com/search/docs/fundamentals/seo-starter-guide)를 함께 참고하면 좋습니다. GEO 관점의 평판 관리는 HaloX의 [GEO 평판 관리 글](https://haloxlabs.ai/ko/blog/geo-reputation-brand-consensus)도 참고할 수 있습니다.
+
+## 케이스북 안에서 이어 읽기
+
+다른 산업 사례를 비교하려면 [90장 산업별 GEO 익명 케이스북](https://wikidocs.net/346381)으로 돌아가고, 상품 데이터와 구매 에이전트 관점이 필요하면 [90-06 커머스/플랫폼](https://wikidocs.net/346623)으로 이어갑니다.

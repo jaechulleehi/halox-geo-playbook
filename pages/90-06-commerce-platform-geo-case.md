@@ -69,3 +69,7 @@
 커머스 심화는 [11장 커머스 GEO와 AI 구매 에이전트](https://wikidocs.net/346596), Product schema와 feed는 [11-03 Product schema와 merchant feed](https://wikidocs.net/346599), 기술 구조는 [06-05 Schema와 내부 링크](https://wikidocs.net/346394)를 함께 보면 좋습니다.
 
 상품 설명을 AI가 읽기 좋은 구조로 바꾸려면 HaloX의 [GEO 콘텐츠 구조화 가이드](https://haloxlabs.ai/ko/blog/geo-content-structure)를 참고할 수 있습니다.
+
+## 케이스북 안에서 이어 읽기
+
+다른 산업 사례를 비교하려면 [90장 산업별 GEO 익명 케이스북](https://wikidocs.net/346381)으로 돌아가고, 상품 데이터 자체를 더 깊게 보려면 [11장 커머스 GEO와 AI 구매 에이전트](https://wikidocs.net/346596)를 함께 읽습니다.
