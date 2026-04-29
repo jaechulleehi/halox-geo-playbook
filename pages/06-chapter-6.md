@@ -54,6 +54,10 @@
 | 제품 설명 | HaloX 리포트의 원인을 기술 액션으로 연결 | citation 약한 URL의 기술 진단표 |
 | 이북 | 혼자 따라 할 수 있는 사이트 점검 워크북 | robots/sitemap/schema/llms.txt 실습표 |
 
+## HaloX로 이어지는 지점
+
+기술 점검은 HaloX의 [llms.txt 설정 가이드](https://haloxlabs.ai/ko/blog/llms-txt-setup-guide), [schema 실무 가이드](https://haloxlabs.ai/ko/blog/schema-markup-practical)와 연결됩니다. 이 장의 체크리스트를 실행할 때 함께 참고하면 좋습니다.
+
 ## 다음 흐름
 
 이 장은 앞선 [05. Source/Citation/Entity와 오프사이트 전략](https://wikidocs.net/346333)의 흐름을 이어받습니다. 기술 점검까지 마치면 [07. 산업별 GEO 전략](https://wikidocs.net/346335)으로 넘어가 업종별로 어떤 기술 요소가 더 중요한지 봅니다.

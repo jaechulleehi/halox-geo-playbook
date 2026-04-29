@@ -26,6 +26,10 @@
 | 실무 | 현재 병목을 진단 | 콘텐츠 갭/출처 맵/기술 점검 |
 | 이북 | 혼자 따라 할 수 있는 워크북 | 표/템플릿/FAQ |
 
+## HaloX로 이어지는 지점
+
+글로벌 GEO는 출처와 브랜드 합의 신호가 중요합니다. HaloX의 [GEO 평판/브랜드 합의 신호](https://haloxlabs.ai/ko/blog/geo-reputation-brand-consensus)를 함께 보면 영문 source map을 왜 따로 만들어야 하는지 이해하기 쉽습니다.
+
 ## 다음 흐름
 
 이 장은 앞선 [07. 산업별 GEO 전략](https://wikidocs.net/346335)의 흐름을 이어받습니다. 세부 페이지를 읽은 뒤에는 다음 장으로 넘어가 전체 GEO 운영 흐름을 이어갑니다.
