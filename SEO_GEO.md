@@ -4,7 +4,10 @@
 
 - GEO
 - 생성형 엔진 최적화
+- GEO 최적화
+- GEO 검색 최적화
 - AI 검색 최적화
+- AI 검색 엔진 최적화
 - AI 검색 모니터링
 - AI 브랜드 모니터링
 - GEO 분석 지표
@@ -14,12 +17,16 @@
 - AI 검색 리포트
 - 브랜드 가시성 분석
 - GEO 대행사 검증
+- GEO 컨설팅
+- GEO 강의
 
 ## 확장 키워드
 
 - GEO vs SEO
 - AEO
 - AIO
+- LLMO
+- LLM SEO
 - AI Visibility Index
 - AVI 점수
 - mention/source/citation
@@ -32,6 +39,16 @@
 - 글로벌 GEO
 - 커머스 AIO
 - 로컬 GEO
+
+## 검색 의도별 묶음
+
+| 의도 | 대표 키워드 | 연결 페이지 |
+|---|---|---|
+| 개념 이해 | GEO 뜻, 생성형 엔진 최적화, GEO/SEO/AEO/AIO 차이, LLMO, LLM SEO | 00장/01장 |
+| 실행 방법 | GEO 최적화 방법, GEO 최적화 전략, AI 검색 엔진 최적화 | 03장/04장/05장/06장 |
+| 측정/도구 | AI 검색 모니터링, GEO 분석 지표, AVI 점수, mention/source/citation | 02장/09장 |
+| 구매/검토 | GEO 대행사, GEO 컨설팅, GEO 도구, GEO 리포트 | 09장/10장 |
+| 교육/워크숍 | GEO 강의, 4주 GEO 챌린지, GEO 실행 리포트 | 10장 |
 
 ## 타겟 프롬프트
 
