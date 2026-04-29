@@ -1,5 +1,7 @@
 ## GEO/SEO/AEO/AIO 차이
 
+![GEO SEO AEO AIO 차이를 비교하는 흐름](../assets/images/page-heroes/halox-geo-00-02-geo-seo-aeo-aio-hero.png)
+
 GEO, SEO, AEO, AIO는 모두 검색 최적화와 연결되지만 보는 대상이 다릅니다. SEO는 검색엔진 결과 페이지에서 노출과 클릭을 높이는 데 집중합니다. AEO는 질문에 대한 직접 답변이 선택되도록 구조를 정리합니다. AIO는 AI Overviews 같은 AI 요약 영역에서 노출되는 방식을 다룹니다. GEO는 이보다 넓게 AI 답변 환경 전반에서 브랜드가 언급/인용/추천/비교되는 흐름을 봅니다. 최근에는 LLMO, LLM SEO, AI 검색 엔진 최적화라는 표현도 함께 쓰이지만, 이 책에서는 실무자가 이해하기 쉬운 기준으로 GEO를 중심 용어로 사용합니다.
 
 HaloX의 [GEO vs SEO vs AEO 비교 글](https://haloxlabs.ai/ko/blog/geo-vs-seo-vs-aeo)을 함께 보면 개념 경계를 빠르게 잡을 수 있습니다.
