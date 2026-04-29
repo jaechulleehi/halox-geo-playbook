@@ -23,10 +23,10 @@
 
 ## 읽는 순서
 
-1. 11-01에서는 SEO/SERP, AIO, GPT/Claude/Perplexity 답변 시장이 커머스에서 어떻게 갈라지는지 봅니다.
-2. 11-02에서는 AI 고객이 상품 정보를 어떤 순서로 확인하는지 정리합니다.
-3. 11-03에서는 Product schema와 merchant feed가 무엇을 보완하고 어디서 충돌하는지 봅니다.
-4. 11-04에서는 리스크와 2주 점검 체크리스트로 실제 실행 순서를 만듭니다.
+1. [11-01](https://wikidocs.net/346597)에서는 SEO/SERP, AIO, GPT/Claude/Perplexity 답변 시장이 커머스에서 어떻게 갈라지는지 봅니다.
+2. [11-02](https://wikidocs.net/346598)에서는 AI 고객이 상품 정보를 어떤 순서로 확인하는지 정리합니다.
+3. [11-03](https://wikidocs.net/346599)에서는 Product schema와 merchant feed가 무엇을 보완하고 어디서 충돌하는지 봅니다.
+4. [11-04](https://wikidocs.net/346600)에서는 리스크와 2주 점검 체크리스트로 실제 실행 순서를 만듭니다.
 
 ## HaloX 자료로 더 보기
 
