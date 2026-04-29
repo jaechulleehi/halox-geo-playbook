@@ -87,10 +87,6 @@
 
 키워드 확장 예시는 HaloX의 [SEO/GEO 키워드 전략 프레임워크](https://haloxlabs.ai/ko/blog/seo-geo-keyword-strategy-framework)와 함께 보면 더 선명합니다. 이 페이지에서 질문 변환표를 만들고, HaloX 글에서 키워드와 질문 시장의 연결 방식을 보완합니다. Google의 [유용한 콘텐츠 만들기](https://developers.google.com/search/docs/fundamentals/creating-helpful-content)를 함께 보면 키워드를 질문으로 바꿀 때도 “검색량”보다 실제 독자 문제 해결이 우선이라는 기준을 잡을 수 있습니다.
 
-## 다음에 읽을 글
-
-다음은 [검색 의도와 AI 질문 의도의 차이](https://wikidocs.net/346339)입니다.
-
 ## 프롬프트 품질을 높이는 기준
 
 좋은 GEO 질문은 짧은 키워드보다 조건이 분명합니다. `GEO 도구`보다 `B2B SaaS 마케팅팀이 월간 리포트용으로 쓸 GEO 모니터링 도구를 추천해줘`가 더 좋은 측정 질문입니다.
@@ -104,3 +100,7 @@
 ## 다음 장으로 넘길 산출물
 
 이 페이지를 끝내면 질문 30개가 남아야 합니다. 이후 [02장 AI 검색 모니터링](https://wikidocs.net/346342)에서 이 질문을 그대로 사용해 기준선을 측정합니다.
+
+## 다음에 읽을 글
+
+다음은 [검색 의도와 AI 질문 의도의 차이](https://wikidocs.net/346339)입니다.
