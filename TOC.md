@@ -66,3 +66,5 @@
   - [10-04. 4주차: 실행 리포트와 30일 액션 플랜](pages/10-04-week4-report-action-plan.md)
 
 - [90. 산업별 GEO 익명 케이스북](pages/90-industry-geo-casebook.md)
+
+- [91. 부록: HaloX 기능 연결 맵](pages/91-halox-functional-mapping.md)
