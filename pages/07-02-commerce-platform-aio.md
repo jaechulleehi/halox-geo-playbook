@@ -31,7 +31,6 @@
 
 그래서 이 영역은 GEO와 AIO를 함께 봅니다. 콘텐츠 설명뿐 아니라 상품 데이터, Product schema, merchant feed, 리뷰 구조가 중요합니다. 상품 구조화는 Google의 [Product structured data](https://developers.google.com/search/docs/appearance/structured-data/product)와 [Merchant Center 제품 데이터 사양](https://support.google.com/merchants/answer/7052112)을 참고할 수 있습니다.
 
-
 ## 실습 워크시트
 
 | 입력 항목 | 작성 기준 |

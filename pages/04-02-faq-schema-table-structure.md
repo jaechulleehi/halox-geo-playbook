@@ -31,7 +31,6 @@ FAQ, 표, schema는 모두 구조화 장치지만 역할이 다릅니다. FAQ는
 
 무조건 많이 넣는다고 좋은 것은 아닙니다. 본문에 없는 내용을 schema로 넣거나, 비교가 필요 없는 내용을 표로 만들면 오히려 신뢰가 떨어집니다. 구조화는 장식이 아니라 답변 재료를 정리하는 방식이어야 합니다. 기본 개념은 [schema.org](https://schema.org/)와 Google의 [구조화 데이터 소개](https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data)를 참고합니다.
 
-
 ## 실습 워크시트
 
 | 입력 항목 | 작성 기준 |
