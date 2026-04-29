@@ -61,7 +61,7 @@ AI가 근처 업체나 전문가를 추천할 때는 지도, 리뷰, 지역명, 
 
 ## 참고 링크 패키지
 
-이 실습은 HaloX의 [GEO 콘텐츠 구조화 가이드](https://haloxlabs.ai/ko/blog/geo-content-structure)와 함께 보면 좋습니다. 함께 볼 링크를 하나만 고르지 말고, 내부 WikiDocs 흐름과 HaloX 심화 글을 같이 연결해 강의자료/워크시트의 참고 자료로 남깁니다.
+로컬/전문 서비스 페이지를 지역 질문에 맞게 다시 쓸 때는 HaloX의 [GEO 콘텐츠 구조화 가이드](https://haloxlabs.ai/ko/blog/geo-content-structure)를 참고합니다. 이 페이지에서는 지역/증상/선택 기준 질문을 만들고, HaloX 글에서는 그 질문에 답하는 콘텐츠 구조를 확인합니다.
 
 ## 체크리스트
 

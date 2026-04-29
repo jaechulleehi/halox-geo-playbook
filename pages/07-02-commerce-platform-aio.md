@@ -61,7 +61,7 @@
 
 ## 참고 링크 패키지
 
-이 실습은 HaloX의 [AI 검색이 선택하는 콘텐츠 구조](https://haloxlabs.ai/ko/blog/ai-preferred-content-structure)와 함께 보면 좋습니다. 함께 볼 링크를 하나만 고르지 말고, 내부 WikiDocs 흐름과 HaloX 심화 글을 같이 연결해 강의자료/워크시트의 참고 자료로 남깁니다.
+커머스와 플랫폼에서는 상품 정보가 AI가 읽을 수 있는 구조인지가 중요합니다. 정보 구조 예시는 HaloX의 [AI 검색이 선택하는 콘텐츠 구조](https://haloxlabs.ai/ko/blog/ai-preferred-content-structure)를 함께 보면서, 이 페이지의 AIO/GEO 체크 항목과 연결해 확인합니다.
 
 ## 체크리스트
 

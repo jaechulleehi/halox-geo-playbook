@@ -61,7 +61,7 @@
 
 ## 참고 링크 패키지
 
-이 실습은 HaloX의 [GEO 평판 관리와 브랜드 합의 신호](https://haloxlabs.ai/ko/blog/geo-reputation-brand-consensus)와 함께 보면 좋습니다. 함께 볼 링크를 하나만 고르지 말고, 내부 WikiDocs 흐름과 HaloX 심화 글을 같이 연결해 강의자료/워크시트의 참고 자료로 남깁니다.
+글로벌 source map은 단순 링크 목록이 아니라 여러 출처가 브랜드를 같은 방식으로 설명하는지 보는 작업입니다. 이 기준은 HaloX의 [GEO 평판 관리와 브랜드 합의 신호](https://haloxlabs.ai/ko/blog/geo-reputation-brand-consensus)를 함께 읽으면 더 선명해집니다.
 
 ## 체크리스트
 

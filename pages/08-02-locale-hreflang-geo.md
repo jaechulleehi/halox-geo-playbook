@@ -61,7 +61,7 @@
 
 ## 참고 링크 패키지
 
-이 실습은 HaloX의 [온페이지 SEO 체크리스트](https://haloxlabs.ai/ko/blog/on-page-seo-checklist-2026)와 함께 보면 좋습니다. 함께 볼 링크를 하나만 고르지 말고, 내부 WikiDocs 흐름과 HaloX 심화 글을 같이 연결해 강의자료/워크시트의 참고 자료로 남깁니다.
+locale/hreflang 문제는 GEO 이전에 기본 온페이지 신호가 흔들릴 때가 많습니다. 점검 순서가 필요하면 HaloX의 [온페이지 SEO 체크리스트](https://haloxlabs.ai/ko/blog/on-page-seo-checklist-2026)를 함께 보고, 이 페이지에서는 글로벌 AI 답변에서 언어/지역 신호가 어떻게 읽히는지 확인합니다.
 
 ## 체크리스트
 
