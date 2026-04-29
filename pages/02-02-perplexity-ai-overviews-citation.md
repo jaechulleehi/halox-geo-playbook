@@ -52,6 +52,53 @@ Google AI Overviews는 기존 SEO와 완전히 분리되지 않습니다. 검색
 
 이 표를 쓰면 Perplexity SEO와 Google AI Overviews 최적화를 한 문장으로 뭉개지 않고, 플랫폼별 실행 과제로 나눌 수 있습니다.
 
+## Perplexity 측정 템플릿
+
+Perplexity는 출처 링크가 답변 옆에 보이는 경우가 많기 때문에, 답변 문장보다 citation 목록을 먼저 기록합니다.
+
+```text
+측정일:
+질문 원문:
+질문 유형: 비교/검증/추천/리서치
+브랜드 mention: 있음/없음
+우리 URL citation: 있음/없음
+반복 citation 도메인:
+경쟁사 citation:
+답변에서 사용한 핵심 문장:
+우리 콘텐츠와 다른 설명:
+필요한 출처 자산:
+다음 액션:
+```
+
+## Google AI Overviews 측정 템플릿
+
+Google AI Overviews는 검색 결과와 함께 봐야 합니다. AI 요약에 포함됐는지, 기존 검색 결과에는 보이는지, 어떤 URL이 화면 인용으로 연결되는지를 같이 기록합니다.
+
+```text
+측정일:
+검색어/질문:
+지역/언어:
+AI Overviews 노출 여부: 있음/없음
+AI 요약에 포함된 주제:
+우리 브랜드 mention: 있음/없음
+우리 URL citation: 있음/없음
+일반 검색 순위:
+경쟁 URL citation:
+빠진 정보:
+보강할 페이지:
+다음 액션:
+```
+
+## 플랫폼별 실행 판단
+
+| 상황 | 해석 | 우선 액션 |
+|---|---|---|
+| Perplexity에서 경쟁사 citation만 반복 | 외부 출처와 비교 자산이 약함 | 제3자 리뷰/비교 글/가이드 자산 확보 |
+| Perplexity에서 우리 URL은 나오지만 설명이 약함 | source는 있으나 answer quality가 낮음 | 첫 문단, 표, FAQ, 핵심 메시지 정리 |
+| Google 일반 검색에는 보이지만 AI Overviews에는 빠짐 | 본문 답변성이나 구조화 신호가 약할 수 있음 | answer-first 문단, schema, FAQ 보강 |
+| AI Overviews에는 나오지만 우리 URL이 없음 | 주제는 맞지만 citation 경쟁에서 밀림 | 원문 명확성, 내부 링크, 최신성 점검 |
+| 두 플랫폼 모두에서 빠짐 | 카테고리/출처/권위 신호가 모두 약함 | 질문셋 재설계 후 콘텐츠/오프사이트 동시 보강 |
+
 ## 다음에 읽을 글
 
 플랫폼별 측정값을 리포트 지표로 정리하려면 [브랜드 언급률, 답변 근거, 화면 인용은 어떻게 나눠 읽나](02-03-mention-source-citation.md)를 읽습니다. 실행 리포트 구조가 필요하면 [AI 검색 리포트는 어떤 지표로 읽어야 하나](02-04-ai-search-report.md)로 이어갑니다.
