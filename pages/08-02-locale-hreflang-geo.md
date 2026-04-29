@@ -4,14 +4,14 @@
 
 단순 번역 페이지는 현지 질문에 답하지 못할 수 있습니다. 지역별 비교 대상, 규제, 표현 방식이 달라지기 때문입니다.
 
-## 실무에서 먼저 볼 것
+## Locale/hreflang에서 먼저 볼 것
 
 | 점검 항목 | 확인 질문 | 다음 액션 |
 |---|---|---|
 | 질문 | 이 페이지가 답하는 핵심 질문은 무엇인가? | 질문을 한 문장으로 다시 쓴다 |
 | 자산 | 이미 답할 콘텐츠나 페이지가 있는가? | 신규/리라이트/보강으로 나눈다 |
 | 출처 | AI가 참고할 근거가 충분한가? | 내부 근거와 외부 근거를 분리한다 |
-| 측정 | 어떤 지표로 변화를 볼 것인가? | mention/source/citation/co-mention 중 핵심 지표를 고른다 |
+| 측정 | 어떤 지표로 변화를 볼 것인가? | mention, 답변 근거(source), 화면 인용(citation), co-mention 중 핵심 지표를 고른다 |
 
 ## 실행 순서
 
@@ -29,7 +29,7 @@
 
 AI가 여러 언어와 국가의 페이지를 함께 읽을 때, 어떤 페이지가 어느 시장을 대상으로 하는지 헷갈리면 답변 품질이 흔들립니다. 같은 영어 페이지라도 미국, 싱가포르, 인도 시장의 질문 의도는 다를 수 있습니다.
 
-Locale과 hreflang은 검색 엔진과 crawler가 페이지의 대상 시장을 이해하도록 돕는 기본 신호입니다. Google의 [다국어/다지역 사이트 가이드](https://developers.google.com/search/docs/specialty/international/localized-versions)를 기준으로 점검하면 GEO에서도 출처 혼선을 줄일 수 있습니다.
+Locale과 hreflang은 검색 엔진과 크롤러가 페이지의 대상 시장을 이해하도록 돕는 기본 신호입니다. Google의 [다국어/다지역 사이트 가이드](https://developers.google.com/search/docs/specialty/international/localized-versions)를 기준으로 점검하면 GEO에서도 출처 혼선을 줄일 수 있습니다.
 
 ## 실습 워크시트
 
@@ -63,7 +63,7 @@ Locale과 hreflang은 검색 엔진과 crawler가 페이지의 대상 시장을 
 
 - “Locale/hreflang은 GEO에서 어떻게 봐야 하나”에 필요한 글로벌 자산과 기술 조건이 보입니다.
 - 국가/언어별 질문 의도와 출처 후보가 분리됩니다.
-- 다음 측정에 쓸 글로벌 source map 초안이 남습니다.
+- 다음 측정에 쓸 글로벌 답변 근거 맵 초안이 남습니다.
 
 ## 참고 링크 패키지
 
@@ -89,4 +89,4 @@ locale/hreflang 문제는 GEO 이전에 기본 온페이지 신호가 흔들릴 
 
 ## 다음 흐름
 
-이전: [08-01. 영문 카테고리 자산은 왜 먼저 필요한가](https://wikidocs.net/346359) / 다음: [08-03. 글로벌 source map을 만드는 법](https://wikidocs.net/346361)
+이전: [08-01. 영문 카테고리 자산은 왜 먼저 필요한가](https://wikidocs.net/346359) / 다음: [08-03. 글로벌 답변 근거 맵을 만드는 법](https://wikidocs.net/346361)

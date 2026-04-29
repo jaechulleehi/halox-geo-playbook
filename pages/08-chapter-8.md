@@ -4,17 +4,17 @@
 
 이 장은 `글로벌/영문 GEO 전략`를 하나의 큰 주제로만 설명하지 않고, 실무자가 바로 따라 할 수 있는 세부 페이지로 나눕니다. GEO는 개념을 아는 것보다 질문, 콘텐츠, 출처, 기술, 리포트가 어떻게 이어지는지 보는 것이 중요합니다.
 
-국내 사이트를 해외 질문 시장으로 확장하려면 언어, 지역, 출처 구조를 함께 봐야 합니다. 각 세부 페이지는 영문 자산과 locale/hreflang, 글로벌 source map을 순서대로 점검합니다.
+국내 사이트를 해외 질문 시장으로 확장하려면 언어, 지역, 출처 구조를 함께 봐야 합니다. 각 세부 페이지는 영문 자산과 locale/hreflang, 글로벌 답변 근거 맵을 순서대로 점검합니다.
 
 ## 글로벌 확장 패키지
 
-이 장의 세부 페이지는 `영문 카테고리 자산 → locale/hreflang → 글로벌 source map` 순서로 이어집니다. 번역보다 먼저 영어권 AI가 이해할 시장 언어와 출처 구조를 잡습니다.
+이 장의 세부 페이지는 `영문 카테고리 자산 → locale/hreflang → 글로벌 답변 근거 맵` 순서로 이어집니다. 번역보다 먼저 영어권 AI가 이해할 시장 언어와 출처 구조를 잡습니다.
 
 ## 이 장에서 다루는 세부 페이지
 
 - [08-01. 영문 카테고리 자산은 왜 먼저 필요한가](https://wikidocs.net/346359)
 - [08-02. Locale/hreflang은 GEO에서 어떻게 봐야 하나](https://wikidocs.net/346360)
-- [08-03. 글로벌 source map을 만드는 법](https://wikidocs.net/346361)
+- [08-03. 글로벌 답변 근거 맵을 만드는 법](https://wikidocs.net/346361)
 
 ## 읽는 순서
 
@@ -30,7 +30,7 @@
 
 ## HaloX로 이어지는 지점
 
-글로벌 GEO는 출처와 브랜드 합의 신호가 중요합니다. HaloX의 [GEO 평판/브랜드 합의 신호](https://haloxlabs.ai/ko/blog/geo-reputation-brand-consensus)를 함께 보면 영문 source map을 왜 따로 만들어야 하는지 이해하기 쉽습니다. 글로벌 페이지는 단순 번역보다 대상 시장과 언어 신호가 중요합니다. Google의 [다국어/다지역 사이트 가이드](https://developers.google.com/search/docs/specialty/international/localized-versions)를 함께 보면 hreflang과 locale 점검 기준을 잡기 쉽습니다.
+글로벌 GEO는 출처와 브랜드 합의 신호가 중요합니다. HaloX의 [GEO 평판/브랜드 합의 신호](https://haloxlabs.ai/ko/blog/geo-reputation-brand-consensus)를 함께 보면 영문 답변 근거 맵을 왜 따로 만들어야 하는지 이해하기 쉽습니다. 글로벌 페이지는 단순 번역보다 대상 시장과 언어 신호가 중요합니다. Google의 [다국어/다지역 사이트 가이드](https://developers.google.com/search/docs/specialty/international/localized-versions)를 함께 보면 hreflang과 locale 점검 기준을 잡기 쉽습니다.
 
 ## 다음 흐름
 

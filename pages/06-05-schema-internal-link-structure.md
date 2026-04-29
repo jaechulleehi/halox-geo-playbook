@@ -23,14 +23,14 @@ B2B SaaS 사례에서는 제품 페이지가 “무엇을 하는 도구인지”
 
 PR/뉴스룸 사례에서는 Organization/NewsArticle 구조와 팩트시트 링크가 중요합니다. 언론 기사만 많고 공식 회사 정보가 구조화되어 있지 않으면 entity 합의 신호가 약해집니다.
 
-## HaloX 기능으로 설명하는 법
+## HaloX로 확인할 수 있는 지점
 
 | 기능 흐름 | 설명 방식 |
 |---|---|
 | Content structure scoring | answer-first/FAQ/표/schema가 있는지 본다 |
 | Entity consistency | schema와 본문이 같은 브랜드 정의를 쓰는지 확인한다 |
 | Internal link gap | 질문별 핵심 페이지가 서로 연결되는지 본다 |
-| Citation improvement plan | schema/내부 링크 보강 후 citation 변화를 재측정한다 |
+| 화면 인용 개선 계획 | schema/내부 링크 보강 후 citation 변화를 재측정한다 |
 
 ## 실습 워크시트
 
@@ -56,7 +56,7 @@ URL / 페이지 유형 / 현재 schema / 필요한 schema / 연결할 내부 페
 | 페이지 유형 | GEO 분석 제품 페이지 |
 | 현재 schema | Organization만 있음 |
 | 필요한 schema | SoftwareApplication, FAQ, Breadcrumb |
-| 내부 링크 허브 | GEO 측정 지표, source/citation 설명, 산업별 사례, 가격/도입 문의 |
+| 내부 링크 허브 | GEO 측정 지표, 답변 근거(source)/화면 인용(citation) 설명, 산업별 사례, 가격/도입 문의 |
 | 불일치 | 본문은 GEO 분석 플랫폼, schema 설명은 SEO 도구로 남아 있음 |
 | 수정 액션 | schema description을 최신 브랜드 정의로 수정하고 FAQ 내부 링크 추가 |
 
