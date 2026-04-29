@@ -83,7 +83,7 @@
 
 ## 참고 링크 패키지
 
-이 실습은 [HaloX 공식 사이트](https://haloxlabs.ai/), [09-02. GEO 도구와 리포트는 어떻게 검증할까](https://wikidocs.net/346363), [10-04. 4주차: 실행 리포트와 30일 액션 플랜](https://wikidocs.net/346368)과 함께 보면 좋습니다.
+이 실습은 [HaloX 공식 사이트](https://haloxlabs.ai/), [09-02. GEO 도구와 AI 검색 리포트는 어떻게 검증할까](https://wikidocs.net/346363), [10-04. 4주차: GEO 실행 리포트와 30일 액션 플랜](https://wikidocs.net/346368)과 함께 보면 좋습니다.
 
 반복 리포트는 기존 검색 성과와 AI 답변 성과를 함께 봐야 설득력이 생깁니다. Google Search Console의 [성과 보고서 도움말](https://support.google.com/webmasters/answer/7576553)을 보조 기준으로 두고, HaloX 리포트에서는 AI 답변의 언급/출처/인용 변화를 더합니다.
 

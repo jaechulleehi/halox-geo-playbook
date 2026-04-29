@@ -73,7 +73,7 @@ PR/뉴스룸형 조직은 보도자료가 많아도 AI가 공식 뉴스룸보다
 
 ## 참고 링크 패키지
 
-이 실습은 [HaloX 블로그](https://haloxlabs.ai/ko/blog), [02. GEO 측정 지표: mention, 답변 근거, 화면 인용을 읽는 법](https://wikidocs.net/346342), [05-04. 채널별 답변 근거 전략표는 어떻게 만들까](https://wikidocs.net/346391)와 함께 보면 좋습니다.
+이 실습은 [HaloX 블로그](https://haloxlabs.ai/ko/blog), [02. AI 검색 모니터링: 브랜드 언급률, 답변 근거, 화면 인용 읽는 법](https://wikidocs.net/346342), [05-04. 채널별 답변 근거 전략표는 어떻게 만들까](https://wikidocs.net/346391)와 함께 보면 좋습니다.
 
 제안서의 콘텐츠 개선 항목은 Google의 [SEO 시작 가이드](https://developers.google.com/search/docs/fundamentals/seo-starter-guide)와 함께 보면 기본 SEO 과제와 GEO 과제를 구분하기 쉽습니다.
 
@@ -89,4 +89,4 @@ PR/뉴스룸형 조직은 보도자료가 많아도 AI가 공식 뉴스룸보다
 
 ## 다음 흐름
 
-이전: [09-03. GEO 실행 범위와 예산은 어떻게 정할까](https://wikidocs.net/346364) / 다음: [09-05. 월간 GEO 리포트는 어떻게 활용할까](https://wikidocs.net/346398)
+이전: [09-03. GEO 실행 범위와 예산은 어떻게 정할까](https://wikidocs.net/346364) / 다음: [09-05. 월간 GEO 리포트로 브랜드 가시성을 관리하는 법](https://wikidocs.net/346398)

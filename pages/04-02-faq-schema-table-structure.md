@@ -118,4 +118,4 @@ FAQ, 표, schema를 언제 써야 할지 감을 잡기 어렵다면 HaloX의 [AI
 
 ## 다음 흐름
 
-이전: [04-01. Answer-first 콘텐츠는 어떻게 쓰는가](https://wikidocs.net/346347) / 다음: [04-03. 기존 글을 GEO 콘텐츠로 리라이트하는 체크리스트](https://wikidocs.net/346349)
+이전: [04-01. AI가 인용하는 Answer-first 콘텐츠는 어떻게 쓰는가](https://wikidocs.net/346347) / 다음: [04-03. 기존 글을 GEO 콘텐츠로 리라이트하는 체크리스트](https://wikidocs.net/346349)

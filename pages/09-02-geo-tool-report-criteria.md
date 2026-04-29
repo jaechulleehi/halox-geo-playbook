@@ -84,7 +84,7 @@ AVI나 visibility 점수는 유용한 요약 지표가 될 수 있습니다. 하
 
 ## 참고 링크 패키지
 
-이 실습은 HaloX의 [AVI 점수 가이드](https://haloxlabs.ai/ko/blog/avi-score-explained), [02. GEO 측정 지표: mention, 답변 근거, 화면 인용을 읽는 법](https://wikidocs.net/346342), [06. 테크니컬 GEO와 사이트 구조](https://wikidocs.net/346334)와 함께 보면 좋습니다.
+이 실습은 HaloX의 [AVI 점수 가이드](https://haloxlabs.ai/ko/blog/avi-score-explained), [02. AI 검색 모니터링: 브랜드 언급률, 답변 근거, 화면 인용 읽는 법](https://wikidocs.net/346342), [06. 테크니컬 GEO와 사이트 구조](https://wikidocs.net/346334)와 함께 보면 좋습니다.
 
 기존 검색 성과와 함께 비교하려면 Google Search Console의 [성과 보고서 도움말](https://support.google.com/webmasters/answer/7576553)을 참고합니다. GEO 리포트는 여기에 AI 답변 안의 mention, 답변 근거(source), 화면 인용(citation) 변화를 더해 읽습니다.
 
@@ -100,4 +100,4 @@ AVI나 visibility 점수는 유용한 요약 지표가 될 수 있습니다. 하
 
 ## 다음 흐름
 
-이전: [09-01. GEO 파트너는 무엇을 증명해야 하나](https://wikidocs.net/346362) / 다음: [09-03. GEO 실행 범위와 예산은 어떻게 정할까](https://wikidocs.net/346364)
+이전: [09-01. GEO 대행사와 컨설팅은 무엇을 증명해야 하나](https://wikidocs.net/346362) / 다음: [09-03. GEO 실행 범위와 예산은 어떻게 정할까](https://wikidocs.net/346364)

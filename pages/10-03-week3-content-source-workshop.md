@@ -85,7 +85,7 @@
 
 ## 참고 링크 패키지
 
-이 실습은 [04-01. Answer-first 콘텐츠는 어떻게 쓰는가](https://wikidocs.net/346347), [05-01. 답변 근거(source)와 화면 인용(citation)은 무엇이 다른가](https://wikidocs.net/346350), HaloX의 [AI에게 인용되는 콘텐츠 가이드](https://haloxlabs.ai/ko/blog/how-to-get-cited-by-ai)와 함께 보면 좋습니다.
+이 실습은 [04-01. AI가 인용하는 Answer-first 콘텐츠는 어떻게 쓰는가](https://wikidocs.net/346347), [05-01. 답변 근거(source)와 화면 인용(citation)은 무엇이 다른가](https://wikidocs.net/346350), HaloX의 [AI에게 인용되는 콘텐츠 가이드](https://haloxlabs.ai/ko/blog/how-to-get-cited-by-ai)와 함께 보면 좋습니다.
 
 콘텐츠 리라이트와 출처 설계는 크롤러가 링크를 발견할 수 있을 때 더 의미가 있습니다. 답변 근거 후보 페이지를 점검할 때는 Google의 [크롤 가능한 링크 가이드](https://developers.google.com/search/docs/crawling-indexing/links-crawlable)를 함께 참고합니다.
 
@@ -101,4 +101,4 @@
 
 ## 다음 흐름
 
-이전: [10-02. 2주차: Fan-out 질문맵과 콘텐츠 갭](https://wikidocs.net/346366) / 다음: [10-04. 4주차: 실행 리포트와 30일 액션 플랜](https://wikidocs.net/346368)
+이전: [10-02. 2주차: Fan-out 질문맵과 콘텐츠 갭](https://wikidocs.net/346366) / 다음: [10-04. 4주차: GEO 실행 리포트와 30일 액션 플랜](https://wikidocs.net/346368)

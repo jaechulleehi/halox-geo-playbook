@@ -23,7 +23,7 @@
 
 | 단계 | 할 일 | 확인할 것 |
 |---|---|---|
-| 1 | GEO/SEO/AEO/AIO 차이 복습 | 이번 단계에서는 개념보다 기준선을 남깁니다. |
+| 1 | GEO/SEO/AEO/AIO/LLMO 차이 복습 | 이번 단계에서는 개념보다 기준선을 남깁니다. |
 | 2 | 키워드에서 질문으로 바꾸는 예시 | 검색어를 AI에게 묻는 문장으로 바꾸기 |
 | 3 | 질문 30개 작성 | 구매/비교/문제해결/브랜드 질문 분리 |
 | 4 | AI 답변 기준선 기록 | mention, 답변 근거(source), 화면 인용(citation), 경쟁사 체크 |
@@ -89,7 +89,7 @@ AI 질문 30개:
 
 ## 참고 링크 패키지
 
-이 실습은 [GEO란 무엇인가](https://wikidocs.net/346308), [01-05. 1주차 실습: 내 브랜드 GEO 기준선 진단](https://wikidocs.net/346341), [02. GEO 측정 지표: mention, 답변 근거, 화면 인용을 읽는 법](https://wikidocs.net/346342), [HaloX 공식 사이트](https://haloxlabs.ai/)와 함께 보면 좋습니다.
+이 실습은 [GEO란 무엇인가](https://wikidocs.net/346308), [01-05. 1주차 실습: 내 브랜드 GEO 기준선 진단](https://wikidocs.net/346341), [02. AI 검색 모니터링: 브랜드 언급률, 답변 근거, 화면 인용 읽는 법](https://wikidocs.net/346342), [HaloX 공식 사이트](https://haloxlabs.ai/)와 함께 보면 좋습니다.
 
 기존 검색 기준선과 함께 비교하려면 Google Search Console의 [성과 보고서 도움말](https://support.google.com/webmasters/answer/7576553)을 참고합니다. 1주차에서는 여기에 AI 답변의 mention, 답변 근거(source), 화면 인용(citation) 기록을 덧붙입니다.
 

@@ -64,4 +64,4 @@ GEO 한 문장 정의 / SEO와 다른 점 3개 / 우리 브랜드 대표 질문 
 
 ## 다음에 읽을 글
 
-다음은 [GEO/SEO/AEO/AIO 차이](https://wikidocs.net/346309)입니다.
+다음은 [GEO/SEO/AEO/AIO/LLMO 차이](https://wikidocs.net/346309)입니다.
