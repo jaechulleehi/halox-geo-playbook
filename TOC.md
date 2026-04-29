@@ -75,6 +75,13 @@
   - [11-03. Product schema와 merchant feed 점검법](pages/11-03-product-schema-merchant-feed.md)
   - [11-04. 커머스 GEO 리스크와 2주 점검 체크리스트](pages/11-04-commerce-geo-risk-checklist.md)
 
+- [12. 병원/오프라인 매장 SEO/GEO 전략](pages/12-chapter-12.md)
+  - [12-01. 로컬 SEO와 로컬 GEO는 무엇이 다른가](pages/12-01-local-seo-local-geo-difference.md)
+  - [12-02. NAP: 이름/주소/전화번호 일관성 점검](pages/12-02-nap-name-address-phone-checklist.md)
+  - [12-03. 네이버 플레이스, Google Business Profile, 지도 SEO](pages/12-03-naver-place-google-business-map-seo.md)
+  - [12-04. 리뷰 전략: 네이버 영수증 리뷰, 지도 리뷰, 외부 후기](pages/12-04-review-offline-authority-strategy.md)
+  - [12-05. 병원/오프라인 매장 GEO 질문셋과 방문 전환 체크리스트](pages/12-05-local-question-set-conversion-checklist.md)
+
 - [90. 산업별 GEO 익명 케이스북](pages/90-industry-geo-casebook.md)
 
 - [91. 부록: HaloX 브랜드 가시성 분석 연결 맵](pages/91-halox-functional-mapping.md)
