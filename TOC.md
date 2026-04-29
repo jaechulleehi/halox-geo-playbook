@@ -56,12 +56,12 @@
   - [08-02. Locale/hreflang은 GEO에서 어떻게 봐야 하나](pages/08-02-locale-hreflang-geo.md)
   - [08-03. 글로벌 답변 근거 맵을 만드는 법](pages/08-03-global-source-map.md)
 
-- [09. GEO 도구/대행사/컨설팅 검증: AI 검색 리포트 읽는 법](pages/09-chapter-9.md)
-  - [09-01. GEO 대행사와 컨설팅은 무엇을 증명해야 하나](pages/09-01-geo-agency-checklist.md)
-  - [09-02. GEO 도구와 AI 검색 리포트는 어떻게 검증할까](pages/09-02-geo-tool-report-criteria.md)
-  - [09-03. GEO 실행 범위와 예산은 어떻게 정할까](pages/09-03-geo-business-model.md)
-  - [09-04. GEO 제안서는 어떻게 읽고 비교할까](pages/09-04-geo-proposal-structure.md)
-  - [09-05. 월간 GEO 리포트로 브랜드 가시성을 관리하는 법](pages/09-05-recurring-geo-report-product.md)
+- [09. GEO 대행사/컨설팅/도구 검증: AI 검색 리포트 읽는 법](pages/09-chapter-9.md)
+  - [09-01. GEO 대행사/컨설팅 선택 기준: 무엇을 증명해야 하나](pages/09-01-geo-agency-checklist.md)
+  - [09-02. GEO 도구 비교: AI 검색 리포트는 어떻게 검증할까](pages/09-02-geo-tool-report-criteria.md)
+  - [09-03. GEO 컨설팅 비용과 실행 범위는 어떻게 정할까](pages/09-03-geo-business-model.md)
+  - [09-04. GEO 제안서 비교: 과장된 약속은 어떻게 걸러낼까](pages/09-04-geo-proposal-structure.md)
+  - [09-05. GEO 리포트 운영: 브랜드 가시성을 매달 관리하는 법](pages/09-05-recurring-geo-report-product.md)
 
 - [10. 4주 실행 로드맵과 GEO 리포트](pages/10-chapter-10.md)
   - [10-01. 1주차: GEO 기준선 진단](pages/10-01-week1-baseline-workshop.md)
