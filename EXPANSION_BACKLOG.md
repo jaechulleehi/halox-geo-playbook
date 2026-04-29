@@ -123,13 +123,13 @@
 
 ### 11장 후보. 커머스 GEO와 AI 구매 에이전트
 
-- [ ] 11장 신설 후보: 커머스 GEO와 AI 구매 에이전트
-- [ ] 11-01 후보: SEO/SERP/AIO/GPT가 커머스에서 갈라지는 지점
-- [ ] 11-02 후보: AI 고객을 위한 상품 정보 구조. 상품명/가격/재고/옵션/배송/환불/리뷰/정책 데이터
-- [ ] 11-03 후보: Product schema와 merchant feed는 무엇을 보완하나
-- [ ] 11-04 후보: AI 구매 에이전트 시대의 리스크와 체크리스트
-- [ ] 07-02는 커머스 심화 장으로 연결하는 브리지 페이지로 유지
-- [ ] HaloX 연결: `ai-customer-product-info-structure`, `agentic-commerce-geo`, `schema-markup-practical`, `geo-vs-seo-vs-aeo`
+- [x] 11장 신설: 커머스 GEO와 AI 구매 에이전트
+- [x] 11-01: SEO/SERP/AIO/GPT가 커머스에서 갈라지는 지점
+- [x] 11-02: AI 고객을 위한 상품 정보 구조. 상품명/가격/재고/옵션/배송/환불/리뷰/정책 데이터
+- [x] 11-03: Product schema와 merchant feed는 무엇을 보완하나
+- [x] 11-04: AI 구매 에이전트 시대의 리스크와 체크리스트
+- [x] 07-02는 커머스 심화 장으로 연결하는 브리지 페이지로 유지
+- [x] HaloX 연결: `ai-customer-product-info-structure`, `agentic-commerce-geo`, `schema-markup-practical`, `geo-vs-seo-vs-aeo`
 
 ## 부록 후보
 

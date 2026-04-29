@@ -65,6 +65,12 @@
   - [10-03. 3주차: 콘텐츠 리라이트와 출처 설계](pages/10-03-week3-content-source-workshop.md)
   - [10-04. 4주차: GEO 실행 리포트와 30일 액션 플랜](pages/10-04-week4-report-action-plan.md)
 
+- [11. 커머스 GEO와 AI 구매 에이전트](pages/11-chapter-11.md)
+  - [11-01. AI 구매 에이전트 시대의 커머스 검색 변화](pages/11-01-agentic-commerce-search-shift.md)
+  - [11-02. AI 고객을 위한 상품 정보 구조화](pages/11-02-ai-customer-product-data.md)
+  - [11-03. Product schema와 merchant feed 점검법](pages/11-03-product-schema-merchant-feed.md)
+  - [11-04. 커머스 GEO 리스크와 2주 점검 체크리스트](pages/11-04-commerce-geo-risk-checklist.md)
+
 - [90. 산업별 GEO 익명 케이스북](pages/90-industry-geo-casebook.md)
 
 - [91. 부록: HaloX 브랜드 가시성 분석 연결 맵](pages/91-halox-functional-mapping.md)
