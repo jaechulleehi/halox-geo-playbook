@@ -29,7 +29,7 @@
 
 커머스와 플랫폼에서는 AI가 상품을 이해해야 추천이 가능합니다. 블로그 글만 좋아도 상품명, 가격, 옵션, 재고, 배송, 리뷰, 반품 정책이 읽히지 않으면 추천 답변에 들어가기 어렵습니다.
 
-그래서 이 영역은 GEO와 AIO를 함께 봅니다. 콘텐츠 설명뿐 아니라 상품 데이터, Product schema, merchant feed, 리뷰 구조가 중요합니다. 상품 구조화는 Google의 [Product structured data](https://developers.google.com/search/docs/appearance/structured-data/product)와 [Merchant Center 제품 데이터 사양](https://support.google.com/merchants/answer/7052112)을 참고할 수 있습니다.
+그래서 이 영역은 GEO와 AIO를 함께 봅니다. 콘텐츠 설명뿐 아니라 상품 데이터, Product schema, merchant feed, 리뷰 구조가 중요합니다. 실행 구조화는 Google의 [Product structured data](https://developers.google.com/search/docs/appearance/structured-data/product)와 [Merchant Center 제품 데이터 사양](https://support.google.com/merchants/answer/7052112)을 참고할 수 있습니다.
 
 ## 실습 워크시트
 
