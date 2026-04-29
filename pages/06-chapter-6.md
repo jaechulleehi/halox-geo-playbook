@@ -1,5 +1,7 @@
 ## 테크니컬 GEO와 사이트 구조
 
+![테크니컬 GEO와 사이트 구조](../assets/images/chapter-heroes/halox-geo-technical-geo-hero-1600x900.png)
+
 테크니컬 GEO는 AI가 콘텐츠를 발견하고, 읽고, 해석하고, 다시 인용할 수 있게 만드는 사이트의 기본 구조입니다. 좋은 글을 많이 써도 AI crawler가 접근하지 못하거나 핵심 본문이 렌더링 뒤에만 보이면 source/citation 성과를 안정적으로 만들기 어렵습니다.
 
 이 장은 마케팅팀과 개발팀이 같은 체크리스트를 보고 이야기할 수 있도록 구성합니다. `robots.txt`, `sitemap.xml`, canonical, 응답 코드, CSR/SSR, schema, 내부 링크, llms.txt, 사이트 이전 리스크를 각각 따로 보되, 최종 판단은 “AI 답변에 쓸 수 있는 근거가 안정적으로 노출되는가”로 모읍니다.
@@ -45,14 +47,14 @@
 
 이 흐름은 [02. GEO 측정 지표와 HaloX 분석 프레임](https://wikidocs.net/346342), [05. Source/Citation/Entity와 오프사이트 전략](https://wikidocs.net/346333), [10-04. 4주차: 실행 리포트와 30일 액션 플랜](https://wikidocs.net/346368)과 연결됩니다.
 
-## 강의와 실무에서의 역할
+## 학습과 실무에서의 역할
 
 | 사용 장면 | 이 장의 역할 | 산출물 |
 |---|---|---|
-| 강의 | 4주차 기술 점검 실습 | 테크니컬 GEO 체크리스트 |
+| 실무 적용 | 사이트 기술 점검 실습 | 테크니컬 GEO 체크리스트 |
 | 실무 | 개발팀에 넘길 수정 요청 정리 | URL별 이슈/담당/완료 기준 |
 | 제품 설명 | HaloX 리포트의 원인을 기술 액션으로 연결 | citation 약한 URL의 기술 진단표 |
-| 이북 | 혼자 따라 할 수 있는 사이트 점검 워크북 | robots/sitemap/schema/llms.txt 실습표 |
+| 책 | 혼자 따라 할 수 있는 사이트 점검 실습 노트 | robots/sitemap/schema/llms.txt 실습표 |
 
 ## HaloX로 이어지는 지점
 
