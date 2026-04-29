@@ -1,4 +1,4 @@
-## AI 크롤러 접근성과 robots/sitemap은 어떻게 점검할까
+## AI 크롤러 접근성과 robots/sitemap 점검법
 
 AI 크롤러 접근성 점검은 우리 사이트가 중요한 콘텐츠를 AI와 검색 시스템에 읽히도록 허용하고 있는지 확인하는 작업입니다. robots.txt, sitemap.xml, HTTP 응답 코드, 내부 링크가 함께 맞아야 합니다.
 

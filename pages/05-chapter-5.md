@@ -1,4 +1,4 @@
-## 답변 근거/화면 인용/Entity와 오프사이트 전략
+## 답변 근거/source, 화면 인용/citation, 엔터티 전략
 
 ![Source Citation Entity와 오프사이트 전략](../assets/images/chapter-heroes/halox-geo-source-citation-entity-hero-1600x900.png)
 

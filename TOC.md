@@ -1,32 +1,32 @@
 # 목차
 
 - [00. GEO를 처음 이해하는 사람을 위한 시작](pages/00-chapter-0.md)
-  - [00-01. GEO란 무엇인가](pages/00-01-what-is-geo.md)
-  - [00-02. GEO/SEO/AEO/AIO 차이](pages/00-02-geo-seo-aeo-aio.md)
+  - [00-01. GEO 뜻: 생성형 엔진 최적화란 무엇인가](pages/00-01-what-is-geo.md)
+  - [00-02. GEO/SEO/AEO/AIO/LLMO 차이](pages/00-02-geo-seo-aeo-aio.md)
   - [00-03. AI 검색은 기존 검색과 무엇이 다른가](pages/00-03-ai-search-difference.md)
   - [00-04. 이 책을 읽고 실무에 적용하는 법](pages/00-04-how-to-use-this-book.md)
 
-- [01. SEO에서 AI 질문 시장으로](pages/01-chapter-1.md)
+- [01. SEO 키워드를 AI 검색 질문으로 바꾸는 법](pages/01-chapter-1.md)
   - [01-01. SEO 키워드는 왜 여전히 중요한가](pages/01-01-seo-keywords-still-matter.md)
-  - [01-02. 키워드를 질문/프롬프트로 바꾸는 법](pages/01-02-keyword-to-prompt.md)
+  - [01-02. SEO 키워드를 질문/프롬프트로 바꾸는 법](pages/01-02-keyword-to-prompt.md)
   - [01-03. 검색 의도와 AI 질문 의도의 차이](pages/01-03-search-intent-ai-question.md)
   - [01-04. 질문셋 구성 비중이 중요한 이유](pages/01-04-question-set-portion.md)
   - [01-05. 1주차 실습: 내 브랜드 GEO 기준선 진단](pages/01-05-week1-baseline-diagnosis.md)
 
-- [02. GEO 측정 지표: mention, 답변 근거, 화면 인용을 읽는 법](pages/02-chapter-2.md)
+- [02. AI 검색 모니터링: 브랜드 언급률, 답변 근거, 화면 인용 읽는 법](pages/02-chapter-2.md)
 
-- [03. Fan-out과 질문 확장](pages/03-chapter-3.md)
-  - [03-01. Fan-out 질문맵은 어떻게 만들까](pages/03-01-fan-out-question-map.md)
+- [03. Fan-out 질문 확장과 AI 질문셋](pages/03-chapter-3.md)
+  - [03-01. Fan-out 질문맵으로 AI 질문셋 만드는 법](pages/03-01-fan-out-question-map.md)
   - [03-02. 질문 유형 포트폴리오를 어떻게 나눌까](pages/03-02-question-type-portfolio.md)
   - [03-03. 질문셋에서 콘텐츠 갭을 찾는 법](pages/03-03-content-gap-from-questions.md)
 
 - [04. AI가 읽기 좋은 콘텐츠 구조: HTML에서 답변 재료까지](pages/04-chapter-4.md)
-  - [04-01. Answer-first 콘텐츠는 어떻게 쓰는가](pages/04-01-answer-first-content.md)
+  - [04-01. AI가 인용하는 Answer-first 콘텐츠는 어떻게 쓰는가](pages/04-01-answer-first-content.md)
   - [04-02. FAQ/표/schema는 언제 쓰는가](pages/04-02-faq-schema-table-structure.md)
   - [04-03. 기존 글을 GEO 콘텐츠로 리라이트하는 체크리스트](pages/04-03-geo-content-rewrite-checklist.md)
 
-- [05. 답변 근거/화면 인용/엔터티와 오프사이트 전략](pages/05-chapter-5.md)
-  - [05-01. 답변 근거와 화면 인용은 무엇이 다른가](pages/05-01-source-citation-difference.md)
+- [05. 답변 근거/source, 화면 인용/citation, 엔터티 전략](pages/05-chapter-5.md)
+  - [05-01. 답변 근거(source)와 화면 인용(citation)은 무엇이 다른가](pages/05-01-source-citation-difference.md)
   - [05-02. Entity와 브랜드 합의 신호를 만드는 법](pages/05-02-entity-consensus-offsite.md)
   - [05-03. 오프사이트 출처 후보 맵을 만드는 법](pages/05-03-offsite-source-map.md)
   - [05-04. 채널별 답변 근거 전략표는 어떻게 만들까](pages/05-04-channel-source-strategy.md)
@@ -36,7 +36,7 @@
   - [06-01. 테크니컬 GEO 기본 점검표](pages/06-01-technical-geo-checklist.md)
   - [06-02. CSR/SSR 렌더링은 GEO에서 왜 중요한가](pages/06-02-csr-ssr-rendering.md)
   - [06-03. llms.txt와 사이트 이전 리스크 관리](pages/06-03-llms-txt-migration-risk.md)
-  - [06-04. AI 크롤러 접근성과 robots/sitemap은 어떻게 점검할까](pages/06-04-ai-crawler-robots-sitemap.md)
+  - [06-04. AI 크롤러 접근성과 robots/sitemap 점검법](pages/06-04-ai-crawler-robots-sitemap.md)
   - [06-05. Schema와 내부 링크는 AI 이해를 어떻게 돕나](pages/06-05-schema-internal-link-structure.md)
 
 - [07. 산업별 GEO 전략](pages/07-chapter-7.md)
@@ -52,19 +52,19 @@
   - [08-02. Locale/hreflang은 GEO에서 어떻게 봐야 하나](pages/08-02-locale-hreflang-geo.md)
   - [08-03. 글로벌 답변 근거 맵을 만드는 법](pages/08-03-global-source-map.md)
 
-- [09. GEO 도구/파트너/리포트 검증](pages/09-chapter-9.md)
-  - [09-01. GEO 파트너는 무엇을 증명해야 하나](pages/09-01-geo-agency-checklist.md)
-  - [09-02. GEO 도구와 리포트는 어떻게 검증할까](pages/09-02-geo-tool-report-criteria.md)
+- [09. GEO 도구/대행사/컨설팅 검증: AI 검색 리포트 읽는 법](pages/09-chapter-9.md)
+  - [09-01. GEO 대행사와 컨설팅은 무엇을 증명해야 하나](pages/09-01-geo-agency-checklist.md)
+  - [09-02. GEO 도구와 AI 검색 리포트는 어떻게 검증할까](pages/09-02-geo-tool-report-criteria.md)
   - [09-03. GEO 실행 범위와 예산은 어떻게 정할까](pages/09-03-geo-business-model.md)
   - [09-04. GEO 제안서는 어떻게 읽고 비교할까](pages/09-04-geo-proposal-structure.md)
-  - [09-05. 월간 GEO 리포트는 어떻게 활용할까](pages/09-05-recurring-geo-report-product.md)
+  - [09-05. 월간 GEO 리포트로 브랜드 가시성을 관리하는 법](pages/09-05-recurring-geo-report-product.md)
 
 - [10. 4주 실행 로드맵과 GEO 리포트](pages/10-chapter-10.md)
   - [10-01. 1주차: GEO 기준선 진단](pages/10-01-week1-baseline-workshop.md)
   - [10-02. 2주차: Fan-out 질문맵과 콘텐츠 갭](pages/10-02-week2-fanout-gap-workshop.md)
   - [10-03. 3주차: 콘텐츠 리라이트와 출처 설계](pages/10-03-week3-content-source-workshop.md)
-  - [10-04. 4주차: 실행 리포트와 30일 액션 플랜](pages/10-04-week4-report-action-plan.md)
+  - [10-04. 4주차: GEO 실행 리포트와 30일 액션 플랜](pages/10-04-week4-report-action-plan.md)
 
 - [90. 산업별 GEO 익명 케이스북](pages/90-industry-geo-casebook.md)
 
-- [91. 부록: HaloX 기능 연결 맵](pages/91-halox-functional-mapping.md)
+- [91. 부록: HaloX 브랜드 가시성 분석 연결 맵](pages/91-halox-functional-mapping.md)

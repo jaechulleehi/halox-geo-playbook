@@ -1,4 +1,4 @@
-## 키워드를 질문/프롬프트로 바꾸는 법
+## SEO 키워드를 질문/프롬프트로 바꾸는 법
 
 ![SEO 키워드를 질문과 프롬프트로 바꾸는 흐름](../assets/images/page-heroes/halox-geo-01-02-keyword-to-prompt-hero.png)
 
