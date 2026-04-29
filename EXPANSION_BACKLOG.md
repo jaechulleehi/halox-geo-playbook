@@ -82,6 +82,7 @@
 - [ ] robots.txt/AI crawler/sitemap/canonical/redirect 점검표 강화
 - [ ] CSR/SSR/prerender 진단 플로우 추가
 - [ ] llms.txt는 만능이 아니라 실험 변수라는 기준 강화
+- [ ] 06-06 후보: Schema 타입별 실전 점검표. Organization/Article/Product/FAQ/Breadcrumb/Review를 본문/HTML/title/canonical/내부 링크와 맞춰 확인
 - [ ] 사례: 제3도메인 콘텐츠 시도의 authority/트래픽/운영 리스크
 - [ ] 기능 설명: 기술 SEO/GEO 진단 워크스페이스
 
@@ -108,16 +109,27 @@
 - [ ] GEO 대행사 검증 질문 20개 추가
 - [ ] 사례: 제안 단계에서는 가벼운 초기 진단과 대시보드가 더 잘 먹히는 경우
 
-### 10장. 4주 챌린지와 실행 리포트
+### 10장. 4주 실행 로드맵과 GEO 리포트
 
-- [ ] 90분/120분 강의 진행안 추가
+- [ ] 공개 WikiDocs 본문은 독자 실행형으로 유지하고, 강의 운영안은 별도 패키지 문서로 분리
+- [ ] 주차별 90분/120분 강의 진행안 추가
 - [ ] 주차별 강사용 멘트 추가
 - [ ] 피드백 루브릭 추가
-- [ ] 사례 4종을 4주 챌린지 예시로 배치
+- [ ] 사례 4종을 4주 실행 예시로 배치
   - PR 에이전시형
   - 엔터프라이즈 뉴스룸형
   - 로컬 병원형
   - 커머스/플랫폼형
+
+### 11장 후보. 커머스 GEO와 AI 구매 에이전트
+
+- [ ] 11장 신설 후보: 커머스 GEO와 AI 구매 에이전트
+- [ ] 11-01 후보: SEO/SERP/AIO/GPT가 커머스에서 갈라지는 지점
+- [ ] 11-02 후보: AI 고객을 위한 상품 정보 구조. 상품명/가격/재고/옵션/배송/환불/리뷰/정책 데이터
+- [ ] 11-03 후보: Product schema와 merchant feed는 무엇을 보완하나
+- [ ] 11-04 후보: AI 구매 에이전트 시대의 리스크와 체크리스트
+- [ ] 07-02는 커머스 심화 장으로 연결하는 브리지 페이지로 유지
+- [ ] HaloX 연결: `ai-customer-product-info-structure`, `agentic-commerce-geo`, `schema-markup-practical`, `geo-vs-seo-vs-aeo`
 
 ## 부록 후보
 
