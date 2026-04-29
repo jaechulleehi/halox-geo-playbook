@@ -43,7 +43,7 @@ PR/뉴스룸 사례에서는 Organization/NewsArticle 구조와 팩트시트 링
 | 불일치 | 본문, schema, title, canonical 정보가 다른 부분 |
 | 수정 액션 | schema 추가/FAQ 정리/내부 링크 보강 |
 
-## 제출 템플릿
+## 정리 양식
 
 ```text
 URL / 페이지 유형 / 현재 schema / 필요한 schema / 연결할 내부 페이지 5개 / 불일치 항목 / 수정 담당 / 재검수 기준

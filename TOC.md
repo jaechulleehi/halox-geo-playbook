@@ -4,7 +4,7 @@
   - [00-01. GEO란 무엇인가](pages/00-01-what-is-geo.md)
   - [00-02. GEO/SEO/AEO/AIO 차이](pages/00-02-geo-seo-aeo-aio.md)
   - [00-03. AI 검색은 기존 검색과 무엇이 다른가](pages/00-03-ai-search-difference.md)
-  - [00-04. 이 책을 강의/실무/이북으로 활용하는 법](pages/00-04-how-to-use-this-book.md)
+  - [00-04. 이 책을 읽고 실무에 적용하는 법](pages/00-04-how-to-use-this-book.md)
 
 - [01. SEO에서 AI 질문 시장으로](pages/01-chapter-1.md)
   - [01-01. SEO 키워드는 왜 여전히 중요한가](pages/01-01-seo-keywords-still-matter.md)
