@@ -4,7 +4,7 @@
 
 테크니컬 GEO는 AI가 콘텐츠를 발견하고, 읽고, 해석하고, 다시 인용할 수 있게 만드는 사이트의 기본 구조입니다. 4장에서 좋은 콘텐츠 구조를 만들었다면, 6장에서는 그 구조가 실제 HTML, 렌더링, schema, sitemap, robots, 내부 링크에서도 유지되는지 확인합니다. 좋은 글을 많이 써도 AI 크롤러가 접근하지 못하거나 핵심 본문이 렌더링 뒤에만 보이면 답변 근거(source)/화면 인용(citation) 성과를 안정적으로 만들기 어렵습니다.
 
-이 장은 마케팅팀과 개발팀이 같은 체크리스트를 보고 이야기할 수 있도록 구성합니다. `robots.txt`, `sitemap.xml`, canonical, 응답 코드, CSR/SSR, schema, 내부 링크, llms.txt, 사이트 이전 리스크를 각각 따로 보되, 최종 판단은 “AI 답변에 쓸 수 있는 근거가 안정적으로 노출되는가”로 모읍니다.
+이 장은 마케팅팀과 개발팀이 같은 체크리스트를 보고 이야기할 수 있도록 구성합니다. `robots.txt`, `sitemap.xml`, canonical, 응답 코드, CSR/SSR, schema, 내부 링크, llms.txt, 사이트 이전 리스크를 각각 따로 보되, 최종 판단은 “AI 답변에 쓸 수 있는 근거가 안정적으로 노출되는가”로 모읍니다. 여기에 title/meta description 같은 메타 정보, 리치 리절트, Google 공식 점검 도구, PageSpeed/Search Console까지 연결해 SEO 기술 점검과 GEO 기술 점검을 한 흐름으로 봅니다.
 
 ## 4장과 6장이 나뉘는 기준
 
@@ -17,12 +17,13 @@
 | FAQ가 있는가 | 질문과 답이 독자 문제에 맞는가 | FAQ 본문과 FAQPage schema가 충돌하지 않는가 |
 | 내부 링크가 있는가 | 다음 질문으로 자연스럽게 이어지는가 | 크롤러가 링크를 발견할 수 있는 href 구조인가 |
 | schema가 있는가 | 본문 의미를 보조하는가 | JSON-LD가 최신 본문/title/canonical과 일치하는가 |
+| 리치 리절트 후보인가 | FAQ/상품/조직/리뷰 등 구조화된 정보가 있는가 | Rich Results Test와 Schema Markup Validator에서 오류가 없는가 |
 
 AI가 HTML을 Markdown식 텍스트로 바꿔 읽는다고 생각하면, 기술 점검은 선택이 아닙니다. 화면에는 보이지만 HTML/DOM/구조화 데이터에서 빠진 정보는 AI 답변 재료로 안정적으로 쓰이기 어렵습니다.
 
 ## 테크니컬 점검 패키지
 
-이 장의 흐름은 `기본 기술 점검 → 렌더링 확인 → llms.txt/이전 리스크 → AI 크롤러 접근성 → schema/내부 링크 구조화`입니다. 단순 개발 체크리스트가 아니라 GEO 리포트와 연결되는 점검표로 써야 합니다.
+이 장의 흐름은 `기본 기술 점검 → 렌더링 확인 → llms.txt/이전 리스크 → AI 크롤러 접근성 → schema/내부 링크 구조화 → Google 공식 도구 검증`입니다. 단순 개발 체크리스트가 아니라 GEO 리포트와 연결되는 점검표로 써야 합니다.
 
 | 단계 | 핵심 질문 | 산출물 |
 |---|---|---|
@@ -31,6 +32,7 @@ AI가 HTML을 Markdown식 텍스트로 바꿔 읽는다고 생각하면, 기술 
 | llms.txt/이전 | 사이트 개편 후 기존 답변 근거(source)와 화면 인용(citation)이 흔들리지 않는가 | 이전 전후 URL 매핑표 |
 | AI 크롤러 접근성 | 주요 AI/검색 크롤러가 막히지 않았는가 | 크롤러 접근 정책표 |
 | Schema/내부 링크 | AI가 페이지 의미와 관계를 이해할 수 있는가 | schema/internal link 구조화 표 |
+| Google 공식 도구 검증 | 메타 정보, 리치 리절트, schema, 속도, 색인 상태가 정상인가 | Search Console/Rich Results/PageSpeed 점검표 |
 
 ## 이 장에서 다루는 세부 페이지
 
@@ -39,6 +41,7 @@ AI가 HTML을 Markdown식 텍스트로 바꿔 읽는다고 생각하면, 기술 
 - [06-03. llms.txt와 사이트 이전 리스크 관리](https://wikidocs.net/346355)
 - [06-04. AI 크롤러 접근성과 robots/sitemap은 어떻게 점검할까](https://wikidocs.net/346393)
 - [06-05. Schema와 내부 링크는 AI 이해를 어떻게 돕나](https://wikidocs.net/346394)
+- 06-06. Google 공식 도구로 SEO/GEO 기술 상태 점검하기
 
 ## 사례로 보는 테크니컬 GEO
 
@@ -56,8 +59,9 @@ AI가 HTML을 Markdown식 텍스트로 바꿔 읽는다고 생각하면, 기술 
 2. 해당 URL의 robots/sitemap/canonical/응답 코드를 점검합니다.
 3. 초기 HTML과 렌더링 후 화면에서 핵심 답변 재료가 같은지 봅니다.
 4. schema와 내부 링크가 페이지의 의미와 관계를 설명하는지 확인합니다.
-5. llms.txt와 핵심 문서 허브가 AI에게 우선 읽을 경로를 안내하는지 봅니다.
-6. 수정 후 같은 질문셋으로 답변 근거(source)/화면 인용(citation) 변화를 재측정합니다.
+5. Google 공식 도구로 리치 리절트, 구조화 데이터, PageSpeed, Search Console 상태를 확인합니다.
+6. llms.txt와 핵심 문서 허브가 AI에게 우선 읽을 경로를 안내하는지 봅니다.
+7. 수정 후 같은 질문셋으로 답변 근거(source)/화면 인용(citation) 변화를 재측정합니다.
 
 이 흐름은 [02. AI 검색 모니터링: 브랜드 언급률, 답변 근거, 화면 인용 읽는 법](https://wikidocs.net/346342), [05. 답변 근거/source, 화면 인용/citation, 엔터티 전략](https://wikidocs.net/346333), [10-04. 4주차: GEO 실행 리포트와 30일 액션 플랜](https://wikidocs.net/346368)과 연결됩니다.
 
@@ -78,7 +82,9 @@ AI가 HTML을 Markdown식 텍스트로 바꿔 읽는다고 생각하면, 기술 
 |---|---|---|---|---|
 | 핵심 가이드 URL | 초기 HTML에 본문 없음 | View source/렌더링 DOM 비교 | 개발 | 첫 답변과 H2가 HTML 텍스트로 확인됨 |
 | 비교표 페이지 | 표가 이미지로만 있음 | HTML table/리스트 구조 확인 | 콘텐츠/개발 | 기준/값/주의점이 텍스트로 읽힘 |
-| FAQ 페이지 | schema와 본문 불일치 | JSON-LD와 본문 대조 | 개발 | FAQ 본문과 schema 질문/답변 일치 |
+| FAQ 페이지 | schema와 본문 불일치 | JSON-LD와 본문 대조/Rich Results Test | 개발 | FAQ 본문과 schema 질문/답변 일치 |
+| 제품/서비스 페이지 | 메타 정보와 본문 불일치 | title/meta description/canonical 확인 | SEO/콘텐츠 | 검색 결과 설명과 본문 목적이 일치 |
+| 핵심 랜딩 페이지 | 페이지 속도 저하 | PageSpeed Insights/Lighthouse 확인 | 개발 | LCP/CLS 등 주요 이슈 개선 계획 수립 |
 | 허브 페이지 | 내부 링크 약함 | href/anchor text 점검 | 콘텐츠 | 관련 하위 페이지가 발견 가능한 링크로 연결 |
 | 이전 URL | 구 URL이 남아 있음 | 301/canonical/sitemap 확인 | 개발 | 이전 URL이 새 URL로 안정적으로 연결 |
 
@@ -87,6 +93,8 @@ AI가 HTML을 Markdown식 텍스트로 바꿔 읽는다고 생각하면, 기술 
 ## HaloX로 이어지는 지점
 
 기술 점검은 HaloX의 [llms.txt 설정 가이드](https://haloxlabs.ai/ko/blog/llms-txt-setup-guide), [schema 실무 가이드](https://haloxlabs.ai/ko/blog/schema-markup-practical)와 연결됩니다. 이 장의 체크리스트를 실행할 때 함께 참고하면 좋습니다. 테크니컬 GEO의 기본은 크롤러가 중요한 페이지를 발견하고 이해할 수 있게 만드는 것입니다. robots와 sitemap은 Google의 [robots.txt 소개](https://developers.google.com/search/docs/crawling-indexing/robots/intro), [sitemap 개요](https://developers.google.com/search/docs/crawling-indexing/sitemaps/overview)를 기준으로 함께 점검합니다.
+
+메타 정보와 리치 리절트까지 확인할 때는 Google의 [구조화 데이터 소개](https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data), [Rich Results Test](https://search.google.com/test/rich-results), [PageSpeed Insights](https://pagespeed.web.dev/), [Search Console 성과 보고서](https://support.google.com/webmasters/answer/7576553)를 함께 봅니다. 이 도구들은 SEO 점수를 확인하는 용도에 그치지 않고, GEO에서 AI가 읽을 수 있는 구조가 안정적인지 확인하는 기준으로 씁니다.
 
 ## 다음 흐름
 

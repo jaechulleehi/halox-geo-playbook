@@ -42,6 +42,7 @@
   - [06-03. llms.txt와 사이트 이전 리스크 관리](pages/06-03-llms-txt-migration-risk.md)
   - [06-04. AI 크롤러 접근성과 robots/sitemap 점검법](pages/06-04-ai-crawler-robots-sitemap.md)
   - [06-05. Schema와 내부 링크는 AI 이해를 어떻게 돕나](pages/06-05-schema-internal-link-structure.md)
+  - [06-06. Google 공식 도구로 SEO/GEO 기술 상태 점검하기](pages/06-06-google-seo-geo-validation-tools.md)
 
 - [07. 산업별 GEO 전략](pages/07-chapter-7.md)
   - [07-01. B2B SaaS GEO는 무엇이 다른가](pages/07-01-b2b-saas-geo.md)
