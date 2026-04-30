@@ -2,22 +2,24 @@
 
 ![테크니컬 GEO와 사이트 구조](../assets/images/chapter-heroes/halox-geo-technical-geo-hero-1600x900.png)
 
-테크니컬 GEO는 AI가 콘텐츠를 발견하고, 읽고, 해석하고, 다시 인용할 수 있게 만드는 사이트의 기본 구조입니다. 4장에서 좋은 콘텐츠 구조를 만들었다면, 6장에서는 그 구조가 실제 HTML, 렌더링, schema, sitemap, robots, 내부 링크에서도 유지되는지 확인합니다. 좋은 글을 많이 써도 AI 크롤러가 접근하지 못하거나 핵심 본문이 렌더링 뒤에만 보이면 답변 근거(source)/화면 인용(citation) 성과를 안정적으로 만들기 어렵습니다.
+테크니컬 GEO는 AI가 콘텐츠를 발견하고, 읽고, 해석하고, 다시 인용할 수 있게 만드는 사이트의 기본 구조입니다. 04장에서 좋은 콘텐츠 구조를 만들고 05장에서 source/citation/entity 신호를 설계했다면, 06장에서는 그 구조와 신호가 실제 HTML, 렌더링, schema, sitemap, robots, 내부 링크, canonical에서도 유지되는지 확인합니다. 좋은 글을 많이 써도 AI 크롤러가 접근하지 못하거나 핵심 본문이 렌더링 뒤에만 보이면 답변 근거(source)/화면 인용(citation) 성과를 안정적으로 만들기 어렵습니다.
 
 이 장은 마케팅팀과 개발팀이 같은 체크리스트를 보고 이야기할 수 있도록 구성합니다. `robots.txt`, `sitemap.xml`, canonical, 응답 코드, CSR/SSR, schema, 내부 링크, llms.txt, 사이트 이전 리스크를 각각 따로 보되, 최종 판단은 “AI 답변에 쓸 수 있는 근거가 안정적으로 노출되는가”로 모읍니다. 여기에 title/meta description 같은 메타 정보, 리치 리절트, Google 공식 점검 도구, PageSpeed/Search Console까지 연결해 SEO 기술 점검과 GEO 기술 점검을 한 흐름으로 봅니다.
 
 [TOC]
 
-## 4장과 6장이 나뉘는 기준
+## 04장/05장과 06장이 나뉘는 기준
 
-4장은 `무엇을 어떤 구조로 써야 하는가`를 다룹니다. 6장은 `그 구조가 실제로 크롤러와 AI에게 읽히는가`를 다룹니다. 두 장을 분리해서 봐야 콘텐츠팀과 개발팀의 역할이 명확해집니다.
+04장은 `무엇을 어떤 구조로 써야 하는가`를 다룹니다. 05장은 그 콘텐츠가 웹 전체의 source/citation/entity 신호와 연결되는지 봅니다. 06장은 `그 콘텐츠와 신호가 실제로 크롤러와 AI에게 발견되고 읽히는가`를 확인합니다. 세 장을 분리해서 봐야 콘텐츠팀, PR/브랜드팀, 개발팀의 역할이 명확해집니다.
 
-| 질문 | 4장에서 볼 것 | 6장에서 볼 것 |
+| 질문 | 04/05장에서 볼 것 | 06장에서 볼 것 |
 |---|---|---|
 | 첫 답변이 있는가 | 첫 문단에 정의/결론/조건이 있는가 | 초기 HTML에 그 문단이 실제 텍스트로 있는가 |
 | 표가 있는가 | 비교 기준과 값이 명확한가 | 표가 이미지/JS 전용이 아니라 HTML table 또는 읽히는 구조인가 |
 | FAQ가 있는가 | 질문과 답이 독자 문제에 맞는가 | FAQ 본문과 FAQPage schema가 충돌하지 않는가 |
 | 내부 링크가 있는가 | 다음 질문으로 자연스럽게 이어지는가 | 크롤러가 링크를 발견할 수 있는 href 구조인가 |
+| source 후보 URL이 있는가 | 05장에서 답변 근거 후보와 외부 source를 정했는가 | 그 URL이 200/301, sitemap, canonical, robots에서 안정적인가 |
+| entity 신호가 있는가 | 조직/인물/제품 설명이 외부 채널과 일치하는가 | Organization/Person/ProfilePage schema와 대표 URL이 같은 설명을 말하는가 |
 | schema가 있는가 | 본문 의미를 보조하는가 | JSON-LD가 최신 본문/title/canonical과 일치하는가 |
 | schema 타입이 맞는가 | Organization, Person/ProfilePage, FAQPage, Article, Product 등 페이지 유형에 맞는가 | 본문에 보이는 정보만 구조화했는가 |
 | 메타 정보가 맞는가 | title, meta description, canonical, robots meta가 본문과 같은 주제를 말하는가 | 대표 URL과 검색/공유 설명이 일관적인가 |
@@ -39,6 +41,7 @@ AI가 HTML을 Markdown식 텍스트로 바꿔 읽는다고 생각하면, 기술 
 | Google 공식 도구 검증 | 메타 정보, 리치 리절트, schema, 속도, 색인 상태가 정상인가 | Search Console/Rich Results/PageSpeed 점검표 |
 | Schema 타입별 점검 | Organization/Person/FAQ/Product를 어디에 써야 하는가 | 타입별 본문/HTML/JSON-LD 일치표 |
 | 메타 정보 점검 | title/meta description/canonical/robots meta가 본문과 맞는가 | URL별 메타/canonical 점검표 |
+| 사이트링크/리치 리절트 구분 | 검색결과의 작은 섹션 링크와 schema 기반 리치 리절트를 구분하는가 | `[TOC]`/앵커/헤딩/schema 비교 점검표 |
 
 ## 이 장에서 다루는 세부 페이지
 
@@ -50,6 +53,7 @@ AI가 HTML을 Markdown식 텍스트로 바꿔 읽는다고 생각하면, 기술 
 - [06-06. Google 공식 도구로 SEO/GEO 기술 상태 점검하기](https://wikidocs.net/346842)
 - [06-07. Schema 타입별 실전 점검표: Organization/Person/FAQ/Product](https://wikidocs.net/346851)
 - [06-08. 메타 정보 실전 점검: title/meta description/canonical/robots meta](https://wikidocs.net/346855)
+- [06-09. 사이트링크와 리치 리절트 차이: 검색결과 섹션 링크는 어떻게 만들어지나](pages/06-09-sitelinks-rich-results-section-links.md)
 
 ## 사례로 보는 테크니컬 GEO
 
@@ -80,7 +84,7 @@ AI가 HTML을 Markdown식 텍스트로 바꿔 읽는다고 생각하면, 기술 
 | 실무 적용 | 사이트 기술 점검 실습 | 테크니컬 GEO 체크리스트 |
 | 실무 | 개발팀에 넘길 수정 요청 정리 | URL별 이슈/담당/완료 기준 |
 | 제품 설명 | HaloX 리포트의 원인을 기술 액션으로 연결 | citation 약한 URL의 기술 진단표 |
-| 책 | 혼자 따라 할 수 있는 사이트 점검 실습 노트 | robots/sitemap/schema/llms.txt 실습표 |
+| 독자 실행 | 혼자 따라 할 수 있는 사이트 점검 실습 노트 | robots/sitemap/schema/llms.txt 실습표 |
 
 ## 개발팀에 넘기는 URL별 점검표
 

@@ -125,6 +125,7 @@
 | 2 | 구조화 데이터 | schema/JSON-LD, 내부 링크 | [06-05. Schema와 내부 링크는 AI 이해를 어떻게 돕나](pages/06-05-schema-internal-link-structure.md) | schema와 내부 링크를 AI 이해 구조로 연결 |
 | 2 | schema 타입별 점검 | Organization schema, Person schema, ProfilePage schema, FAQ schema, Product schema | [06-07. Schema 타입별 실전 점검표](pages/06-07-schema-type-checklist.md) | 조직/인물/FAQ/상품 페이지에 어떤 schema를 써야 하는지 설명 |
 | 2 | 메타 정보 점검 | title, meta description, canonical, robots meta | [06-08. 메타 정보 실전 점검](pages/06-08-meta-canonical-snippet-checklist.md) | 대표 URL과 검색/공유 설명을 GEO 관점으로 점검 |
+| 2 | 검색결과 섹션 링크 구분 | 사이트링크, 페이지 섹션 링크, 리치 리절트, `[TOC]`, HTML 앵커 | [06-09. 사이트링크와 리치 리절트 차이](pages/06-09-sitelinks-rich-results-section-links.md) | 검색결과의 작은 링크가 schema 리치 리절트인지 목차/헤딩 기반 섹션 링크인지 구분 |
 | 2 | 산업별 적용 | B2B SaaS GEO | [07-01. B2B SaaS GEO는 무엇이 다른가](pages/07-01-b2b-saas-geo.md) | B2B SaaS의 비교/검토 질문 대응 |
 | 2 | 글로벌 확장 | 글로벌 GEO, 영문 GEO | [08. 글로벌/영문 GEO 전략](pages/08-chapter-8.md) | 영문 카테고리 자산과 글로벌 source 전략 정리 |
 | 3 | 구매/검토 | GEO 대행사, GEO 컨설팅, GEO 도구, GEO 솔루션 | [09. GEO 리포트와 실행 검증: AI 검색 성과를 읽는 법](pages/09-chapter-9.md) | 직접 실행 결과, 도구 리포트, 외부 제안서를 같은 기준으로 검증 |

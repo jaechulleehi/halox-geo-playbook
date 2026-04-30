@@ -50,6 +50,7 @@
   - [06-06. Google 공식 도구로 SEO/GEO 기술 상태 점검하기](pages/06-06-google-seo-geo-validation-tools.md)
   - [06-07. Schema 타입별 실전 점검표: Organization/Person/FAQ/Product](pages/06-07-schema-type-checklist.md)
   - [06-08. 메타 정보 실전 점검: title/meta description/canonical/robots meta](pages/06-08-meta-canonical-snippet-checklist.md)
+  - [06-09. 사이트링크와 리치 리절트 차이: 검색결과 섹션 링크는 어떻게 만들어지나](pages/06-09-sitelinks-rich-results-section-links.md)
 
 - [07. 산업별 GEO 전략](pages/07-chapter-7.md)
   - [07-01. B2B SaaS GEO는 무엇이 다른가](pages/07-01-b2b-saas-geo.md)
