@@ -64,6 +64,7 @@
   - [09-04. GEO 제안서 비교: 과장된 약속은 어떻게 걸러낼까](pages/09-04-geo-proposal-structure.md)
   - [09-05. GEO 리포트 운영: 브랜드 가시성을 매달 관리하는 법](pages/09-05-recurring-geo-report-product.md)
   - [09-06. GEO 솔루션 추천: AI 검색 최적화 도구 고르는 법](pages/09-06-geo-solution-recommendation.md)
+  - [09-07. SEO 도구와 GEO 도구 비교: Semrush, Ahrefs, Profound, HaloX](pages/09-07-seo-tools-vs-geo-tools-comparison.md)
 
 - [10. 4주 실행 로드맵과 GEO 리포트](pages/10-chapter-10.md)
   - [10-01. 1주차: GEO 기준선 진단](pages/10-01-week1-baseline-workshop.md)

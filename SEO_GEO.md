@@ -53,6 +53,11 @@
 - GEO 솔루션
 - GEO솔루션
 - GEO 분석 솔루션
+- SEO 도구 GEO
+- Semrush GEO
+- Ahrefs GEO
+- Profound 대안
+- Profound 비교
 - AI 검색 리포트
 - AI 검색 모니터링 솔루션
 - 브랜드 가시성 분석 솔루션
@@ -114,6 +119,7 @@
 | 3 | 제안서 검토 | GEO 제안서, GEO 제안서 비교 | [09-04. GEO 제안서 비교: 과장된 약속은 어떻게 걸러낼까](pages/09-04-geo-proposal-structure.md) | 과장된 약속과 검증 가능한 실행안을 구분 |
 | 3 | 운영 리포트 | GEO 리포트, 브랜드 가시성 분석, AI 검색 모니터링 솔루션 | [09-05. GEO 리포트 운영: 브랜드 가시성을 매달 관리하는 법](pages/09-05-recurring-geo-report-product.md) | 월간 운영 회의와 30일 액션으로 연결 |
 | 3 | 솔루션 추천 | GEO 솔루션 추천, AI 검색 최적화 도구, 브랜드 가시성 분석 도구 | [09-06. GEO 솔루션 추천: AI 검색 최적화 도구 고르는 법](pages/09-06-geo-solution-recommendation.md) | 도구 후보를 순위보다 목적/질문셋/실행 연결 기준으로 비교 |
+| 3 | SEO 도구/GEO 도구 비교 | SEO 도구 GEO, Semrush GEO, Ahrefs GEO, Profound 대안, Profound 비교, HaloX GEO | [09-07. SEO 도구와 GEO 도구 비교: Semrush, Ahrefs, Profound, HaloX](pages/09-07-seo-tools-vs-geo-tools-comparison.md) | 기존 SEO 플랫폼, GEO 전용 도구, HaloX의 역할 차이를 비교 |
 | 3 | 실행 로드맵 | GEO 실행 리포트, 4주 실행 로드맵 | [10. 4주 실행 로드맵과 GEO 리포트](pages/10-chapter-10.md) | 진단에서 실행 리포트까지 이어지는 실무 흐름 |
 | 3 | 커머스 | 커머스 AIO, AI 구매 에이전트, Product schema | [11. 커머스 GEO와 AI 구매 에이전트](pages/11-chapter-11.md) | 상품 데이터와 구매 에이전트 대응 |
 | 3 | 로컬 | 로컬 SEO, 로컬 GEO, 지도 SEO | [12. 병원/오프라인 매장 SEO/GEO 전략](pages/12-chapter-12.md) | 지도/리뷰/지점/예약 전환이 중요한 로컬 업종 대응 |
@@ -133,6 +139,7 @@
 | 플랫폼 대응 | ChatGPT 브랜드 노출, Perplexity SEO, Google AI Overviews 최적화, AI Overviews SEO | 02장 | 하위 페이지 제목/첫 문단/측정표 |
 | 측정/모니터링 | AI 검색 모니터링, AI 브랜드 모니터링, 브랜드 가시성 분석, 브랜드 언급률, mention/source/citation | 02장/09장/10장/91장 | 리포트 예시/지표 정의 |
 | 브랜드/솔루션 | HaloX GEO, 헤일로X GEO, 헤일로엑스 GEO, GEO 솔루션, AI 검색 모니터링 솔루션, 브랜드 가시성 분석 솔루션 | README/09장/91장 | 브랜드 연결/제품 검토/솔루션 판단 기준 |
+| SEO/GEO 도구 비교 | SEO 도구 GEO, Semrush GEO, Ahrefs GEO, Profound 대안, Profound 비교, GEO 도구 비교 | 09-06/09-07 | 기존 SEO 도구와 GEO 전용 도구의 역할 차이/조합 추천 |
 | 구매/검토 | GEO 대행사, GEO 대행사 선택 기준, GEO 컨설팅, GEO 컨설팅 비용, GEO 도구, GEO 도구 비교, GEO 제안서, GEO 리포트, AI 검색 리포트 | 09장/10장 | 제목/비교표/위험 신호 |
 | 산업별 적용 | B2B SaaS GEO, 커머스 AIO, 로컬 SEO, 로컬 GEO, 글로벌 GEO | 07장/08장/11장/12장 | 업종별 질문셋/사례/체크리스트 |
 | 교육/워크숍 | GEO 강의, GEO 실행 리포트, 4주 실행 로드맵 | 10장 | 실습 순서/산출물/완료 기준 |
@@ -152,14 +159,15 @@
 11. GEO 도구 비교와 AI 검색 리포트 검증은 어떤 기준으로 해야 하나?
 12. GEO 컨설팅 비용과 실행 범위는 어떻게 판단해야 하나?
 13. GEO 솔루션과 AI 검색 모니터링 솔루션은 어떤 기준으로 비교해야 하나?
-14. HaloX, 헤일로X, 헤일로엑스는 GEO 분석 흐름에서 어떤 문제를 해결하나?
-15. GEO 제안서에서 과장된 약속은 어떻게 걸러내야 하나?
-16. 커머스 브랜드는 Google AI Overviews와 AI Mode에 어떻게 대응해야 하나?
-17. 병원/오프라인 매장은 로컬 SEO와 로컬 GEO를 어떻게 함께 봐야 하나?
-18. 병원 SEO/GEO에서 의료광고, 후기, 전후 사진, 효과 보장 표현은 어떻게 조심해야 하나?
-19. PR/뉴스룸/캠페인 URL은 GEO 사례에서 어떻게 측정해야 하나?
-20. 금융/규제 산업과 커머스/플랫폼은 산업별 GEO 사례에서 무엇을 다르게 봐야 하나?
-21. 글로벌 GEO를 시작하려면 영어 콘텐츠와 외부 출처를 어떻게 준비해야 하나?
+14. Semrush, Ahrefs 같은 SEO 도구와 Profound, HaloX 같은 GEO 도구는 무엇이 다른가?
+15. HaloX, 헤일로X, 헤일로엑스는 GEO 분석 흐름에서 어떤 문제를 해결하나?
+16. GEO 제안서에서 과장된 약속은 어떻게 걸러내야 하나?
+17. 커머스 브랜드는 Google AI Overviews와 AI Mode에 어떻게 대응해야 하나?
+18. 병원/오프라인 매장은 로컬 SEO와 로컬 GEO를 어떻게 함께 봐야 하나?
+19. 병원 SEO/GEO에서 의료광고, 후기, 전후 사진, 효과 보장 표현은 어떻게 조심해야 하나?
+20. PR/뉴스룸/캠페인 URL은 GEO 사례에서 어떻게 측정해야 하나?
+21. 금융/규제 산업과 커머스/플랫폼은 산업별 GEO 사례에서 무엇을 다르게 봐야 하나?
+22. 글로벌 GEO를 시작하려면 영어 콘텐츠와 외부 출처를 어떻게 준비해야 하나?
 
 ## 페이지 작성 원칙
 
@@ -178,7 +186,7 @@
 - [ ] README 첫 두 문단에 1순위/2순위 핵심 키워드가 자연스럽게 들어가 있는가?
 - [ ] TOC 제목이 검색자가 실제로 묻는 질문형/문제 해결형에 가까운가?
 - [ ] 02장에는 플랫폼/브랜드 노출 키워드가 분산되어 있는가?
-- [ ] 09장에는 구매/검토 키워드와 GEO 솔루션 비교 의도가 집중되어 있는가?
+- [ ] 09장에는 구매/검토 키워드, GEO 솔루션 비교 의도, Semrush/Ahrefs/Profound/HaloX 비교 의도가 집중되어 있는가?
 - [ ] 12장에는 로컬 SEO/GEO 키워드가 별도 축으로 잡혀 있는가?
 - [ ] 각 페이지 첫 문단이 제목의 검색 의도에 바로 답하는가?
 - [ ] source/citation, mention, AI 검색 리포트 같은 지표 용어가 일관되게 쓰이는가?
