@@ -1,5 +1,7 @@
 ## Product schema와 merchant feed 점검법
 
+![Product schema와 merchant feed 점검 흐름](../assets/images/page-heroes/halox-geo-11-03-product-schema-merchant-feed-hero.png)
+
 Product schema와 merchant feed는 AI가 상품을 이해하도록 돕는 중요한 재료입니다. 다만 둘 중 하나만 넣는다고 커머스 GEO가 끝나지는 않습니다. schema, feed, HTML 본문, 정책 문서, 내부 링크가 서로 같은 의미를 가리켜야 합니다.
 
 [Schema와 내부 링크](https://wikidocs.net/346394)에서 본 것처럼 schema는 본문을 대체하지 않습니다. 커머스에서는 이 원칙이 더 중요합니다. 가격, 재고, 옵션, 배송, 반품처럼 실제 거래에 영향을 주는 정보가 서로 다르면 AI는 무엇을 믿어야 할지 판단하기 어렵습니다.

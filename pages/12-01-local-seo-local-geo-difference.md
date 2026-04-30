@@ -1,5 +1,7 @@
 ## 로컬 SEO와 로컬 GEO는 무엇이 다른가
 
+![로컬 SEO와 로컬 GEO 차이](../assets/images/page-heroes/halox-geo-12-01-local-seo-local-geo-difference-hero.png)
+
 로컬 SEO는 검색 결과와 지도에서 특정 지역의 업체가 잘 발견되도록 만드는 일입니다. 로컬 GEO는 ChatGPT, Perplexity, Gemini, 네이버 AI 브리핑, Google AI Overviews 같은 AI 답변에서 지역 업체가 어떤 기준으로 언급되고 추천되는지 보는 일입니다.
 
 두 영역은 분리되지 않습니다. 로컬 GEO가 작동하려면 먼저 로컬 SEO 신호가 정리되어 있어야 합니다. 이름/주소/전화번호, 지도 등록, 카테고리, 영업시간, 리뷰, 사진, 지점 페이지, 외부 권위가 흩어져 있으면 AI도 안정적인 추천 근거를 만들기 어렵습니다.

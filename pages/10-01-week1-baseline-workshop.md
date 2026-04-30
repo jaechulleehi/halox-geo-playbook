@@ -1,5 +1,7 @@
 ## 1주차: GEO 기준선 진단
 
+![1주차 GEO 기준선 진단 흐름](../assets/images/page-heroes/halox-geo-10-01-week1-baseline-workshop-hero.png)
+
 1주차는 브랜드 키워드를 AI 질문으로 바꾸고 현재 mention, 답변 근거(source), 화면 인용(citation) 상태를 기록하는 시간입니다. 목표는 완벽한 분석이 아니라 4주 동안 반복해서 볼 기준선을 만드는 것입니다.
 
 기준선이 없으면 개선도 설명할 수 없습니다. 같은 질문셋으로 전후 변화를 봐야 GEO 운영이 시작됩니다.

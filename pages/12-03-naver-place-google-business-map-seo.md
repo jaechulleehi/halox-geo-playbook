@@ -1,5 +1,7 @@
 ## 네이버 플레이스, Google Business Profile, 지도 SEO
 
+![네이버 플레이스 Google Business 지도 SEO 점검](../assets/images/page-heroes/halox-geo-12-03-naver-place-google-business-map-seo-hero.png)
+
 병원/오프라인 매장 SEO에서 지도 프로필은 보조 채널이 아닙니다. 많은 사용자는 홈페이지보다 네이버 플레이스, Google 지도, 카카오맵, Apple Maps에서 위치, 영업시간, 리뷰, 사진, 예약 가능 여부를 먼저 봅니다.
 
 AI 답변도 로컬 추천을 만들 때 지도/리뷰/비즈니스 프로필 신호를 함께 참고할 수 있습니다. 그래서 로컬 GEO는 홈페이지 콘텐츠만이 아니라 지도 프로필을 구조화된 정보 자산으로 봐야 합니다.

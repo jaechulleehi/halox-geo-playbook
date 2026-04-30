@@ -1,5 +1,7 @@
 ## AI 구매 에이전트 시대의 커머스 검색 변화
 
+![AI 구매 에이전트 시대의 커머스 검색 변화](../assets/images/page-heroes/halox-geo-11-01-agentic-commerce-search-shift-hero.png)
+
 커머스에서 검색은 `사람이 키워드를 입력하고 상품 목록을 클릭하는 흐름`에서 `AI가 조건을 해석하고 후보를 좁히는 흐름`으로 넓어지고 있습니다. 이 변화는 기존 SEO가 사라진다는 뜻이 아닙니다. 오히려 SEO, AIO, GEO가 서로 다른 층에서 동시에 작동한다는 뜻입니다.
 
 [SEO/GEO/AEO/AIO/LLMO 차이](https://wikidocs.net/346309)에서 본 것처럼 SEO는 SERP에서 발견되는 문제이고, AIO는 SERP 안의 AI 요약 영역에 포함되는 문제입니다. 커머스에서는 여기에 GPT, Claude, Perplexity 같은 답변형 환경에서 상품이 비교/추천되는 문제가 더해집니다.
