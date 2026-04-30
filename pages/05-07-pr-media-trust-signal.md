@@ -28,6 +28,20 @@ GEO 관점에서 PR은 단발 노출보다 답변 근거(source)로서의 역할
 | 이슈 | 최근 논란이나 변화는 무엇인가? | 공식 입장, 정정 자료, 후속 업데이트 |
 | 비교 | 경쟁사와 무엇이 다른가? | 차별 기준을 설명한 외부 인터뷰나 분석 글 |
 
+
+## PR 자산을 source/citation 관점으로 다시 분류하기
+
+PR 성과를 “몇 개 매체에 실렸는가”로만 보면 GEO 실행으로 이어지지 않습니다. 05장에서는 PR 자산을 source, citation, consensus로 나눠 봅니다.
+
+| 구분 | 의미 | PR에서 확인할 것 |
+|---|---|---|
+| source | AI가 답변을 만들 때 참고하는 근거 후보 | 기사 본문이 실제 질문에 답하는가 |
+| citation | 사용자 화면에 보이는 링크 | 기사 URL이 반복적으로 화면에 보이는가 |
+| consensus | 여러 외부 출처가 반복하는 설명 | 카테고리/제품명/핵심 기능이 일관되는가 |
+| risk source | 오해나 과거 이슈를 만드는 근거 | 오래된 기사/비공식 글/편향된 제목이 반복되는가 |
+
+HaloX의 [AI에게 인용되는 콘텐츠 만드는 법](https://haloxlabs.ai/ko/blog/how-to-get-cited-by-ai)은 AI가 답변 재료로 쓰기 쉬운 콘텐츠 구조를 강조합니다. PR 기사도 예외가 아닙니다. 첫 문단이 모호하고 핵심 근거가 뒤에 묻혀 있으면 매체 신뢰도가 있어도 AI 답변 재료로 쓰이기 어렵습니다.
+
 ## 보도자료를 GEO형으로 만드는 구조
 
 보도자료도 AI가 읽기 좋은 구조가 필요합니다. 제목만 세게 쓰고 본문이 홍보 문장으로 흐르면 답변 근거로 쓰이기 어렵습니다.
@@ -43,6 +57,49 @@ GEO 관점에서 PR은 단발 노출보다 답변 근거(source)로서의 역할
 | 관련 링크 | 제품 페이지, 뉴스룸, 팩트시트로 이어지게 한다 |
 | FAQ | AI 질문에 가까운 문장으로 정보를 구조화한다 |
 | 회사 소개 | 엔티티 정의를 반복한다 |
+
+
+## AI가 인용하기 쉬운 PR 첫 문단 공식
+
+보도자료 첫 문단은 홍보 문장이 아니라 답변 재료여야 합니다. 다음 다섯 가지를 한 문단 안에서 최대한 분명히 보여줍니다.
+
+| 요소 | 질문 | 예시 방향 |
+|---|---|---|
+| 누가 | 어떤 회사/브랜드인가 | 공식 회사명과 주 카테고리 |
+| 무엇을 | 무엇을 발표했나 | 제품, 리포트, 파트너십, 고객 사례 |
+| 어떤 문제에서 | 어떤 질문/시장 문제와 연결되나 | AI 검색 모니터링, 브랜드 평판, 커머스 데이터 등 |
+| 왜 중요한가 | 검증 가능한 변화나 근거는 무엇인가 | 수치, 고객군, 파트너, 연구 결과 |
+| 어디서 확인하나 | 공식 기준 URL은 무엇인가 | 뉴스룸, 제품 페이지, 팩트시트, FAQ |
+
+나쁜 첫 문단은 “혁신적인 솔루션을 선보였다”에서 끝납니다. 좋은 첫 문단은 “무엇을 하는 회사가 어떤 문제를 해결하기 위해 어떤 근거를 가진 발표를 했는지”까지 답합니다.
+
+## 뉴스룸 구조화와 투명성 기준
+
+Google의 [Article 구조화 데이터 가이드](https://developers.google.com/search/docs/appearance/structured-data/article)와 schema.org의 [NewsArticle](https://schema.org/NewsArticle)은 기사형 콘텐츠에서 `headline`, `datePublished`, `dateModified`, `author`, `publisher`, `image` 같은 속성이 중요하다는 기준을 제공합니다. Google News의 [기사 페이지 권장사항](https://support.google.com/news/publisher-center/answer/9607104)과 [뉴스 정책](https://support.google.com/news/publisher-center/answer/6204050)은 제목, 날짜, 작성자, 본문, 투명성, 오해 소지가 있는 콘텐츠 방지를 강조합니다.
+
+GEO 관점에서 이것은 단순한 뉴스 노출 팁이 아닙니다. AI가 “이 정보가 언제, 누가, 어떤 책임 주체로 발행한 것인지” 판단하는 신뢰 구조입니다.
+
+| 뉴스룸 필드 | GEO에서 중요한 이유 |
+|---|---|
+| 발행일/수정일 | 오래된 정보와 최신 정보를 구분한다 |
+| 작성자/게시자 | 발행 주체의 신뢰를 확인한다 |
+| 대표 이미지/제목 | 기사 객체를 명확하게 식별한다 |
+| 회사 소개 | 엔티티 정의를 반복한다 |
+| 문의/연락처 | PR/정정/추가 확인 경로를 제공한다 |
+| 관련 공식 링크 | 제품/팩트시트/FAQ와 연결한다 |
+| 수정 이력 | 정정과 업데이트의 투명성을 보여준다 |
+
+## PR 자산을 브랜드 합의 신호로 연결하기
+
+HaloX의 [GEO 평판 관리와 브랜드 합의 신호](https://haloxlabs.ai/ko/blog/geo-reputation-brand-consensus) 관점에서 PR은 외부 합의 신호를 만드는 핵심 채널입니다. 하지만 언론 기사와 뉴스룸의 설명이 다르면 합의가 아니라 혼선을 만듭니다.
+
+PR을 배포할 때는 메시지 하우스를 먼저 만듭니다.
+
+```text
+브랜드 한 줄 정의 / 핵심 카테고리 / 대표 기능 3개 / 주요 고객군 / 비교 기준 / 공식 근거 URL / 쓰지 말아야 할 표현
+```
+
+이 메시지 하우스는 보도자료, 인터뷰, 기고, 뉴스룸 FAQ, 외부 디렉터리 소개문에서 반복되어야 합니다. 문장을 완전히 똑같이 복사하라는 뜻이 아니라, 카테고리와 문제 해결 방식이 서로 충돌하지 않아야 한다는 뜻입니다.
 
 ## 뉴스룸과 언론을 함께 관리해야 한다
 
@@ -70,6 +127,29 @@ PR 배포 후에는 다음을 확인합니다.
 6. AI 답변에서 source/citation 변화를 재측정한다.
 
 ## 실습 워크시트
+
+
+## PR 캠페인 후 재측정 리포트 예시
+
+PR 배포 뒤에는 기사 클리핑만 모으지 말고 같은 질문셋으로 AI 답변을 다시 봅니다.
+
+| 재측정 질문 | 확인할 변화 | 판단 |
+|---|---|---|
+| 이 회사는 어떤 회사인가 | 카테고리 정의가 바뀌었는가 | 엔티티 설명 품질 |
+| 이 분야에서 주목할 회사는 | 브랜드가 후보군에 들어오는가 | 비브랜드 질문 가시성 |
+| 이 제품의 장점은 | PR에서 강조한 근거가 반영되는가 | 메시지 반영도 |
+| 경쟁사와 무엇이 다른가 | 차별 기준이 구체화됐는가 | 비교 문맥 품질 |
+| 신뢰할 만한가 | 제3자 기사/공식 팩트가 함께 쓰이는가 | 신뢰 source 조합 |
+
+## 참고 링크 패키지
+
+- HaloX: [AI에게 인용되는 콘텐츠 만드는 법](https://haloxlabs.ai/ko/blog/how-to-get-cited-by-ai)
+- HaloX: [GEO 콘텐츠 구조화 가이드](https://haloxlabs.ai/ko/blog/geo-content-structure)
+- HaloX: [GEO 평판 관리와 브랜드 합의 신호](https://haloxlabs.ai/ko/blog/geo-reputation-brand-consensus)
+- Google: [Article 구조화 데이터](https://developers.google.com/search/docs/appearance/structured-data/article)
+- schema.org: [NewsArticle](https://schema.org/NewsArticle)
+- Google News: [기사 페이지 권장사항](https://support.google.com/news/publisher-center/answer/9607104)
+- Google News: [뉴스 정책](https://support.google.com/news/publisher-center/answer/6204050)
 
 | 입력 항목 | 작성 기준 |
 |---|---|

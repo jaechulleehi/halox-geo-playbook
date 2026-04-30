@@ -19,6 +19,20 @@ GEO에서 출처 전략은 “백링크를 많이 만들자”가 아닙니다. 
 | Reputation risk | AI가 오래된 이슈나 틀린 문장을 반복하는가 | 금융/규제 산업, 기업 뉴스룸 |
 | Offsite entity operations | 위키/PR/커뮤니티/외부 블로그를 어떻게 운영할까 | 글로벌 GEO, 엔터프라이즈 뉴스룸 |
 
+## 오프사이트 엔티티 전략의 판단 모델
+
+오프사이트 엔티티 전략은 “외부 사이트에 우리 링크를 많이 만들자”가 아닙니다. AI가 브랜드를 이해하는 경로를 네 단계로 나누어 보는 일입니다.
+
+| 단계 | 질문 | 대표 채널 | 실패하면 생기는 문제 |
+|---|---|---|---|
+| Identity | 우리는 어떤 이름/카테고리의 엔티티인가 | 공식 사이트, Organization schema, 위키데이터, 디렉터리 | 다른 회사/제품/카테고리와 섞임 |
+| Evidence | 그 설명을 뒷받침할 독립 근거가 있는가 | 언론, 리포트, 인터뷰, 파트너 페이지 | 자사 주장처럼 보여 신뢰가 약함 |
+| Usage context | 실제 사용자는 어떤 맥락에서 말하는가 | Reddit, 커뮤니티, 리뷰, Q&A | 추천/비교 답변에서 장단점이 빈약함 |
+| Distribution | 같은 메시지가 다양한 질문 문맥에 배치되어 있는가 | 외부 블로그, 신디케이터, 업계 미디어 | 자사 블로그 밖에서는 근거가 부족함 |
+| Operations | 매달 어떤 source/citation/consensus가 바뀌었는가 | HaloX 리포트, 월간 운영표 | 실행 없이 캡처와 감상으로 끝남 |
+
+이 모델은 HaloX의 [GEO 평판 관리와 브랜드 합의 신호](https://haloxlabs.ai/ko/blog/geo-reputation-brand-consensus), [AI에게 인용되는 콘텐츠 만드는 법](https://haloxlabs.ai/ko/blog/how-to-get-cited-by-ai), [GEO 콘텐츠 구조화 가이드](https://haloxlabs.ai/ko/blog/geo-content-structure)와 연결됩니다. 외부 공식 근거로는 Google의 Organization/Article/Discussion forum 구조화 데이터, canonical 가이드, Wikipedia/Wikidata의 등재/출처/이해상충 기준을 함께 봅니다.
+
 ## 이 장에서 다루는 세부 페이지
 
 - [05-01. 답변 근거(source)와 화면 인용(citation)은 무엇이 다른가](https://wikidocs.net/346350)

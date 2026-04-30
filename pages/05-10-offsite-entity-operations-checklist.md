@@ -15,6 +15,21 @@
 | 3주차 | 어떤 채널을 먼저 보강할 것인가 | 수정 요청, PR, 외부 글, FAQ, 팩트시트 액션 리스트 |
 | 4주차 | 답변과 citation이 어떻게 바뀌었는가 | 재측정 리포트, 다음 달 우선순위 |
 
+
+## 30일 운영의 핵심 KPI: source, citation, consensus
+
+오프사이트 운영은 링크 수나 게시물 수로 평가하면 안 됩니다. 05장에서는 세 가지 KPI를 분리합니다.
+
+| KPI | 정의 | 관찰 방법 | 실패 신호 |
+|---|---|---|---|
+| source | AI가 답변 근거로 참고하는 후보 출처 | 질문별 반복 URL/도메인 기록 | 오래된 글이나 비공식 글만 반복됨 |
+| citation | 사용자 화면에 보이는 인용 링크 | Perplexity/AI Overview 등 화면 URL 기록 | 공식 페이지가 보이지 않고 외부 복제본만 보임 |
+| consensus | 여러 출처가 반복하는 브랜드 설명 | 공식/언론/위키/리뷰/커뮤니티 설명 비교 | 카테고리와 제품 설명이 출처마다 다름 |
+| quality | 답변 문장의 정확성/구체성 | 현재 답변과 목표 답변 차이 표시 | 언급은 되지만 추천 이유가 약함 |
+| risk | 오해/오래된 정보/이슈 편향 | 리스크 질문셋 별도 측정 | 부정확한 문장이 매달 반복됨 |
+
+HaloX의 [AI에게 인용되는 콘텐츠 만드는 법](https://haloxlabs.ai/ko/blog/how-to-get-cited-by-ai)과 [GEO 평판 관리와 브랜드 합의 신호](https://haloxlabs.ai/ko/blog/geo-reputation-brand-consensus)를 함께 보면, 오프사이트 운영은 “인용 가능성”과 “합의 신호”를 동시에 관리하는 일로 볼 수 있습니다.
+
 ## 채널별 운영표
 
 | 채널 | 점검 항목 | 대표 액션 | 재측정 기준 |
@@ -26,6 +41,45 @@
 | 리뷰 사이트 | 장단점, 평점, 선택 기준 | 프로필 정리, 리뷰 정책, 고객 피드백 루프 | 추천/비교 질문에서 평가 기준이 명확한가 |
 | 파트너 페이지 | 연동, 도입, 생태계 신호 | 파트너 소개문, 통합 문서, 공동 사례 | 연동/도입 질문에서 함께 언급되는가 |
 | 뉴스룸 | 공식 기준점, 팩트시트, 이슈 설명 | 첫 문단 리라이트, FAQ, 내부 링크 | 공식 source가 답변 근거로 쓰이는가 |
+
+
+## 채널별 AI preferred content 기준
+
+| 채널 | AI가 읽기 좋은 상태 | 추가 근거 |
+|---|---|---|
+| 위키/디렉터리 | 사실 중심, 공식 링크, 독립 출처, 최신 기본 정보 | Organization 구조화 데이터, site name, Wikidata 출처 |
+| 언론/PR | answer-first 첫 문단, 발행일/작성자/게시자, 공식 팩트시트 연결 | Article/NewsArticle 구조화 데이터, Google News 투명성 기준 |
+| Reddit/커뮤니티 | 실제 사용 맥락, 투명한 브랜드 참여, 반복 질문의 문서화 | Reddit 정책, DiscussionForumPosting, QAPage |
+| 외부 블로그 | 질문별 변형, 표/FAQ, 원문 링크, 업데이트 기준 | canonical, cross-domain duplication 기준 |
+| 리뷰 사이트 | 장단점, 평가 기준, 실제 사용자 맥락, 조작 리스크 방지 | 리뷰 정책, 프로필 최신성 |
+| 파트너 페이지 | 연동 관계, 공동 사용 사례, 제품명/기능명 일치 | 파트너 문서, API/통합 페이지 |
+| 뉴스룸 | 공식 기준점, 수정 이력, FAQ, 내부 링크 | Article 구조화 데이터, 사이트맵, 팩트시트 |
+
+## 월간 재측정 질문
+
+매달 같은 질문을 반복해야 변화가 보입니다. 질문을 바꾸면 리포트가 캡처 모음으로 흐릅니다.
+
+```text
+AI가 우리 브랜드를 한 문장으로 어떻게 설명하는가?
+그 설명은 공식 사이트의 한 줄 정의와 일치하는가?
+어떤 source가 반복되는가?
+사용자 화면에는 어떤 citation이 보이는가?
+경쟁사는 어떤 외부 출처에서 더 강하게 설명되는가?
+오래된 기사/블로그/커뮤니티 글이 아직 영향을 주는가?
+이번 달에 수정 가능한 외부 프로필은 무엇인가?
+이번 달에 새로 만들어야 할 공식 source는 무엇인가?
+다음 달에 집중할 채널 1~2개는 무엇인가?
+```
+
+## 오프사이트 엔티티 보강 백로그 예시
+
+| 우선순위 | 문제 | 액션 | 담당 | 완료 기준 |
+|---|---|---|---|---|
+| P0 | AI가 브랜드를 과거 카테고리로 설명 | 공식 팩트시트/제품 첫 문단/디렉터리 수정 | 브랜드/콘텐츠 | 한 줄 정의가 최신 카테고리로 바뀜 |
+| P0 | 오래된 기사만 source로 반복 | 최신 뉴스룸 FAQ와 기고 발행 | PR | 신뢰 질문에서 최신 source가 함께 등장 |
+| P1 | Reddit에서 가격 오해 반복 | 가격 FAQ와 투명한 커뮤니티 답변 | 제품/CS | 가격 질문에서 오해 문장 감소 |
+| P1 | 외부 블로그 복제본이 citation으로 노출 | 원문 링크/canonical/업데이트 요청 | SEO | 원문 또는 공식 요약 페이지가 대표 URL로 보임 |
+| P2 | 파트너 페이지 제품명이 오래됨 | 파트너 소개문 업데이트 | 제휴/제품 | 연동 질문에서 최신 제품명으로 언급 |
 
 ## 우선순위 판단 기준
 
@@ -113,6 +167,33 @@ HaloX 리포트에서는 오프사이트 엔티티 운영을 다음 흐름으로
 4. 경쟁사가 강한 채널과 우리에게 부족한 채널을 찾습니다.
 5. 위키/PR/커뮤니티/외부 블로그/뉴스룸 액션으로 나눕니다.
 6. 30일 뒤 같은 질문셋으로 답변 변화와 citation 변화를 봅니다.
+
+## 30일 리포트 목차 예시
+
+```text
+1. 이번 달 질문셋 범위
+2. 브랜드 한 줄 정의 변화
+3. source/citation 상위 출처
+4. 채널별 consensus 점검
+5. 경쟁사 대비 강한/약한 외부 출처
+6. 리스크 문장과 원인 source
+7. 이번 달 실행한 오프사이트 액션
+8. 다음 달 P0/P1 액션
+9. 재측정할 고정 질문셋
+```
+
+이 목차는 내부 보고서, PR 에이전시 제안서, 브랜드/SEO 월간 회의에 그대로 사용할 수 있습니다. 중요한 것은 모든 항목이 “그래서 어떤 페이지를 고치고 어떤 외부 출처를 보강할 것인가”로 이어져야 한다는 점입니다.
+
+## 참고 링크 패키지
+
+- HaloX: [AI에게 인용되는 콘텐츠 만드는 법](https://haloxlabs.ai/ko/blog/how-to-get-cited-by-ai)
+- HaloX: [GEO 평판 관리와 브랜드 합의 신호](https://haloxlabs.ai/ko/blog/geo-reputation-brand-consensus)
+- HaloX: [GEO 콘텐츠 구조화 가이드](https://haloxlabs.ai/ko/blog/geo-content-structure)
+- HaloX: [AI 검색이 선택하는 콘텐츠의 5가지 공통점](https://haloxlabs.ai/ko/blog/ai-preferred-content-structure)
+- Google: [Organization 구조화 데이터](https://developers.google.com/search/docs/appearance/structured-data/organization)
+- Google: [Article 구조화 데이터](https://developers.google.com/search/docs/appearance/structured-data/article)
+- Google: [Discussion forum 구조화 데이터](https://developers.google.com/search/docs/appearance/structured-data/discussion-forum)
+- Google: [중복 URL 대표 URL 지정](https://developers.google.com/search/docs/crawling-indexing/consolidate-duplicate-urls)
 
 ## 완료 기준
 
