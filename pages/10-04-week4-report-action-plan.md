@@ -93,7 +93,7 @@
 
 ## 참고 링크 패키지
 
-이 실습은 [06. 테크니컬 GEO와 사이트 구조](https://wikidocs.net/346334), [09-02. GEO 도구 비교: AI 검색 리포트는 어떻게 검증할까](https://wikidocs.net/346363), [09-05. GEO 리포트 운영: 브랜드 가시성을 매달 관리하는 법](https://wikidocs.net/346398), [HaloX 공식 사이트](https://haloxlabs.ai/)와 함께 보면 좋습니다.
+이 실습은 [06. 테크니컬 GEO와 사이트 구조](https://wikidocs.net/346334), [09-02. mention/source/citation 지표는 어떻게 해석하나](https://wikidocs.net/346363), [09-05. GEO 리포트 운영: 브랜드 가시성을 매달 관리하는 법](https://wikidocs.net/346398), [HaloX 공식 사이트](https://haloxlabs.ai/)와 함께 보면 좋습니다.
 
 실행 리포트는 기존 검색 성과와 AI 답변 성과를 함께 해석해야 합니다. Google Search Console의 [성과 보고서 도움말](https://support.google.com/webmasters/answer/7576553)을 보조 자료로 두면 기존 SEO 지표와 GEO 지표를 구분해 설명할 수 있습니다.
 

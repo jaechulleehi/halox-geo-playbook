@@ -1,6 +1,6 @@
 # SEO/GEO 운영 기준
 
-이 문서는 `생성형 엔진 최적화(GEO) 실전 교과서`의 SEO/GEO 키워드 맵입니다. 목적은 키워드를 본문에 억지로 반복하는 것이 아니라, 검색자가 실제로 묻는 질문을 각 장과 페이지가 자연스럽게 맡도록 배치하는 것입니다.
+이 문서는 `생성형 엔진 최적화(GEO) 실전 교과서`의 SEO/GEO 키워드 맵입니다. 목적은 키워드를 본문에 억지로 반복하는 것이 아니라, 독자가 실제로 묻는 질문을 각 장과 페이지가 자연스럽게 맡도록 배치하는 것입니다.
 
 책 제목은 유지합니다.
 
@@ -117,7 +117,7 @@
 | 2 | 플랫폼 인용 | Perplexity SEO, Google AI Overviews 최적화, AI Overviews SEO | [02-02. Perplexity SEO와 Google AI Overviews 최적화는 어떻게 다르게 볼까](pages/02-02-perplexity-ai-overviews-citation.md) | 플랫폼별 source/citation 차이 설명 |
 | 2 | 측정 지표 | 브랜드 언급률, 답변 근거(source), 화면 인용(citation) | [02-03. 브랜드 언급률, 답변 근거, 화면 인용은 어떻게 나눠 읽나](pages/02-03-mention-source-citation.md) | mention/source/citation을 분리해 해석 |
 | 2 | 리포트 읽기 | AI 검색 리포트, GEO 분석 지표 | [02-04. AI 검색 리포트는 어떤 지표로 읽어야 하나](pages/02-04-ai-search-report.md) | 점수보다 실행 가능한 원인을 읽는 법 제시 |
-| 2 | 질문 확장 | fan-out 질문 구조, AI 질문셋 | [03. Fan-out 질문 확장과 AI 질문셋](pages/03-chapter-3.md) | 검색어를 질문 시장으로 확장 |
+| 2 | 질문 확장 | fan-out 질문 구조, AI 질문셋 | [03. Query Fan-out: AI가 내부에서 확장하는 질문 패턴](pages/03-chapter-3.md) | 사용자 질문셋과 AI fan-out 검색 패턴을 분리 |
 | 2 | 콘텐츠 구조 | AI가 인용하는 콘텐츠, Answer-first 콘텐츠 | [04-01. AI가 인용하는 Answer-first 콘텐츠는 어떻게 쓰는가](pages/04-01-answer-first-content.md) | AI가 답변 재료로 쓰기 쉬운 본문 구조 제시 |
 | 2 | 출처 전략 | 답변 근거(source), 화면 인용(citation) | [05-01. 답변 근거(source)와 화면 인용(citation)은 무엇이 다른가](pages/05-01-source-citation-difference.md) | source와 citation의 차이를 깊게 설명 |
 | 2 | 엔터티 신호 | Entity, 브랜드 합의 신호 | [05-02. Entity와 브랜드 합의 신호를 만드는 법](pages/05-02-entity-consensus-offsite.md) | AI가 브랜드를 일관되게 이해하게 만드는 신호 정리 |
@@ -127,10 +127,10 @@
 | 2 | 메타 정보 점검 | title, meta description, canonical, robots meta | [06-08. 메타 정보 실전 점검](pages/06-08-meta-canonical-snippet-checklist.md) | 대표 URL과 검색/공유 설명을 GEO 관점으로 점검 |
 | 2 | 산업별 적용 | B2B SaaS GEO | [07-01. B2B SaaS GEO는 무엇이 다른가](pages/07-01-b2b-saas-geo.md) | B2B SaaS의 비교/검토 질문 대응 |
 | 2 | 글로벌 확장 | 글로벌 GEO, 영문 GEO | [08. 글로벌/영문 GEO 전략](pages/08-chapter-8.md) | 영문 카테고리 자산과 글로벌 source 전략 정리 |
-| 3 | 구매/검토 | GEO 대행사, GEO 컨설팅, GEO 도구, GEO 솔루션 | [09. GEO 대행사/컨설팅/도구 검증: AI 검색 리포트 읽는 법](pages/09-chapter-9.md) | 외부 파트너와 도구/솔루션을 검토하는 기준 제시 |
-| 3 | 대행사 선택 | GEO 대행사 선택 기준, GEO 대행사 검증 | [09-01. GEO 대행사/컨설팅 선택 기준: 무엇을 증명해야 하나](pages/09-01-geo-agency-checklist.md) | 파트너가 증명해야 할 산출물과 위험 신호 제시 |
-| 3 | 도구 비교 | GEO 도구, GEO 도구 비교, GEO 분석 솔루션, AI 검색 리포트 | [09-02. GEO 도구 비교: AI 검색 리포트는 어떻게 검증할까](pages/09-02-geo-tool-report-criteria.md) | 도구 화면보다 리포트 해석 가능성을 검증 |
-| 3 | 비용 판단 | GEO 컨설팅 비용, GEO 실행 범위 | [09-03. GEO 컨설팅 비용과 실행 범위는 어떻게 정할까](pages/09-03-geo-business-model.md) | 비용을 질문 수/분석 깊이/실행 범위로 해석 |
+| 3 | 구매/검토 | GEO 대행사, GEO 컨설팅, GEO 도구, GEO 솔루션 | [09. GEO 리포트와 실행 검증: AI 검색 성과를 읽는 법](pages/09-chapter-9.md) | 직접 실행 결과, 도구 리포트, 외부 제안서를 같은 기준으로 검증 |
+| 3 | 대행사 선택 | GEO 대행사 선택 기준, GEO 대행사 검증 | [09-01. GEO 리포트는 무엇을 보여줘야 하나](pages/09-01-geo-agency-checklist.md) | 질문셋/source/citation/경쟁 문맥/다음 액션이 있는 리포트 기준 제시 |
+| 3 | 도구 비교 | GEO 도구, GEO 도구 비교, GEO 분석 솔루션, AI 검색 리포트 | [09-02. mention/source/citation 지표는 어떻게 해석하나](pages/09-02-geo-tool-report-criteria.md) | GEO 리포트의 핵심 지표를 조합별로 해석 |
+| 3 | 비용 판단 | GEO 컨설팅 비용, GEO 실행 범위 | [09-03. GEO 실행 범위와 비용은 어떻게 판단하나](pages/09-03-geo-business-model.md) | 직접 실행/도구/컨설팅 범위를 질문 수/분석 깊이/재측정 기준으로 해석 |
 | 3 | 제안서 검토 | GEO 제안서, GEO 제안서 비교 | [09-04. GEO 제안서 비교: 과장된 약속은 어떻게 걸러낼까](pages/09-04-geo-proposal-structure.md) | 과장된 약속과 검증 가능한 실행안을 구분 |
 | 3 | 운영 리포트 | GEO 리포트, 브랜드 가시성 분석, AI 검색 모니터링 솔루션 | [09-05. GEO 리포트 운영: 브랜드 가시성을 매달 관리하는 법](pages/09-05-recurring-geo-report-product.md) | 월간 운영 회의와 30일 액션으로 연결 |
 | 3 | 솔루션 추천 | GEO 솔루션 추천, AI 검색 최적화 도구, 브랜드 가시성 분석 도구 | [09-06. GEO 솔루션 추천: AI 검색 최적화 도구 고르는 법](pages/09-06-geo-solution-recommendation.md) | 도구 후보를 순위보다 목적/질문셋/실행 연결 기준으로 비교 |
@@ -155,7 +155,7 @@
 | 측정/모니터링 | AI 검색 모니터링, AI 브랜드 모니터링, 브랜드 가시성 분석, 브랜드 언급률, mention/source/citation | 02장/09장/10장/91장 | 리포트 예시/지표 정의 |
 | 브랜드/솔루션 | HaloX GEO, 헤일로X GEO, 헤일로엑스 GEO, GEO 솔루션, AI 검색 모니터링 솔루션, 브랜드 가시성 분석 솔루션 | README/09장/91장 | 브랜드 연결/제품 검토/솔루션 판단 기준 |
 | SEO/GEO 도구 비교 | SEO 도구 GEO, Semrush GEO, Ahrefs GEO, Profound 대안, Profound 비교, GEO 도구 비교 | 09-06/09-07 | 기존 SEO 도구와 GEO 전용 도구의 역할 차이/조합 추천 |
-| 구매/검토 | GEO 대행사, GEO 대행사 선택 기준, GEO 컨설팅, GEO 컨설팅 비용, GEO 도구, GEO 도구 비교, GEO 제안서, GEO 리포트, AI 검색 리포트 | 09장/10장 | 제목/비교표/위험 신호 |
+| 리포트/검증/구매 검토 | GEO 리포트, AI 검색 리포트, GEO 대행사, GEO 대행사 선택 기준, GEO 컨설팅, GEO 컨설팅 비용, GEO 도구, GEO 도구 비교, GEO 제안서 | 09장/10장 | 리포트 해석/실행 검증/도구/제안서 위험 신호 |
 | 산업별 적용 | B2B SaaS GEO, 커머스 AIO, 로컬 SEO, 로컬 GEO, 글로벌 GEO | 07장/08장/11장/12장 | 업종별 질문셋/사례/체크리스트 |
 | 교육/워크숍 | GEO 강의, GEO 실행 리포트, 4주 실행 로드맵 | 10장 | 실습 순서/산출물/완료 기준 |
 
@@ -171,8 +171,8 @@
 8. GEO 콘텐츠를 만들 때 SEO 키워드를 AI 질문셋과 프롬프트로 어떻게 바꾸나?
 9. AI가 인용하는 콘텐츠 구조는 무엇인가?
 10. GEO 대행사와 GEO 컨설팅을 선택할 때 무엇을 증명해야 하나?
-11. GEO 도구 비교와 AI 검색 리포트 검증은 어떤 기준으로 해야 하나?
-12. GEO 컨설팅 비용과 실행 범위는 어떻게 판단해야 하나?
+11. mention/source/citation 지표와 AI 검색 리포트 검증은 어떤 기준으로 해야 하나?
+12. GEO 실행 범위와 비용은 어떻게 판단해야 하나?
 13. GEO 솔루션과 AI 검색 모니터링 솔루션은 어떤 기준으로 비교해야 하나?
 14. Semrush, Ahrefs 같은 SEO 도구와 Profound, HaloX 같은 GEO 도구는 무엇이 다른가?
 15. HaloX, 헤일로X, 헤일로엑스는 GEO 분석 흐름에서 어떤 문제를 해결하나?
@@ -199,7 +199,7 @@
 ## 점검 체크리스트
 
 - [ ] README 첫 두 문단에 1순위/2순위 핵심 키워드가 자연스럽게 들어가 있는가?
-- [ ] TOC 제목이 검색자가 실제로 묻는 질문형/문제 해결형에 가까운가?
+- [ ] TOC 제목이 독자가 실제로 묻는 질문형/문제 해결형에 가까운가?
 - [ ] 02장에는 플랫폼/브랜드 노출 키워드가 분산되어 있는가?
 - [ ] 09장에는 구매/검토 키워드, GEO 솔루션 비교 의도, Semrush/Ahrefs/Profound/HaloX 비교 의도가 집중되어 있는가?
 - [ ] 12장에는 로컬 SEO/GEO 키워드가 별도 축으로 잡혀 있는가?

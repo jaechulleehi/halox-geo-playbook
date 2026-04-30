@@ -146,4 +146,4 @@ Google의 [SEO Link Best Practices](https://developers.google.com/search/docs/cr
 
 ## 다음 흐름
 
-이전: [08-02. Locale/hreflang은 GEO에서 어떻게 봐야 하나](https://wikidocs.net/346360) / 다음: [09. GEO 대행사/컨설팅/도구 검증: AI 검색 리포트 읽는 법](https://wikidocs.net/346337)
+이전: [08-02. Locale/hreflang은 GEO에서 어떻게 봐야 하나](https://wikidocs.net/346360) / 다음: [09. GEO 리포트와 실행 검증: AI 검색 성과를 읽는 법](https://wikidocs.net/346337)

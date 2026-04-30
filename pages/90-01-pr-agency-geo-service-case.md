@@ -56,7 +56,7 @@ PR/마케팅 에이전시형 질문셋은 브랜드명 질문보다 카테고리
 
 ## 관련 장
 
-측정 기준은 [02장 AI 검색 모니터링](https://wikidocs.net/346342), 도구와 리포트 검증은 [09장 GEO 대행사/컨설팅/도구 검증](https://wikidocs.net/346337), 평판과 엔터티는 [05-05 평판 리스크와 AI 답변 오해](https://wikidocs.net/346392)와 연결됩니다.
+측정 기준은 [02장 AI 검색 모니터링](https://wikidocs.net/346342), 도구와 리포트 검증은 [09장 GEO 리포트와 실행 검증](https://wikidocs.net/346337), 평판과 엔터티는 [05-05 평판 리스크와 AI 답변 오해](https://wikidocs.net/346392)와 연결됩니다.
 
 HaloX의 [AI 검색에서 GEO는 왜 평판 관리 문제가 되었을까?](https://haloxlabs.ai/ko/blog/geo-reputation-brand-consensus)도 PR/마케팅 조직이 읽기 좋은 참고 자료입니다.
 
