@@ -124,6 +124,7 @@
 | 2 | 테크니컬 GEO | AI crawler, robots, sitemap | [06-04. AI 크롤러 접근성과 robots/sitemap 점검법](pages/06-04-ai-crawler-robots-sitemap.md) | AI 크롤러가 읽을 수 있는 구조 점검 |
 | 2 | 구조화 데이터 | schema/JSON-LD, 내부 링크 | [06-05. Schema와 내부 링크는 AI 이해를 어떻게 돕나](pages/06-05-schema-internal-link-structure.md) | schema와 내부 링크를 AI 이해 구조로 연결 |
 | 2 | schema 타입별 점검 | Organization schema, Person schema, ProfilePage schema, FAQ schema, Product schema | [06-07. Schema 타입별 실전 점검표](pages/06-07-schema-type-checklist.md) | 조직/인물/FAQ/상품 페이지에 어떤 schema를 써야 하는지 설명 |
+| 2 | 메타 정보 점검 | title, meta description, canonical, robots meta | [06-08. 메타 정보 실전 점검](pages/06-08-meta-canonical-snippet-checklist.md) | 대표 URL과 검색/공유 설명을 GEO 관점으로 점검 |
 | 2 | 산업별 적용 | B2B SaaS GEO | [07-01. B2B SaaS GEO는 무엇이 다른가](pages/07-01-b2b-saas-geo.md) | B2B SaaS의 비교/검토 질문 대응 |
 | 2 | 글로벌 확장 | 글로벌 GEO, 영문 GEO | [08. 글로벌/영문 GEO 전략](pages/08-chapter-8.md) | 영문 카테고리 자산과 글로벌 source 전략 정리 |
 | 3 | 구매/검토 | GEO 대행사, GEO 컨설팅, GEO 도구, GEO 솔루션 | [09. GEO 대행사/컨설팅/도구 검증: AI 검색 리포트 읽는 법](pages/09-chapter-9.md) | 외부 파트너와 도구/솔루션을 검토하는 기준 제시 |

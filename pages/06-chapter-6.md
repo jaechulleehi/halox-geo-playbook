@@ -18,13 +18,14 @@
 | 내부 링크가 있는가 | 다음 질문으로 자연스럽게 이어지는가 | 크롤러가 링크를 발견할 수 있는 href 구조인가 |
 | schema가 있는가 | 본문 의미를 보조하는가 | JSON-LD가 최신 본문/title/canonical과 일치하는가 |
 | schema 타입이 맞는가 | Organization, Person/ProfilePage, FAQPage, Article, Product 등 페이지 유형에 맞는가 | 본문에 보이는 정보만 구조화했는가 |
+| 메타 정보가 맞는가 | title, meta description, canonical, robots meta가 본문과 같은 주제를 말하는가 | 대표 URL과 검색/공유 설명이 일관적인가 |
 | 리치 리절트 후보인가 | FAQ/상품/조직/리뷰 등 구조화된 정보가 있는가 | Rich Results Test와 Schema Markup Validator에서 오류가 없는가 |
 
 AI가 HTML을 Markdown식 텍스트로 바꿔 읽는다고 생각하면, 기술 점검은 선택이 아닙니다. 화면에는 보이지만 HTML/DOM/구조화 데이터에서 빠진 정보는 AI 답변 재료로 안정적으로 쓰이기 어렵습니다.
 
 ## 테크니컬 점검 패키지
 
-이 장의 흐름은 `기본 기술 점검 → 렌더링 확인 → llms.txt/이전 리스크 → AI 크롤러 접근성 → schema/내부 링크 구조화 → Google 공식 도구 검증 → schema 타입별 점검`입니다. 단순 개발 체크리스트가 아니라 GEO 리포트와 연결되는 점검표로 써야 합니다.
+이 장의 흐름은 `기본 기술 점검 → 렌더링 확인 → llms.txt/이전 리스크 → AI 크롤러 접근성 → schema/내부 링크 구조화 → Google 공식 도구 검증 → schema 타입별 점검 → 메타 정보 점검`입니다. 단순 개발 체크리스트가 아니라 GEO 리포트와 연결되는 점검표로 써야 합니다.
 
 | 단계 | 핵심 질문 | 산출물 |
 |---|---|---|
@@ -35,6 +36,7 @@ AI가 HTML을 Markdown식 텍스트로 바꿔 읽는다고 생각하면, 기술 
 | Schema/내부 링크 | AI가 페이지 의미와 관계를 이해할 수 있는가 | schema/internal link 구조화 표 |
 | Google 공식 도구 검증 | 메타 정보, 리치 리절트, schema, 속도, 색인 상태가 정상인가 | Search Console/Rich Results/PageSpeed 점검표 |
 | Schema 타입별 점검 | Organization/Person/FAQ/Product를 어디에 써야 하는가 | 타입별 본문/HTML/JSON-LD 일치표 |
+| 메타 정보 점검 | title/meta description/canonical/robots meta가 본문과 맞는가 | URL별 메타/canonical 점검표 |
 
 ## 이 장에서 다루는 세부 페이지
 
@@ -45,6 +47,7 @@ AI가 HTML을 Markdown식 텍스트로 바꿔 읽는다고 생각하면, 기술 
 - [06-05. Schema와 내부 링크는 AI 이해를 어떻게 돕나](https://wikidocs.net/346394)
 - [06-06. Google 공식 도구로 SEO/GEO 기술 상태 점검하기](https://wikidocs.net/346842)
 - [06-07. Schema 타입별 실전 점검표: Organization/Person/FAQ/Product](https://wikidocs.net/346851)
+- 06-08. 메타 정보 실전 점검: title/meta description/canonical/robots meta
 
 ## 사례로 보는 테크니컬 GEO
 

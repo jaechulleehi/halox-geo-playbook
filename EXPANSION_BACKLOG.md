@@ -79,9 +79,10 @@
 
 ### 06장. 테크니컬 GEO와 사이트 구조
 
-- [ ] robots.txt/AI crawler/sitemap/canonical/redirect 점검표 강화
-- [ ] CSR/SSR/prerender 진단 플로우 추가
-- [ ] llms.txt는 만능이 아니라 실험 변수라는 기준 강화
+- [x] robots.txt/AI crawler/sitemap/canonical/redirect 점검표 강화
+- [x] CSR/SSR/prerender 진단 플로우 추가
+- [x] llms.txt는 만능이 아니라 실험 변수라는 기준 강화
+- [x] 06-08: title/meta description/canonical/robots meta 실전 점검표 추가
 - [x] 06-07: Schema 타입별 실전 점검표. Organization/Person/ProfilePage/Article/Product/FAQ/Breadcrumb/Review를 본문/HTML/title/canonical/내부 링크와 맞춰 확인
 - [ ] 사례: 제3도메인 콘텐츠 시도의 authority/트래픽/운영 리스크
 - [ ] 기능 설명: 기술 SEO/GEO 진단 워크스페이스
