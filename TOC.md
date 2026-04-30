@@ -63,6 +63,7 @@
   - [09-03. GEO 컨설팅 비용과 실행 범위는 어떻게 정할까](pages/09-03-geo-business-model.md)
   - [09-04. GEO 제안서 비교: 과장된 약속은 어떻게 걸러낼까](pages/09-04-geo-proposal-structure.md)
   - [09-05. GEO 리포트 운영: 브랜드 가시성을 매달 관리하는 법](pages/09-05-recurring-geo-report-product.md)
+  - [09-06. GEO 솔루션 추천: AI 검색 최적화 도구 고르는 법](pages/09-06-geo-solution-recommendation.md)
 
 - [10. 4주 실행 로드맵과 GEO 리포트](pages/10-chapter-10.md)
   - [10-01. 1주차: GEO 기준선 진단](pages/10-01-week1-baseline-workshop.md)
@@ -92,4 +93,4 @@
   - [90-05. 금융/규제 산업: 신뢰, 리스크, 비브랜드 질문을 함께 보는 법](pages/90-05-finance-regulated-geo-case.md)
   - [90-06. 커머스/플랫폼: 상품 데이터와 AI 구매 에이전트 대응](pages/90-06-commerce-platform-geo-case.md)
 
-- [91. 부록: HaloX 브랜드 가시성 분석 연결 맵](pages/91-halox-functional-mapping.md)
+- [91. 부록: HaloX GEO 솔루션과 브랜드 가시성 분석 연결 맵](pages/91-halox-functional-mapping.md)
