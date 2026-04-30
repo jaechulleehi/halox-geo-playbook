@@ -171,4 +171,4 @@ Product schema는 [11-03. Product schema와 merchant feed 점검법](https://wik
 
 ## 다음 흐름
 
-Schema 타입별 점검을 마쳤다면 [06-06. Google 공식 도구로 SEO/GEO 기술 상태 점검하기](https://wikidocs.net/346395)에서 Rich Results Test, Schema Markup Validator, PageSpeed, Search Console로 검증합니다. 커머스 상품 데이터는 [11-03. Product schema와 merchant feed 점검법](https://wikidocs.net/346599), 로컬/병원 지점 정보는 [12-02. NAP: 이름/주소/전화번호 일관성 점검](https://wikidocs.net/346603)과 함께 봅니다.
+Schema 타입별 점검을 마쳤다면 [06-06. Google 공식 도구로 SEO/GEO 기술 상태 점검하기](https://wikidocs.net/346842)에서 Rich Results Test, Schema Markup Validator, PageSpeed, Search Console로 검증합니다. 커머스 상품 데이터는 [11-03. Product schema와 merchant feed 점검법](https://wikidocs.net/346599), 로컬/병원 지점 정보는 [12-02. NAP: 이름/주소/전화번호 일관성 점검](https://wikidocs.net/346608)과 함께 봅니다.

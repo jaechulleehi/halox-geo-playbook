@@ -43,8 +43,8 @@ AI가 HTML을 Markdown식 텍스트로 바꿔 읽는다고 생각하면, 기술 
 - [06-03. llms.txt와 사이트 이전 리스크 관리](https://wikidocs.net/346355)
 - [06-04. AI 크롤러 접근성과 robots/sitemap은 어떻게 점검할까](https://wikidocs.net/346393)
 - [06-05. Schema와 내부 링크는 AI 이해를 어떻게 돕나](https://wikidocs.net/346394)
-- 06-06. Google 공식 도구로 SEO/GEO 기술 상태 점검하기
-- 06-07. Schema 타입별 실전 점검표: Organization/Person/FAQ/Product
+- [06-06. Google 공식 도구로 SEO/GEO 기술 상태 점검하기](https://wikidocs.net/346842)
+- [06-07. Schema 타입별 실전 점검표: Organization/Person/FAQ/Product](https://wikidocs.net/346851)
 
 ## 사례로 보는 테크니컬 GEO
 

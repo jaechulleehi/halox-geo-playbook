@@ -194,4 +194,4 @@ schema와 내부 링크는 별개 작업처럼 보이지만 GEO에서는 같은 
 
 ## 다음 흐름
 
-Schema와 내부 링크까지 정리했다면 06-06에서 Google 공식 도구로 메타 정보, 리치 리절트, schema, PageSpeed, Search Console 상태를 검증합니다. Organization/Person/FAQ/Product처럼 타입별 판단이 필요하면 06-07의 schema 타입별 점검표를 함께 봅니다. 그다음 [07. 산업별 GEO 전략](https://wikidocs.net/346335)으로 넘어가 업종별로 어떤 기술 요소와 콘텐츠 구조가 더 중요한지 봅니다.
+Schema와 내부 링크까지 정리했다면 [06-06. Google 공식 도구로 SEO/GEO 기술 상태 점검하기](https://wikidocs.net/346842)에서 메타 정보, 리치 리절트, schema, PageSpeed, Search Console 상태를 검증합니다. Organization/Person/FAQ/Product처럼 타입별 판단이 필요하면 [06-07. Schema 타입별 실전 점검표](https://wikidocs.net/346851)를 함께 봅니다. 그다음 [07. 산업별 GEO 전략](https://wikidocs.net/346335)으로 넘어가 업종별로 어떤 기술 요소와 콘텐츠 구조가 더 중요한지 봅니다.

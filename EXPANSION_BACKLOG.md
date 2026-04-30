@@ -33,10 +33,10 @@
 
 ### 00장. GEO를 처음 이해하는 사람을 위한 시작
 
-- [x] `GEO는 SEO의 대체재가 아니라 AI 답변 시장을 관리하는 일`이라는 첫 정의 강화
-- [x] AI 검색/AI Overview/AI 브리핑/ChatGPT Search/Perplexity를 한 표로 비교
-- [x] 사례: “검색 1위인데 AI 답변에는 안 나오는 상황” 추가
-- [x] HaloX 연결: GEO 정의/비교 블로그와 glossary 링크 보강
+- [ ] `GEO는 SEO의 대체재가 아니라 AI 답변 시장을 관리하는 일`이라는 첫 정의 강화
+- [ ] AI 검색/AI Overview/AI 브리핑/ChatGPT Search/Perplexity를 한 표로 비교
+- [ ] 사례: “검색 1위인데 AI 답변에는 안 나오는 상황” 추가
+- [ ] HaloX 연결: GEO 정의/비교 블로그와 glossary 링크 보강
 
 ### 01장. SEO에서 AI 질문 시장으로
 
