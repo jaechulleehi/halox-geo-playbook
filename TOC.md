@@ -19,10 +19,10 @@
   - [02-03. 브랜드 언급률, 답변 근거, 화면 인용은 어떻게 나눠 읽나](pages/02-03-mention-source-citation.md)
   - [02-04. AI 검색 리포트는 어떤 지표로 읽어야 하나](pages/02-04-ai-search-report.md)
 
-- [03. Fan-out 질문 확장과 AI 질문셋](pages/03-chapter-3.md)
-  - [03-01. Fan-out 질문맵으로 AI 질문셋 만드는 법](pages/03-01-fan-out-question-map.md)
-  - [03-02. 질문 유형 포트폴리오를 어떻게 나눌까](pages/03-02-question-type-portfolio.md)
-  - [03-03. 질문셋에서 콘텐츠 갭을 찾는 법](pages/03-03-content-gap-from-questions.md)
+- [03. Query Fan-out: AI가 내부에서 확장하는 질문 패턴](pages/03-chapter-3.md)
+  - [03-01. Fan-out은 AI가 질문을 어떻게 쪼개는가](pages/03-01-fan-out-question-map.md)
+  - [03-02. 사용자 질문셋과 AI 질문 패턴을 어떻게 분리할까](pages/03-02-question-type-portfolio.md)
+  - [03-03. AI 질문 패턴에서 콘텐츠 갭을 찾는 법](pages/03-03-content-gap-from-questions.md)
 
 - [04. AI가 읽기 좋은 콘텐츠 구조: HTML에서 답변 재료까지](pages/04-chapter-4.md)
   - [04-01. AI가 인용하는 Answer-first 콘텐츠는 어떻게 쓰는가](pages/04-01-answer-first-content.md)
