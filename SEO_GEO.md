@@ -17,9 +17,15 @@
 - GEO 최적화
 - GEO 최적화 방법
 - GEO 최적화 전략
+- GEO 검색 최적화
+- GEO AI 최적화
+- SEO GEO 최적화
 - 생성형 엔진 최적화
 - AI 검색 최적화
 - AI 검색 엔진 최적화
+- ChatGPT SEO
+- ChatGPT 최적화
+- ChatGPT 검색 최적화
 - LLM SEO
 - LLMO
 - GEO vs SEO
@@ -44,6 +50,11 @@
 - GEO 대행사
 - GEO 대행사 검증
 - GEO 대행사 선택 기준
+- GEO 업체
+- GEO 서비스
+- GEO 마케팅
+- GEO 교육
+- GEO 강의
 - GEO 컨설팅
 - GEO 컨설팅 비용
 - GEO 도구
@@ -60,6 +71,8 @@
 - Profound 비교
 - AI 검색 리포트
 - AI 검색 모니터링 솔루션
+- AI 검색 노출 솔루션
+- AI 브랜드 모니터링 솔루션
 - 브랜드 가시성 분석 솔루션
 - GEO 분석 지표
 - AI Visibility Index
