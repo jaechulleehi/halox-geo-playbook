@@ -132,4 +132,4 @@ AVI나 visibility 점수는 유용한 요약 지표가 될 수 있습니다. 하
 
 ## 다음 흐름
 
-이전: [09-01. GEO 대행사/컨설팅 선택 기준](https://wikidocs.net/346362) / 다음: [09-03. GEO 컨설팅 비용과 실행 범위는 어떻게 정할까](https://wikidocs.net/346364) / 도구 도입 후보를 비교하려면 [09-06. GEO 솔루션 추천](09-06-geo-solution-recommendation.md)
+이전: [09-01. GEO 대행사/컨설팅 선택 기준](https://wikidocs.net/346362) / 다음: [09-03. GEO 컨설팅 비용과 실행 범위는 어떻게 정할까](https://wikidocs.net/346364) / 도구 도입 후보를 비교하려면 [09-06. GEO 솔루션 추천](https://wikidocs.net/346843)
