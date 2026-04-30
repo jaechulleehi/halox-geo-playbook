@@ -35,6 +35,11 @@
   - [05-03. 오프사이트 출처 후보 맵을 만드는 법](pages/05-03-offsite-source-map.md)
   - [05-04. 채널별 답변 근거 전략표는 어떻게 만들까](pages/05-04-channel-source-strategy.md)
   - [05-05. 평판 리스크와 AI 답변 오해를 어떻게 줄일까](pages/05-05-reputation-risk-ai-answer.md)
+  - [05-06. 위키/디렉터리 엔티티 관리: 나무위키, 위키피디아, 프로필 사이트](pages/05-06-wiki-directory-entity-management.md)
+  - [05-07. 언론/PR 신뢰 신호 관리: 보도자료, 인터뷰, 기고, 뉴스룸](pages/05-07-pr-media-trust-signal.md)
+  - [05-08. Reddit/커뮤니티 실사용 신호 관리: 비교, 후기, 문제 해결 맥락](pages/05-08-reddit-community-usage-signal.md)
+  - [05-09. 외부 블로그/신디케이터 전략: 분산 콘텐츠로 답변 근거 넓히기](pages/05-09-external-blog-syndication-strategy.md)
+  - [05-10. 오프사이트 엔티티 운영표: 30일 실행 체크리스트](pages/05-10-offsite-entity-operations-checklist.md)
 
 - [06. 테크니컬 GEO와 사이트 구조](pages/06-chapter-6.md)
   - [06-01. 테크니컬 GEO 기본 점검표](pages/06-01-technical-geo-checklist.md)
