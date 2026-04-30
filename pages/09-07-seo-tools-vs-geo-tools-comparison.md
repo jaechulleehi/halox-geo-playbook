@@ -140,4 +140,4 @@ Ahrefs는 백링크, 경쟁 콘텐츠, 검색 수요 같은 SEO 기반 신호에
 
 ## 다음 흐름
 
-구체적인 GEO 도구 선택 기준은 [09-06. GEO 솔루션 추천](09-06-geo-solution-recommendation.md)에서 먼저 확인합니다. 리포트 검증표가 필요하면 [09-02. GEO 도구 비교](09-02-geo-tool-report-criteria.md)를 함께 봅니다. 실제 실행 리포트로 연결하려면 [09-05. GEO 리포트 운영](09-05-recurring-geo-report-product.md)으로 이어가면 됩니다.
+구체적인 GEO 도구 선택 기준은 [09-06. GEO 솔루션 추천](https://wikidocs.net/346843)에서 먼저 확인합니다. 리포트 지표 해석이 필요하면 [09-02. mention/source/citation 지표는 어떻게 해석하나](https://wikidocs.net/346363)를 함께 봅니다. 실제 실행 리포트로 연결하려면 [09-05. GEO 리포트 운영](https://wikidocs.net/346398)으로 이어가면 됩니다.
