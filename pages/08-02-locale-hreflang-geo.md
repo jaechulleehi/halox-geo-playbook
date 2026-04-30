@@ -1,5 +1,7 @@
 ## Locale/hreflang은 GEO에서 어떻게 봐야 하나
 
+![Locale hreflang과 시장별 URL 구조](../assets/images/page-heroes/halox-geo-08-02-locale-hreflang-geo-hero.png)
+
 글로벌 GEO에서는 언어와 지역 처리가 콘텐츠만큼 중요합니다. hreflang, canonical, sitemap, 언어별 URL 구조가 맞아야 시장별 페이지가 올바르게 읽힙니다.
 
 단순 번역 페이지는 현지 질문에 답하지 못할 수 있습니다. 지역별 비교 대상, 규제, 표현 방식이 달라지기 때문입니다.

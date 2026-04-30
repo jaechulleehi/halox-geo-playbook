@@ -1,5 +1,7 @@
 ## B2B SaaS GEO는 무엇이 다른가
 
+![B2B SaaS GEO 비교와 전환 흐름](../assets/images/page-heroes/halox-geo-07-01-b2b-saas-geo-hero.png)
+
 B2B SaaS GEO는 비교/추천/검증 질문이 핵심입니다. 사용자는 바로 구매하지 않고 도구의 차이, 보안, 가격, 연동, 적용 사례를 확인합니다.
 
 B2B SaaS가 정보형 글만 쌓으면 추천형 질문에서 빠질 수 있습니다. AI가 추천할 이유와 비교 기준을 명확히 줘야 합니다.

@@ -1,5 +1,7 @@
 ## 커머스와 플랫폼은 GEO보다 AIO를 먼저 봐야 할까
 
+![커머스 플랫폼 AIO 상품 정보 흐름](../assets/images/page-heroes/halox-geo-07-02-commerce-platform-aio-hero.png)
+
 커머스와 플랫폼 서비스는 웹 문서 GEO만 보면 부족합니다. 상품 데이터, 리뷰, 상세페이지, Google AI Overviews, 쇼핑 검색, 플랫폼 추천 레이어까지 함께 봐야 합니다.
 
 저관여 상품은 사용자가 AI에게 직접 묻지 않을 수 있습니다. 대신 사용 상황, 레시피, 추천, 비교 질문에서 노출 기회가 생깁니다.
