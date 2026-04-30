@@ -53,7 +53,7 @@ AI가 HTML을 Markdown식 텍스트로 바꿔 읽는다고 생각하면, 기술 
 - [06-06. Google 공식 도구로 SEO/GEO 기술 상태 점검하기](https://wikidocs.net/346842)
 - [06-07. Schema 타입별 실전 점검표: Organization/Person/FAQ/Product](https://wikidocs.net/346851)
 - [06-08. 메타 정보 실전 점검: title/meta description/canonical/robots meta](https://wikidocs.net/346855)
-- [06-09. 사이트링크와 리치 리절트 차이: 검색결과 섹션 링크는 어떻게 만들어지나](pages/06-09-sitelinks-rich-results-section-links.md)
+- [06-09. 사이트링크와 리치 리절트 차이: 검색결과 섹션 링크는 어떻게 만들어지나](https://wikidocs.net/346857)
 
 ## 사례로 보는 테크니컬 GEO
 
