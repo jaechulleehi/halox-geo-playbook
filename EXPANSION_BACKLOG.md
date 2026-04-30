@@ -33,10 +33,10 @@
 
 ### 00장. GEO를 처음 이해하는 사람을 위한 시작
 
-- [ ] `GEO는 SEO의 대체재가 아니라 AI 답변 시장을 관리하는 일`이라는 첫 정의 강화
-- [ ] AI 검색/AI Overview/AI 브리핑/ChatGPT Search/Perplexity를 한 표로 비교
-- [ ] 사례: “검색 1위인데 AI 답변에는 안 나오는 상황” 추가
-- [ ] HaloX 연결: GEO 정의/비교 블로그와 glossary 링크 보강
+- [x] `GEO는 SEO의 대체재가 아니라 AI 답변 시장을 관리하는 일`이라는 첫 정의 강화
+- [x] AI 검색/AI Overview/AI 브리핑/ChatGPT Search/Perplexity를 한 표로 비교
+- [x] 사례: “검색 1위인데 AI 답변에는 안 나오는 상황” 추가
+- [x] HaloX 연결: GEO 정의/비교 블로그와 glossary 링크 보강
 
 ### 01장. SEO에서 AI 질문 시장으로
 
@@ -82,7 +82,7 @@
 - [ ] robots.txt/AI crawler/sitemap/canonical/redirect 점검표 강화
 - [ ] CSR/SSR/prerender 진단 플로우 추가
 - [ ] llms.txt는 만능이 아니라 실험 변수라는 기준 강화
-- [ ] 06-06 후보: Schema 타입별 실전 점검표. Organization/Article/Product/FAQ/Breadcrumb/Review를 본문/HTML/title/canonical/내부 링크와 맞춰 확인
+- [x] 06-07: Schema 타입별 실전 점검표. Organization/Person/ProfilePage/Article/Product/FAQ/Breadcrumb/Review를 본문/HTML/title/canonical/내부 링크와 맞춰 확인
 - [ ] 사례: 제3도메인 콘텐츠 시도의 authority/트래픽/운영 리스크
 - [ ] 기능 설명: 기술 SEO/GEO 진단 워크스페이스
 

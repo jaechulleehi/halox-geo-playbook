@@ -4,9 +4,93 @@
 
 Schema와 내부 링크는 AI가 페이지의 의미, 관계, 우선순위를 이해하도록 돕는 구조화 장치입니다. 본문이 좋아도 페이지가 무엇에 대한 글인지, 어떤 질문과 연결되는지, 어떤 제품/조직/entity와 연결되는지 흐리면 AI 답변에서 근거로 쓰이기 어렵습니다.
 
-Schema는 검색엔진만을 위한 장식이 아닙니다. Article, FAQ, Organization, Product, SoftwareApplication, Breadcrumb, Review 같은 구조화 데이터는 페이지의 역할을 명확히 만드는 데 도움을 줍니다. 내부 링크는 관련 페이지를 묶어 AI가 주제 허브와 문맥을 따라가게 만드는 역할을 합니다.
+Schema는 검색엔진만을 위한 장식이 아닙니다. Article, FAQPage, Organization, Person, ProfilePage, Product, SoftwareApplication, BreadcrumbList, Review 같은 구조화 데이터는 페이지의 역할을 명확히 만드는 데 도움을 줍니다. 내부 링크는 관련 페이지를 묶어 AI가 주제 허브와 문맥을 따라가게 만드는 역할을 합니다.
 
 다만 schema는 본문을 대신할 수 없습니다. AI와 검색엔진이 신뢰하기 쉬운 구조는 `사용자에게 보이는 본문`, `HTML 텍스트`, `schema`, `title/canonical`, `내부 링크 앵커`가 같은 의미를 말하는 구조입니다.
+
+## Google은 구조화 데이터를 어떻게 설명하나
+
+Google Search Central은 구조화 데이터를 페이지에 대한 정보를 제공하고 페이지 콘텐츠를 분류하기 위한 표준화된 형식이라고 설명합니다. 쉽게 말하면 “이 페이지가 어떤 대상에 대한 글인지”, “이 정보가 질문/답변인지”, “이 조직의 이름/로고/연락처는 무엇인지”를 기계가 읽기 쉬운 표기법으로 붙이는 일입니다.
+
+중요한 기준은 세 가지입니다.
+
+| 기준 | 의미 | GEO에서의 해석 |
+|---|---|---|
+| 표준 형식 | schema.org vocabulary와 JSON-LD 같은 형식을 사용 | AI/검색엔진이 페이지 의미를 추측하지 않게 돕는다 |
+| 본문 일치 | 구조화 데이터는 사용자가 볼 수 있는 본문과 맞아야 함 | schema에만 있는 정보는 신뢰 신호가 아니라 리스크가 된다 |
+| 결과 보장 아님 | 구조화 데이터가 리치 리절트 노출을 보장하지 않음 | 목표는 장식 노출이 아니라 의미/근거/엔터티 정합성이다 |
+
+따라서 GEO에서 schema는 “AI에게 몰래 힌트를 넣는 코드”가 아니라, 본문에 이미 있는 정보를 더 명확하게 라벨링하는 장치로 봐야 합니다.
+
+## schema는 실제로 어떻게 생겼나
+
+대부분의 사이트에서는 JSON-LD 형식으로 HTML의 `<script type="application/ld+json">` 안에 넣습니다. 아래 예시는 이해를 돕기 위한 축약 예시입니다. 실제 적용 전에는 Google Rich Results Test와 Schema Markup Validator로 확인해야 합니다.
+
+### Organization schema 예시
+
+회사/브랜드의 공식 이름, URL, 로고, 연락처, 동일 브랜드 프로필을 정리할 때 씁니다. GEO 관점에서는 AI가 “이 브랜드가 어떤 조직인지”를 혼동하지 않도록 돕는 엔터티 기준점입니다.
+
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "HaloX Labs",
+  "url": "https://haloxlabs.ai",
+  "logo": "https://haloxlabs.ai/logo.png",
+  "sameAs": [
+    "https://www.linkedin.com/company/halox-labs"
+  ],
+  "contactPoint": [{
+    "@type": "ContactPoint",
+    "contactType": "sales",
+    "email": "hello@example.com"
+  }]
+}
+```
+
+### Person/ProfilePage schema 예시
+
+대표자, 저자, 전문가 프로필처럼 사람의 전문성/소속/공식 프로필을 설명할 때 씁니다. 개인 브랜딩이나 전문가 콘텐츠에서는 `Person`과 `ProfilePage`를 함께 검토할 수 있습니다.
+
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "ProfilePage",
+  "mainEntity": {
+    "@type": "Person",
+    "name": "이재철",
+    "jobTitle": "Founder",
+    "worksFor": {
+      "@type": "Organization",
+      "name": "HaloX Labs"
+    },
+    "sameAs": [
+      "https://www.linkedin.com/in/example"
+    ]
+  }
+}
+```
+
+### FAQPage schema 예시
+
+본문에 실제 질문과 답변이 있을 때만 씁니다. FAQ schema는 질문/답변 쌍을 구조화하는 장치이지, 본문에 없는 키워드를 추가하는 공간이 아닙니다.
+
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "GEO에서 schema는 왜 중요한가요?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Schema는 본문에 있는 정보를 구조화해 검색엔진과 AI가 페이지 의미를 더 안정적으로 이해하도록 돕습니다."
+    }
+  }]
+}
+```
+
+이 예시에서 봐야 할 것은 코드 길이가 아니라 `무엇을 라벨링하는가`입니다. Organization은 브랜드 엔터티, Person/ProfilePage는 사람/전문가 엔터티, FAQPage는 질문과 답변의 관계를 라벨링합니다.
 
 ## schema를 붙이기 전에 맞춰야 할 5가지
 
@@ -24,12 +108,14 @@ Schema를 추가하기 전에 먼저 본문과 사이트 구조가 같은 사실
 
 | 페이지 유형 | 우선 schema | 함께 볼 내부 링크 |
 |---|---|---|
-| 블로그/가이드 | Article, FAQ | 관련 글, glossary, 제품 기능, 케이스 |
-| 글로서리 | DefinedTerm 또는 FAQ | 관련 개념, 측정 지표, 실습 페이지 |
+| 블로그/가이드 | Article, FAQPage | 관련 글, glossary, 제품 기능, 케이스 |
+| 글로서리 | DefinedTerm 또는 FAQPage | 관련 개념, 측정 지표, 실습 페이지 |
+| 회사/브랜드 소개 | Organization, ProfilePage | 회사 소개, 뉴스룸, 제품, 공식 프로필 |
+| 대표/전문가 바이오 | Person, ProfilePage, Article | 저자 글, 인터뷰, 발표 자료, 소속 조직 |
 | 제품 페이지 | Product, SoftwareApplication, Organization | 기능 설명, 비교표, 고객 사례, 보안/연동 문서 |
 | 뉴스룸/보도자료 | NewsArticle, Organization | 팩트시트, 회사 소개, 제품 페이지 |
-| 커머스 상품 | Product, Offer, Review, Breadcrumb | 카테고리, 리뷰, 구매 가이드 |
-| 로컬/전문 서비스 | LocalBusiness, FAQ, Review | 지점, 전문 분야, 후기, 예약 안내 |
+| 커머스 상품 | Product, Offer, Review, BreadcrumbList | 카테고리, 리뷰, 구매 가이드 |
+| 로컬/전문 서비스 | LocalBusiness, FAQPage, Review | 지점, 전문 분야, 후기, 예약 안내 |
 
 ## 사례로 이해하기
 
@@ -95,10 +181,12 @@ schema와 내부 링크는 별개 작업처럼 보이지만 GEO에서는 같은 
 
 | 점검 항목 | 좋은 상태 | 나쁜 상태 |
 |---|---|---|
+| Organization | 공식 조직명, 로고, URL, 설명, sameAs가 본문/외부 프로필과 일치 | 예전 브랜드 설명이나 깨진 프로필 링크가 남아 있음 |
+| Person/ProfilePage | 이름, 직함, 전문 분야, 소속, 공개 프로필이 본문과 일치 | 바이오 정보가 페이지마다 다르거나 과장됨 |
 | Article/BlogPosting | 제목, 설명, 작성/수정일, 본문 주제가 일치 | 오래된 제목이나 다른 주제의 schema가 남아 있음 |
 | FAQPage | 본문에 실제 FAQ가 있고 schema와 일치 | schema에만 질문이 있고 본문에는 없음 |
 | Product | 가격/재고/리뷰가 본문/feed와 일치 | schema와 상세페이지 값이 다름 |
-| Breadcrumb | 허브/카테고리/하위 페이지 관계가 보임 | 현재 페이지 위치를 알기 어려움 |
+| BreadcrumbList | 허브/카테고리/하위 페이지 관계가 보임 | 현재 페이지 위치를 알기 어려움 |
 | 내부 링크 앵커 | 링크 문구가 다음 질문을 설명 | “여기”, “자세히” 같은 모호한 링크 반복 |
 | 허브 구조 | 대표 페이지가 하위 문서를 묶음 | 좋은 글이 서로 연결되지 않음 |
 
@@ -106,4 +194,4 @@ schema와 내부 링크는 별개 작업처럼 보이지만 GEO에서는 같은 
 
 ## 다음 흐름
 
-Schema와 내부 링크까지 정리했다면 06-06에서 Google 공식 도구로 메타 정보, 리치 리절트, schema, PageSpeed, Search Console 상태를 검증합니다. 그다음 [07. 산업별 GEO 전략](https://wikidocs.net/346335)으로 넘어가 업종별로 어떤 기술 요소와 콘텐츠 구조가 더 중요한지 봅니다.
+Schema와 내부 링크까지 정리했다면 06-06에서 Google 공식 도구로 메타 정보, 리치 리절트, schema, PageSpeed, Search Console 상태를 검증합니다. Organization/Person/FAQ/Product처럼 타입별 판단이 필요하면 06-07의 schema 타입별 점검표를 함께 봅니다. 그다음 [07. 산업별 GEO 전략](https://wikidocs.net/346335)으로 넘어가 업종별로 어떤 기술 요소와 콘텐츠 구조가 더 중요한지 봅니다.

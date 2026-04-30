@@ -17,13 +17,14 @@
 | FAQ가 있는가 | 질문과 답이 독자 문제에 맞는가 | FAQ 본문과 FAQPage schema가 충돌하지 않는가 |
 | 내부 링크가 있는가 | 다음 질문으로 자연스럽게 이어지는가 | 크롤러가 링크를 발견할 수 있는 href 구조인가 |
 | schema가 있는가 | 본문 의미를 보조하는가 | JSON-LD가 최신 본문/title/canonical과 일치하는가 |
+| schema 타입이 맞는가 | Organization, Person/ProfilePage, FAQPage, Article, Product 등 페이지 유형에 맞는가 | 본문에 보이는 정보만 구조화했는가 |
 | 리치 리절트 후보인가 | FAQ/상품/조직/리뷰 등 구조화된 정보가 있는가 | Rich Results Test와 Schema Markup Validator에서 오류가 없는가 |
 
 AI가 HTML을 Markdown식 텍스트로 바꿔 읽는다고 생각하면, 기술 점검은 선택이 아닙니다. 화면에는 보이지만 HTML/DOM/구조화 데이터에서 빠진 정보는 AI 답변 재료로 안정적으로 쓰이기 어렵습니다.
 
 ## 테크니컬 점검 패키지
 
-이 장의 흐름은 `기본 기술 점검 → 렌더링 확인 → llms.txt/이전 리스크 → AI 크롤러 접근성 → schema/내부 링크 구조화 → Google 공식 도구 검증`입니다. 단순 개발 체크리스트가 아니라 GEO 리포트와 연결되는 점검표로 써야 합니다.
+이 장의 흐름은 `기본 기술 점검 → 렌더링 확인 → llms.txt/이전 리스크 → AI 크롤러 접근성 → schema/내부 링크 구조화 → Google 공식 도구 검증 → schema 타입별 점검`입니다. 단순 개발 체크리스트가 아니라 GEO 리포트와 연결되는 점검표로 써야 합니다.
 
 | 단계 | 핵심 질문 | 산출물 |
 |---|---|---|
@@ -33,6 +34,7 @@ AI가 HTML을 Markdown식 텍스트로 바꿔 읽는다고 생각하면, 기술 
 | AI 크롤러 접근성 | 주요 AI/검색 크롤러가 막히지 않았는가 | 크롤러 접근 정책표 |
 | Schema/내부 링크 | AI가 페이지 의미와 관계를 이해할 수 있는가 | schema/internal link 구조화 표 |
 | Google 공식 도구 검증 | 메타 정보, 리치 리절트, schema, 속도, 색인 상태가 정상인가 | Search Console/Rich Results/PageSpeed 점검표 |
+| Schema 타입별 점검 | Organization/Person/FAQ/Product를 어디에 써야 하는가 | 타입별 본문/HTML/JSON-LD 일치표 |
 
 ## 이 장에서 다루는 세부 페이지
 
@@ -42,6 +44,7 @@ AI가 HTML을 Markdown식 텍스트로 바꿔 읽는다고 생각하면, 기술 
 - [06-04. AI 크롤러 접근성과 robots/sitemap은 어떻게 점검할까](https://wikidocs.net/346393)
 - [06-05. Schema와 내부 링크는 AI 이해를 어떻게 돕나](https://wikidocs.net/346394)
 - 06-06. Google 공식 도구로 SEO/GEO 기술 상태 점검하기
+- 06-07. Schema 타입별 실전 점검표: Organization/Person/FAQ/Product
 
 ## 사례로 보는 테크니컬 GEO
 
@@ -82,7 +85,8 @@ AI가 HTML을 Markdown식 텍스트로 바꿔 읽는다고 생각하면, 기술 
 |---|---|---|---|---|
 | 핵심 가이드 URL | 초기 HTML에 본문 없음 | View source/렌더링 DOM 비교 | 개발 | 첫 답변과 H2가 HTML 텍스트로 확인됨 |
 | 비교표 페이지 | 표가 이미지로만 있음 | HTML table/리스트 구조 확인 | 콘텐츠/개발 | 기준/값/주의점이 텍스트로 읽힘 |
-| FAQ 페이지 | schema와 본문 불일치 | JSON-LD와 본문 대조/Rich Results Test | 개발 | FAQ 본문과 schema 질문/답변 일치 |
+| FAQ 페이지 | schema와 본문 불일치 | JSON-LD와 본문 대조/Rich Results Test | 개발 | FAQ 본문과 FAQPage schema 질문/답변 일치 |
+| 회사/인물 프로필 | 조직/바이오 정보 불일치 | Organization/Person/ProfilePage schema와 본문 대조 | 콘텐츠/개발 | 조직명/직함/전문 분야/공식 링크가 일치 |
 | 제품/서비스 페이지 | 메타 정보와 본문 불일치 | title/meta description/canonical 확인 | SEO/콘텐츠 | 검색 결과 설명과 본문 목적이 일치 |
 | 핵심 랜딩 페이지 | 페이지 속도 저하 | PageSpeed Insights/Lighthouse 확인 | 개발 | LCP/CLS 등 주요 이슈 개선 계획 수립 |
 | 허브 페이지 | 내부 링크 약함 | href/anchor text 점검 | 콘텐츠 | 관련 하위 페이지가 발견 가능한 링크로 연결 |
@@ -94,7 +98,7 @@ AI가 HTML을 Markdown식 텍스트로 바꿔 읽는다고 생각하면, 기술 
 
 기술 점검은 HaloX의 [llms.txt 설정 가이드](https://haloxlabs.ai/ko/blog/llms-txt-setup-guide), [schema 실무 가이드](https://haloxlabs.ai/ko/blog/schema-markup-practical)와 연결됩니다. 이 장의 체크리스트를 실행할 때 함께 참고하면 좋습니다. 테크니컬 GEO의 기본은 크롤러가 중요한 페이지를 발견하고 이해할 수 있게 만드는 것입니다. robots와 sitemap은 Google의 [robots.txt 소개](https://developers.google.com/search/docs/crawling-indexing/robots/intro), [sitemap 개요](https://developers.google.com/search/docs/crawling-indexing/sitemaps/overview)를 기준으로 함께 점검합니다.
 
-메타 정보와 리치 리절트까지 확인할 때는 Google의 [구조화 데이터 소개](https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data), [Rich Results Test](https://search.google.com/test/rich-results), [PageSpeed Insights](https://pagespeed.web.dev/), [Search Console 성과 보고서](https://support.google.com/webmasters/answer/7576553)를 함께 봅니다. 이 도구들은 SEO 점수를 확인하는 용도에 그치지 않고, GEO에서 AI가 읽을 수 있는 구조가 안정적인지 확인하는 기준으로 씁니다.
+메타 정보와 리치 리절트까지 확인할 때는 Google의 [구조화 데이터 소개](https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data), [Organization schema markup](https://developers.google.com/search/docs/appearance/structured-data/organization), [ProfilePage schema markup](https://developers.google.com/search/docs/appearance/structured-data/profile-page), [FAQ structured data](https://developers.google.com/search/docs/appearance/structured-data/faqpage), [Rich Results Test](https://search.google.com/test/rich-results), [PageSpeed Insights](https://pagespeed.web.dev/), [Search Console 성과 보고서](https://support.google.com/webmasters/answer/7576553)를 함께 봅니다. 이 도구들은 SEO 점수를 확인하는 용도에 그치지 않고, GEO에서 AI가 읽을 수 있는 구조가 안정적인지 확인하는 기준으로 씁니다.
 
 ## 다음 흐름
 
