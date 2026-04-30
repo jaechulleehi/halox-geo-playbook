@@ -1,5 +1,7 @@
 ## FAQ/표/schema는 언제 쓰는가
 
+![FAQ와 표와 schema 구조화 흐름](../assets/images/page-heroes/halox-geo-04-02-faq-schema-table-structure-hero.png)
+
 FAQ, 표, 리스트, schema는 글을 꾸미는 장식이 아니라 질문과 답을 구조화하는 도구입니다. 특히 비교 기준과 실행 기준은 표로 분리할수록 AI가 이해하기 쉽습니다.
 
 본문이 긴 문단으로만 되어 있으면 AI가 항목 간 차이를 파악하기 어렵습니다. AI가 HTML을 Markdown에 가까운 텍스트 구조로 바꿔 읽는다고 생각하면 이유가 더 분명합니다. 표는 `같은 행/열 기준으로 비교되는 정보`를 보존하고, FAQ는 `질문과 답의 짝`을 보존하며, schema는 `이 페이지가 어떤 유형의 정보인지`를 보조 신호로 알려줍니다.

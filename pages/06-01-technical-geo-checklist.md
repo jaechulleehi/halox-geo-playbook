@@ -1,5 +1,7 @@
 ## 테크니컬 GEO 기본 점검표
 
+![테크니컬 GEO 기본 점검표](../assets/images/page-heroes/halox-geo-06-01-technical-geo-checklist-hero.png)
+
 테크니컬 GEO는 AI가 콘텐츠를 발견하고 읽고 해석할 수 있게 만드는 기본 체력입니다. robots.txt, sitemap, canonical, schema, 응답 코드, 내부 링크, 페이지 속도, 렌더링 상태를 함께 봐야 합니다.
 
 좋은 콘텐츠가 있어도 크롤러가 접근하지 못하거나 본문을 읽지 못하면 GEO 성과를 설명하기 어렵습니다. 그래서 기술 점검은 개발팀만의 일이 아니라 콘텐츠팀, SEO팀, PR팀이 함께 보는 실행 체크리스트가 되어야 합니다.

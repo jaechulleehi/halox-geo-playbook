@@ -1,5 +1,7 @@
 ## ChatGPT 브랜드 노출은 어떻게 확인하나
 
+![ChatGPT 브랜드 노출 측정 흐름](../assets/images/page-heroes/halox-geo-02-01-chatgpt-brand-visibility-hero.png)
+
 ChatGPT 브랜드 노출은 “우리 브랜드가 한 번 나왔는가”보다 “어떤 질문에서 어떤 이유로 등장했는가”를 확인하는 작업입니다. GEO에서는 ChatGPT가 브랜드를 추천 후보로 넣는지, 단순히 이름만 언급하는지, 답변 근거(source) 없이 기억된 설명처럼 말하는지를 나눠 봐야 합니다.
 
 ChatGPT는 사용자의 질문을 따라 정의형, 비교형, 추천형, 검증형 답변을 다르게 만듭니다. 그래서 브랜드 노출을 확인할 때도 하나의 대표 질문만 던지면 안 됩니다. 1장에서 만든 [SEO 키워드 기반 AI 질문셋](https://wikidocs.net/346312)을 기준으로 같은 질문군을 반복 측정해야 합니다.

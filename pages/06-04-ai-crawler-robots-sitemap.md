@@ -1,5 +1,7 @@
 ## AI 크롤러 접근성과 robots/sitemap 점검법
 
+![AI 크롤러 접근성과 robots sitemap 점검](../assets/images/page-heroes/halox-geo-06-04-ai-crawler-robots-sitemap-hero.png)
+
 AI 크롤러 접근성 점검은 우리 사이트가 중요한 콘텐츠를 AI와 검색 시스템에 읽히도록 허용하고 있는지 확인하는 작업입니다. robots.txt, sitemap.xml, HTTP 응답 코드, 내부 링크가 함께 맞아야 합니다.
 
 robots.txt를 열어두었다고 끝나는 문제가 아닙니다. 핵심 URL이 sitemap에 빠져 있거나, 차단 규칙이 특정 경로를 막거나, 서버가 크롤러 요청에 불안정하게 응답하면 AI 답변의 답변 근거 후보가 약해질 수 있습니다.

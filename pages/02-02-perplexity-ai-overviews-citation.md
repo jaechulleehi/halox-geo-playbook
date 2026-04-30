@@ -1,5 +1,7 @@
 ## Perplexity SEO와 Google AI Overviews 최적화는 어떻게 다르게 볼까
 
+![Perplexity와 AI Overviews 인용 비교](../assets/images/page-heroes/halox-geo-02-02-perplexity-ai-overviews-citation-hero.png)
+
 Perplexity SEO와 Google AI Overviews 최적화는 모두 AI 검색 노출을 다루지만 보는 화면과 지표가 다릅니다. Perplexity는 답변과 출처 링크가 함께 보이는 경우가 많고, Google AI Overviews는 기존 검색 결과 페이지 안에서 AI 요약과 웹 결과가 함께 움직입니다.
 
 그래서 두 플랫폼을 같은 표에 넣고 단순 언급 횟수만 비교하면 해석이 흐려집니다. GEO에서는 플랫폼별로 질문, 화면 인용(citation), 출처 반복성, 검색 결과와 AI 답변의 차이를 나눠 봐야 합니다.

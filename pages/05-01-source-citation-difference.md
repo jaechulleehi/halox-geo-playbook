@@ -1,5 +1,7 @@
 ## 답변 근거(source)와 화면 인용(citation)은 무엇이 다른가
 
+![답변 근거와 화면 인용의 차이](../assets/images/page-heroes/halox-geo-05-01-source-citation-difference-hero.png)
+
 답변 근거(source)는 AI가 답변을 만들 때 참고한 정보 재료이고, 화면 인용(citation)은 사용자 화면에 보이는 인용 링크입니다. 둘을 분리해야 GEO 리포트가 실행 과제로 바뀝니다.
 
 인용됐다는 말 하나로는 무엇을 고칠지 알 수 없습니다. 답변 근거가 약한지, 화면 인용이 약한지, 브랜드 entity 설명이 흔들리는지 나눠야 합니다. 특히 PR 캠페인, 뉴스룸, 제품 페이지, 외부 기사처럼 여러 URL이 함께 움직이는 경우에는 답변 근거(source)와 화면 인용(citation)을 한 줄로 합치면 원인을 놓칩니다.

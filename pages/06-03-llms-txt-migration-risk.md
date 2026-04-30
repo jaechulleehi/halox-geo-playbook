@@ -1,5 +1,7 @@
 ## llms.txt와 사이트 이전 리스크 관리
 
+![llms.txt와 사이트 이전 리스크 관리](../assets/images/page-heroes/halox-geo-06-03-llms-txt-migration-risk-hero.png)
+
 llms.txt는 AI 시스템에 중요한 문서 경로를 안내하는 보조 파일입니다. 하지만 사이트 이전, redirect, canonical, sitemap 문제가 정리되지 않으면 llms.txt만으로는 GEO가 해결되지 않습니다.
 
 사이트 개편과 URL 변경은 기존 답변 근거(source)와 화면 인용(citation)을 흔들 수 있습니다. 기술 변경 전후로 같은 질문셋을 다시 측정해야 합니다. 특히 블로그, 글로서리, 뉴스룸, 제품 문서, 캠페인 랜딩 페이지처럼 AI 답변의 근거가 되는 URL은 이전 계획에 반드시 포함해야 합니다.

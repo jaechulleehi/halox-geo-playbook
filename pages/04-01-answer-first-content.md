@@ -1,5 +1,7 @@
 ## AI가 인용하는 Answer-first 콘텐츠는 어떻게 쓰는가
 
+![Answer-first 콘텐츠 구조와 출처 연결](../assets/images/page-heroes/halox-geo-04-01-answer-first-content-hero.png)
+
 AI가 인용하는 콘텐츠는 첫 2~4문단 안에서 정의, 결론, 적용 범위, 다음 행동을 먼저 제시합니다. Answer-first 구조는 사람에게도 빠르게 읽히지만, ChatGPT나 Google AI Overviews 같은 AI 검색이 답변 재료를 고를 때도 핵심 정보를 파악하기 쉽게 만듭니다.
 
 긴 배경 설명으로 시작하면 독자도 AI도 핵심을 늦게 만납니다. 특히 AI가 페이지를 HTML에서 텍스트/Markdown 구조로 바꿔 읽는다고 생각하면 첫 문단의 역할이 더 분명해집니다. 초반에 답이 없으면 뒤쪽의 좋은 문장이 있어도 `이 페이지가 어떤 질문에 답하는지`를 안정적으로 잡기 어렵습니다.

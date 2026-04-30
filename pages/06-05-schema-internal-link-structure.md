@@ -1,5 +1,7 @@
 ## Schema와 내부 링크는 AI 이해를 어떻게 돕나
 
+![Schema와 내부 링크 구조화](../assets/images/page-heroes/halox-geo-06-05-schema-internal-link-structure-hero.png)
+
 Schema와 내부 링크는 AI가 페이지의 의미, 관계, 우선순위를 이해하도록 돕는 구조화 장치입니다. 본문이 좋아도 페이지가 무엇에 대한 글인지, 어떤 질문과 연결되는지, 어떤 제품/조직/entity와 연결되는지 흐리면 AI 답변에서 근거로 쓰이기 어렵습니다.
 
 Schema는 검색엔진만을 위한 장식이 아닙니다. Article, FAQ, Organization, Product, SoftwareApplication, Breadcrumb, Review 같은 구조화 데이터는 페이지의 역할을 명확히 만드는 데 도움을 줍니다. 내부 링크는 관련 페이지를 묶어 AI가 주제 허브와 문맥을 따라가게 만드는 역할을 합니다.
