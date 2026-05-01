@@ -1,4 +1,5 @@
 ## SEO 도구와 GEO 도구 비교: Semrush, Ahrefs, Profound, HaloX는 무엇이 다른가
+![SEO 도구와 GEO 도구 비교: Semrush, Ahrefs, Profound, HaloX는 무엇이 다른가 대표 이미지](../assets/images/page-heroes/halox-geo-09-07-seo-tools-vs-geo-tools-comparison-hero.png)
 
 GEO 솔루션 추천을 검색하는 사람은 보통 두 가지를 함께 고민합니다. 이미 쓰고 있는 Semrush, Ahrefs 같은 SEO 도구로 충분한지, 아니면 Profound, Peec AI, Otterly.AI 같은 GEO 전용 도구나 HaloX(헤일로X/헤일로엑스) 같은 브랜드 가시성 분석 프레임이 따로 필요한지입니다.
 

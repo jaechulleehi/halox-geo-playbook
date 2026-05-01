@@ -1,4 +1,5 @@
 ## AI가 읽기 좋은 콘텐츠 구조: HTML에서 답변 재료까지
+![AI가 읽기 좋은 콘텐츠 구조: HTML에서 답변 재료까지 대표 이미지](../assets/images/page-heroes/halox-geo-04-chapter-4-hero.png)
 
 ![AI가 읽기 좋은 콘텐츠 구조](../assets/images/chapter-heroes/halox-geo-ai-readable-content-hero-1600x900.png)
 

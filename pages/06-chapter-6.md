@@ -1,4 +1,5 @@
 ## 테크니컬 GEO와 사이트 구조
+![테크니컬 GEO와 사이트 구조 대표 이미지](../assets/images/page-heroes/halox-geo-06-chapter-6-hero.png)
 
 ![테크니컬 GEO와 사이트 구조](../assets/images/chapter-heroes/halox-geo-technical-geo-hero-1600x900.png)
 

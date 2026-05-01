@@ -1,4 +1,5 @@
 ## Query Fan-out: AI가 내부에서 확장하는 질문 패턴
+![Query Fan-out: AI가 내부에서 확장하는 질문 패턴 대표 이미지](../assets/images/page-heroes/halox-geo-03-chapter-3-hero.png)
 
 ![Fan-out 질문맵과 콘텐츠 갭 흐름](../assets/images/chapter-heroes/halox-geo-fanout-question-map-hero-1600x900.png)
 

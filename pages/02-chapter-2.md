@@ -1,4 +1,5 @@
 ## AI 검색 모니터링: 브랜드 언급률, 답변 근거, 화면 인용 읽는 법
+![AI 검색 모니터링: 브랜드 언급률, 답변 근거, 화면 인용 읽는 법 대표 이미지](../assets/images/page-heroes/halox-geo-02-chapter-2-hero.png)
 
 ![AI 검색 모니터링: 브랜드 언급률, 답변 근거, 화면 인용 읽는 법](../assets/images/chapter-heroes/halox-geo-geo-measurement-frame-hero-1600x900.png)
 

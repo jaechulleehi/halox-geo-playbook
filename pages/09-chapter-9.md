@@ -1,4 +1,5 @@
 ## GEO 리포트와 실행 검증: AI 검색 성과를 읽는 법
+![GEO 리포트와 실행 검증: AI 검색 성과를 읽는 법 대표 이미지](../assets/images/page-heroes/halox-geo-09-chapter-9-hero.png)
 
 ![GEO 도구 파트너 리포트 검증 흐름](../assets/images/chapter-heroes/halox-geo-business-validation-hero-1600x900.png)
 

@@ -1,4 +1,5 @@
 ## GEO를 처음 이해하는 사람을 위한 시작
+![GEO를 처음 이해하는 사람을 위한 시작 대표 이미지](../assets/images/page-heroes/halox-geo-00-chapter-0-hero.png)
 
 ![GEO를 처음 이해하는 흐름](../assets/images/chapter-heroes/halox-geo-chapter-start-hero-no-number-1600x900.png)
 

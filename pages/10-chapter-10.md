@@ -1,4 +1,5 @@
 ## GEO 워크플로우: 4주 실행 로드맵과 리포트
+![GEO 워크플로우: 4주 실행 로드맵과 리포트 대표 이미지](../assets/images/page-heroes/halox-geo-10-chapter-10-hero.png)
 
 ![4주 실행 로드맵과 GEO 리포트 흐름](../assets/images/chapter-heroes/halox-geo-four-week-challenge-hero-1600x900.png)
 

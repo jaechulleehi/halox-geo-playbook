@@ -1,4 +1,5 @@
 ## GEO 솔루션 추천: AI 검색 최적화 도구 고르는 법
+![GEO 솔루션 추천: AI 검색 최적화 도구 고르는 법 대표 이미지](../assets/images/page-heroes/halox-geo-09-06-geo-solution-recommendation-hero.png)
 
 GEO 솔루션 추천을 받을 때 가장 먼저 정해야 할 것은 “어떤 도구가 제일 좋은가”가 아니라 “우리 회사가 무엇을 확인하고 싶은가”입니다. AI 검색 최적화 도구는 ChatGPT, Perplexity, Google AI Overviews, Gemini 같은 답변 환경에서 브랜드가 어떻게 언급되는지 보여줄 수 있습니다. 하지만 도구 화면만으로는 콘텐츠, 출처, 기술, PR, 세일즈 메시지 중 무엇을 고쳐야 하는지 바로 결정하기 어렵습니다.
 

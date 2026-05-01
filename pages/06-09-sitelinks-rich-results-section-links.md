@@ -1,4 +1,5 @@
 ## 사이트링크와 리치 리절트 차이: 검색결과 섹션 링크는 어떻게 만들어지나
+![사이트링크와 리치 리절트 차이: 검색결과 섹션 링크는 어떻게 만들어지나 대표 이미지](../assets/images/page-heroes/halox-geo-06-09-sitelinks-rich-results-section-links-hero.png)
 
 Google 검색결과에서 한 결과 아래에 `Schema 타입별 점검표`, `FAQPage schema 점검`, `Google 공식 도구 검증`처럼 작은 버튼형 링크가 붙는 경우가 있습니다. 이 노출은 보통 FAQ/HowTo schema 같은 리치 리절트라기보다, Google이 페이지의 목차, 내부 앵커, H2/H3 헤딩 구조를 해석해 자동으로 보여주는 사이트링크 또는 페이지 섹션 링크에 가깝습니다.
 

@@ -1,4 +1,5 @@
 ## 글로벌/영문 GEO 전략
+![글로벌/영문 GEO 전략 대표 이미지](../assets/images/page-heroes/halox-geo-08-chapter-8-hero.png)
 
 ![글로벌 영문 GEO 전략 흐름](../assets/images/chapter-heroes/halox-geo-global-geo-hero-1600x900.png)
 

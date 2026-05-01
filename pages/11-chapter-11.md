@@ -1,4 +1,5 @@
 ## 커머스 GEO와 AI 구매 에이전트
+![커머스 GEO와 AI 구매 에이전트 대표 이미지](../assets/images/page-heroes/halox-geo-11-chapter-11-hero.png)
 
 커머스 GEO는 AI 답변에 브랜드가 언급되는 문제에서 한 걸음 더 나아갑니다. AI가 상품을 발견하고, 조건을 비교하고, 구매 후보로 설명할 수 있는지까지 봐야 합니다.
 

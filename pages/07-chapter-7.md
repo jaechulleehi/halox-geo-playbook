@@ -1,4 +1,5 @@
 ## 산업별 GEO 전략
+![산업별 GEO 전략 대표 이미지](../assets/images/page-heroes/halox-geo-07-chapter-7-hero.png)
 
 ![산업별 GEO 전략 흐름](../assets/images/chapter-heroes/halox-geo-industry-strategy-hero-1600x900.png)
 
