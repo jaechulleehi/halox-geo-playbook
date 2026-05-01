@@ -61,4 +61,4 @@ SERP 갭은 곧 AI 답변 갭입니다. 상위 문서가 반복해서 다루는 
 - 우리 콘텐츠에 빠진 정보 단위가 리라이트 후보로 정리됐습니다.
 - 다음 단계에서 [Answer-first 콘텐츠 구조](https://wikidocs.net/346347)로 옮길 입력값이 남았습니다.
 
-다음은 [온페이지 SEO와 Answer-first 구조](pages/01-07-onpage-seo-answer-first.md)입니다.
+다음은 [온페이지 SEO와 Answer-first 구조](https://wikidocs.net/346926)입니다.

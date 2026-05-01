@@ -78,4 +78,4 @@ GEO 도구는 AI 검색에서 브랜드가 어떤 질문에 언급되고, 어떤
 - 표/FAQ/schema가 본문에 있는 정보를 구조화합니다.
 - [04장 Answer-first 콘텐츠](https://wikidocs.net/346344)와 [06장 기술 점검](https://wikidocs.net/346346)으로 이어질 수 있습니다.
 
-다음은 [테크니컬 SEO 기본과 GEO 기술 점검](pages/01-08-technical-seo-geo.md)입니다.
+다음은 [테크니컬 SEO 기본과 GEO 기술 점검](https://wikidocs.net/346927)입니다.

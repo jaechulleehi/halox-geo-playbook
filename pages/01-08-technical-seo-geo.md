@@ -62,4 +62,4 @@
 - 본문과 구조화 데이터가 같은 내용을 말합니다.
 - 더 깊은 점검은 [06장 테크니컬 GEO](https://wikidocs.net/346346)로 넘길 수 있습니다.
 
-다음은 [권위 신호와 엔티티를 GEO로 확장하기](pages/01-09-authority-entity-seo-geo.md)입니다.
+다음은 [권위 신호와 엔티티를 GEO로 확장하기](https://wikidocs.net/346928)입니다.
