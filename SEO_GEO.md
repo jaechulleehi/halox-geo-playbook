@@ -21,6 +21,16 @@
 - GEO 검색 최적화
 - GEO AI 최적화
 - SEO GEO 최적화
+- SEO 기본기
+- SEO 워크플로우
+- SEO 키워드 리서치
+- 검색 의도 분석
+- SERP 분석
+- 콘텐츠 갭 분석
+- 온페이지 SEO
+- 테크니컬 SEO
+- SEO 성과 측정
+- E-E-A-T
 - 생성형 엔진 최적화
 - AI 검색 최적화
 - AI 검색 엔진 최적화
@@ -112,8 +122,12 @@
 | 1 | 개념 비교 | GEO vs SEO, AEO, AIO, LLM SEO, LLMO | [00-02. GEO/SEO/AEO/AIO/LLMO 차이](pages/00-02-geo-seo-aeo-aio.md) | 용어 혼동을 정리하고 책의 용어 기준 제시 |
 | 1 | 검색 변화 이해 | AI 검색, AI 검색 엔진 최적화 | [00-03. AI 검색은 기존 검색과 무엇이 다른가](pages/00-03-ai-search-difference.md) | 기존 검색과 AI 답변형 검색의 차이 설명 |
 | 1 | 실행 입문 | GEO 최적화 방법, GEO 최적화 전략 | [00-04. GEO 워크플로우: 이 책을 실무에 적용하는 법](pages/00-04-how-to-use-this-book.md) | 책을 실무 순서로 읽는 방법 안내 |
-| 1 | 키워드 전환 | SEO 키워드, AI 검색 질문 | [01. SEO 키워드를 AI 검색 질문으로 바꾸는 법](pages/01-chapter-1.md) | 기존 SEO 키워드를 질문셋으로 바꾸는 관문 |
+| 1 | SEO 기본기 | SEO 기본기, SEO 워크플로우, 검색 의도 분석, SERP 분석, 온페이지 SEO, 테크니컬 SEO | [01. SEO 기본기와 GEO 확장 전략](pages/01-chapter-1.md) | 기존 SEO 유입 구조를 GEO 질문셋과 AI 답변 근거로 확장하는 관문 |
 | 1 | 프롬프트 전환 | SEO 키워드를 질문/프롬프트로 바꾸는 법 | [01-02. SEO 키워드를 질문/프롬프트로 바꾸는 법](pages/01-02-keyword-to-prompt.md) | 키워드 목록을 실제 AI 질문으로 변환 |
+| 1 | SERP/콘텐츠 갭 | SERP 분석, 콘텐츠 갭 분석, SEO 콘텐츠 전략 | [01-06. SERP 분석과 콘텐츠 갭 찾기](pages/01-06-serp-analysis-content-gap.md) | 상위 검색 결과를 AI 답변 재료와 리라이트 후보로 변환 |
+| 1 | 온페이지 SEO | 온페이지 SEO, title, meta description, heading, FAQ | [01-07. 온페이지 SEO와 Answer-first 구조](pages/01-07-onpage-seo-answer-first.md) | 페이지 안의 SEO 요소를 Answer-first 구조로 정리 |
+| 1 | 테크니컬 SEO | 테크니컬 SEO, sitemap, robots, canonical, schema | [01-08. 테크니컬 SEO 기본과 GEO 기술 점검](pages/01-08-technical-seo-geo.md) | 검색엔진/AI가 발견하고 읽을 수 있는 기술 조건 정리 |
+| 1 | 권위/엔티티 | E-E-A-T, 백링크, 엔티티, 브랜드 언급 | [01-09. 권위 신호와 엔티티를 GEO로 확장하기](pages/01-09-authority-entity-seo-geo.md) | 외부 신뢰 신호를 source/citation/consensus로 확장 |
 | 2 | 플랫폼 노출 | ChatGPT 브랜드 노출 | [02-01. ChatGPT 브랜드 노출은 어떻게 확인하나](pages/02-01-chatgpt-brand-visibility.md) | ChatGPT에서 브랜드가 어떻게 등장하는지 측정 |
 | 2 | 플랫폼 인용 | Perplexity SEO, Google AI Overviews 최적화, AI Overviews SEO | [02-02. Perplexity SEO와 Google AI Overviews 최적화는 어떻게 다르게 볼까](pages/02-02-perplexity-ai-overviews-citation.md) | 플랫폼별 source/citation 차이 설명 |
 | 2 | 측정 지표 | 브랜드 언급률, 답변 근거(source), 화면 인용(citation) | [02-03. 브랜드 언급률, 답변 근거, 화면 인용은 어떻게 나눠 읽나](pages/02-03-mention-source-citation.md) | mention/source/citation을 분리해 해석 |

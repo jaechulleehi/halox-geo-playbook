@@ -6,12 +6,16 @@
   - [00-03. AI 검색은 기존 검색과 무엇이 다른가](pages/00-03-ai-search-difference.md)
   - [00-04. GEO 워크플로우: 이 책을 실무에 적용하는 법](pages/00-04-how-to-use-this-book.md)
 
-- [01. SEO 키워드를 AI 검색 질문으로 바꾸는 법](pages/01-chapter-1.md)
+- [01. SEO 기본기와 GEO 확장 전략](pages/01-chapter-1.md)
   - [01-01. SEO 키워드는 왜 여전히 중요한가](pages/01-01-seo-keywords-still-matter.md)
   - [01-02. SEO 키워드를 질문/프롬프트로 바꾸는 법](pages/01-02-keyword-to-prompt.md)
   - [01-03. 검색 의도와 AI 질문 의도의 차이](pages/01-03-search-intent-ai-question.md)
   - [01-04. 질문셋 구성 비중이 중요한 이유](pages/01-04-question-set-portion.md)
   - [01-05. 1주차 실습: 내 브랜드 GEO 기준선 진단](pages/01-05-week1-baseline-diagnosis.md)
+  - [01-06. SERP 분석과 콘텐츠 갭 찾기](pages/01-06-serp-analysis-content-gap.md)
+  - [01-07. 온페이지 SEO와 Answer-first 구조](pages/01-07-onpage-seo-answer-first.md)
+  - [01-08. 테크니컬 SEO 기본과 GEO 기술 점검](pages/01-08-technical-seo-geo.md)
+  - [01-09. 권위 신호와 엔티티를 GEO로 확장하기](pages/01-09-authority-entity-seo-geo.md)
 
 - [02. AI 검색 모니터링: 브랜드 언급률, 답변 근거, 화면 인용 읽는 법](pages/02-chapter-2.md)
   - [02-01. ChatGPT 브랜드 노출은 어떻게 확인하나](pages/02-01-chatgpt-brand-visibility.md)
