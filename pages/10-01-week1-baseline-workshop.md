@@ -86,6 +86,19 @@ AI 답변은 변동성이 있습니다. 그래서 결과만 남기면 나중에 
 | 5 | 기존 SEO 지표와 비교 | Search Console 노출/클릭과 AI 답변 상태 차이 확인 |
 | 6 | 대표 질문 3개 선정 | 2주차 Fan-out 입력값 확정 |
 
+## 1주차 샘플 질문 포트폴리오
+
+1주차 질문셋은 브랜드 질문만 모으면 안 됩니다. 시장에서 새로 발견될 수 있는 비브랜드 추천형/비교형 질문이 반드시 들어가야 합니다.
+
+| 질문군 | 예시 | 확인할 지표 |
+|---|---|---|
+| 브랜드 | AcmeGEO는 어떤 도구인가? | answer accuracy, entity |
+| 카테고리 | GEO 도구는 무엇을 측정해야 하나? | source, citation |
+| 비교 | GEO 도구와 SEO 도구 차이는? | co-mention, answer quality |
+| 추천 | B2B SaaS 팀에 맞는 GEO 도구 추천 | mention, 경쟁사 |
+| 검증 | GEO 리포트가 믿을 만한지 보는 법 | source trust, citation |
+| 실행 | ChatGPT 브랜드 노출을 확인하는 첫 30일 계획 | actionability |
+
 ## 기준선 기록표
 
 | 질문 | 유형 | 모델 | 우리 브랜드 mention | 답변 근거(source) | 화면 인용 URL | 경쟁사/대안 | 다음 해석 |

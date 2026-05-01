@@ -45,6 +45,18 @@ ChatGPT, Perplexity, Google AI Overviews, Gemini 등은 답변 생성 방식과 
 
 Google AI Overviews처럼 검색 결과와 연결되는 환경은 기존 SEO 신호와도 이어집니다. Google의 [유용한 콘텐츠 만들기](https://developers.google.com/search/docs/fundamentals/creating-helpful-content), [title link](https://developers.google.com/search/docs/appearance/title-link), [snippet](https://developers.google.com/search/docs/appearance/snippet), [canonical](https://developers.google.com/search/docs/crawling-indexing/consolidate-duplicate-urls) 문서를 함께 보면 citation 후보가 되는 페이지의 기본 상태를 점검하기 쉽습니다.
 
+## 지표 변화량을 과대해석하지 않는 법
+
+GEO 지표는 플랫폼, 질문셋, 모델, 날짜에 따라 흔들릴 수 있습니다. 그래서 단일 수치 변화보다 같은 질문군에서 반복되는 패턴을 봐야 합니다.
+
+| 변화 | 조심할 점 | 확인할 보조 데이터 |
+|---|---|---|
+| mention 급증 | 브랜드 질문 비중이 늘었을 수 있음 | 질문군 비중/비브랜드 결과 |
+| citation 증가 | 외부 복제본만 인용될 수 있음 | 대표 URL 여부/canonical |
+| source 변화 | 일시적 기사 노출일 수 있음 | 다음 달 반복성/source diversity |
+| answer quality 개선 | 일부 질문에만 국한될 수 있음 | 질문군별 accuracy |
+| 경쟁사 하락 | 시장 질문 자체가 바뀌었을 수 있음 | SERP/GSC/트렌드 변화 |
+
 ## 리포트는 상태 → 원인 → 액션 순서로 읽는다
 
 점수 화면만 보면 팀은 움직이지 못합니다. 좋은 리포트는 다음 순서로 읽어야 합니다.
