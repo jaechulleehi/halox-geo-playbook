@@ -57,6 +57,33 @@ Google AI Overviews는 기존 SEO와 완전히 분리되지 않습니다. 검색
 
 Google의 [유용한 콘텐츠 만들기](https://developers.google.com/search/docs/fundamentals/creating-helpful-content)는 사람에게 유용하고 신뢰할 수 있는 콘텐츠를 강조합니다. AI Overviews 대응도 결국 질문에 직접 답하는 본문, 명확한 출처, 신뢰 가능한 정보 구조에서 출발해야 합니다.
 
+## SERP/GSC와 함께 읽는 법
+
+Google AI Overviews는 기존 SEO와 분리해서 보면 원인을 놓치기 쉽습니다. 어떤 query에서 일반 검색 노출은 있는데 AI Overviews에 빠지는지, 반대로 AI 요약에는 주제가 나오지만 우리 URL이 citation으로 보이지 않는지 함께 봐야 합니다. 이때 GSC의 impressions, CTR, average position, landing page 데이터를 같이 보면 콘텐츠 문제인지, 스니펫 문제인지, citation 후보 URL 문제인지 더 잘 나눌 수 있습니다.
+
+| 관찰 | 함께 볼 SEO 데이터 | 해석 | 다음 액션 |
+|---|---|---|---|
+| 일반 검색 노출 있음 / AI Overviews citation 없음 | GSC impressions, average position | 주제 관련성은 있으나 답변 구조가 약할 수 있음 | 첫 문단, 표, FAQ, schema 보강 |
+| 순위 5~20위 / AI 요약 경쟁사 인용 | query, landing page, 경쟁 페이지 | 상위 후보이나 신뢰/구조/권위가 부족 | 내부 링크, 외부 source, 콘텐츠 깊이 보강 |
+| CTR 낮음 / AI 요약에도 빠짐 | title, meta description, SERP feature | 검색결과 약속이 약하거나 의도 불일치 | title/meta와 H2 재정렬 |
+| Perplexity는 citation 있음 / Google은 없음 | citation URL, canonical, 색인 상태 | 플랫폼별 source 선택 기준 차이 | 대표 URL과 색인/구조화 데이터 확인 |
+| AI 요약은 있음 / GA4 engagement 낮음 | landing page engagement, CTA | 클릭 이후 답변 만족도가 약함 | 첫 화면 답변, 내부 링크, CTA 개선 |
+
+이 표는 AI Overviews 대응을 감으로 하지 않게 도와줍니다. `AI에 안 나온다`가 아니라 `어떤 query에서, 어떤 landing page가, 어떤 검색성과를 가진 상태에서 빠지는가`로 바꿔야 실행이 선명해집니다.
+
+## citation 후보 URL 점검 순서
+
+1. AI 답변에 인용되기를 원하는 핵심 URL을 고릅니다.
+2. 해당 URL이 Google에 색인되어 있는지 확인합니다.
+3. 같은 query에서 GSC impressions와 CTR이 있는지 봅니다.
+4. title, H1/H2, 첫 문단이 query 의도와 맞는지 확인합니다.
+5. 본문에 정의, 비교표, 절차, FAQ가 실제로 있는지 봅니다.
+6. canonical이 대표 URL을 가리키는지 점검합니다.
+7. 내부 링크와 sitemap에 포함되어 있는지 확인합니다.
+8. Perplexity/AI Overviews에서 같은 질문으로 재측정합니다.
+
+AcmeGEO라면 `GEO 리포트 예시` 페이지를 citation 후보로 정할 수 있습니다. 이 URL이 색인되어 있고, `GEO 리포트 지표`, `AI 검색 모니터링 리포트` query에서 impressions가 생기는지 확인한 뒤, 본문 구조와 canonical, 내부 링크를 점검합니다.
+
 ## 측정표
 
 | 질문 | 플랫폼 | 브랜드 mention | 화면 인용(citation) | 반복 출처 | 다음 액션 |
