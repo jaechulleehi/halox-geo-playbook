@@ -30,6 +30,12 @@
 - 온페이지 SEO
 - 테크니컬 SEO
 - SEO 성과 측정
+- Google Search Console
+- 구글 서치콘솔
+- GA4
+- 네이버 웹마스터 도구
+- 네이버 서치어드바이저
+- SEO 리포트
 - E-E-A-T
 - 생성형 엔진 최적화
 - AI 검색 최적화
@@ -128,6 +134,7 @@
 | 1 | 온페이지 SEO | 온페이지 SEO, title, meta description, heading, FAQ | [01-07. 온페이지 SEO와 Answer-first 구조](pages/01-07-onpage-seo-answer-first.md) | 페이지 안의 SEO 요소를 Answer-first 구조로 정리 |
 | 1 | 테크니컬 SEO | 테크니컬 SEO, sitemap, robots, canonical, schema | [01-08. 테크니컬 SEO 기본과 GEO 기술 점검](pages/01-08-technical-seo-geo.md) | 검색엔진/AI가 발견하고 읽을 수 있는 기술 조건 정리 |
 | 1 | 권위/엔티티 | E-E-A-T, 백링크, 엔티티, 브랜드 언급 | [01-09. 권위 신호와 엔티티를 GEO로 확장하기](pages/01-09-authority-entity-seo-geo.md) | 외부 신뢰 신호를 source/citation/consensus로 확장 |
+| 1 | SEO/GEO 측정 | Google Search Console, 구글 서치콘솔, GA4, 네이버 웹마스터 도구, SEO 리포트 | [01-10. SEO 성과 측정: Google Search Console, GA4, 네이버 웹마스터 도구](pages/01-10-seo-measurement-gsc-ga4-naver.md) | 검색 유입/전환 지표와 AI 답변 mention/source/citation을 통합 |
 | 2 | 플랫폼 노출 | ChatGPT 브랜드 노출 | [02-01. ChatGPT 브랜드 노출은 어떻게 확인하나](pages/02-01-chatgpt-brand-visibility.md) | ChatGPT에서 브랜드가 어떻게 등장하는지 측정 |
 | 2 | 플랫폼 인용 | Perplexity SEO, Google AI Overviews 최적화, AI Overviews SEO | [02-02. Perplexity SEO와 Google AI Overviews 최적화는 어떻게 다르게 볼까](pages/02-02-perplexity-ai-overviews-citation.md) | 플랫폼별 source/citation 차이 설명 |
 | 2 | 측정 지표 | 브랜드 언급률, 답변 근거(source), 화면 인용(citation) | [02-03. 브랜드 언급률, 답변 근거, 화면 인용은 어떻게 나눠 읽나](pages/02-03-mention-source-citation.md) | mention/source/citation을 분리해 해석 |

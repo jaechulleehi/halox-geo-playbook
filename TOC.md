@@ -16,6 +16,7 @@
   - [01-07. 온페이지 SEO와 Answer-first 구조](pages/01-07-onpage-seo-answer-first.md)
   - [01-08. 테크니컬 SEO 기본과 GEO 기술 점검](pages/01-08-technical-seo-geo.md)
   - [01-09. 권위 신호와 엔티티를 GEO로 확장하기](pages/01-09-authority-entity-seo-geo.md)
+  - [01-10. SEO 성과 측정: Google Search Console, GA4, 네이버 웹마스터 도구](pages/01-10-seo-measurement-gsc-ga4-naver.md)
 
 - [02. AI 검색 모니터링: 브랜드 언급률, 답변 근거, 화면 인용 읽는 법](pages/02-chapter-2.md)
   - [02-01. ChatGPT 브랜드 노출은 어떻게 확인하나](pages/02-01-chatgpt-brand-visibility.md)
