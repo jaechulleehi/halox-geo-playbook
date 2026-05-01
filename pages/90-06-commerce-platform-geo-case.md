@@ -1,5 +1,7 @@
 ## 커머스/플랫폼: 상품 데이터와 AI 구매 에이전트 대응
 
+![커머스 플랫폼과 AI 구매 에이전트 대응](../assets/images/page-heroes/halox-geo-90-06-commerce-platform-geo-case-hero.png)
+
 커머스 GEO는 블로그 글을 많이 쓰는 문제가 아닙니다. AI가 상품명, 가격, 재고, 옵션, 배송, 반품, 리뷰, 추천 대상을 읽고 비교할 수 있어야 합니다.
 
 이 사례에서 가장 중요한 포인트는 상품 상세페이지, Product schema, merchant feed, 리뷰, 정책 문서, 카테고리 페이지를 AI 구매 에이전트가 이해할 수 있는 데이터 체계로 정리하는 것입니다.
