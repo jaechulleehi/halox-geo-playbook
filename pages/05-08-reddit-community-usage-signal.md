@@ -1,5 +1,7 @@
 ## Reddit/커뮤니티 실사용 신호 관리: 비교, 후기, 문제 해결 맥락
 
+![커뮤니티 실사용 신호 대표 이미지](../assets/images/page-heroes/halox-geo-05-08-reddit-community-usage-signal-hero.png)
+
 Reddit/커뮤니티 실사용 신호 관리는 커뮤니티를 통제하는 일이 아닙니다. AI가 실제 사용자 맥락, 장단점, 대안 비교, 문제 해결 경험을 어디에서 읽는지 관찰하고, 필요한 공식 설명과 답변 근거를 보강하는 일입니다.
 
 GEO에서 커뮤니티는 브랜드가 스스로 말하는 장점보다 사용자가 실제로 어떤 문제를 겪고 어떤 대안을 비교하는지 보여주는 채널입니다. 특히 추천/비교/문제 해결 질문에서는 Reddit, Quora, Hacker News, Product Hunt, Stack Overflow, 국내 커뮤니티, 네이버 카페, 블로그 댓글 같은 신호가 중요해질 수 있습니다.

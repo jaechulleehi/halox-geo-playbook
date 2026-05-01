@@ -1,5 +1,7 @@
 ## 답변 근거/source, 화면 인용/citation, 엔터티 전략
 
+![답변 근거와 엔티티 전략 대표 이미지](../assets/images/page-heroes/halox-geo-05-chapter-5-hero.png)
+
 ![Source Citation Entity와 오프사이트 전략](../assets/images/chapter-heroes/halox-geo-source-citation-entity-hero-1600x900.png)
 
 GEO에서 출처 전략은 “백링크를 많이 만들자”가 아닙니다. 03장에서 AI가 질문을 여러 하위 판단으로 fan-out한다는 점을 봤고, 04장에서 그 하위 판단에 답하는 자사 콘텐츠 구조를 만들었습니다. 05장은 그 다음 질문을 다룹니다. `AI가 그 답변 재료를 실제 source로 믿을 수 있는가?`, `사용자 화면에는 어떤 citation으로 보이는가?`, `웹 전체에서는 브랜드를 어떤 entity로 이해하는가?`입니다.

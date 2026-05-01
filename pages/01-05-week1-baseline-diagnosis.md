@@ -1,5 +1,7 @@
 ## 온페이지 SEO: 검색결과에서 약속한 답을 페이지에서 증명하는 법
 
+![온페이지 SEO 대표 이미지](../assets/images/page-heroes/halox-geo-01-05-week1-baseline-diagnosis-hero.png)
+
 온페이지 SEO는 페이지 안에서 검색 의도에 맞게 정보를 배치하는 작업입니다. 많은 사람이 온페이지 SEO를 title, meta description, H1 같은 요소를 채우는 일로만 이해하지만, 실제로는 검색결과에서 한 약속을 페이지 본문에서 증명하는 과정입니다.
 
 사용자가 검색결과에서 어떤 제목을 보고 들어왔다면, 페이지는 그 제목이 약속한 답을 빠르게 제공해야 합니다. AI 검색에서도 마찬가지입니다. AI가 페이지를 답변 재료로 쓰려면 title, heading, 첫 문단, 본문 구조, 표, FAQ, schema가 같은 주제를 말해야 합니다.
