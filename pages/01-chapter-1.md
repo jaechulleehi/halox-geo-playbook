@@ -71,6 +71,8 @@ GEO에서는 이 질문이 조금 바뀝니다.
 
 1장은 GEO를 설명하기 위한 SEO 요약이 아니라, SEO 실무자가 실제로 쓰는 개념을 GEO 흐름에 연결하는 장입니다. 그래서 각 페이지는 아래 SEO 키워드 묶음을 맡습니다.
 
+아래 표는 암기용 용어 목록이 아닙니다. 독자가 1장을 읽으면서 “지금 내가 배우는 개념이 실제 SEO 업무의 어느 영역에 속하는지” 확인하기 위한 지도입니다. 각 용어는 뒤 페이지에서 정의만 하는 데 그치지 않고, 어떤 산출물과 어떤 팀 액션으로 이어지는지 함께 설명합니다.
+
 | 실무 영역 | 핵심 SEO 키워드 | 1장에서 다루는 위치 |
 |---|---|---|
 | 키워드 리서치 | seed keyword, search volume, keyword difficulty, long-tail, branded/non-branded, keyword clustering, cannibalization | 01-01 |
