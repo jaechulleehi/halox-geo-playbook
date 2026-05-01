@@ -80,6 +80,33 @@ AcmeGEO는 `GEO 리포트 예시` 페이지를 만들었지만 AI 답변에서 s
 
 팀은 먼저 대표 URL을 정하고 canonical을 수정했습니다. sitemap에 페이지를 추가하고, `GEO 리포트`, `mention/source/citation`, `도구 비교` 페이지에서 내부 링크를 연결했습니다. 이미지 안에 있던 리포트 설명을 본문 텍스트와 표로 옮겼고, FAQ와 Article schema를 본문과 일치하게 추가했습니다. 이 작업 이후 GSC에서 페이지 노출이 생기고, AI 답변 측정에서도 source 후보로 확인할 수 있게 되었습니다.
 
+## SEO 핵심 개념 더 깊게 보기
+
+테크니컬 SEO에서는 status code를 이해해야 합니다. 200은 정상 페이지, 301은 영구 이동, 302는 임시 이동, 404는 찾을 수 없음, 410은 제거됨, 500번대는 서버 오류입니다. 핵심 페이지가 404이거나 redirect chain이 길면 검색엔진과 사용자가 안정적으로 접근하기 어렵습니다.
+
+`noindex`는 페이지를 검색 색인에서 제외하라는 신호입니다. 운영 중 실수로 noindex가 남아 있으면 좋은 콘텐츠도 검색에 나오지 않습니다. `nofollow`는 링크를 따라가지 말라는 신호와 관련됩니다. robots.txt는 크롤러 접근을 제어하지만, noindex와 역할이 다릅니다. 두 개념을 혼동하면 색인 문제가 생깁니다.
+
+Core Web Vitals는 페이지 경험 지표입니다. LCP는 주요 콘텐츠가 얼마나 빨리 보이는지, INP는 사용자 입력에 얼마나 빠르게 반응하는지, CLS는 화면이 얼마나 안정적인지를 봅니다. GEO에서 직접적인 답변 노출을 보장하는 지표는 아니지만, 검색성과 사용자 경험을 함께 관리하려면 중요합니다.
+
+## 기술 SEO 이슈 티켓 템플릿
+
+| 항목 | 작성 예시 |
+|---|---|
+| 이슈 제목 | `/geo-report` 페이지 canonical이 캠페인 URL을 가리킴 |
+| 발견 경로 | GSC URL 검사 / 크롤링 점검 |
+| 영향 | 대표 URL 혼선, source/citation URL 분산 가능성 |
+| 대상 URL | www.example.com/geo-report |
+| 기대 상태 | canonical이 대표 URL을 가리켜야 함 |
+| 담당 | 개발팀/SEO 담당자 |
+| 우선순위 | 높음 |
+| 검증 방법 | 수정 후 GSC URL 검사, canonical 확인, sitemap 재제출 |
+
+## AcmeGEO 연속 케이스: 기술 이슈를 개발 티켓으로 바꾸기
+
+AcmeGEO는 리포트 예시 페이지가 AI 답변 source로 잘 잡히지 않는 문제를 발견했습니다. SEO 담당자는 페이지가 sitemap에 없고, canonical이 UTM이 붙은 캠페인 URL을 가리키며, 리포트 설명의 핵심 내용이 이미지 안에만 있다는 점을 확인했습니다.
+
+이 문제를 `SEO 개선 필요`라고 쓰면 개발팀이 움직이기 어렵습니다. 대신 `대표 URL canonical 수정`, `sitemap 포함`, `리포트 핵심 설명 HTML 본문화`, `FAQ schema 검증`처럼 작은 티켓으로 나눴습니다. 각 티켓에는 영향, 대상 URL, 기대 상태, 검증 방법을 붙였습니다. 이렇게 해야 콘텐츠팀과 개발팀이 같은 문제를 같은 기준으로 해결할 수 있습니다.
+
 ## 참고 링크
 
 - Google의 [사이트맵 문서](https://developers.google.com/search/docs/crawling-indexing/sitemaps/overview)는 핵심 URL 발견 상태를 점검할 때 참고합니다.

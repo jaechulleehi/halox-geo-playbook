@@ -67,6 +67,25 @@ GEO에서는 이 질문이 조금 바뀝니다.
 
 이때 AcmeGEO가 해야 할 일은 `GEO 도구` 키워드를 반복하는 글을 쓰는 것이 아닙니다. 검색 의도별로 답변 구조를 나누고, 비교 기준과 측정 절차를 제시하고, 제품 소개 페이지와 리포트 예시 페이지를 내부 링크로 연결하고, 기술적으로 색인 가능하게 만들고, 외부 디렉터리와 뉴스룸에서 같은 카테고리 설명이 반복되게 해야 합니다. 이후 GSC와 GA4, AI 답변 측정 결과를 보며 어떤 질문에서 언급이 생기고 어떤 질문에서 빠지는지 다시 확인합니다.
 
+## SEO 실무 키워드 커버리지 지도
+
+1장은 GEO를 설명하기 위한 SEO 요약이 아니라, SEO 실무자가 실제로 쓰는 개념을 GEO 흐름에 연결하는 장입니다. 그래서 각 페이지는 아래 SEO 키워드 묶음을 맡습니다.
+
+| 실무 영역 | 핵심 SEO 키워드 | 1장에서 다루는 위치 |
+|---|---|---|
+| 키워드 리서치 | seed keyword, search volume, keyword difficulty, long-tail, branded/non-branded, keyword clustering, cannibalization | 01-01 |
+| SERP 분석 | page type, SERP feature, featured snippet, People Also Ask, freshness, content depth, Naver SERP | 01-02 |
+| 검색 의도 | informational, navigational, commercial, transactional, TOFU/MOFU/BOFU, mixed intent, intent mismatch | 01-03 |
+| 콘텐츠 구조 | content brief, Answer-first, topical authority, H2/H3, FAQ, CTA, content refresh | 01-04 |
+| 온페이지 SEO | title, meta description, URL slug, H1/H2, image alt, schema, CTR 개선 | 01-05 |
+| 내부 링크 | hub, cluster, anchor text, orphan page, topic cluster, contextual link | 01-06 |
+| 테크니컬 SEO | crawl, render, index, robots, noindex, canonical, status code, Core Web Vitals, structured data validation | 01-07 |
+| 권위/엔티티 | backlink, referring domain, topical relevance, anchor text profile, E-E-A-T, entity, brand mention, sameAs | 01-08 |
+| 측정/개선 | GSC, GA4, Naver Search Advisor, impressions, CTR, average position, key event, KPI, content decay | 01-09 |
+| 통합 운영 | SEO brief, technical ticket, source map, monthly report, 30-day action plan | 01-10 |
+
+이 키워드들은 단순 용어 목록이 아닙니다. 각 개념이 실제 페이지 작성, 기술 점검, 외부 출처 설계, 월간 리포트에서 어떻게 쓰이는지 연결해서 봐야 합니다.
+
 ## 읽는 순서
 
 1. [01-01. 키워드 리서치](https://wikidocs.net/346313)에서 시장 언어를 모으는 법을 배웁니다.

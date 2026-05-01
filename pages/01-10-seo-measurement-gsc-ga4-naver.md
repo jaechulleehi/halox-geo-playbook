@@ -162,6 +162,32 @@ SEO와 GEO는 따로 놀지 않습니다. 키워드 리서치는 AI 질문셋의
 
 이 흐름을 이해하면 GEO는 새로운 유행어가 아니라, SEO 실무를 AI 검색 환경에 맞게 확장하는 운영 체계로 보입니다.
 
+## SEO 핵심 개념 더 깊게 보기
+
+통합 실습에서는 SEO 업무 산출물을 하나의 운영 패키지로 묶어야 합니다. `SEO brief`는 콘텐츠를 만들기 전의 설계 문서입니다. `technical ticket`은 개발팀이 처리할 수 있게 쪼갠 기술 이슈입니다. `source map`은 내부/외부 출처 후보와 각 출처가 맡을 질문을 정리한 표입니다. `monthly report`는 성과와 다음 액션을 연결하는 운영 문서입니다.
+
+여기서 중요한 개념은 KPI의 계층입니다. 비즈니스 KPI는 문의, 가입, 구매, 예약입니다. SEO KPI는 impressions, clicks, CTR, average position, organic sessions입니다. GEO KPI는 mention, source, citation, answer quality, competitor mention입니다. 실행 KPI는 리라이트 수, 기술 이슈 해결 수, 내부 링크 추가 수, 외부 출처 업데이트 수입니다.
+
+이 계층을 구분해야 리포트가 단순 숫자 모음이 되지 않습니다. 예를 들어 organic sessions가 늘었지만 문의가 늘지 않았다면 콘텐츠와 CTA를 봐야 합니다. mention이 늘었지만 citation이 없다면 source 후보와 URL 안정성을 봐야 합니다. impressions가 늘었지만 CTR이 낮다면 title/meta를 봐야 합니다.
+
+## 최종 운영 패키지 템플릿
+
+| 문서 | 포함 내용 | 담당 |
+|---|---|---|
+| SEO brief | query, intent, SERP gap, H2, CTA | SEO/콘텐츠 |
+| Content draft | 첫 문단, 본문, FAQ, 사례, 내부 링크 | 콘텐츠팀 |
+| On-page checklist | title, meta, URL, H1/H2, alt, schema | SEO 담당자 |
+| Technical ticket | sitemap, robots, canonical, status, schema 검증 | 개발팀 |
+| Internal link map | 허브/클러스터/앵커/고립 페이지 | SEO/콘텐츠 |
+| Source map | 뉴스룸, 디렉터리, 파트너, 고객 사례 | PR/브랜드 |
+| Monthly report | GSC, GA4, 네이버, AI 답변, KPI, 다음 액션 | 전체 |
+
+## AcmeGEO 연속 케이스: 최종 산출물 묶기
+
+AcmeGEO 팀은 `GEO 도구 비교` 프로젝트를 하나의 글 발행으로 끝내지 않았습니다. 먼저 SEO brief를 만들고, 콘텐츠팀이 Answer-first 구조로 초안을 작성했습니다. SEO 담당자는 title/meta와 내부 링크를 점검했고, 개발팀은 schema와 canonical을 확인했습니다. PR팀은 외부 디렉터리와 뉴스룸의 카테고리 설명을 수정했습니다.
+
+발행 후 30일 리포트에서는 GSC query, GA4 engagement, AI mention/source/citation, 외부 출처 업데이트 상태를 함께 봤습니다. 결과가 부족한 지표는 다시 액션으로 나뉘었습니다. 이 방식이 바로 SEO를 GEO 운영 체계로 확장하는 방법입니다.
+
 ## 참고 링크
 
 - Google Search Central의 [SEO 시작 가이드](https://developers.google.com/search/docs/fundamentals/seo-starter-guide)는 전체 SEO 기본기를 확인할 때 참고합니다.
