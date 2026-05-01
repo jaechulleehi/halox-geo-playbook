@@ -98,6 +98,7 @@
   - [12-04. 리뷰 전략: 네이버 영수증 리뷰, 지도 리뷰, 외부 후기](pages/12-04-review-offline-authority-strategy.md)
   - [12-05. 병원/오프라인 매장 GEO 질문셋과 방문 전환 체크리스트](pages/12-05-local-question-set-conversion-checklist.md)
   - [12-06. 의료광고와 후기 리스크: 병원 SEO/GEO에서 조심할 표현](pages/12-06-medical-ad-review-risk.md)
+  - [12-07. 로컬 SEO/GEO 30일 운영 워크플로우](pages/12-07-local-seo-geo-30day-workflow.md)
 
 - [90. 산업별 GEO 케이스북](pages/90-industry-geo-casebook.md)
   - [90-01. PR/마케팅 에이전시: GEO를 설명 가능한 서비스로 만드는 법](pages/90-01-pr-agency-geo-service-case.md)
