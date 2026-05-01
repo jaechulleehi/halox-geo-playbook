@@ -27,6 +27,21 @@
 
 AI가 HTML을 Markdown식 텍스트로 바꿔 읽는다고 생각하면, 기술 점검은 선택이 아닙니다. 화면에는 보이지만 HTML/DOM/구조화 데이터에서 빠진 정보는 AI 답변 재료로 안정적으로 쓰이기 어렵습니다.
 
+## 2~5장 결과를 개발 티켓으로 바꾸는 법
+
+6장은 기술 항목을 따로 외우는 장이 아니라 앞 장의 측정 결과를 URL별 개발/SEO 티켓으로 번역하는 장입니다. 2장에서 citation이 약한 URL, 3장에서 source/citation 갭으로 분류된 노드, 4장에서 리라이트한 페이지, 5장에서 대표 source로 정한 URL을 기술적으로 안정화합니다.
+
+| 앞 장의 신호 | 6장에서 확인할 것 | 개발/SEO 티켓 예시 |
+|---|---|---|
+| citation 후보 URL이 보이지 않음 | 색인, canonical, sitemap, 내부 링크 | 대표 URL sitemap 포함/canonical 수정 |
+| source로 오래된 URL이 반복됨 | redirect, 301, robots meta | 구 URL 301 정리/robots meta 확인 |
+| 본문은 있는데 AI 답변 품질이 낮음 | 초기 HTML, H2, table, FAQ schema | 핵심 답변 HTML 본문화 |
+| entity 설명이 흔들림 | Organization/Person/Product schema | sameAs와 공식 URL 정렬 |
+| 글로벌 URL이 혼선 | hreflang/canonical/locale | 언어별 alternate 링크 수정 |
+| 리치 결과 후보가 약함 | Rich Results Test/Schema Validator | FAQ/Product/Article schema 오류 수정 |
+
+AcmeGEO가 `GEO 리포트 예시` 페이지를 citation 후보로 키우려면 콘텐츠만 좋아서는 부족합니다. URL이 200으로 열리고, sitemap에 있고, canonical이 대표 URL을 가리키며, 첫 답변과 표가 초기 HTML에 있고, 내부 링크와 schema가 같은 주제를 말해야 합니다.
+
 ## 테크니컬 점검 패키지
 
 이 장의 흐름은 `기본 기술 점검 → 렌더링 확인 → llms.txt/이전 리스크 → AI 크롤러 접근성 → schema/내부 링크 구조화 → Google 공식 도구 검증 → schema 타입별 점검 → 메타 정보 점검`입니다. 단순 개발 체크리스트가 아니라 GEO 리포트와 연결되는 점검표로 써야 합니다.

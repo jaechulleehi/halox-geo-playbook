@@ -50,6 +50,18 @@ GEO 관점에서는 캠페인 시작 전부터 대표 URL, 추적 URL, canonical
 | Campaign 답변 근거 맵 | 인플루언서/언론/블로그/랜딩 페이지를 source 유형별로 분리 |
 | 30일 액션 리포트 | 다음 배포/리라이트/PR 보강 우선순위 제시 |
 
+## 캠페인 URL을 닫기 전에 확인할 것
+
+캠페인이 끝났다고 URL을 바로 닫으면 과거 citation이 깨지거나 AI가 오래된 복제본을 source로 삼을 수 있습니다. 종료 전 대표 URL과 보존 전략을 정해야 합니다.
+
+| 항목 | 확인 질문 | 권장 처리 |
+|---|---|---|
+| 대표 URL | 캠페인의 공식 source는 무엇인가? | 상시 요약 페이지로 전환 |
+| UTM URL | 추적 URL이 canonical을 따르는가? | 대표 URL canonical 고정 |
+| 보도자료 | 뉴스룸에 보존되는가? | 날짜/성과/후속 링크 추가 |
+| 다운로드 자료 | 파일 설명 HTML이 있는가? | 요약/FAQ/관련 링크 추가 |
+| 종료 페이지 | 404로 닫히지 않는가? | 결과 요약 또는 관련 페이지 301 |
+
 ## 30일 측정 설계
 
 | 시점 | 확인할 것 | 판단 기준 | 액션 |
@@ -59,6 +71,18 @@ GEO 관점에서는 캠페인 시작 전부터 대표 URL, 추적 URL, canonical
 | D+7 | 첫 mention/source/citation | 어떤 플랫폼에서 어떤 URL을 쓰는가 | 제목/요약/FAQ 리라이트 |
 | D+14 | 반복 인용 여부 | 같은 질문에서 URL이 유지되는가 | 외부 source 보강/비교 콘텐츠 추가 |
 | D+30 | 캠페인 이후 처리 | 종료 URL이 깨지지 않는가 | 결과 페이지/리다이렉트/상시 허브 연결 |
+
+## campaign URL 성과를 GA4와 함께 읽기
+
+campaign URL citation 추적은 AI 답변 화면만 캡처해서 끝내면 부족합니다. 같은 기간 GA4에서 referral, landing page engagement, conversion event를 함께 보면 AI citation이 실제 방문과 전환 흐름에 어떤 영향을 주는지 더 잘 해석할 수 있습니다.
+
+| 데이터 | 확인 질문 | 해석 |
+|---|---|---|
+| AI citation | 어떤 질문에서 campaign URL이 보였는가? | 답변 근거 노출 여부 |
+| GA4 landing page | 해당 URL 유입과 engagement가 있는가? | 클릭 이후 만족도 |
+| conversion event | 신청/다운로드/문의가 발생했는가? | 캠페인 전환 기여 |
+| GSC query | 검색 노출과 CTR이 함께 움직였는가? | 검색/AI 노출 연결 |
+| redirect/canonical | 종료 후 대표 URL로 이어지는가? | 장기 citation 안정성 |
 
 ## 실습 워크시트
 

@@ -119,6 +119,18 @@ Schema를 추가하기 전에 먼저 본문과 사이트 구조가 같은 사실
 | 내부 링크 | 관련 개념/제품/사례가 본문 맥락에서 연결 | footer 링크만 많고 본문 연결은 약함 |
 | 업데이트 정보 | 본문과 schema의 날짜/상태가 최신 | 오래된 가격/기능/조직 설명이 남음 |
 
+## schema와 내부 링크를 함께 설계하는 예
+
+schema는 페이지 안의 의미를 라벨링하고, 내부 링크는 페이지 사이의 관계를 보여줍니다. 둘이 따로 놀면 AI가 어떤 URL을 대표 source로 봐야 하는지 약해질 수 있습니다.
+
+| 페이지 | schema 후보 | 내부 링크 설계 | 목적 |
+|---|---|---|---|
+| About/회사 소개 | Organization, ProfilePage | 제품/뉴스룸/팩트시트 연결 | entity 기준점 |
+| 대표 제품 | Product, SoftwareApplication | 비교표/사례/FAQ 연결 | 추천/비교 질문 대응 |
+| 리포트 예시 | Article, FAQPage | 지표 해석/도구 비교 연결 | citation 후보 강화 |
+| 고객 사례 | Article, Review 후보 | 제품/산업 페이지 연결 | Experience 신호 보강 |
+| 뉴스룸 팩트시트 | Organization, Article | 보도자료/외부 기사 연결 | source 정렬 |
+
 ## 어떤 schema를 어디에 쓸까
 
 | 페이지 유형 | 우선 schema | 함께 볼 내부 링크 |

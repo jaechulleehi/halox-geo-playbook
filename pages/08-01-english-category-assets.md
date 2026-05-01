@@ -65,6 +65,20 @@ HaloX is a Generative Engine Optimization and AI search visibility platform for 
 | 해결 문제 | monitor how their brand, products, and competitors appear | 사용자가 묻는 문제와 연결 |
 | 측정 단위 | mentions, sources, citations, category-level visibility | GEO 지표와 연결 |
 
+## 영문 카테고리 페이지 브리프 예시
+
+영문 카테고리 페이지는 한국어 소개문 번역본이 아니라 영어권 query에 답하는 landing page여야 합니다.
+
+| 브리프 항목 | 작성 기준 | 예시 |
+|---|---|---|
+| primary query | 영어권 시장이 쓰는 표현 | AI search visibility monitoring tool |
+| secondary queries | 비교/추천/검증 표현 | LLM visibility analytics, AI citation tracking |
+| first answer | 한 문장 정의와 대상 고객 | A tool for tracking brand mentions, sources, and citations across AI answers |
+| comparison frame | 어떤 대안과 비교되는가 | SEO tools vs GEO tools vs media monitoring |
+| proof | 영어권에서 확인 가능한 근거 | case study, report sample, partner page |
+| FAQ | 구매 전 질문 | pricing, data sources, supported platforms, reporting cadence |
+| CTA | 다음 행동 | View sample report / book a GEO audit |
+
 ## 카테고리 자산별 우선순위
 
 처음부터 모든 영문 자산을 만들 필요는 없습니다. 글로벌 GEO에서는 답변 후보 진입에 직접 영향을 주는 자산부터 만듭니다.

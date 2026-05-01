@@ -175,6 +175,20 @@ B2B SaaS나 GEO 분석 도구처럼 소프트웨어를 설명하는 페이지에
 5. Rich Results Test와 Schema Markup Validator로 오류를 봅니다.
 6. Search Console과 AI 질문셋 재측정으로 실제 노출/인용 변화를 확인합니다.
 
+## schema 타입 선택을 fan-out 노드와 연결하기
+
+schema 타입은 페이지 모양이 아니라 AI가 확인하는 fan-out 노드에 맞춰 선택해야 합니다.
+
+| fan-out 노드 | 우선 schema 후보 | 확인할 본문 정보 |
+|---|---|---|
+| entity 확인 | Organization, Person, ProfilePage | 이름, URL, logo, sameAs, 대표 설명 |
+| 정의/가이드 | Article, FAQPage | 정의, 범위, FAQ, 업데이트 날짜 |
+| 비교/추천 | Product, SoftwareApplication, Review 후보 | 기능, 대상 고객, 가격/조건, 비교 기준 |
+| 실행 | HowTo 후보, Article | 단계, 도구, 완료 기준 |
+| 리스크/정책 | FAQPage, Article | 주의사항, 적용 범위, 최신 정책 |
+
+본문에 없는 정보를 schema에만 넣으면 신뢰 신호가 아니라 리스크입니다. schema는 4장에서 만든 답변 구조를 기술적으로 표시하는 보조 장치입니다.
+
 ## URL별 schema 점검표
 
 | URL | 페이지 유형 | 우선 schema | 본문 확인 | 기술 확인 | 완료 기준 |

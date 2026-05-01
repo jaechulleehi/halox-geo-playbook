@@ -70,6 +70,20 @@ Canonical은 대표 URL을 알려 주고, robots meta는 해당 페이지를 색
 | 추적 URL이 canonical | 캠페인 성과 측정은 됨 | 대표 URL이 분산됨 | 추적 파라미터 없는 대표 URL 지정 |
 | hreflang/canonical 충돌 | 언어별 페이지가 있음 | 글로벌 GEO 답변이 언어별로 흔들림 | 언어별 대표 URL과 관계 정리 |
 
+## 검색 스니펫과 AI citation을 함께 보는 기준
+
+title/meta/canonical은 검색결과 스니펫만의 문제가 아닙니다. AI가 어떤 URL을 대표 source로 이해하고 어떤 문장으로 citation 후보를 설명할지에도 영향을 줍니다.
+
+| 항목 | 검색 관점 | GEO 관점 |
+|---|---|---|
+| title | 클릭 전 약속 | 어떤 질문에 답하는 URL인지 고정 |
+| meta description | CTR 보조 | citation 후보의 요약 문장 후보 |
+| canonical | 중복 URL 통합 | source/citation 대표 URL 안정화 |
+| robots meta | 색인 허용/차단 | AI 답변 근거 후보 가능성 |
+| og:title/description | 공유 화면 | 외부 source가 인용할 설명 기준 |
+
+AcmeGEO의 캠페인 URL이 UTM 버전으로 흩어져 있으면 AI 답변에서 대표 citation이 흔들릴 수 있습니다. canonical과 내부 링크는 대표 URL을 한 방향으로 모아야 합니다.
+
 ## 실무 점검 순서
 
 1. 핵심 질문셋에서 인용되어야 할 URL 20개를 고릅니다.

@@ -26,6 +26,21 @@
 
 예를 들어 한국어로 `AI 검색 최적화 솔루션`이라고 부르는 서비스를 영어로 그대로 `AI search optimization solution`이라고 옮길 수는 있습니다. 하지만 영어권 시장에서 사용자가 실제로 묻는 질문이 `best LLM visibility tools`, `Generative Engine Optimization platform`, `AI search monitoring software`, `brand visibility in ChatGPT`라면, 영문 페이지는 이 표현들과의 관계를 설명해야 합니다.
 
+## 국내 GEO 자산을 글로벌 자산으로 바꾸는 순서
+
+글로벌 GEO는 한국어 페이지를 영어로 번역하는 일이 아니라, 시장별 query/source/locale을 다시 설계하는 일입니다. 국내에서 성과가 있던 콘텐츠도 영어권에서는 카테고리명, 경쟁사, 리뷰 채널, 구매 기준이 달라질 수 있습니다.
+
+| 국내 자산 | 글로벌에서 다시 정할 것 | 산출물 |
+|---|---|---|
+| 한국어 핵심 query | 영어권 category/query 표현 | English question portfolio |
+| 한국어 Answer-first 페이지 | 영문 첫 답변/비교 기준/FAQ | English category page |
+| 국내 source/citation | G2, Product Hunt, Reddit, global media | global source map |
+| 국내 URL 구조 | locale, hreflang, canonical | international URL checklist |
+| 국내 사례 | 영문 case/proof/partner signal | global proof package |
+| 국내 리포트 | US/Global 질문셋 재측정 | market-by-market report |
+
+AcmeGEO가 국내에서 `GEO 도구`로 설명되더라도, 영어권에서는 `AI search visibility monitoring`, `LLM visibility analytics`, `AI citation tracking` 같은 표현과 어떻게 연결되는지 먼저 정해야 합니다.
+
 ## 글로벌 확장 3단계
 
 이 장은 `영문 카테고리 자산 → locale/hreflang → 글로벌 답변 근거 맵` 순서로 읽습니다. 세 단계가 함께 맞아야 AI가 시장별 답변에서 브랜드를 안정적으로 이해합니다.

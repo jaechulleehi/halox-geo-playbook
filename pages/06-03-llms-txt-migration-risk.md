@@ -51,6 +51,20 @@ Policies
 
 
 
+## 이전 전후 재측정 체크리스트
+
+사이트 이전이나 URL 개편은 SEO뿐 아니라 GEO source/citation에도 영향을 줍니다. 이전 전후로 같은 질문셋을 측정해 어떤 URL이 답변 근거에서 사라졌는지 확인해야 합니다.
+
+| 시점 | 확인할 것 | 산출물 |
+|---|---|---|
+| 이전 전 | 기존 source/citation URL 목록 | 보존해야 할 핵심 URL 리스트 |
+| 이전 직후 | 200/301/404, canonical, sitemap | 오류/리다이렉트 점검표 |
+| 1주 후 | GSC 색인/노출 변화 | query/page 변화표 |
+| 2~4주 후 | AI 답변의 source/citation 변화 | 재측정 리포트 |
+| 안정화 후 | llms.txt와 문서 허브 업데이트 | 대표 문서 안내판 |
+
+llms.txt는 보조 안내판입니다. 대표 URL이 깨졌거나 canonical이 흔들리면 llms.txt를 추가해도 source/citation 안정성이 생기지 않습니다.
+
 ## 사이트 이전에서 자주 생기는 문제
 
 | 문제 | GEO 리스크 | 대응 |
