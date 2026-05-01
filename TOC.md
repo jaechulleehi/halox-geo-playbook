@@ -4,7 +4,7 @@
   - [00-01. GEO 뜻: 생성형 엔진 최적화란 무엇인가](pages/00-01-what-is-geo.md)
   - [00-02. GEO/SEO/AEO/AIO/LLMO 차이](pages/00-02-geo-seo-aeo-aio.md)
   - [00-03. AI 검색은 기존 검색과 무엇이 다른가](pages/00-03-ai-search-difference.md)
-  - [00-04. 이 책을 읽고 실무에 적용하는 법](pages/00-04-how-to-use-this-book.md)
+  - [00-04. GEO 워크플로우: 이 책을 실무에 적용하는 법](pages/00-04-how-to-use-this-book.md)
 
 - [01. SEO 키워드를 AI 검색 질문으로 바꾸는 법](pages/01-chapter-1.md)
   - [01-01. SEO 키워드는 왜 여전히 중요한가](pages/01-01-seo-keywords-still-matter.md)
@@ -74,7 +74,7 @@
   - [09-06. GEO 솔루션 추천: AI 검색 최적화 도구 고르는 법](pages/09-06-geo-solution-recommendation.md)
   - [09-07. SEO 도구와 GEO 도구 비교: Semrush, Ahrefs, Profound, HaloX](pages/09-07-seo-tools-vs-geo-tools-comparison.md)
 
-- [10. 4주 실행 로드맵과 GEO 리포트](pages/10-chapter-10.md)
+- [10. GEO 워크플로우: 4주 실행 로드맵과 리포트](pages/10-chapter-10.md)
   - [10-01. 1주차: GEO 기준선 진단](pages/10-01-week1-baseline-workshop.md)
   - [10-02. 2주차: Fan-out 질문맵과 콘텐츠 갭](pages/10-02-week2-fanout-gap-workshop.md)
   - [10-03. 3주차: 콘텐츠 리라이트와 출처 설계](pages/10-03-week3-content-source-workshop.md)

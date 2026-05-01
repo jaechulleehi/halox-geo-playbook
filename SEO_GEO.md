@@ -16,6 +16,7 @@
 - GEO 뜻
 - GEO 최적화
 - GEO 최적화 방법
+- GEO 워크플로우
 - GEO 최적화 전략
 - GEO 검색 최적화
 - GEO AI 최적화
@@ -110,7 +111,7 @@
 | 1 | 개념 이해 | GEO, GEO 뜻, 생성형 엔진 최적화 | [00-01. GEO 뜻: 생성형 엔진 최적화란 무엇인가](pages/00-01-what-is-geo.md) | 첫 진입 독자에게 정의와 차이를 설명 |
 | 1 | 개념 비교 | GEO vs SEO, AEO, AIO, LLM SEO, LLMO | [00-02. GEO/SEO/AEO/AIO/LLMO 차이](pages/00-02-geo-seo-aeo-aio.md) | 용어 혼동을 정리하고 책의 용어 기준 제시 |
 | 1 | 검색 변화 이해 | AI 검색, AI 검색 엔진 최적화 | [00-03. AI 검색은 기존 검색과 무엇이 다른가](pages/00-03-ai-search-difference.md) | 기존 검색과 AI 답변형 검색의 차이 설명 |
-| 1 | 실행 입문 | GEO 최적화 방법, GEO 최적화 전략 | [00-04. 이 책을 읽고 실무에 적용하는 법](pages/00-04-how-to-use-this-book.md) | 책을 실무 순서로 읽는 방법 안내 |
+| 1 | 실행 입문 | GEO 최적화 방법, GEO 최적화 전략 | [00-04. GEO 워크플로우: 이 책을 실무에 적용하는 법](pages/00-04-how-to-use-this-book.md) | 책을 실무 순서로 읽는 방법 안내 |
 | 1 | 키워드 전환 | SEO 키워드, AI 검색 질문 | [01. SEO 키워드를 AI 검색 질문으로 바꾸는 법](pages/01-chapter-1.md) | 기존 SEO 키워드를 질문셋으로 바꾸는 관문 |
 | 1 | 프롬프트 전환 | SEO 키워드를 질문/프롬프트로 바꾸는 법 | [01-02. SEO 키워드를 질문/프롬프트로 바꾸는 법](pages/01-02-keyword-to-prompt.md) | 키워드 목록을 실제 AI 질문으로 변환 |
 | 2 | 플랫폼 노출 | ChatGPT 브랜드 노출 | [02-01. ChatGPT 브랜드 노출은 어떻게 확인하나](pages/02-01-chatgpt-brand-visibility.md) | ChatGPT에서 브랜드가 어떻게 등장하는지 측정 |
@@ -136,7 +137,7 @@
 | 3 | 운영 리포트 | GEO 리포트, 브랜드 가시성 분석, AI 검색 모니터링 솔루션 | [09-05. GEO 리포트 운영: 브랜드 가시성을 매달 관리하는 법](pages/09-05-recurring-geo-report-product.md) | 월간 운영 회의와 30일 액션으로 연결 |
 | 3 | 솔루션 추천 | GEO 솔루션 추천, AI 검색 최적화 도구, 브랜드 가시성 분석 도구 | [09-06. GEO 솔루션 추천: AI 검색 최적화 도구 고르는 법](pages/09-06-geo-solution-recommendation.md) | 도구 후보를 순위보다 목적/질문셋/실행 연결 기준으로 비교 |
 | 3 | SEO 도구/GEO 도구 비교 | SEO 도구 GEO, Semrush GEO, Ahrefs GEO, Profound 대안, Profound 비교, HaloX GEO | [09-07. SEO 도구와 GEO 도구 비교: Semrush, Ahrefs, Profound, HaloX](pages/09-07-seo-tools-vs-geo-tools-comparison.md) | 기존 SEO 플랫폼, GEO 전용 도구, HaloX의 역할 차이를 비교 |
-| 3 | 실행 로드맵 | GEO 실행 리포트, 4주 실행 로드맵 | [10. 4주 실행 로드맵과 GEO 리포트](pages/10-chapter-10.md) | 진단에서 실행 리포트까지 이어지는 실무 흐름 |
+| 3 | 실행 로드맵 | GEO 워크플로우, GEO 실행 리포트, 4주 실행 로드맵 | [10. GEO 워크플로우: 4주 실행 로드맵과 리포트](pages/10-chapter-10.md) | 진단에서 실행 리포트까지 이어지는 실무 흐름 |
 | 3 | 커머스 | 커머스 AIO, AI 구매 에이전트, Product schema | [11. 커머스 GEO와 AI 구매 에이전트](pages/11-chapter-11.md) | 상품 데이터와 구매 에이전트 대응 |
 | 3 | 로컬 | 로컬 SEO, 로컬 GEO, 지도 SEO | [12. 병원/오프라인 매장 SEO/GEO 전략](pages/12-chapter-12.md) | 지도/리뷰/지점/예약 전환이 중요한 로컬 업종 대응 |
 | 3 | 의료/전문 서비스 리스크 | 병원 SEO, 병원 GEO, 의료광고, 후기 리스크 | [12-06. 의료광고와 후기 리스크: 병원 SEO/GEO에서 조심할 표현](pages/12-06-medical-ad-review-risk.md) | AI 답변에 잘못 인용될 수 있는 위험 표현을 안전한 기준으로 정리 |
@@ -172,7 +173,7 @@
 | SEO/GEO 도구 비교 | SEO 도구 GEO, Semrush GEO, Ahrefs GEO, Profound 대안, Profound 비교, GEO 도구 비교 | 09-06/09-07 | 기존 SEO 도구와 GEO 전용 도구의 역할 차이/조합 추천 |
 | 리포트/검증/구매 검토 | GEO 리포트, AI 검색 리포트, GEO 대행사, GEO 대행사 선택 기준, GEO 컨설팅, GEO 컨설팅 비용, GEO 도구, GEO 도구 비교, GEO 제안서 | 09장/10장 | 리포트 해석/실행 검증/도구/제안서 위험 신호 |
 | 산업별 적용 | B2B SaaS GEO, 커머스 AIO, 로컬 SEO, 로컬 GEO, 글로벌 GEO | 07장/08장/11장/12장 | 업종별 질문셋/사례/체크리스트 |
-| 교육/워크숍 | GEO 강의, GEO 실행 리포트, 4주 실행 로드맵 | 10장 | 실습 순서/산출물/완료 기준 |
+| 교육/워크숍 | GEO 강의, GEO 워크플로우, GEO 실행 리포트, 4주 실행 로드맵 | 10장 | 실습 순서/산출물/완료 기준 |
 
 ## 타겟 질문
 
