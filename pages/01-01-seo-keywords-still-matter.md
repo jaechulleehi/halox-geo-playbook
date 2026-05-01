@@ -32,7 +32,7 @@ Google의 [SEO 시작 가이드](https://developers.google.com/search/docs/funda
 | 경쟁사 제목/메뉴 | 시장이 카테고리를 나누는 방식 | AI visibility, brand monitoring | 비교형/카테고리형 질문으로 전환 |
 | 내부 제품/리포트 용어 | 우리만 설명할 수 있는 기준 | mention, source, citation, AVI | 검증형/리포트 해석 질문으로 전환 |
 
-Search Console의 성과 보고서는 검색어, 페이지, 클릭, 노출을 확인할 수 있는 기본 자료입니다. Google의 [Search Console 성과 보고서 도움말](https://support.google.com/webmasters/answer/7576553)을 함께 보면 기존 SEO 데이터와 GEO 질문셋을 연결하는 기준을 잡기 좋습니다.
+Search Console의 성과 보고서는 검색어, 페이지, 클릭, 노출을 확인할 수 있는 기본 자료입니다. Google의 [Search Console 성과 보고서 도움말](https://support.google.com/webmasters/answer/7576553?hl=ko)을 함께 보면 기존 SEO 데이터와 GEO 질문셋을 연결하는 기준을 잡기 좋습니다.
 
 ## SEO 키워드와 GEO 질문의 차이
 

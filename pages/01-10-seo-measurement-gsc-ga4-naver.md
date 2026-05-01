@@ -99,6 +99,65 @@ GEO 작업은 “AI 답변에 나왔다”에서 끝나면 안 됩니다. 답변
 
 이 예시에서 우선순위는 단순히 검색량이 큰 키워드가 아닙니다. `GSC에서 수요가 보이고, GA4에서 행동이 있으며, AI 답변에서 빠지거나 부정확한 질문`이 먼저입니다.
 
+## 월간 측정 워크플로우
+
+측정은 도구 화면을 캡처하는 일이 아니라 다음 액션을 결정하는 일입니다. 월간 리포트는 아래 순서로 만들면 SEO와 GEO가 분리되지 않습니다.
+
+1. GSC에서 최근 28일 또는 3개월 query/page 데이터를 export합니다.
+2. impressions, clicks, CTR, average position을 기준으로 기회 query를 고릅니다.
+3. 네이버 웹마스터 도구에서 한국어 검색어, 수집/색인, 사이트맵 상태를 확인합니다.
+4. GA4에서 organic/referral/direct 유입, landing page, engagement, key events를 확인합니다.
+5. query를 AI 질문셋으로 바꾸고 같은 질문을 플랫폼별로 측정합니다.
+6. mention/source/citation/경쟁사 언급을 기록합니다.
+7. 질문별로 리라이트, 기술 수정, 외부 source 보강, 질문셋 추가 중 하나의 액션을 붙입니다.
+8. 다음 달에도 같은 질문셋으로 재측정합니다.
+
+| 단계 | 도구 | 산출물 | 의사결정 |
+|---|---|---|---|
+| 검색 수요 확인 | GSC/네이버 | query/page 목록 | 어떤 문제를 먼저 다룰지 결정 |
+| 행동 확인 | GA4 | landing page/전환 지표 | 어떤 페이지가 사업 성과와 연결되는지 결정 |
+| AI 답변 확인 | ChatGPT/Perplexity/Google AI 기능 | mention/source/citation 기록 | 답변 안에서 빠지는 이유 결정 |
+| 실행 분류 | 리포트 템플릿 | 다음 30일 액션 | 콘텐츠/기술/외부출처 담당 배정 |
+
+## GSC query를 AI 질문으로 바꾸는 예시
+
+| GSC query | SEO 신호 | AI 질문 | GEO 측정 포인트 | 액션 |
+|---|---|---|---|---|
+| GEO 도구 | 노출 높음, CTR 낮음 | B2B SaaS가 쓸 GEO 도구를 고를 때 무엇을 봐야 해? | 추천 여부, 비교 기준, 경쟁사 | title/첫 문단/비교표 리라이트 |
+| ChatGPT 브랜드 노출 | 클릭 증가 | 우리 브랜드가 ChatGPT에 나오는지 어떻게 확인해? | 실행 절차, source, 도구 언급 | 기준선 워크시트와 FAQ 보강 |
+| GEO 대행사 | 평균 순위 12위 | GEO 대행사 리포트를 받을 때 어떤 지표를 봐야 해? | 검증 기준, 위험 신호 | 리포트 검증 체크리스트 작성 |
+| AI 검색 최적화 | CTR 낮음 | AI 검색 최적화는 SEO와 무엇이 달라? | 정의/비교표 인용 여부 | SEO/GEO/AEO 비교 섹션 보강 |
+
+## GA4에서 GEO 흔적을 볼 때의 주의점
+
+AI 답변에서 브랜드가 언급돼도 GA4에 항상 명확한 채널로 잡히지는 않습니다. 일부 방문은 referral로 보이거나 direct처럼 보일 수 있습니다. 그래서 GEO 성과는 GA4만으로 단정하지 말고 질문셋 측정, source/citation 기록, 유입/전환 변화를 함께 봐야 합니다.
+
+| 관찰 | 가능한 해석 | 확인 방법 |
+|---|---|---|
+| referral 유입이 늘었다 | AI 답변이나 외부 출처에서 들어왔을 수 있음 | source/medium과 landing page 확인 |
+| direct가 늘었다 | 브랜드 인지도 또는 앱/메신저 공유 영향일 수 있음 | 같은 기간 브랜드 query와 비교 |
+| landing page 체류가 짧다 | 답변 약속과 페이지 내용이 다를 수 있음 | 첫 문단, 표, CTA 리라이트 |
+| 전환은 없지만 engagement가 높다 | 탐색 단계 콘텐츠일 수 있음 | 내부 링크와 다음 행동 CTA 보강 |
+
+## 네이버 측정에서 추가로 볼 것
+
+한국 시장에서는 네이버 검색결과가 블로그, 카페, 지식iN, 뉴스, 플레이스와 함께 움직입니다. 그래서 사이트만 보지 말고 브랜드가 어떤 문맥에서 설명되는지 같이 확인합니다.
+
+| 항목 | 확인 질문 | 연결 액션 |
+|---|---|---|
+| 브랜드명 검색 | 자동완성/연관 검색어에 어떤 표현이 붙는가 | FAQ/평판 리스크 문장 보강 |
+| 블로그/카페 | 사용자가 어떤 비교와 후기를 말하는가 | 커뮤니티/외부 블로그 source 전략 |
+| 뉴스 | 최신 발표가 검색에 보이는가 | 뉴스룸/PR 최신성 관리 |
+| 플레이스/지도 | NAP와 리뷰가 일관적인가 | 로컬 SEO/GEO 점검으로 연결 |
+| 사이트 수집/색인 | 핵심 페이지가 누락되지 않았는가 | sitemap/robots/canonical 수정 |
+
+## 참고 링크
+
+- Google Search Console의 [실적 보고서 도움말](https://support.google.com/webmasters/answer/7576553?hl=ko)은 query/page/CTR/position을 볼 때 참고합니다.
+- Google Analytics의 [보고서 개요 도움말](https://support.google.com/analytics/answer/9212670?hl=ko)은 채널별 유입과 보고서 구조를 볼 때 참고합니다.
+- Google Analytics의 [주요 이벤트 도움말](https://support.google.com/analytics/answer/9267568?hl=ko)은 문의/가입/예약 같은 전환 기준을 정할 때 참고합니다.
+- 네이버 [서치어드바이저 가이드](https://searchadvisor.naver.com/guide)는 한국어 사이트 수집/색인/노출 상태를 점검할 때 참고합니다.
+
 ## 실습 워크시트
 
 | 입력 항목 | 작성 기준 |
