@@ -90,4 +90,4 @@ E-E-A-T는 추상적인 품질 구호가 아니라 페이지와 브랜드가 어
 - 백링크를 숫자가 아니라 source/citation/consensus 관점으로 볼 수 있습니다.
 - 다음 단계에서 [05장 답변 근거/source와 엔티티 전략](https://wikidocs.net/346345)으로 넘어갈 수 있습니다.
 
-다음은 [SEO 성과 측정](pages/01-10-seo-measurement-gsc-ga4-naver.md)으로 이동해 Google Search Console, GA4, 네이버 웹마스터 도구와 AI 답변 지표를 함께 정리합니다.
+다음은 [SEO 성과 측정](https://wikidocs.net/346933)으로 이동해 Google Search Console, GA4, 네이버 웹마스터 도구와 AI 답변 지표를 함께 정리합니다.

@@ -99,6 +99,6 @@ SEO를 GEO로 확장하려면 먼저 기존 SEO가 어떤 순서로 움직이는
 7. [01-07. 온페이지 SEO와 Answer-first 구조](https://wikidocs.net/346926)에서 title, meta, heading, 첫 문단, 표, FAQ를 정리합니다.
 8. [01-08. 테크니컬 SEO 기본과 GEO 기술 점검](https://wikidocs.net/346927)에서 발견/접근/해석 조건을 점검합니다.
 9. [01-09. 권위 신호와 엔티티를 GEO로 확장하기](https://wikidocs.net/346928)에서 외부 근거와 브랜드 합의 신호를 정리합니다.
-10. [01-10. SEO 성과 측정](pages/01-10-seo-measurement-gsc-ga4-naver.md)에서 Google Search Console, GA4, 네이버 웹마스터 도구와 AI 답변 지표를 함께 읽습니다.
+10. [01-10. SEO 성과 측정](https://wikidocs.net/346933)에서 Google Search Console, GA4, 네이버 웹마스터 도구와 AI 답변 지표를 함께 읽습니다.
 
 이 장을 마치면 기존 SEO 키워드 유입은 단순 순위 관리가 아니라 [02장 AI 검색 모니터링](https://wikidocs.net/346342)과 [10장 GEO 워크플로우](https://wikidocs.net/346338)로 이어지는 실행 입력값이 됩니다.
