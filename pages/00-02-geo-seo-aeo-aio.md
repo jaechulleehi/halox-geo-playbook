@@ -30,6 +30,8 @@ HaloX의 [GEO vs SEO vs AEO 비교 글](https://haloxlabs.ai/ko/blog/geo-vs-seo-
 | GEO | ChatGPT/Perplexity/Gemini 등 답변형 환경 | AI 답변에서 브랜드가 어떻게 검토되는가 | mention, 답변 근거(source), 화면 인용(citation), 비교 문맥, 추천 이유 |
 | LLMO/LLM SEO | LLM 기반 답변 시스템 전반 | LLM이 브랜드와 콘텐츠를 일관되게 읽는가 | LLM 인용, 브랜드 언급, 출처 신뢰도, 엔터티 일관성 |
 
+![SEO, AEO, AIO, GEO, LLMO가 무엇을 최적화하는지 비교한 지도](../assets/images/body-figures/halox-geo-00-02-optimization-terms-map-codex-only.png)
+
 ## 흐름으로 이해하기
 
 검색 최적화의 흐름은 `SEO = 검색 결과에서 발견되는 문제` → `AEO = 질문에 대한 직접 답으로 선택되는 문제` → `AIO = 검색 결과 안의 AI 요약에 포함되는 문제` → `GEO = AI 답변 시장에서 브랜드가 선택되는 문제`로 확장됩니다.
