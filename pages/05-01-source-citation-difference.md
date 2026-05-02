@@ -180,4 +180,4 @@ entity 문제: GEO 분석 플랫폼이 아니라 SEO 도구로 묶임
 
 ## 다음 흐름
 
-이전: [05. 답변 근거/source, 화면 인용/citation, 엔터티 전략](https://wikidocs.net/346333) / 다음: [05-02. Entity와 브랜드 합의 신호를 만드는 법](https://wikidocs.net/346351)
+이전: [05. 답변 근거/source, 화면 인용/citation, 엔티티 전략](https://wikidocs.net/346333) / 다음: [05-02. Entity와 브랜드 합의 신호를 만드는 법](https://wikidocs.net/346351)

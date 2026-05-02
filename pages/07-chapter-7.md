@@ -1,7 +1,7 @@
 ## 산업별 GEO 전략
+
 ![산업별 GEO 전략 대표 이미지](../assets/images/page-heroes/halox-geo-07-chapter-7-hero.png)
 
-![산업별 GEO 전략 흐름](../assets/images/chapter-heroes/halox-geo-industry-strategy-hero-1600x900.png)
 
 산업별 GEO 전략은 업종 이름만 바꾸는 작업이 아닙니다. B2B SaaS, 커머스/플랫폼, 로컬/전문 서비스, PR/뉴스룸, 금융/규제 산업, 캠페인 운영은 질문 구조와 필요한 출처가 다릅니다. 그래서 같은 mention 지표를 보더라도 어떤 질문에서, 어떤 근거로, 어떤 의사결정자에게 보여줄 것인지가 달라집니다.
 
@@ -36,6 +36,7 @@
 | 재측정 | 추천형 질문 | 상품군 질문 | 지역 질문 | 브랜드/이슈 질문 | 리스크 질문 | 캠페인 질문 |
 
 이 표를 먼저 고르면 각 산업 페이지가 흩어진 사례집이 아니라 1~6장의 워크플로우를 업종별로 적용하는 실무 가이드가 됩니다.
+
 ![산업별 GEO 전략 선택 프레임](../assets/images/body-figures/halox-geo-07-chapter-7-industry-strategy-selector-codex-only.png)
 
 <small>산업별 GEO는 업종명보다 질문 맥락, 신뢰 기준, 전환 경로를 함께 보고 선택한다.</small>

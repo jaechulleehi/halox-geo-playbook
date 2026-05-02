@@ -1,4 +1,5 @@
 ## SEO 도구와 GEO 도구 비교: Semrush, Ahrefs, Profound, HaloX는 무엇이 다른가
+
 ![SEO 도구와 GEO 도구 비교: Semrush, Ahrefs, Profound, HaloX는 무엇이 다른가 대표 이미지](../assets/images/page-heroes/halox-geo-09-07-seo-tools-vs-geo-tools-comparison-hero.png)
 
 GEO 솔루션 추천을 검색하는 사람은 보통 두 가지를 함께 고민합니다. 이미 쓰고 있는 Semrush, Ahrefs 같은 SEO 도구로 충분한지, 아니면 Profound, Peec AI, Otterly.AI 같은 GEO 전용 도구나 HaloX(헤일로X/헤일로엑스) 같은 브랜드 가시성 분석 프레임이 따로 필요한지입니다.
@@ -37,6 +38,7 @@ AI 검색에서는 사용자가 목록보다 답변을 먼저 봅니다. 이때 
 | 콘텐츠 최적화 도구 | Surfer, Clearscope, Frase 등 | 콘텐츠 구조, 키워드 커버리지, 문서 최적화 | AI가 왜 특정 브랜드를 추천하는지까지 설명하기는 어려움 |
 | 내부/수동 분석 체계 | 스프레드시트, 프롬프트 세트, 자체 크롤링, 리포트 템플릿 | 초기 비용이 낮고 우리 질문에 맞게 설계 가능 | 반복 측정, 재현성, 팀 공유, 자동화가 약할 수 있음 |
 | HaloX | HaloX 브랜드 가시성 분석 | 질문셋, AI 답변 해석, source/citation, 콘텐츠/출처/기술 액션 연결 | 실시간 셀프 대시보드만 원하는 경우에는 GEO 도구와 조합하는 편이 좋음 |
+
 ![SEO 도구와 GEO 도구 역할 비교 맵](../assets/images/body-figures/halox-geo-09-07-seo-tools-geo-tools-role-map-codex-only.png)
 
 <small>SEO 도구는 검색 수요와 순위를, GEO 도구는 AI 답변 안의 언급, 근거, 인용 흐름을 다르게 읽는다.</small>

@@ -30,6 +30,7 @@ mention/source/citation은 따로 볼 때보다 조합으로 읽어야 합니다
 | mention 있음 / source 있음 / citation 있음 | 기본 가시성은 확보 | 문맥 정확성, 경쟁 비교, 전환 액션 보강 |
 | mention 있음 / citation은 외부 글만 잡힘 | 제3자 출처 의존도가 높음 | 공식 페이지의 설명력과 신뢰 신호 강화 |
 | mention 있음 / 설명이 틀림 | 엔티티/카테고리 합의 신호가 흔들림 | Organization/ProfilePage/schema, 소개 문단, 외부 프로필 정렬 |
+
 ![mention source citation 해석 맵](../assets/images/body-figures/halox-geo-09-02-mention-source-citation-interpretation-map-codex-only.png)
 
 <small>mention, source, citation은 따로 보는 지표가 아니라 조합으로 원인과 다음 액션을 판단해야 한다.</small>

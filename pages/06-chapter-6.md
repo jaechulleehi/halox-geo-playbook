@@ -1,7 +1,7 @@
 ## 테크니컬 GEO와 사이트 구조
+
 ![테크니컬 GEO와 사이트 구조 대표 이미지](../assets/images/page-heroes/halox-geo-06-chapter-6-hero.png)
 
-![테크니컬 GEO와 사이트 구조](../assets/images/chapter-heroes/halox-geo-technical-geo-hero-1600x900.png)
 
 테크니컬 GEO는 AI가 콘텐츠를 발견하고, 읽고, 해석하고, 다시 인용할 수 있게 만드는 사이트의 기본 구조입니다. 04장에서 좋은 콘텐츠 구조를 만들고 05장에서 source/citation/entity 신호를 설계했다면, 06장에서는 그 구조와 신호가 실제 HTML, 렌더링, schema, sitemap, robots, 내부 링크, canonical에서도 유지되는지 확인합니다. 좋은 글을 많이 써도 AI 크롤러가 접근하지 못하거나 핵심 본문이 렌더링 뒤에만 보이면 답변 근거(source)/화면 인용(citation) 성과를 안정적으로 만들기 어렵습니다.
 
@@ -96,7 +96,7 @@ _콘텐츠 구조는 URL, HTML, schema, robots, sitemap, rendering 검증을 지
 6. llms.txt와 핵심 문서 허브가 AI에게 우선 읽을 경로를 안내하는지 봅니다.
 7. 수정 후 같은 질문셋으로 답변 근거(source)/화면 인용(citation) 변화를 재측정합니다.
 
-이 흐름은 [02. AI 검색 모니터링: 브랜드 언급률, 답변 근거, 화면 인용 읽는 법](https://wikidocs.net/346342), [05. 답변 근거/source, 화면 인용/citation, 엔터티 전략](https://wikidocs.net/346333), [10-04. 4주차: GEO 실행 리포트와 30일 액션 플랜](https://wikidocs.net/346368)과 연결됩니다.
+이 흐름은 [02. AI 검색 모니터링: 브랜드 언급률, 답변 근거, 화면 인용 읽는 법](https://wikidocs.net/346342), [05. 답변 근거/source, 화면 인용/citation, 엔티티 전략](https://wikidocs.net/346333), [10-04. 4주차: GEO 실행 리포트와 30일 액션 플랜](https://wikidocs.net/346368)과 연결됩니다.
 
 ## 학습과 실무에서의 역할
 
@@ -132,4 +132,4 @@ _콘텐츠 구조는 URL, HTML, schema, robots, sitemap, rendering 검증을 지
 
 ## 다음 흐름
 
-이 장은 앞선 [05. 답변 근거/source, 화면 인용/citation, 엔터티 전략](https://wikidocs.net/346333)의 흐름을 이어받습니다. 기술 점검까지 마치면 [07. 산업별 GEO 전략](https://wikidocs.net/346335)으로 넘어가 업종별로 어떤 기술 요소가 더 중요한지 봅니다.
+이 장은 앞선 [05. 답변 근거/source, 화면 인용/citation, 엔티티 전략](https://wikidocs.net/346333)의 흐름을 이어받습니다. 기술 점검까지 마치면 [07. 산업별 GEO 전략](https://wikidocs.net/346335)으로 넘어가 업종별로 어떤 기술 요소가 더 중요한지 봅니다.

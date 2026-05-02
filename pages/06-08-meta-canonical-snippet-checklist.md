@@ -1,4 +1,5 @@
 ## 메타 정보 실전 점검: title/meta description/canonical/robots meta
+
 ![메타 정보 실전 점검: title/meta description/canonical/robots meta 대표 이미지](../assets/images/page-heroes/halox-geo-06-08-meta-canonical-snippet-checklist-hero.png)
 
 메타 정보는 검색 결과에 보이는 문구만 고치는 작업이 아닙니다. GEO 관점에서는 “이 URL이 어떤 질문의 답인지”, “어느 URL을 대표로 봐야 하는지”, “검색엔진과 AI가 이 페이지를 읽고 따라가도 되는지”를 먼저 알려 주는 기술 신호입니다.

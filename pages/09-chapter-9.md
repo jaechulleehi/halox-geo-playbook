@@ -1,7 +1,7 @@
 ## GEO 리포트와 실행 검증: AI 검색 성과를 읽는 법
+
 ![GEO 리포트와 실행 검증: AI 검색 성과를 읽는 법 대표 이미지](../assets/images/page-heroes/halox-geo-09-chapter-9-hero.png)
 
-![GEO 도구 파트너 리포트 검증 흐름](../assets/images/chapter-heroes/halox-geo-business-validation-hero-1600x900.png)
 
 9장의 목적은 대행사나 컨설팅을 소개하는 것이 아닙니다. 이 장의 핵심은 **GEO 실행 결과를 어떻게 읽고, 검증하고, 다음 액션으로 바꿀 것인가**입니다.
 
@@ -58,6 +58,7 @@ AcmeGEO 리포트라면 `GEO 점수 72점`보다 `추천형 질문 30개 중 men
 | 화면 인용(citation) | 실제로 링크로 보이는 URL은 무엇인가? | citation 약점을 모르고 source만 늘림 |
 | 경쟁 문맥 | 경쟁사는 어떤 질문과 출처에서 강한가? | 왜 밀리는지 설명하지 못함 |
 | 다음 액션 | 콘텐츠/오프사이트/기술 중 무엇을 고칠 것인가? | 리포트가 읽히고 끝남 |
+
 ![GEO 리포트 검증 루프](../assets/images/body-figures/halox-geo-09-chapter-9-report-validation-loop-codex-only.png)
 
 <small>GEO 리포트는 점수표가 아니라 상태, 원인, 액션, 재측정을 연결하는 검증 루프다.</small>

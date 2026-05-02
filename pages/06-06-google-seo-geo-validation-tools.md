@@ -1,4 +1,5 @@
 ## Google 공식 도구로 SEO/GEO 기술 상태 점검하기
+
 ![Google 공식 도구로 SEO/GEO 기술 상태 점검하기 대표 이미지](../assets/images/page-heroes/halox-geo-06-06-google-seo-geo-validation-tools-hero.png)
 
 메타 정보, 리치 리절트, schema, 페이지 속도는 SEO에서만 중요한 항목이 아닙니다. GEO에서도 이 요소들은 AI가 페이지의 주제와 구조를 이해하고, 답변 근거(source)나 화면 인용(citation) 후보로 판단하는 데 영향을 줍니다.

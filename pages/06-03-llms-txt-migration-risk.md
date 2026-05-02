@@ -50,7 +50,6 @@ Policies
 | 뉴스룸/팩트시트 | 회사명/대표/제품명/수상/투자 정보가 최신 | 외부 기사 복사본 |
 
 
-
 ## 이전 전후 재측정 체크리스트
 
 ![llms.txt와 사이트 이전 리스크 보드](../assets/images/body-figures/halox-geo-06-03-llms-txt-migration-risk-board-codex-only.png)

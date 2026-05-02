@@ -28,7 +28,7 @@ HaloX의 [GEO vs SEO vs AEO 비교 글](https://haloxlabs.ai/ko/blog/geo-vs-seo-
 | AEO | 답변 박스/추천 스니펫/FAQ | 질문에 대한 직접 답으로 선택되는가 | 답변 채택, 스니펫, FAQ 구조 |
 | AIO | Google AI Overviews 같은 SERP 내 AI 요약 | AI 요약 영역에 포함되고 인용되는가 | AI Overviews 노출, 화면 인용 링크, 검색 TOP10 교차율 |
 | GEO | ChatGPT/Perplexity/Gemini 등 답변형 환경 | AI 답변에서 브랜드가 어떻게 검토되는가 | mention, 답변 근거(source), 화면 인용(citation), 비교 문맥, 추천 이유 |
-| LLMO/LLM SEO | LLM 기반 답변 시스템 전반 | LLM이 브랜드와 콘텐츠를 일관되게 읽는가 | LLM 인용, 브랜드 언급, 출처 신뢰도, 엔터티 일관성 |
+| LLMO/LLM SEO | LLM 기반 답변 시스템 전반 | LLM이 브랜드와 콘텐츠를 일관되게 읽는가 | LLM 인용, 브랜드 언급, 출처 신뢰도, 엔티티 일관성 |
 
 ![SEO, AEO, AIO, GEO, LLMO가 무엇을 최적화하는지 비교한 지도](../assets/images/body-figures/halox-geo-00-02-optimization-terms-map-codex-only.png)
 
@@ -55,7 +55,7 @@ AI Overviews 관련 구조화와 출처 이해는 Google의 [구조화 데이터
 |---|---|---|
 | title/meta 정리 | 검색 결과 제목과 설명을 명확히 함 | AI가 페이지를 어떤 질문의 답으로 볼지 압축해 줌 |
 | FAQ 추가 | 질문형 검색/스니펫 대응 | AI 답변에서 질문/답변 관계를 추출하기 쉽게 함 |
-| schema/JSON-LD 추가 | 구조화 데이터로 페이지 의미를 보조 | 브랜드/제품/FAQ/리뷰 엔터티를 일관되게 라벨링함 |
+| schema/JSON-LD 추가 | 구조화 데이터로 페이지 의미를 보조 | 브랜드/제품/FAQ/리뷰 엔티티를 일관되게 라벨링함 |
 | 외부 출처 확보 | 권위와 유입 경로를 넓힘 | AI가 반복적으로 확인할 수 있는 합의 신호를 만듦 |
 | 내부 링크 정리 | 크롤링과 주제 허브를 개선 | AI가 개념/제품/사례의 관계를 따라가게 함 |
 

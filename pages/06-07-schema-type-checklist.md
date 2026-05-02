@@ -1,4 +1,5 @@
 ## Schema 타입별 실전 점검표: Organization/Person/FAQ/Product
+
 ![Schema 타입별 실전 점검표: Organization/Person/FAQ/Product 대표 이미지](../assets/images/page-heroes/halox-geo-06-07-schema-type-checklist-hero.png)
 
 Schema는 페이지에 숨겨 두는 SEO 장식이 아닙니다. Google은 구조화 데이터를 페이지 콘텐츠를 이해하는 데 활용한다고 설명합니다. schema.org는 `Organization`을 학교, 회사, 단체 같은 조직 유형으로 정의하고, `FAQPage`를 하나 이상의 자주 묻는 질문과 답을 제시하는 웹페이지 유형으로 정의합니다. Google 문서에서도 Organization 마크업은 주소, 연락처, 식별자 같은 조직의 관리 정보를 알려 주는 용도로, FAQ 구조화 데이터는 사용자가 자주 묻는 정보를 리치 결과로 발견하도록 돕는 용도로 설명합니다.

@@ -30,6 +30,7 @@
 | merchant feed | ID, 가격, 재고, 링크, 이미지 | 상세페이지와 feed 불일치 | 쇼핑/AI 추천 후보 품질 저하 |
 
 Google의 Product structured data와 Merchant Center 제품 데이터 사양을 함께 봐야 하는 이유가 여기에 있습니다. 구조화 데이터는 검색/AI가 상품을 이해하는 데 도움을 주지만, 본문과 feed가 같은 사실을 말할 때 의미가 있습니다.
+
 ![커머스 상품 데이터와 AI 답변 연결 구조](../assets/images/body-figures/halox-geo-07-02-commerce-product-data-answer-loop-codex-only.png)
 
 <small>커머스 GEO와 AIO는 상품 데이터, 리뷰, 재고, 가격 정보가 AI 답변 안에서 같은 방향으로 읽힐 때 강해진다.</small>

@@ -1,7 +1,7 @@
 ## 글로벌/영문 GEO 전략
+
 ![글로벌/영문 GEO 전략 대표 이미지](../assets/images/page-heroes/halox-geo-08-chapter-8-hero.png)
 
-![글로벌 영문 GEO 전략 흐름](../assets/images/chapter-heroes/halox-geo-global-geo-hero-1600x900.png)
 
 글로벌/영문 GEO는 한국어 콘텐츠를 영어로 번역하는 작업이 아닙니다. 영어권 AI 검색이 이해하는 카테고리 언어, 국가/언어별 URL 신호, 외부 source 구조를 따로 설계하는 작업입니다.
 
@@ -41,6 +41,7 @@
 | 국내 리포트 | US/Global 질문셋 재측정 | market-by-market report |
 
 AcmeGEO가 국내에서 `GEO 도구`로 설명되더라도, 영어권에서는 `AI search visibility monitoring`, `LLM visibility analytics`, `AI citation tracking` 같은 표현과 어떻게 연결되는지 먼저 정해야 합니다.
+
 ![글로벌 GEO 현지화 전환 흐름](../assets/images/body-figures/halox-geo-08-chapter-8-global-geo-localization-funnel-codex-only.png)
 
 <small>글로벌 GEO는 번역이 아니라 국내 근거를 시장 언어, 현지 source, 검색 의도로 다시 조립하는 과정이다.</small>

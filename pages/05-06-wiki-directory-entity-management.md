@@ -44,7 +44,7 @@ Google의 [사이트 이름 가이드](https://developers.google.com/search/docs
 
 ## AI가 위키/디렉터리에서 확인하는 합의 필드
 
-![위키와 디렉터리 엔터티 필드 정렬표](../assets/images/body-figures/halox-geo-05-06-wiki-directory-entity-field-alignment-codex-only.png)
+![위키와 디렉터리 엔티티 필드 정렬표](../assets/images/body-figures/halox-geo-05-06-wiki-directory-entity-field-alignment-codex-only.png)
 
 _위키와 디렉터리는 홍보 채널이 아니라 공식 필드와 외부 필드의 일치 여부를 확인하는 장입니다._
 

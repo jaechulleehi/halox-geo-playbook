@@ -1,7 +1,7 @@
 ## AI 검색 모니터링: 브랜드 언급률, 답변 근거, 화면 인용 읽는 법
+
 ![AI 검색 모니터링: 브랜드 언급률, 답변 근거, 화면 인용 읽는 법 대표 이미지](../assets/images/page-heroes/halox-geo-02-chapter-2-hero.png)
 
-![AI 검색 모니터링: 브랜드 언급률, 답변 근거, 화면 인용 읽는 법](../assets/images/chapter-heroes/halox-geo-geo-measurement-frame-hero-1600x900.png)
 
 AI 검색 모니터링은 `GEO가 잘되고 있다`는 말을 측정 가능한 문장으로 바꾸는 작업입니다. 단순히 ChatGPT나 Perplexity 답변에 브랜드가 한 번 나왔는지만 보면 부족합니다. 어떤 질문군에서 브랜드 언급률이 올라가는지, 어떤 답변 근거(source)가 쓰이는지, 사용자가 볼 수 있는 화면 인용(citation)이 붙는지, 경쟁사와 어떤 문맥에서 비교되는지까지 함께 봐야 합니다.
 

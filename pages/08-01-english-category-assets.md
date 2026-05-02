@@ -47,6 +47,7 @@
 | Use case | 산업별/역할별 사용 장면 | fan-out 질문 대응 |
 | FAQ | 가격, 보안, 연동, 데이터, 지원, 지역 | 대화형 AI의 후속 질문 대응 |
 | 외부 source 연결 | 리뷰, 디렉터리, 문서, 파트너, 기사 | 글로벌 신뢰 신호 연결 |
+
 ![영문 카테고리 자산 브리프 구조](../assets/images/body-figures/halox-geo-08-01-english-category-asset-brief-codex-only.png)
 
 <small>영문 카테고리 자산은 번역 문장보다 카테고리 언어, 문제 정의, 비교 기준, 근거 자료를 먼저 잡아야 한다.</small>

@@ -34,7 +34,7 @@
   - [04-02. FAQ/표/schema는 언제 쓰는가](pages/04-02-faq-schema-table-structure.md)
   - [04-03. 기존 글을 GEO 콘텐츠로 리라이트하는 체크리스트](pages/04-03-geo-content-rewrite-checklist.md)
 
-- [05. 답변 근거/source, 화면 인용/citation, 엔터티 전략](pages/05-chapter-5.md)
+- [05. 답변 근거/source, 화면 인용/citation, 엔티티 전략](pages/05-chapter-5.md)
   - [05-01. 답변 근거(source)와 화면 인용(citation)은 무엇이 다른가](pages/05-01-source-citation-difference.md)
   - [05-02. Entity와 브랜드 합의 신호를 만드는 법](pages/05-02-entity-consensus-offsite.md)
   - [05-03. 오프사이트 출처 후보 맵을 만드는 법](pages/05-03-offsite-source-map.md)
