@@ -31,6 +31,10 @@ GEO 리포트의 목적은 보고가 아니라 판단입니다. 리포트를 보
 | 화면 인용(citation) | 실제 링크로 표시된 URL이 따로 정리됨 | citation URL 단위 분석이 없음 |
 | 경쟁 문맥 | 경쟁사가 왜 등장했는지 source와 콘텐츠 기준으로 설명 | 단순 순위표만 있음 |
 | 실행 액션 | 콘텐츠/오프사이트/기술/제품 메시지 액션이 나뉨 | “콘텐츠 강화 필요” 같은 추상 문장만 있음 |
+![GEO 리포트를 회의 안건으로 바꾸는 구조](../assets/images/body-figures/halox-geo-09-01-agency-report-meeting-agenda-codex-only.png)
+
+<small>좋은 GEO 리포트는 지표 나열에서 멈추지 않고 회의에서 결정할 질문과 액션으로 바뀌어야 한다.</small>
+
 
 ## 리포트를 회의 안건으로 바꾸는 법
 

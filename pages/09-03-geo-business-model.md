@@ -52,6 +52,10 @@ GEO 비용은 산출물 개수보다 운영 루프가 포함되는지로 봐야 
 | offsite | 링크/배포 수 | source map과 consensus 관리 |
 | 기술 | 제외 | robots/sitemap/canonical/schema 티켓 포함 |
 | 재측정 | 없음 | 같은 조건으로 월간 비교 |
+![GEO 실행 범위와 비용 판단 루프](../assets/images/body-figures/halox-geo-09-03-geo-scope-cost-operation-loop-codex-only.png)
+
+<small>GEO 비용은 단일 산출물 가격보다 질문 설계, 수정, 검증, 재측정이 반복되는 운영 루프로 비교해야 한다.</small>
+
 
 ## 비용 비교표
 
