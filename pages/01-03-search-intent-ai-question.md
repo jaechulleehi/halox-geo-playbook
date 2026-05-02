@@ -41,6 +41,8 @@ GEO 도구
 
 이렇게 풀면 검색 의도 분석이 콘텐츠 구조 설계로 이어집니다.
 
+![검색 의도를 AI 질문과 페이지 역할로 확장하는 흐름](../assets/images/body-figures/halox-geo-01-03-intent-to-ai-question-map-codex-only.png)
+
 ## AI 질문 의도로 확장하기
 
 AI 질문 의도는 검색 의도보다 더 구체적입니다. 검색 의도는 사용자가 무엇을 찾는지 보여주고, AI 질문 의도는 사용자가 어떤 판단을 대신 정리받고 싶은지 보여줍니다.

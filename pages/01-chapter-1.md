@@ -45,6 +45,8 @@ GEO에서는 이 질문이 조금 바뀝니다.
 
 하지만 완전히 다른 일이 아닙니다. SEO에서 쌓은 query, page, intent, content, link, technical, authority, measurement 데이터가 GEO 질문셋과 답변 근거 전략의 입력값이 됩니다.
 
+![SEO에서 GEO로 확장되는 1장 전체 흐름](../assets/images/body-figures/halox-geo-01-chapter-1-seo-to-geo-overview-codex-only.png)
+
 ## 1장에서 남겨야 할 산출물
 
 이 장을 읽고 나면 단순히 개념을 이해하는 데서 끝나면 안 됩니다. 아래 산출물이 남아야 합니다.
