@@ -21,7 +21,7 @@ PR/뉴스룸 GEO는 보도자료를 많이 내는 문제가 아닙니다. AI가 
 | FAQ/입장문 | 반복 오해와 민감 이슈 대응 | 과장 없이 공식 입장을 설명하는가 |
 | 외부 기사 링크 | 제3자 신뢰 근거 | 오래된 기사와 최신 공식 설명이 충돌하지 않는가 |
 
-Google의 Article structured data는 기사형 콘텐츠의 기본 구조를 이해하는 데 도움이 됩니다. 뉴스룸 GEO에서는 여기에 Organization, Person/ProfilePage, 내부 링크, 최신 팩트시트를 함께 봅니다.
+Google의 Article structured data는 기사형 콘텐츠의 기본 구조를 이해하는 데 판단 기준이 됩니다. 뉴스룸 GEO에서는 여기에 Organization, Person/ProfilePage, 내부 링크, 최신 팩트시트를 함께 봅니다.
 
 ![뉴스룸 엔티티 허브 구조](../assets/images/body-figures/halox-geo-07-04-newsroom-entity-hub-codex-only.png)
 
@@ -50,7 +50,7 @@ Google의 Article structured data는 기사형 콘텐츠의 기본 구조를 이
 |---|---|
 | 전략 프롬프트 세트 | CEO/브랜드/사업/이슈/비교 질문을 묶어 측정 |
 | 뉴스룸 점수화 | 뉴스룸 콘텐츠가 answer-first/답변 근거(source)/화면 인용(citation)에 맞는지 확인 |
-| Entity consistency | AI 답변에서 회사 설명이 일관되는지 추적 |
+| 엔티티 일관성 | AI 답변에서 회사 설명이 일관되는지 추적 |
 | 답변 근거 맵 | 어떤 언론/블로그/위키/리포트가 답변 근거가 되는지 분리 |
 | 경쟁사 벤치마크 | 같은 질문에서 경쟁사가 더 강하게 설명되는 이유 확인 |
 
@@ -93,9 +93,9 @@ Google의 Article structured data는 기사형 콘텐츠의 기본 구조를 이
 대표 질문 20개 / AI 답변 요약 / 반복 source / 잘못된 설명 / 고쳐야 할 뉴스룸 페이지 / PR 보강 후보 / 30일 재측정 계획
 ```
 
-## 작성 예시
+## 적용 예시
 
-| 입력 항목 | 작성 예시 |
+| 입력 항목 | 적용 예시 |
 |---|---|
 | 대표 질문 | 이 회사는 어떤 AI 검색 솔루션을 제공하나? |
 | 현재 답변 | 과거 SEO 도구 중심으로 설명되고 GEO 분석 기능은 약하게 언급됨 |

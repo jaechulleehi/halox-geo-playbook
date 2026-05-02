@@ -121,9 +121,9 @@ Seed 질문 3~5개:
 기술 점검이 필요한 URL:
 ```
 
-## 작성 예시
+## 적용 예시
 
-| 입력 항목 | 작성 예시 |
+| 입력 항목 | 적용 예시 |
 |---|---|
 | Seed 질문 | GEO 도구 추천 |
 | 확장 질문 | 가격 비교/AI 화면 인용 측정/AI Overview 대응/B2B SaaS 도입 기준 |
@@ -143,7 +143,7 @@ Seed 질문 3~5개:
 
 이 실습은 [03-01. Fan-out은 AI가 질문을 어떻게 쪼개는가](https://wikidocs.net/346344), [03-03. AI 질문 패턴에서 콘텐츠 갭을 찾는 법](https://wikidocs.net/346346), HaloX의 [SEO/GEO 키워드 전략 프레임워크](https://haloxlabs.ai/ko/blog/seo-geo-keyword-strategy-framework)와 함께 보면 좋습니다.
 
-Fan-out 질문을 실제 콘텐츠 과제로 바꿀 때는 Google의 [유용한 콘텐츠 만들기](https://developers.google.com/search/docs/fundamentals/creating-helpful-content)를 보조 기준으로 둡니다. 질문 수를 늘리는 것보다 독자의 판단을 돕는 답변 재료를 찾는 것이 더 중요합니다.
+Fan-out 질문을 실제 콘텐츠 과제로 바꿀 때는 Google의 [유용한 콘텐츠 만들기](https://developers.google.com/search/docs/fundamentals/creating-helpful-content)를 보조 기준으로 둡니다. 질문 수를 늘리는 것보다 독자의 판단을 돕는 답변 재료를 찾는 것을 더 먼저 봅니다.
 
 ## 흔한 질문
 

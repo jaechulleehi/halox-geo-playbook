@@ -89,7 +89,7 @@ SEO 담당자는 query 선정과 상위 결과 분석을 맡습니다. 콘텐츠
 
 SERP 분석에서는 단순히 순위를 보는 것이 아니라 `page type`, `domain type`, `SERP feature`, `freshness`, `content depth`를 함께 봐야 합니다. page type은 검색결과에 어떤 종류의 페이지가 많은지를 뜻합니다. 블로그 글이 많은지, 제품 페이지가 많은지, 카테고리 페이지가 많은지, 비교/리뷰 글이 많은지에 따라 우리가 만들어야 할 페이지도 달라집니다.
 
-SERP feature는 일반 파란 링크 외에 검색결과에 보이는 요소입니다. Google에서는 featured snippet, People Also Ask, 이미지, 영상, local pack, shopping result 등이 있습니다. 네이버에서는 블로그, 카페, 지식iN, 뉴스, 플레이스, 쇼핑 영역이 중요합니다. 같은 키워드라도 Google과 네이버의 SERP 구조가 다르면 콘텐츠와 채널 전략도 달라져야 합니다.
+SERP feature는 일반 파란 링크 외에 검색결과에 보이는 요소입니다. Google에서는 featured snippet, People Also Ask, 이미지, 영상, local pack, shopping result 등이 있습니다. 네이버에서는 블로그, 카페, 지식iN, 뉴스, 플레이스, 쇼핑 영역을 봐야 합니다. 같은 키워드라도 Google과 네이버의 SERP 구조가 다르면 콘텐츠와 채널 전략도 달라져야 합니다.
 
 freshness는 최신성이 얼마나 중요한지 보는 기준입니다. `2026 GEO 트렌드`, `Google AI Overviews 업데이트`처럼 최신 정보가 중요한 query는 오래된 글이 밀릴 수 있습니다. 반대로 `검색 의도란` 같은 개념형 query는 안정적인 정의와 구조가 더 중요할 수 있습니다.
 
@@ -119,6 +119,6 @@ AcmeGEO는 `GEO 도구 비교` SERP를 분석하면서 상위 글 대부분이 `
 ## 참고 링크
 
 - Google의 [유용한 콘텐츠 만들기](https://developers.google.com/search/docs/fundamentals/creating-helpful-content)는 SERP 갭을 판단할 때 기준으로 삼을 수 있습니다.
-- Google Search Central의 [SEO 시작 가이드](https://developers.google.com/search/docs/fundamentals/seo-starter-guide)는 검색결과에 맞는 페이지 기본 구조를 이해하는 데 도움이 됩니다.
+- Google Search Central의 [SEO 시작 가이드](https://developers.google.com/search/docs/fundamentals/seo-starter-guide)는 검색결과에 맞는 페이지 기본 구조를 이해하는 데 판단 기준이 됩니다.
 
 다음은 [검색 의도: 키워드 뒤의 목적을 읽는 법](https://wikidocs.net/346339)입니다.

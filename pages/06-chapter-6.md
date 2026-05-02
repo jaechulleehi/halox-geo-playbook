@@ -96,7 +96,7 @@ _콘텐츠 구조는 URL, HTML, schema, robots, sitemap, rendering 검증을 지
 6. llms.txt와 핵심 문서 허브가 AI에게 우선 읽을 경로를 안내하는지 봅니다.
 7. 수정 후 같은 질문셋으로 답변 근거(source)/화면 인용(citation) 변화를 재측정합니다.
 
-이 흐름은 [02. AI 검색 모니터링: 브랜드 언급률, 답변 근거, 화면 인용 읽는 법](https://wikidocs.net/346342), [05. 답변 근거/source, 화면 인용/citation, 엔티티 전략](https://wikidocs.net/346333), [10-04. 4주차: GEO 실행 리포트와 30일 액션 플랜](https://wikidocs.net/346368)과 연결됩니다.
+이 흐름은 [02. AI 검색 모니터링: 브랜드 언급률, 답변 근거, 화면 인용 읽는 법](https://wikidocs.net/346342), [05. 답변 근거, 화면 인용, 엔티티 전략](https://wikidocs.net/346333), [10-04. 4주차: GEO 실행 리포트와 30일 액션 플랜](https://wikidocs.net/346368)과 연결됩니다.
 
 ## 학습과 실무에서의 역할
 
@@ -132,4 +132,4 @@ _콘텐츠 구조는 URL, HTML, schema, robots, sitemap, rendering 검증을 지
 
 ## 다음 흐름
 
-이 장은 앞선 [05. 답변 근거/source, 화면 인용/citation, 엔티티 전략](https://wikidocs.net/346333)의 흐름을 이어받습니다. 기술 점검까지 마치면 [07. 산업별 GEO 전략](https://wikidocs.net/346335)으로 넘어가 업종별로 어떤 기술 요소가 더 중요한지 봅니다.
+이 장은 앞선 [05. 답변 근거, 화면 인용, 엔티티 전략](https://wikidocs.net/346333)의 흐름을 이어받습니다. 기술 점검까지 마치면 [07. 산업별 GEO 전략](https://wikidocs.net/346335)으로 넘어가 업종별로 어떤 기술 요소가 더 중요한지 봅니다.

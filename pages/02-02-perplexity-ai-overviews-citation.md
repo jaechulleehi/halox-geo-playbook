@@ -127,6 +127,6 @@ AI 요약 또는 답변 노출 여부:
 
 ## HaloX로 이어지는 지점
 
-플랫폼별 가시성을 한 리포트로 묶어 보고 싶다면 HaloX의 [AVI 점수 가이드](https://haloxlabs.ai/ko/blog/avi-score-explained)를 참고합니다. 단, 내부 운영에서는 플랫폼별 원인을 분리해 보는 것이 먼저입니다. 커머스 쪽은 [커머스 GEO와 AI 구매 에이전트](https://wikidocs.net/346596)에서 더 자세히 다룹니다.
+플랫폼별 가시성을 한 리포트로 묶어 보고 싶다면 HaloX의 [AVI 점수 가이드](https://haloxlabs.ai/ko/blog/avi-score-explained)를 참고합니다. 단, 운영에서는 플랫폼별 원인을 분리해 보는 것이 먼저입니다. 커머스 쪽은 [커머스 GEO와 AI 구매 에이전트](https://wikidocs.net/346596)에서 더 자세히 다룹니다.
 
 플랫폼별 측정값을 리포트 지표로 정리하려면 [브랜드 언급률, 답변 근거, 화면 인용은 어떻게 나눠 읽나](https://wikidocs.net/346603)를 읽습니다.

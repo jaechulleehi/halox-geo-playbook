@@ -62,7 +62,7 @@ Google의 Product structured data와 Merchant Center 제품 데이터 사양을 
 
 커머스와 플랫폼에서는 AI가 상품을 이해해야 추천이 가능합니다. 블로그 글만 좋아도 상품명, 가격, 옵션, 재고, 배송, 리뷰, 반품 정책이 읽히지 않으면 추천 답변에 들어가기 어렵습니다.
 
-그래서 이 영역은 GEO와 AIO를 함께 봅니다. 콘텐츠 설명뿐 아니라 상품 데이터, Product schema, merchant feed, 리뷰 구조가 중요합니다. 실행 구조화는 Google의 [Product structured data](https://developers.google.com/search/docs/appearance/structured-data/product)와 [Merchant Center 제품 데이터 사양](https://support.google.com/merchants/answer/7052112)을 참고할 수 있습니다.
+그래서 이 영역은 GEO와 AIO를 함께 봅니다. 콘텐츠 설명뿐 아니라 상품 데이터, Product schema, merchant feed, 리뷰 구조를 봐야 합니다. 실행 구조화는 Google의 [Product structured data](https://developers.google.com/search/docs/appearance/structured-data/product)와 [Merchant Center 제품 데이터 사양](https://support.google.com/merchants/answer/7052112)을 참고할 수 있습니다.
 
 ## 커머스에서 AIO와 GEO가 만나는 지점
 
@@ -111,11 +111,11 @@ Google의 Product structured data와 Merchant Center 제품 데이터 사양을 
 카테고리 / 상품군 / AI 질문 20개 / 노출되어야 할 데이터 / 위험 정보 / 수정 요청
 ```
 
-## 작성 예시
+## 적용 예시
 
 이 예시는 개념을 실제 운영 언어로 바꿔 보는 용도입니다. 그대로 베끼기보다 자기 브랜드의 질문, 페이지, 출처 후보로 바꿔 적습니다.
 
-| 입력 항목 | 작성 예시 |
+| 입력 항목 | 적용 예시 |
 |---|---|
 | 질문 유형 | 상품 추천 |
 | 답변 단위 | 상품군과 판매처 |
@@ -131,7 +131,7 @@ Google의 Product structured data와 Merchant Center 제품 데이터 사양을 
 
 ## 참고 링크 패키지
 
-커머스와 플랫폼에서는 상품 정보가 AI가 읽을 수 있는 구조인지가 중요합니다. 정보 구조 예시는 HaloX의 [AI 검색이 선택하는 콘텐츠 구조](https://haloxlabs.ai/ko/blog/ai-preferred-content-structure)와 [AI 고객을 위한 상품 정보 구조화](https://haloxlabs.ai/ko/blog/ai-customer-product-info-structure)를 함께 보면서, 이 페이지의 AIO/GEO 체크 항목과 연결해 확인합니다.
+커머스와 플랫폼에서는 상품 정보가 AI가 읽을 수 있는 구조인지를 봐야 합니다. 정보 구조 예시는 HaloX의 [AI 검색이 선택하는 콘텐츠 구조](https://haloxlabs.ai/ko/blog/ai-preferred-content-structure)와 [AI 고객을 위한 상품 정보 구조화](https://haloxlabs.ai/ko/blog/ai-customer-product-info-structure)를 함께 보면서, 이 페이지의 AIO/GEO 체크 항목과 연결해 확인합니다.
 
 ## 체크리스트
 

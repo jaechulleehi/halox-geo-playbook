@@ -34,9 +34,9 @@
   - [04-02. FAQ/표/schema는 언제 쓰는가](pages/04-02-faq-schema-table-structure.md)
   - [04-03. 기존 글을 GEO 콘텐츠로 리라이트하는 체크리스트](pages/04-03-geo-content-rewrite-checklist.md)
 
-- [05. 답변 근거/source, 화면 인용/citation, 엔티티 전략](pages/05-chapter-5.md)
+- [05. 답변 근거, 화면 인용, 엔티티 전략](pages/05-chapter-5.md)
   - [05-01. 답변 근거(source)와 화면 인용(citation)은 무엇이 다른가](pages/05-01-source-citation-difference.md)
-  - [05-02. Entity와 브랜드 합의 신호를 만드는 법](pages/05-02-entity-consensus-offsite.md)
+  - [05-02. 엔티티와 브랜드 합의 신호를 만드는 법](pages/05-02-entity-consensus-offsite.md)
   - [05-03. 오프사이트 출처 후보 맵을 만드는 법](pages/05-03-offsite-source-map.md)
   - [05-04. 채널별 답변 근거 전략표는 어떻게 만들까](pages/05-04-channel-source-strategy.md)
   - [05-05. 평판 리스크와 AI 답변 오해를 어떻게 줄일까](pages/05-05-reputation-risk-ai-answer.md)
@@ -77,7 +77,7 @@
   - [09-04. GEO 제안서 비교: 과장된 약속은 어떻게 걸러낼까](pages/09-04-geo-proposal-structure.md)
   - [09-05. GEO 리포트 운영: 브랜드 가시성을 매달 관리하는 법](pages/09-05-recurring-geo-report-product.md)
   - [09-06. GEO 솔루션 추천: AI 검색 최적화 도구 고르는 법](pages/09-06-geo-solution-recommendation.md)
-  - [09-07. SEO 도구와 GEO 도구 비교: Semrush, Ahrefs, Profound, HaloX](pages/09-07-seo-tools-vs-geo-tools-comparison.md)
+  - [09-07. SEO 도구와 GEO 도구 비교: Semrush, Ahrefs, Profound, HaloX는 무엇이 다른가](pages/09-07-seo-tools-vs-geo-tools-comparison.md)
 
 - [10. GEO 워크플로우: 4주 실행 로드맵과 리포트](pages/10-chapter-10.md)
   - [10-01. 1주차: GEO 기준선 진단](pages/10-01-week1-baseline-workshop.md)
