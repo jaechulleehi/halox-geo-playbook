@@ -44,6 +44,11 @@ Google의 [사이트 이름 가이드](https://developers.google.com/search/docs
 
 ## AI가 위키/디렉터리에서 확인하는 합의 필드
 
+![위키와 디렉터리 엔터티 필드 정렬표](../assets/images/body-figures/halox-geo-05-06-wiki-directory-entity-field-alignment-codex-only.png)
+
+_위키와 디렉터리는 홍보 채널이 아니라 공식 필드와 외부 필드의 일치 여부를 확인하는 장입니다._
+
+
 위키/디렉터리 엔티티 관리는 “등록 여부”보다 “합의 필드의 정합성”이 중요합니다. AI가 브랜드를 한 문장으로 요약할 때 자주 필요한 필드는 대체로 반복됩니다.
 
 | 합의 필드 | AI 답변에서 생기는 문제 | 점검 방법 |

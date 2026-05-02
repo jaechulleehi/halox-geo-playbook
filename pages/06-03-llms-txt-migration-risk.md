@@ -53,6 +53,11 @@ Policies
 
 ## 이전 전후 재측정 체크리스트
 
+![llms.txt와 사이트 이전 리스크 보드](../assets/images/body-figures/halox-geo-06-03-llms-txt-migration-risk-board-codex-only.png)
+
+_llms.txt와 사이트 이전은 핵심 문서, redirect, canonical, 재측정을 함께 보는 리스크 관리 과제입니다._
+
+
 사이트 이전이나 URL 개편은 SEO뿐 아니라 GEO source/citation에도 영향을 줍니다. 이전 전후로 같은 질문셋을 측정해 어떤 URL이 답변 근거에서 사라졌는지 확인해야 합니다.
 
 | 시점 | 확인할 것 | 산출물 |

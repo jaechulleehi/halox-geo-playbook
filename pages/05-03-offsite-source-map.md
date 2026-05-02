@@ -30,6 +30,11 @@ AI fan-out 노드
 
 ## 답변 근거 맵의 기본 구조
 
+![오프사이트 source map 보드](../assets/images/body-figures/halox-geo-05-03-offsite-source-map-board-codex-only.png)
+
+_query별 출처 후보를 채널과 우선순위로 나누면 오프사이트 작업이 실행 단위로 바뀝니다._
+
+
 오프사이트 답변 근거 맵은 출처 후보를 URL 목록으로 끝내지 않습니다. 질문, 출처 유형, 권위 신호, 획득 방식, 리스크를 함께 기록합니다.
 
 | 항목 | 기록할 내용 | 예시 |

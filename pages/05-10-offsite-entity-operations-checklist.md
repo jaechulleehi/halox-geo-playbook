@@ -10,6 +10,11 @@
 
 ## 30일 운영 흐름
 
+![오프사이트 엔터티 30일 운영 보드](../assets/images/body-figures/halox-geo-05-10-offsite-entity-30day-operation-board-codex-only.png)
+
+_30일 운영은 source, citation, consensus를 주간 단위로 나누고 마지막에 같은 질문셋으로 재측정하는 흐름입니다._
+
+
 오프사이트 엔티티 관리는 진단, 정렬, 실행, 재측정 순서로 운영합니다.
 
 | 주차 | 핵심 질문 | 산출물 |

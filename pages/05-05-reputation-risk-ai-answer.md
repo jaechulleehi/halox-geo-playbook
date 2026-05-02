@@ -43,6 +43,11 @@ Google의 [유용한 콘텐츠 만들기](https://developers.google.com/search/d
 
 ## 리스크 문장을 source/citation 관점으로 추적하기
 
+![평판 리스크 대응 플로우](../assets/images/body-figures/halox-geo-05-05-reputation-risk-response-flow-codex-only.png)
+
+_평판 리스크는 위험 문장 발견에서 끝나지 않고 source 추적과 정정 자산, 재측정으로 이어져야 합니다._
+
+
 평판 리스크는 답변 문장만 보고 끝내면 안 됩니다. 그 문장이 어떤 source에서 반복되는지, 사용자 화면에 어떤 citation으로 보이는지, 공식 정정 근거가 있는지까지 따라가야 합니다.
 
 | 리스크 문장 | 가능한 원인 source | 필요한 공식 대응 | 재측정 질문 |

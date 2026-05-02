@@ -23,6 +23,11 @@ Google의 JavaScript SEO 문서는 JavaScript 웹 앱도 검색에 맞게 구성
 
 ## URL에서 답변 재료가 되기까지
 
+![CSR SSR 렌더링 가시성 다이어그램](../assets/images/body-figures/halox-geo-06-02-csr-ssr-rendering-visibility-codex-only.png)
+
+_CSR, SSR, SSG의 차이는 개발 방식 문제가 아니라 AI가 볼 수 있는 답변 재료의 차이로 번역해야 합니다._
+
+
 스터디에서 다룬 클로드 계열의 읽기 관점은 렌더링 점검을 이해하는 데 도움이 됩니다. AI가 웹 페이지를 읽을 때는 대체로 `URL/제목/설명 확인 → 페이지 접근 → HTML 수집 → 필요한 경우 렌더링 → 텍스트/Markdown 구조로 변환 → 답변에 쓸 문장과 링크 선택` 흐름을 거칩니다.
 
 따라서 사용자 화면에서 보이는 것만 확인하면 부족합니다. 핵심 정의, 가격, 리뷰, 비교표, FAQ가 JavaScript 실행 뒤에만 생기거나 로그인/지역 조건 뒤에 숨으면 AI가 가져가는 텍스트 구조에는 빠질 수 있습니다.

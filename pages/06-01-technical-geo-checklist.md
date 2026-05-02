@@ -10,6 +10,11 @@
 
 ## 테크니컬 GEO가 보는 4개 층
 
+![테크니컬 GEO 4층 점검 스택](../assets/images/body-figures/halox-geo-06-01-technical-geo-checklist-stack-codex-only.png)
+
+_테크니컬 GEO는 발견, 렌더링, 구조화, 검증을 URL별로 나누어 빠르게 점검하는 것이 출발점입니다._
+
+
 테크니컬 GEO는 한 가지 도구 점수가 아니라 `발견 → 접근 → 해석 → 재측정`의 흐름입니다. 각 층에서 보는 신호가 다릅니다.
 
 | 층 | 핵심 신호 | 확인할 질문 | 산출물 |

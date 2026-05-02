@@ -35,6 +35,11 @@ GEO 관점에서 PR은 단발 노출보다 답변 근거(source)로서의 역할
 
 ## PR 자산을 source/citation 관점으로 다시 분류하기
 
+![언론 PR 신뢰 신호 파이프라인](../assets/images/body-figures/halox-geo-05-07-pr-media-trust-pipeline-codex-only.png)
+
+_보도자료, 인터뷰, 기고, 뉴스룸은 발행 채널이 아니라 답변 근거 준비도에 따라 다시 분류해야 합니다._
+
+
 PR 성과를 “몇 개 매체에 실렸는가”로만 보면 GEO 실행으로 이어지지 않습니다. 05장에서는 PR 자산을 source, citation, consensus로 나눠 봅니다.
 
 | 구분 | 의미 | PR에서 확인할 것 |
