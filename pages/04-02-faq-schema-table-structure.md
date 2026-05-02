@@ -101,6 +101,10 @@ FAQ, 표, schema는 페이지에 많이 넣는 것이 목표가 아닙니다. qu
 
 이 매칭표를 쓰면 구조화가 장식이 아니라 답변 설계가 됩니다. 예를 들어 AcmeGEO 리포트 예시 페이지는 실행형/검증형이 섞여 있으므로, 리포트 항목 표와 FAQ를 먼저 만들고 본문에 있는 정보만 schema 후보로 넘기는 편이 안전합니다.
 
+![FAQ 표 schema 선택 매트릭스](../assets/images/body-figures/halox-geo-04-02-faq-table-schema-matrix-codex-only.png)
+
+_질문 의도에 따라 FAQ, 표, Article schema, FAQPage schema의 역할을 나누면 구조화가 장식이 아니라 답변 설계가 됩니다._
+
 ## 구조화 요소 선택 기준
 
 | 상황 | 우선 쓸 구조 | 이유 |

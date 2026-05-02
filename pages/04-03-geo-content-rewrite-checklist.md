@@ -58,6 +58,10 @@ AcmeGEO라면 `AI 검색 모니터링` 글보다 먼저 `GEO 도구 비교`와 `
 6. 주장마다 내부 링크, 외부 공식 자료, HaloX 관련 글 등 source 후보를 붙입니다.
 7. schema 후보와 기술 점검 항목을 표시하고 같은 질문셋으로 재측정합니다.
 
+![GEO 콘텐츠 리라이트 체크 보드](../assets/images/body-figures/halox-geo-04-03-geo-rewrite-check-board-codex-only.png)
+
+_리라이트는 문장 다듬기가 아니라 진단, 구조 수정, 첫 답변, 표와 FAQ, source, 재측정을 하나의 작업 보드로 관리하는 일입니다._
+
 ## Before/After 예시
 
 | 항목 | 리라이트 전 | 리라이트 후 |
