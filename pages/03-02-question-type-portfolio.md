@@ -17,6 +17,8 @@ GEO 질문 포트폴리오는 단순히 질문 유형을 골고루 섞는 표가
 
 사용자 질문셋은 측정 도구입니다. AI fan-out 패턴은 원인 분석 도구입니다. 질문셋은 `무엇을 물어볼까`이고, fan-out은 `AI가 그 질문을 답하기 위해 무엇을 확인했을까`입니다.
 
+![사용자 질문셋과 AI 질문 패턴 분리](../assets/images/body-figures/halox-geo-03-02-question-type-portfolio-codex-only.png)
+
 ## 사용자 질문셋은 어디서 얻나
 
 | 단서 | 얻을 수 있는 것 | 사용 시 주의점 |

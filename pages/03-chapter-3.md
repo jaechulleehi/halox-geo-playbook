@@ -21,6 +21,8 @@ Query fan-out은 사용자가 한 가지 질문을 던졌을 때 AI가 답변을
 
 PAA와 연관 검색은 사람들이 실제로 많이 묻는 질문의 단서입니다. 하지만 그것이 곧 GPT가 내부에서 확장하는 질문 전체는 아닙니다. AI fan-out은 공개된 SERP 단서와 실제 AI 답변 관찰을 함께 놓고 추정해야 합니다.
 
+![Query Fan-out의 전체 구조](../assets/images/body-figures/halox-geo-03-chapter-3-query-fanout-map-codex-only.png)
+
 ## 왜 fan-out이 중요한가
 
 기존 SEO에서는 사람이 검색창에 입력한 키워드와 SERP 상위 문서가 중요했습니다. GEO에서는 사용자가 입력한 문장 하나보다, AI가 답을 만들면서 내부적으로 수행하는 하위 질문 패턴이 더 중요해집니다.
