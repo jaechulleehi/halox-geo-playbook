@@ -113,6 +113,10 @@ Google의 [비즈니스 프로필 소개](https://support.google.com/business/an
 | 분기 | 카테고리/URL/외부 프로필 | SEO/운영 | NAP 표준표와 일치 |
 | 변경 즉시 | 이전/폐업/전화번호/이벤트 종료 | 운영/개발 | 오래된 정보가 주요 채널에 남지 않음 |
 
+![지도 프로필 월간 운영 보드](../assets/images/body-figures/halox-geo-12-03-map-profile-monthly-operations-board-codex-only.png)
+
+<small>지도 프로필은 한 번 등록하고 끝나는 자산이 아니라 영업시간, 사진, 리뷰, 카테고리, URL을 주기적으로 맞추는 운영 자산이다.</small>
+
 ## 지도 SEO 체크리스트
 
 - 네이버 플레이스와 Google Business Profile의 상호명/주소/전화번호가 같은가?

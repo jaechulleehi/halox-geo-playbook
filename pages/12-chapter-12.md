@@ -44,6 +44,10 @@
 
 12장의 목표는 더 많은 지역 키워드를 넣는 것이 아닙니다. 지도/리뷰/지점/전환/리스크 신호를 같은 기준으로 정리해 AI가 지역 추천을 만들 때 오해할 여지를 줄이는 것입니다.
 
+![로컬 업종 GEO 운영 모델](../assets/images/body-figures/halox-geo-12-chapter-12-local-geo-operation-model-codex-only.png)
+
+<small>로컬 업종의 GEO는 발견, 신뢰, 비교, 전환, 리스크를 분리해 보고 각 단계에 맞는 지도, 리뷰, 콘텐츠, 전환 자산을 맞춘다.</small>
+
 ## 로컬 업종에서 먼저 봐야 할 신호
 
 | 신호 | SEO에서의 역할 | GEO에서의 역할 |

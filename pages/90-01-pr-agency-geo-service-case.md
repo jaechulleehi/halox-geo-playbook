@@ -85,6 +85,10 @@ AcmePR의 첫 고객은 B2B SaaS 회사입니다. 고객은 “ChatGPT에서 우
 | Source map 구축 | PR/외부 언급이 필요한 브랜드 | 언론/기고/커뮤니티/디렉터리 후보 설계 | 오프사이트 실행표 |
 | 월간 GEO 운영 | 반복 관리가 필요한 브랜드 | 기준선 재측정, 변경점 해석, 다음 액션 티켓 | 월간 리포트 |
 
+![PR 에이전시 GEO 서비스 패키지 맵](../assets/images/body-figures/halox-geo-90-01-pr-agency-geo-service-package-map-codex-only.png)
+
+<small>PR/마케팅 에이전시는 GEO를 콘텐츠 발행량이 아니라 질문셋, 기준선 측정, source map, 월간 리포트로 설명해야 한다.</small>
+
 ## 4주 실행 흐름
 
 | 주차 | 실행 | 고객에게 보여줄 것 |
