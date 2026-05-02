@@ -36,6 +36,10 @@
 | 재측정 | 추천형 질문 | 상품군 질문 | 지역 질문 | 브랜드/이슈 질문 | 리스크 질문 | 캠페인 질문 |
 
 이 표를 먼저 고르면 각 산업 페이지가 흩어진 사례집이 아니라 1~6장의 워크플로우를 업종별로 적용하는 실무 가이드가 됩니다.
+![산업별 GEO 전략 선택 프레임](../assets/images/body-figures/halox-geo-07-chapter-7-industry-strategy-selector-codex-only.png)
+
+<small>산업별 GEO는 업종명보다 질문 맥락, 신뢰 기준, 전환 경로를 함께 보고 선택한다.</small>
+
 
 ## 산업별 적용 패키지
 

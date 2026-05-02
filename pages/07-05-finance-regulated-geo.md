@@ -21,6 +21,10 @@
 | 개인정보/보안 | 데이터 처리 방식을 오해 | 개인정보/보안 정책 | 보안 FAQ와 기술 점검 연결 |
 
 Google의 유용한 콘텐츠 기준을 이 업종에 적용하면 핵심은 독자가 안전한 판단을 하도록 돕는 것입니다. GEO에서는 여기에 답변 근거(source)가 공식/최신/책임 가능한 문서인지까지 확인합니다.
+![규제 산업 GEO 위험 통제 보드](../assets/images/body-figures/halox-geo-07-05-regulated-industry-risk-control-board-codex-only.png)
+
+<small>규제 산업에서는 노출 확대보다 과장, 누락, 오해 가능성을 먼저 분리해 안전한 답변 근거를 만들어야 한다.</small>
+
 
 ## 사례로 이해하기
 

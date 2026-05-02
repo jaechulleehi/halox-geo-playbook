@@ -22,6 +22,10 @@ PR/뉴스룸 GEO는 보도자료를 많이 내는 문제가 아닙니다. AI가 
 | 외부 기사 링크 | 제3자 신뢰 근거 | 오래된 기사와 최신 공식 설명이 충돌하지 않는가 |
 
 Google의 Article structured data는 기사형 콘텐츠의 기본 구조를 이해하는 데 도움이 됩니다. 뉴스룸 GEO에서는 여기에 Organization, Person/ProfilePage, 내부 링크, 최신 팩트시트를 함께 봅니다.
+![뉴스룸 엔티티 허브 구조](../assets/images/body-figures/halox-geo-07-04-newsroom-entity-hub-codex-only.png)
+
+<small>뉴스룸은 보도자료 보관함이 아니라 회사, 제품, 인물, 성과 근거를 연결하는 엔티티 허브로 설계해야 한다.</small>
+
 
 ## 사례로 이해하기
 
