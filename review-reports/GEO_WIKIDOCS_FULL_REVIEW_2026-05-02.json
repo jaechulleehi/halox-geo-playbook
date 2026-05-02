@@ -1,0 +1,6048 @@
+{
+  "summary": {
+    "toc_entries": 95,
+    "page_files": 95,
+    "toc_missing_files": [],
+    "pages_not_in_toc": [],
+    "pages_with_multiple_images": 95,
+    "pages_with_no_image": 0,
+    "duplicate_image_file_groups": 0,
+    "unused_image_assets": 2,
+    "external_url_count": 739,
+    "unique_external_urls": 175,
+    "issue_pages": 95,
+    "chapter": {
+      "00": {
+        "pages": 5,
+        "chars": 20585,
+        "multi_img": 5,
+        "hot": 5,
+        "table_heavy": 4,
+        "short": 0
+      },
+      "01": {
+        "pages": 11,
+        "chars": 71759,
+        "multi_img": 11,
+        "hot": 11,
+        "table_heavy": 1,
+        "short": 0
+      },
+      "02": {
+        "pages": 5,
+        "chars": 26965,
+        "multi_img": 5,
+        "hot": 5,
+        "table_heavy": 5,
+        "short": 0
+      },
+      "03": {
+        "pages": 4,
+        "chars": 23335,
+        "multi_img": 4,
+        "hot": 4,
+        "table_heavy": 4,
+        "short": 0
+      },
+      "04": {
+        "pages": 4,
+        "chars": 23227,
+        "multi_img": 4,
+        "hot": 4,
+        "table_heavy": 4,
+        "short": 0
+      },
+      "05": {
+        "pages": 11,
+        "chars": 76417,
+        "multi_img": 11,
+        "hot": 11,
+        "table_heavy": 11,
+        "short": 0
+      },
+      "06": {
+        "pages": 10,
+        "chars": 77780,
+        "multi_img": 10,
+        "hot": 10,
+        "table_heavy": 10,
+        "short": 0
+      },
+      "07": {
+        "pages": 7,
+        "chars": 34191,
+        "multi_img": 7,
+        "hot": 7,
+        "table_heavy": 7,
+        "short": 0
+      },
+      "08": {
+        "pages": 4,
+        "chars": 26704,
+        "multi_img": 4,
+        "hot": 4,
+        "table_heavy": 4,
+        "short": 0
+      },
+      "09": {
+        "pages": 8,
+        "chars": 45787,
+        "multi_img": 8,
+        "hot": 8,
+        "table_heavy": 8,
+        "short": 0
+      },
+      "10": {
+        "pages": 5,
+        "chars": 31890,
+        "multi_img": 5,
+        "hot": 5,
+        "table_heavy": 5,
+        "short": 0
+      },
+      "11": {
+        "pages": 5,
+        "chars": 25191,
+        "multi_img": 5,
+        "hot": 5,
+        "table_heavy": 5,
+        "short": 0
+      },
+      "12": {
+        "pages": 8,
+        "chars": 50738,
+        "multi_img": 8,
+        "hot": 8,
+        "table_heavy": 8,
+        "short": 0
+      },
+      "90": {
+        "pages": 7,
+        "chars": 40159,
+        "multi_img": 7,
+        "hot": 7,
+        "table_heavy": 7,
+        "short": 0
+      },
+      "91": {
+        "pages": 1,
+        "chars": 4650,
+        "multi_img": 1,
+        "hot": 1,
+        "table_heavy": 1,
+        "short": 0
+      }
+    },
+    "top_multi_image": [
+      {
+        "path": "pages/00-01-what-is-geo.md",
+        "title": "00-01. GEO 뜻: 생성형 엔진 최적화란 무엇인가",
+        "chars": 4151,
+        "images": 2,
+        "table_ratio": 0.48,
+        "headings": 10
+      },
+      {
+        "path": "pages/00-02-geo-seo-aeo-aio.md",
+        "title": "00-02. GEO/SEO/AEO/AIO/LLMO 차이",
+        "chars": 4308,
+        "images": 2,
+        "table_ratio": 0.52,
+        "headings": 11
+      },
+      {
+        "path": "pages/00-03-ai-search-difference.md",
+        "title": "00-03. AI 검색은 기존 검색과 무엇이 다른가",
+        "chars": 3594,
+        "images": 2,
+        "table_ratio": 0.52,
+        "headings": 10
+      },
+      {
+        "path": "pages/00-04-how-to-use-this-book.md",
+        "title": "00-04. GEO 워크플로우: 이 책을 실무에 적용하는 법",
+        "chars": 4869,
+        "images": 2,
+        "table_ratio": 0.61,
+        "headings": 9
+      },
+      {
+        "path": "pages/00-chapter-0.md",
+        "title": "00. GEO를 처음 이해하는 사람을 위한 시작",
+        "chars": 3663,
+        "images": 3,
+        "table_ratio": 0.28,
+        "headings": 7
+      },
+      {
+        "path": "pages/01-01-seo-keywords-still-matter.md",
+        "title": "01-01. 키워드 리서치: 검색량이 아니라 시장 언어를 수집하는 일",
+        "chars": 7044,
+        "images": 2,
+        "table_ratio": 0.3,
+        "headings": 13
+      },
+      {
+        "path": "pages/01-02-keyword-to-prompt.md",
+        "title": "01-02. SERP 분석: 검색결과를 의도 지도로 읽는 법",
+        "chars": 5792,
+        "images": 2,
+        "table_ratio": 0.35,
+        "headings": 13
+      },
+      {
+        "path": "pages/01-03-search-intent-ai-question.md",
+        "title": "01-03. 검색 의도: 키워드 뒤의 목적을 읽는 법",
+        "chars": 6118,
+        "images": 2,
+        "table_ratio": 0.27,
+        "headings": 14
+      },
+      {
+        "path": "pages/01-04-question-set-portion.md",
+        "title": "01-04. 콘텐츠 구조: 검색 의도를 답변 구조로 바꾸는 법",
+        "chars": 6502,
+        "images": 2,
+        "table_ratio": 0.17,
+        "headings": 15
+      },
+      {
+        "path": "pages/01-05-week1-baseline-diagnosis.md",
+        "title": "01-05. 온페이지 SEO: 검색결과에서 약속한 답을 페이지에서 증명하는 법",
+        "chars": 6367,
+        "images": 2,
+        "table_ratio": 0.13,
+        "headings": 15
+      },
+      {
+        "path": "pages/01-06-serp-analysis-content-gap.md",
+        "title": "01-06. 내부 링크: 페이지 사이의 의미 관계를 설계하는 법",
+        "chars": 6374,
+        "images": 2,
+        "table_ratio": 0.25,
+        "headings": 17
+      },
+      {
+        "path": "pages/01-07-onpage-seo-answer-first.md",
+        "title": "01-07. 테크니컬 SEO: 좋은 콘텐츠가 검색엔진과 AI에게 읽히게 만드는 조건",
+        "chars": 6444,
+        "images": 2,
+        "table_ratio": 0.27,
+        "headings": 14
+      },
+      {
+        "path": "pages/01-08-technical-seo-geo.md",
+        "title": "01-08. 권위/백링크/엔티티: 믿을 만한 브랜드로 이해되게 만드는 외부 신호",
+        "chars": 6188,
+        "images": 2,
+        "table_ratio": 0.2,
+        "headings": 14
+      },
+      {
+        "path": "pages/01-09-authority-entity-seo-geo.md",
+        "title": "01-09. 측정/개선: SEO와 GEO를 월간 운영 루프로 만드는 법",
+        "chars": 6244,
+        "images": 2,
+        "table_ratio": 0.14,
+        "headings": 14
+      },
+      {
+        "path": "pages/01-10-seo-measurement-gsc-ga4-naver.md",
+        "title": "01-10. SEO에서 GEO로 확장하는 통합 실습",
+        "chars": 8951,
+        "images": 2,
+        "table_ratio": 0.19,
+        "headings": 20
+      },
+      {
+        "path": "pages/01-chapter-1.md",
+        "title": "01. SEO 기본기와 GEO 확장 전략",
+        "chars": 5735,
+        "images": 2,
+        "table_ratio": 0.32,
+        "headings": 8
+      },
+      {
+        "path": "pages/02-01-chatgpt-brand-visibility.md",
+        "title": "02-01. ChatGPT 브랜드 노출은 어떻게 확인하나",
+        "chars": 5155,
+        "images": 2,
+        "table_ratio": 0.56,
+        "headings": 11
+      },
+      {
+        "path": "pages/02-02-perplexity-ai-overviews-citation.md",
+        "title": "02-02. Perplexity SEO와 Google AI Overviews 최적화는 어떻게 다르게 볼까",
+        "chars": 5912,
+        "images": 2,
+        "table_ratio": 0.42,
+        "headings": 10
+      },
+      {
+        "path": "pages/02-03-mention-source-citation.md",
+        "title": "02-03. 브랜드 언급률, 답변 근거, 화면 인용은 어떻게 나눠 읽나",
+        "chars": 5194,
+        "images": 2,
+        "table_ratio": 0.66,
+        "headings": 11
+      },
+      {
+        "path": "pages/02-04-ai-search-report.md",
+        "title": "02-04. AI 검색 리포트는 어떤 지표로 읽어야 하나",
+        "chars": 5206,
+        "images": 2,
+        "table_ratio": 0.44,
+        "headings": 11
+      },
+      {
+        "path": "pages/02-chapter-2.md",
+        "title": "02. AI 검색 모니터링: 브랜드 언급률, 답변 근거, 화면 인용 읽는 법",
+        "chars": 5498,
+        "images": 3,
+        "table_ratio": 0.56,
+        "headings": 10
+      },
+      {
+        "path": "pages/03-01-fan-out-question-map.md",
+        "title": "03-01. Fan-out은 AI가 질문을 어떻게 쪼개는가",
+        "chars": 5236,
+        "images": 2,
+        "table_ratio": 0.56,
+        "headings": 10
+      },
+      {
+        "path": "pages/03-02-question-type-portfolio.md",
+        "title": "03-02. 사용자 질문셋과 AI 질문 패턴을 어떻게 분리할까",
+        "chars": 6196,
+        "images": 2,
+        "table_ratio": 0.64,
+        "headings": 13
+      },
+      {
+        "path": "pages/03-03-content-gap-from-questions.md",
+        "title": "03-03. AI 질문 패턴에서 콘텐츠 갭을 찾는 법",
+        "chars": 6687,
+        "images": 2,
+        "table_ratio": 0.63,
+        "headings": 14
+      },
+      {
+        "path": "pages/03-chapter-3.md",
+        "title": "03. Query Fan-out: AI가 내부에서 확장하는 질문 패턴",
+        "chars": 5216,
+        "images": 3,
+        "table_ratio": 0.46,
+        "headings": 9
+      },
+      {
+        "path": "pages/04-01-answer-first-content.md",
+        "title": "04-01. AI가 인용하는 Answer-first 콘텐츠는 어떻게 쓰는가",
+        "chars": 5291,
+        "images": 2,
+        "table_ratio": 0.54,
+        "headings": 13
+      },
+      {
+        "path": "pages/04-02-faq-schema-table-structure.md",
+        "title": "04-02. FAQ/표/schema는 언제 쓰는가",
+        "chars": 6797,
+        "images": 2,
+        "table_ratio": 0.47,
+        "headings": 14
+      },
+      {
+        "path": "pages/04-03-geo-content-rewrite-checklist.md",
+        "title": "04-03. 기존 글을 GEO 콘텐츠로 리라이트하는 체크리스트",
+        "chars": 5926,
+        "images": 2,
+        "table_ratio": 0.62,
+        "headings": 13
+      },
+      {
+        "path": "pages/04-chapter-4.md",
+        "title": "04. AI가 읽기 좋은 콘텐츠 구조: HTML에서 답변 재료까지",
+        "chars": 5213,
+        "images": 3,
+        "table_ratio": 0.49,
+        "headings": 9
+      },
+      {
+        "path": "pages/05-01-source-citation-difference.md",
+        "title": "05-01. 답변 근거(source)와 화면 인용(citation)은 무엇이 다른가",
+        "chars": 6789,
+        "images": 2,
+        "table_ratio": 0.51,
+        "headings": 17
+      }
+    ],
+    "duplicate_image_groups": [],
+    "sample_issues": [
+      {
+        "path": "pages/00-01-what-is-geo.md",
+        "toc_title": "00-01. GEO 뜻: 생성형 엔진 최적화란 무엇인가",
+        "chars": 4151,
+        "images": 2,
+        "table_ratio": 0.48,
+        "issues": [
+          "multiple-images:2",
+          "table-heavy:0.48"
+        ],
+        "hotspots": {
+          "ai_tone": [
+            [
+              "중요합니다",
+              2
+            ]
+          ],
+          "meta_reader_leak": [
+            [
+              "작성 예시",
+              2
+            ]
+          ],
+          "inconsistent_terms": [
+            [
+              "엔터티",
+              3
+            ],
+            [
+              "source",
+              5
+            ],
+            [
+              "citation",
+              5
+            ],
+            [
+              "LLMO",
+              1
+            ],
+            [
+              "AIO",
+              1
+            ],
+            [
+              "AEO",
+              2
+            ]
+          ]
+        },
+        "first_para": "## GEO 뜻: 생성형 엔진 최적화란 무엇인가"
+      },
+      {
+        "path": "pages/00-02-geo-seo-aeo-aio.md",
+        "toc_title": "00-02. GEO/SEO/AEO/AIO/LLMO 차이",
+        "chars": 4308,
+        "images": 2,
+        "table_ratio": 0.52,
+        "issues": [
+          "multiple-images:2",
+          "table-heavy:0.52"
+        ],
+        "hotspots": {
+          "ai_tone": [
+            [
+              "중요합니다",
+              1
+            ]
+          ],
+          "meta_reader_leak": [
+            [
+              "작성 예시",
+              2
+            ]
+          ],
+          "inconsistent_terms": [
+            [
+              "엔터티",
+              2
+            ],
+            [
+              "source",
+              1
+            ],
+            [
+              "citation",
+              2
+            ],
+            [
+              "LLMO",
+              7
+            ],
+            [
+              "AIO",
+              18
+            ],
+            [
+              "AEO",
+              15
+            ]
+          ]
+        },
+        "first_para": "## GEO/SEO/AEO/AIO/LLMO 차이"
+      },
+      {
+        "path": "pages/00-03-ai-search-difference.md",
+        "toc_title": "00-03. AI 검색은 기존 검색과 무엇이 다른가",
+        "chars": 3594,
+        "images": 2,
+        "table_ratio": 0.52,
+        "issues": [
+          "multiple-images:2",
+          "table-heavy:0.52"
+        ],
+        "hotspots": {
+          "ai_tone": [
+            [
+              "중요합니다",
+              1
+            ]
+          ],
+          "meta_reader_leak": [
+            [
+              "작성 예시",
+              2
+            ]
+          ],
+          "inconsistent_terms": [
+            [
+              "엔터티",
+              1
+            ],
+            [
+              "source",
+              3
+            ],
+            [
+              "citation",
+              2
+            ],
+            [
+              "answer-first",
+              1
+            ],
+            [
+              "프롬프트",
+              1
+            ],
+            [
+              "AEO",
+              1
+            ]
+          ]
+        },
+        "first_para": "## AI 검색은 기존 검색과 무엇이 다른가"
+      },
+      {
+        "path": "pages/00-04-how-to-use-this-book.md",
+        "toc_title": "00-04. GEO 워크플로우: 이 책을 실무에 적용하는 법",
+        "chars": 4869,
+        "images": 2,
+        "table_ratio": 0.61,
+        "issues": [
+          "multiple-images:2",
+          "table-heavy:0.61"
+        ],
+        "hotspots": {
+          "meta_reader_leak": [
+            [
+              "워크숍",
+              2
+            ],
+            [
+              "강의",
+              2
+            ]
+          ],
+          "inconsistent_terms": [
+            [
+              "엔터티",
+              4
+            ],
+            [
+              "source",
+              7
+            ],
+            [
+              "citation",
+              5
+            ],
+            [
+              "Answer-first",
+              2
+            ],
+            [
+              "Fan-out",
+              5
+            ],
+            [
+              "LLMO",
+              1
+            ],
+            [
+              "AIO",
+              1
+            ],
+            [
+              "AEO",
+              1
+            ]
+          ]
+        },
+        "first_para": "## GEO 워크플로우: 이 책을 실무에 적용하는 법"
+      },
+      {
+        "path": "pages/00-chapter-0.md",
+        "toc_title": "00. GEO를 처음 이해하는 사람을 위한 시작",
+        "chars": 3663,
+        "images": 3,
+        "table_ratio": 0.28,
+        "issues": [
+          "heading-no-blank-after:1",
+          "image-no-blank-before:2",
+          "multiple-images:3"
+        ],
+        "hotspots": {
+          "ai_tone": [
+            [
+              "중요합니다",
+              1
+            ]
+          ],
+          "inconsistent_terms": [
+            [
+              "엔터티",
+              1
+            ],
+            [
+              "source",
+              1
+            ],
+            [
+              "citation",
+              2
+            ],
+            [
+              "LLMO",
+              3
+            ],
+            [
+              "AIO",
+              3
+            ],
+            [
+              "AEO",
+              3
+            ]
+          ]
+        },
+        "first_para": "## GEO를 처음 이해하는 사람을 위한 시작\n![GEO를 처음 이해하는 사람을 위한 시작 대표 이미지](../assets/images/page-heroes/halox-geo-00-chapter-0-hero.png)"
+      },
+      {
+        "path": "pages/01-01-seo-keywords-still-matter.md",
+        "toc_title": "01-01. 키워드 리서치: 검색량이 아니라 시장 언어를 수집하는 일",
+        "chars": 7044,
+        "images": 2,
+        "table_ratio": 0.3,
+        "issues": [
+          "multiple-images:2"
+        ],
+        "hotspots": {
+          "ai_tone": [
+            [
+              "중요합니다",
+              3
+            ]
+          ],
+          "meta_reader_leak": [
+            [
+              "작성 예시",
+              1
+            ]
+          ],
+          "inconsistent_terms": [
+            [
+              "source",
+              4
+            ],
+            [
+              "citation",
+              5
+            ],
+            [
+              "fan-out",
+              1
+            ]
+          ]
+        },
+        "first_para": "## 키워드 리서치: 검색량이 아니라 시장 언어를 수집하는 일"
+      },
+      {
+        "path": "pages/01-02-keyword-to-prompt.md",
+        "toc_title": "01-02. SERP 분석: 검색결과를 의도 지도로 읽는 법",
+        "chars": 5792,
+        "images": 2,
+        "table_ratio": 0.35,
+        "issues": [
+          "multiple-images:2",
+          "table-heavy:0.35"
+        ],
+        "hotspots": {
+          "ai_tone": [
+            [
+              "중요합니다",
+              1
+            ],
+            [
+              "도움이 됩니다",
+              1
+            ]
+          ],
+          "inconsistent_terms": [
+            [
+              "source",
+              7
+            ],
+            [
+              "citation",
+              6
+            ],
+            [
+              "prompt",
+              1
+            ]
+          ]
+        },
+        "first_para": "## SERP 분석: 검색결과를 의도 지도로 읽는 법"
+      },
+      {
+        "path": "pages/01-03-search-intent-ai-question.md",
+        "toc_title": "01-03. 검색 의도: 키워드 뒤의 목적을 읽는 법",
+        "chars": 6118,
+        "images": 2,
+        "table_ratio": 0.27,
+        "issues": [
+          "multiple-images:2"
+        ],
+        "hotspots": {
+          "ai_tone": [
+            [
+              "도움이 됩니다",
+              1
+            ]
+          ],
+          "meta_reader_leak": [
+            [
+              "작성 예시",
+              1
+            ]
+          ],
+          "inconsistent_terms": [
+            [
+              "source",
+              4
+            ],
+            [
+              "citation",
+              2
+            ],
+            [
+              "프롬프트",
+              1
+            ],
+            [
+              "AIO",
+              1
+            ],
+            [
+              "AEO",
+              2
+            ]
+          ],
+          "awkward": [
+            [
+              "억지로",
+              1
+            ]
+          ]
+        },
+        "first_para": "## 검색 의도: 키워드 뒤의 목적을 읽는 법"
+      },
+      {
+        "path": "pages/01-04-question-set-portion.md",
+        "toc_title": "01-04. 콘텐츠 구조: 검색 의도를 답변 구조로 바꾸는 법",
+        "chars": 6502,
+        "images": 2,
+        "table_ratio": 0.17,
+        "issues": [
+          "multiple-images:2"
+        ],
+        "hotspots": {
+          "ai_tone": [
+            [
+              "중요합니다",
+              1
+            ],
+            [
+              "다양한",
+              1
+            ]
+          ],
+          "inconsistent_terms": [
+            [
+              "엔티티",
+              1
+            ],
+            [
+              "source",
+              7
+            ],
+            [
+              "citation",
+              7
+            ],
+            [
+              "Answer-first",
+              3
+            ],
+            [
+              "answer-first",
+              1
+            ]
+          ],
+          "awkward": [
+            [
+              "검색자",
+              4
+            ]
+          ]
+        },
+        "first_para": "## 콘텐츠 구조: 검색 의도를 답변 구조로 바꾸는 법"
+      },
+      {
+        "path": "pages/01-05-week1-baseline-diagnosis.md",
+        "toc_title": "01-05. 온페이지 SEO: 검색결과에서 약속한 답을 페이지에서 증명하는 법",
+        "chars": 6367,
+        "images": 2,
+        "table_ratio": 0.13,
+        "issues": [
+          "multiple-images:2"
+        ],
+        "hotspots": {
+          "ai_tone": [
+            [
+              "알아보겠습니다",
+              1
+            ],
+            [
+              "중요합니다",
+              1
+            ],
+            [
+              "도움이 됩니다",
+              2
+            ],
+            [
+              "다양한",
+              1
+            ]
+          ],
+          "inconsistent_terms": [
+            [
+              "source",
+              6
+            ],
+            [
+              "citation",
+              6
+            ],
+            [
+              "Answer-first",
+              2
+            ]
+          ],
+          "awkward": [
+            [
+              "검색자",
+              3
+            ]
+          ]
+        },
+        "first_para": "## 온페이지 SEO: 검색결과에서 약속한 답을 페이지에서 증명하는 법"
+      },
+      {
+        "path": "pages/01-06-serp-analysis-content-gap.md",
+        "toc_title": "01-06. 내부 링크: 페이지 사이의 의미 관계를 설계하는 법",
+        "chars": 6374,
+        "images": 2,
+        "table_ratio": 0.25,
+        "issues": [
+          "multiple-images:2"
+        ],
+        "hotspots": {
+          "ai_tone": [
+            [
+              "중요합니다",
+              1
+            ],
+            [
+              "도움이 됩니다",
+              1
+            ]
+          ],
+          "meta_reader_leak": [
+            [
+              "작성 예시",
+              1
+            ]
+          ],
+          "inconsistent_terms": [
+            [
+              "엔티티",
+              4
+            ],
+            [
+              "source",
+              5
+            ],
+            [
+              "citation",
+              6
+            ],
+            [
+              "Answer-first",
+              2
+            ],
+            [
+              "AIO",
+              1
+            ],
+            [
+              "AEO",
+              1
+            ]
+          ],
+          "awkward": [
+            [
+              "억지로",
+              1
+            ]
+          ]
+        },
+        "first_para": "## 내부 링크: 페이지 사이의 의미 관계를 설계하는 법"
+      },
+      {
+        "path": "pages/01-07-onpage-seo-answer-first.md",
+        "toc_title": "01-07. 테크니컬 SEO: 좋은 콘텐츠가 검색엔진과 AI에게 읽히게 만드는 조건",
+        "chars": 6444,
+        "images": 2,
+        "table_ratio": 0.27,
+        "issues": [
+          "multiple-images:2"
+        ],
+        "hotspots": {
+          "ai_tone": [
+            [
+              "중요합니다",
+              3
+            ]
+          ],
+          "meta_reader_leak": [
+            [
+              "작성 예시",
+              1
+            ]
+          ],
+          "inconsistent_terms": [
+            [
+              "엔티티",
+              1
+            ],
+            [
+              "source",
+              7
+            ],
+            [
+              "citation",
+              5
+            ],
+            [
+              "answer-first",
+              1
+            ]
+          ]
+        },
+        "first_para": "## 테크니컬 SEO: 좋은 콘텐츠가 검색엔진과 AI에게 읽히게 만드는 조건"
+      },
+      {
+        "path": "pages/01-08-technical-seo-geo.md",
+        "toc_title": "01-08. 권위/백링크/엔티티: 믿을 만한 브랜드로 이해되게 만드는 외부 신호",
+        "chars": 6188,
+        "images": 2,
+        "table_ratio": 0.2,
+        "issues": [
+          "multiple-images:2"
+        ],
+        "hotspots": {
+          "ai_tone": [
+            [
+              "중요합니다",
+              4
+            ],
+            [
+              "도움이 됩니다",
+              1
+            ]
+          ],
+          "inconsistent_terms": [
+            [
+              "엔티티",
+              10
+            ],
+            [
+              "source",
+              6
+            ],
+            [
+              "citation",
+              4
+            ]
+          ]
+        },
+        "first_para": "## 권위/백링크/엔티티: 믿을 만한 브랜드로 이해되게 만드는 외부 신호"
+      },
+      {
+        "path": "pages/01-09-authority-entity-seo-geo.md",
+        "toc_title": "01-09. 측정/개선: SEO와 GEO를 월간 운영 루프로 만드는 법",
+        "chars": 6244,
+        "images": 2,
+        "table_ratio": 0.14,
+        "issues": [
+          "multiple-images:2"
+        ],
+        "hotspots": {
+          "ai_tone": [
+            [
+              "중요합니다",
+              3
+            ]
+          ],
+          "inconsistent_terms": [
+            [
+              "엔티티",
+              3
+            ],
+            [
+              "source",
+              14
+            ],
+            [
+              "citation",
+              8
+            ]
+          ]
+        },
+        "first_para": "## 측정/개선: SEO와 GEO를 월간 운영 루프로 만드는 법"
+      },
+      {
+        "path": "pages/01-10-seo-measurement-gsc-ga4-naver.md",
+        "toc_title": "01-10. SEO에서 GEO로 확장하는 통합 실습",
+        "chars": 8951,
+        "images": 2,
+        "table_ratio": 0.19,
+        "issues": [
+          "multiple-images:2"
+        ],
+        "hotspots": {
+          "ai_tone": [
+            [
+              "중요합니다",
+              1
+            ]
+          ],
+          "inconsistent_terms": [
+            [
+              "엔티티",
+              7
+            ],
+            [
+              "source",
+              18
+            ],
+            [
+              "Source",
+              1
+            ],
+            [
+              "citation",
+              17
+            ],
+            [
+              "Answer-first",
+              3
+            ],
+            [
+              "AEO",
+              1
+            ]
+          ]
+        },
+        "first_para": "## SEO에서 GEO로 확장하는 통합 실습"
+      },
+      {
+        "path": "pages/01-chapter-1.md",
+        "toc_title": "01. SEO 기본기와 GEO 확장 전략",
+        "chars": 5735,
+        "images": 2,
+        "table_ratio": 0.32,
+        "issues": [
+          "multiple-images:2"
+        ],
+        "hotspots": {
+          "inconsistent_terms": [
+            [
+              "엔티티",
+              6
+            ],
+            [
+              "source",
+              3
+            ],
+            [
+              "citation",
+              2
+            ],
+            [
+              "Answer-first",
+              2
+            ]
+          ]
+        },
+        "first_para": "## SEO 기본기와 GEO 확장 전략"
+      },
+      {
+        "path": "pages/02-01-chatgpt-brand-visibility.md",
+        "toc_title": "02-01. ChatGPT 브랜드 노출은 어떻게 확인하나",
+        "chars": 5155,
+        "images": 2,
+        "table_ratio": 0.56,
+        "issues": [
+          "multiple-images:2",
+          "table-heavy:0.56"
+        ],
+        "hotspots": {
+          "inconsistent_terms": [
+            [
+              "source",
+              2
+            ],
+            [
+              "citation",
+              3
+            ],
+            [
+              "프롬프트",
+              1
+            ]
+          ]
+        },
+        "first_para": "## ChatGPT 브랜드 노출은 어떻게 확인하나"
+      },
+      {
+        "path": "pages/02-02-perplexity-ai-overviews-citation.md",
+        "toc_title": "02-02. Perplexity SEO와 Google AI Overviews 최적화는 어떻게 다르게 볼까",
+        "chars": 5912,
+        "images": 2,
+        "table_ratio": 0.42,
+        "issues": [
+          "multiple-images:2",
+          "table-heavy:0.42"
+        ],
+        "hotspots": {
+          "meta_reader_leak": [
+            [
+              "내부 운영",
+              1
+            ]
+          ],
+          "inconsistent_terms": [
+            [
+              "source",
+              4
+            ],
+            [
+              "citation",
+              22
+            ],
+            [
+              "answer-first",
+              1
+            ]
+          ]
+        },
+        "first_para": "## Perplexity SEO와 Google AI Overviews 최적화는 어떻게 다르게 볼까"
+      },
+      {
+        "path": "pages/02-03-mention-source-citation.md",
+        "toc_title": "02-03. 브랜드 언급률, 답변 근거, 화면 인용은 어떻게 나눠 읽나",
+        "chars": 5194,
+        "images": 2,
+        "table_ratio": 0.66,
+        "issues": [
+          "multiple-images:2",
+          "table-heavy:0.66"
+        ],
+        "hotspots": {
+          "ai_tone": [
+            [
+              "중요합니다",
+              1
+            ]
+          ],
+          "inconsistent_terms": [
+            [
+              "source",
+              13
+            ],
+            [
+              "Source",
+              4
+            ],
+            [
+              "citation",
+              16
+            ],
+            [
+              "Citation",
+              3
+            ]
+          ]
+        },
+        "first_para": "## 브랜드 언급률, 답변 근거, 화면 인용은 어떻게 나눠 읽나"
+      },
+      {
+        "path": "pages/02-04-ai-search-report.md",
+        "toc_title": "02-04. AI 검색 리포트는 어떤 지표로 읽어야 하나",
+        "chars": 5206,
+        "images": 2,
+        "table_ratio": 0.44,
+        "issues": [
+          "multiple-images:2",
+          "table-heavy:0.44"
+        ],
+        "hotspots": {
+          "inconsistent_terms": [
+            [
+              "source",
+              6
+            ],
+            [
+              "citation",
+              12
+            ],
+            [
+              "answer-first",
+              1
+            ]
+          ]
+        },
+        "first_para": "## AI 검색 리포트는 어떤 지표로 읽어야 하나"
+      }
+    ],
+    "near_duplicate_paragraphs": [
+      [
+        "pages/06-01-technical-geo-checklist.md",
+        "pages/06-04-ai-crawler-robots-sitemap.md",
+        0.9785831960461285,
+        "기본 점검은 Google의 [robots.txt 소개](https://developers.google.com/search/docs/crawling-indexing/robots/intro), [sitemap 개요](h"
+      ]
+    ]
+  },
+  "issues": [
+    {
+      "path": "pages/00-01-what-is-geo.md",
+      "toc_title": "00-01. GEO 뜻: 생성형 엔진 최적화란 무엇인가",
+      "chars": 4151,
+      "images": 2,
+      "table_ratio": 0.48,
+      "issues": [
+        "multiple-images:2",
+        "table-heavy:0.48"
+      ],
+      "hotspots": {
+        "ai_tone": [
+          [
+            "중요합니다",
+            2
+          ]
+        ],
+        "meta_reader_leak": [
+          [
+            "작성 예시",
+            2
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "엔터티",
+            3
+          ],
+          [
+            "source",
+            5
+          ],
+          [
+            "citation",
+            5
+          ],
+          [
+            "LLMO",
+            1
+          ],
+          [
+            "AIO",
+            1
+          ],
+          [
+            "AEO",
+            2
+          ]
+        ]
+      },
+      "first_para": "## GEO 뜻: 생성형 엔진 최적화란 무엇인가"
+    },
+    {
+      "path": "pages/00-02-geo-seo-aeo-aio.md",
+      "toc_title": "00-02. GEO/SEO/AEO/AIO/LLMO 차이",
+      "chars": 4308,
+      "images": 2,
+      "table_ratio": 0.52,
+      "issues": [
+        "multiple-images:2",
+        "table-heavy:0.52"
+      ],
+      "hotspots": {
+        "ai_tone": [
+          [
+            "중요합니다",
+            1
+          ]
+        ],
+        "meta_reader_leak": [
+          [
+            "작성 예시",
+            2
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "엔터티",
+            2
+          ],
+          [
+            "source",
+            1
+          ],
+          [
+            "citation",
+            2
+          ],
+          [
+            "LLMO",
+            7
+          ],
+          [
+            "AIO",
+            18
+          ],
+          [
+            "AEO",
+            15
+          ]
+        ]
+      },
+      "first_para": "## GEO/SEO/AEO/AIO/LLMO 차이"
+    },
+    {
+      "path": "pages/00-03-ai-search-difference.md",
+      "toc_title": "00-03. AI 검색은 기존 검색과 무엇이 다른가",
+      "chars": 3594,
+      "images": 2,
+      "table_ratio": 0.52,
+      "issues": [
+        "multiple-images:2",
+        "table-heavy:0.52"
+      ],
+      "hotspots": {
+        "ai_tone": [
+          [
+            "중요합니다",
+            1
+          ]
+        ],
+        "meta_reader_leak": [
+          [
+            "작성 예시",
+            2
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "엔터티",
+            1
+          ],
+          [
+            "source",
+            3
+          ],
+          [
+            "citation",
+            2
+          ],
+          [
+            "answer-first",
+            1
+          ],
+          [
+            "프롬프트",
+            1
+          ],
+          [
+            "AEO",
+            1
+          ]
+        ]
+      },
+      "first_para": "## AI 검색은 기존 검색과 무엇이 다른가"
+    },
+    {
+      "path": "pages/00-04-how-to-use-this-book.md",
+      "toc_title": "00-04. GEO 워크플로우: 이 책을 실무에 적용하는 법",
+      "chars": 4869,
+      "images": 2,
+      "table_ratio": 0.61,
+      "issues": [
+        "multiple-images:2",
+        "table-heavy:0.61"
+      ],
+      "hotspots": {
+        "meta_reader_leak": [
+          [
+            "워크숍",
+            2
+          ],
+          [
+            "강의",
+            2
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "엔터티",
+            4
+          ],
+          [
+            "source",
+            7
+          ],
+          [
+            "citation",
+            5
+          ],
+          [
+            "Answer-first",
+            2
+          ],
+          [
+            "Fan-out",
+            5
+          ],
+          [
+            "LLMO",
+            1
+          ],
+          [
+            "AIO",
+            1
+          ],
+          [
+            "AEO",
+            1
+          ]
+        ]
+      },
+      "first_para": "## GEO 워크플로우: 이 책을 실무에 적용하는 법"
+    },
+    {
+      "path": "pages/00-chapter-0.md",
+      "toc_title": "00. GEO를 처음 이해하는 사람을 위한 시작",
+      "chars": 3663,
+      "images": 3,
+      "table_ratio": 0.28,
+      "issues": [
+        "heading-no-blank-after:1",
+        "image-no-blank-before:2",
+        "multiple-images:3"
+      ],
+      "hotspots": {
+        "ai_tone": [
+          [
+            "중요합니다",
+            1
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "엔터티",
+            1
+          ],
+          [
+            "source",
+            1
+          ],
+          [
+            "citation",
+            2
+          ],
+          [
+            "LLMO",
+            3
+          ],
+          [
+            "AIO",
+            3
+          ],
+          [
+            "AEO",
+            3
+          ]
+        ]
+      },
+      "first_para": "## GEO를 처음 이해하는 사람을 위한 시작\n![GEO를 처음 이해하는 사람을 위한 시작 대표 이미지](../assets/images/page-heroes/halox-geo-00-chapter-0-hero.png)"
+    },
+    {
+      "path": "pages/01-01-seo-keywords-still-matter.md",
+      "toc_title": "01-01. 키워드 리서치: 검색량이 아니라 시장 언어를 수집하는 일",
+      "chars": 7044,
+      "images": 2,
+      "table_ratio": 0.3,
+      "issues": [
+        "multiple-images:2"
+      ],
+      "hotspots": {
+        "ai_tone": [
+          [
+            "중요합니다",
+            3
+          ]
+        ],
+        "meta_reader_leak": [
+          [
+            "작성 예시",
+            1
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "source",
+            4
+          ],
+          [
+            "citation",
+            5
+          ],
+          [
+            "fan-out",
+            1
+          ]
+        ]
+      },
+      "first_para": "## 키워드 리서치: 검색량이 아니라 시장 언어를 수집하는 일"
+    },
+    {
+      "path": "pages/01-02-keyword-to-prompt.md",
+      "toc_title": "01-02. SERP 분석: 검색결과를 의도 지도로 읽는 법",
+      "chars": 5792,
+      "images": 2,
+      "table_ratio": 0.35,
+      "issues": [
+        "multiple-images:2",
+        "table-heavy:0.35"
+      ],
+      "hotspots": {
+        "ai_tone": [
+          [
+            "중요합니다",
+            1
+          ],
+          [
+            "도움이 됩니다",
+            1
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "source",
+            7
+          ],
+          [
+            "citation",
+            6
+          ],
+          [
+            "prompt",
+            1
+          ]
+        ]
+      },
+      "first_para": "## SERP 분석: 검색결과를 의도 지도로 읽는 법"
+    },
+    {
+      "path": "pages/01-03-search-intent-ai-question.md",
+      "toc_title": "01-03. 검색 의도: 키워드 뒤의 목적을 읽는 법",
+      "chars": 6118,
+      "images": 2,
+      "table_ratio": 0.27,
+      "issues": [
+        "multiple-images:2"
+      ],
+      "hotspots": {
+        "ai_tone": [
+          [
+            "도움이 됩니다",
+            1
+          ]
+        ],
+        "meta_reader_leak": [
+          [
+            "작성 예시",
+            1
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "source",
+            4
+          ],
+          [
+            "citation",
+            2
+          ],
+          [
+            "프롬프트",
+            1
+          ],
+          [
+            "AIO",
+            1
+          ],
+          [
+            "AEO",
+            2
+          ]
+        ],
+        "awkward": [
+          [
+            "억지로",
+            1
+          ]
+        ]
+      },
+      "first_para": "## 검색 의도: 키워드 뒤의 목적을 읽는 법"
+    },
+    {
+      "path": "pages/01-04-question-set-portion.md",
+      "toc_title": "01-04. 콘텐츠 구조: 검색 의도를 답변 구조로 바꾸는 법",
+      "chars": 6502,
+      "images": 2,
+      "table_ratio": 0.17,
+      "issues": [
+        "multiple-images:2"
+      ],
+      "hotspots": {
+        "ai_tone": [
+          [
+            "중요합니다",
+            1
+          ],
+          [
+            "다양한",
+            1
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "엔티티",
+            1
+          ],
+          [
+            "source",
+            7
+          ],
+          [
+            "citation",
+            7
+          ],
+          [
+            "Answer-first",
+            3
+          ],
+          [
+            "answer-first",
+            1
+          ]
+        ],
+        "awkward": [
+          [
+            "검색자",
+            4
+          ]
+        ]
+      },
+      "first_para": "## 콘텐츠 구조: 검색 의도를 답변 구조로 바꾸는 법"
+    },
+    {
+      "path": "pages/01-05-week1-baseline-diagnosis.md",
+      "toc_title": "01-05. 온페이지 SEO: 검색결과에서 약속한 답을 페이지에서 증명하는 법",
+      "chars": 6367,
+      "images": 2,
+      "table_ratio": 0.13,
+      "issues": [
+        "multiple-images:2"
+      ],
+      "hotspots": {
+        "ai_tone": [
+          [
+            "알아보겠습니다",
+            1
+          ],
+          [
+            "중요합니다",
+            1
+          ],
+          [
+            "도움이 됩니다",
+            2
+          ],
+          [
+            "다양한",
+            1
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "source",
+            6
+          ],
+          [
+            "citation",
+            6
+          ],
+          [
+            "Answer-first",
+            2
+          ]
+        ],
+        "awkward": [
+          [
+            "검색자",
+            3
+          ]
+        ]
+      },
+      "first_para": "## 온페이지 SEO: 검색결과에서 약속한 답을 페이지에서 증명하는 법"
+    },
+    {
+      "path": "pages/01-06-serp-analysis-content-gap.md",
+      "toc_title": "01-06. 내부 링크: 페이지 사이의 의미 관계를 설계하는 법",
+      "chars": 6374,
+      "images": 2,
+      "table_ratio": 0.25,
+      "issues": [
+        "multiple-images:2"
+      ],
+      "hotspots": {
+        "ai_tone": [
+          [
+            "중요합니다",
+            1
+          ],
+          [
+            "도움이 됩니다",
+            1
+          ]
+        ],
+        "meta_reader_leak": [
+          [
+            "작성 예시",
+            1
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "엔티티",
+            4
+          ],
+          [
+            "source",
+            5
+          ],
+          [
+            "citation",
+            6
+          ],
+          [
+            "Answer-first",
+            2
+          ],
+          [
+            "AIO",
+            1
+          ],
+          [
+            "AEO",
+            1
+          ]
+        ],
+        "awkward": [
+          [
+            "억지로",
+            1
+          ]
+        ]
+      },
+      "first_para": "## 내부 링크: 페이지 사이의 의미 관계를 설계하는 법"
+    },
+    {
+      "path": "pages/01-07-onpage-seo-answer-first.md",
+      "toc_title": "01-07. 테크니컬 SEO: 좋은 콘텐츠가 검색엔진과 AI에게 읽히게 만드는 조건",
+      "chars": 6444,
+      "images": 2,
+      "table_ratio": 0.27,
+      "issues": [
+        "multiple-images:2"
+      ],
+      "hotspots": {
+        "ai_tone": [
+          [
+            "중요합니다",
+            3
+          ]
+        ],
+        "meta_reader_leak": [
+          [
+            "작성 예시",
+            1
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "엔티티",
+            1
+          ],
+          [
+            "source",
+            7
+          ],
+          [
+            "citation",
+            5
+          ],
+          [
+            "answer-first",
+            1
+          ]
+        ]
+      },
+      "first_para": "## 테크니컬 SEO: 좋은 콘텐츠가 검색엔진과 AI에게 읽히게 만드는 조건"
+    },
+    {
+      "path": "pages/01-08-technical-seo-geo.md",
+      "toc_title": "01-08. 권위/백링크/엔티티: 믿을 만한 브랜드로 이해되게 만드는 외부 신호",
+      "chars": 6188,
+      "images": 2,
+      "table_ratio": 0.2,
+      "issues": [
+        "multiple-images:2"
+      ],
+      "hotspots": {
+        "ai_tone": [
+          [
+            "중요합니다",
+            4
+          ],
+          [
+            "도움이 됩니다",
+            1
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "엔티티",
+            10
+          ],
+          [
+            "source",
+            6
+          ],
+          [
+            "citation",
+            4
+          ]
+        ]
+      },
+      "first_para": "## 권위/백링크/엔티티: 믿을 만한 브랜드로 이해되게 만드는 외부 신호"
+    },
+    {
+      "path": "pages/01-09-authority-entity-seo-geo.md",
+      "toc_title": "01-09. 측정/개선: SEO와 GEO를 월간 운영 루프로 만드는 법",
+      "chars": 6244,
+      "images": 2,
+      "table_ratio": 0.14,
+      "issues": [
+        "multiple-images:2"
+      ],
+      "hotspots": {
+        "ai_tone": [
+          [
+            "중요합니다",
+            3
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "엔티티",
+            3
+          ],
+          [
+            "source",
+            14
+          ],
+          [
+            "citation",
+            8
+          ]
+        ]
+      },
+      "first_para": "## 측정/개선: SEO와 GEO를 월간 운영 루프로 만드는 법"
+    },
+    {
+      "path": "pages/01-10-seo-measurement-gsc-ga4-naver.md",
+      "toc_title": "01-10. SEO에서 GEO로 확장하는 통합 실습",
+      "chars": 8951,
+      "images": 2,
+      "table_ratio": 0.19,
+      "issues": [
+        "multiple-images:2"
+      ],
+      "hotspots": {
+        "ai_tone": [
+          [
+            "중요합니다",
+            1
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "엔티티",
+            7
+          ],
+          [
+            "source",
+            18
+          ],
+          [
+            "Source",
+            1
+          ],
+          [
+            "citation",
+            17
+          ],
+          [
+            "Answer-first",
+            3
+          ],
+          [
+            "AEO",
+            1
+          ]
+        ]
+      },
+      "first_para": "## SEO에서 GEO로 확장하는 통합 실습"
+    },
+    {
+      "path": "pages/01-chapter-1.md",
+      "toc_title": "01. SEO 기본기와 GEO 확장 전략",
+      "chars": 5735,
+      "images": 2,
+      "table_ratio": 0.32,
+      "issues": [
+        "multiple-images:2"
+      ],
+      "hotspots": {
+        "inconsistent_terms": [
+          [
+            "엔티티",
+            6
+          ],
+          [
+            "source",
+            3
+          ],
+          [
+            "citation",
+            2
+          ],
+          [
+            "Answer-first",
+            2
+          ]
+        ]
+      },
+      "first_para": "## SEO 기본기와 GEO 확장 전략"
+    },
+    {
+      "path": "pages/02-01-chatgpt-brand-visibility.md",
+      "toc_title": "02-01. ChatGPT 브랜드 노출은 어떻게 확인하나",
+      "chars": 5155,
+      "images": 2,
+      "table_ratio": 0.56,
+      "issues": [
+        "multiple-images:2",
+        "table-heavy:0.56"
+      ],
+      "hotspots": {
+        "inconsistent_terms": [
+          [
+            "source",
+            2
+          ],
+          [
+            "citation",
+            3
+          ],
+          [
+            "프롬프트",
+            1
+          ]
+        ]
+      },
+      "first_para": "## ChatGPT 브랜드 노출은 어떻게 확인하나"
+    },
+    {
+      "path": "pages/02-02-perplexity-ai-overviews-citation.md",
+      "toc_title": "02-02. Perplexity SEO와 Google AI Overviews 최적화는 어떻게 다르게 볼까",
+      "chars": 5912,
+      "images": 2,
+      "table_ratio": 0.42,
+      "issues": [
+        "multiple-images:2",
+        "table-heavy:0.42"
+      ],
+      "hotspots": {
+        "meta_reader_leak": [
+          [
+            "내부 운영",
+            1
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "source",
+            4
+          ],
+          [
+            "citation",
+            22
+          ],
+          [
+            "answer-first",
+            1
+          ]
+        ]
+      },
+      "first_para": "## Perplexity SEO와 Google AI Overviews 최적화는 어떻게 다르게 볼까"
+    },
+    {
+      "path": "pages/02-03-mention-source-citation.md",
+      "toc_title": "02-03. 브랜드 언급률, 답변 근거, 화면 인용은 어떻게 나눠 읽나",
+      "chars": 5194,
+      "images": 2,
+      "table_ratio": 0.66,
+      "issues": [
+        "multiple-images:2",
+        "table-heavy:0.66"
+      ],
+      "hotspots": {
+        "ai_tone": [
+          [
+            "중요합니다",
+            1
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "source",
+            13
+          ],
+          [
+            "Source",
+            4
+          ],
+          [
+            "citation",
+            16
+          ],
+          [
+            "Citation",
+            3
+          ]
+        ]
+      },
+      "first_para": "## 브랜드 언급률, 답변 근거, 화면 인용은 어떻게 나눠 읽나"
+    },
+    {
+      "path": "pages/02-04-ai-search-report.md",
+      "toc_title": "02-04. AI 검색 리포트는 어떤 지표로 읽어야 하나",
+      "chars": 5206,
+      "images": 2,
+      "table_ratio": 0.44,
+      "issues": [
+        "multiple-images:2",
+        "table-heavy:0.44"
+      ],
+      "hotspots": {
+        "inconsistent_terms": [
+          [
+            "source",
+            6
+          ],
+          [
+            "citation",
+            12
+          ],
+          [
+            "answer-first",
+            1
+          ]
+        ]
+      },
+      "first_para": "## AI 검색 리포트는 어떤 지표로 읽어야 하나"
+    },
+    {
+      "path": "pages/02-chapter-2.md",
+      "toc_title": "02. AI 검색 모니터링: 브랜드 언급률, 답변 근거, 화면 인용 읽는 법",
+      "chars": 5498,
+      "images": 3,
+      "table_ratio": 0.56,
+      "issues": [
+        "heading-no-blank-after:1",
+        "image-no-blank-before:2",
+        "multiple-images:3",
+        "table-heavy:0.56"
+      ],
+      "hotspots": {
+        "inconsistent_terms": [
+          [
+            "엔티티",
+            2
+          ],
+          [
+            "source",
+            12
+          ],
+          [
+            "citation",
+            16
+          ],
+          [
+            "Fan-out",
+            1
+          ]
+        ]
+      },
+      "first_para": "## AI 검색 모니터링: 브랜드 언급률, 답변 근거, 화면 인용 읽는 법\n![AI 검색 모니터링: 브랜드 언급률, 답변 근거, 화면 인용 읽는 법 대표 이미지](../assets/images/page-heroes/halox-geo-02-chapter-2-hero.png)"
+    },
+    {
+      "path": "pages/03-01-fan-out-question-map.md",
+      "toc_title": "03-01. Fan-out은 AI가 질문을 어떻게 쪼개는가",
+      "chars": 5236,
+      "images": 2,
+      "table_ratio": 0.56,
+      "issues": [
+        "multiple-images:2",
+        "table-heavy:0.56"
+      ],
+      "hotspots": {
+        "ai_tone": [
+          [
+            "중요합니다",
+            1
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "source",
+            13
+          ],
+          [
+            "citation",
+            5
+          ],
+          [
+            "Fan-out",
+            4
+          ],
+          [
+            "fan-out",
+            24
+          ],
+          [
+            "Query Fan-out",
+            1
+          ],
+          [
+            "프롬프트",
+            3
+          ]
+        ]
+      },
+      "first_para": "## Fan-out은 AI가 질문을 어떻게 쪼개는가"
+    },
+    {
+      "path": "pages/03-02-question-type-portfolio.md",
+      "toc_title": "03-02. 사용자 질문셋과 AI 질문 패턴을 어떻게 분리할까",
+      "chars": 6196,
+      "images": 2,
+      "table_ratio": 0.64,
+      "issues": [
+        "multiple-images:2",
+        "table-heavy:0.64"
+      ],
+      "hotspots": {
+        "ai_tone": [
+          [
+            "도움이 됩니다",
+            1
+          ]
+        ],
+        "meta_reader_leak": [
+          [
+            "작성 예시",
+            1
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "source",
+            15
+          ],
+          [
+            "citation",
+            5
+          ],
+          [
+            "Fan-out",
+            1
+          ],
+          [
+            "fan-out",
+            17
+          ],
+          [
+            "프롬프트",
+            3
+          ]
+        ]
+      },
+      "first_para": "## 사용자 질문셋과 AI 질문 패턴을 어떻게 분리할까"
+    },
+    {
+      "path": "pages/03-03-content-gap-from-questions.md",
+      "toc_title": "03-03. AI 질문 패턴에서 콘텐츠 갭을 찾는 법",
+      "chars": 6687,
+      "images": 2,
+      "table_ratio": 0.63,
+      "issues": [
+        "multiple-images:2",
+        "table-heavy:0.63"
+      ],
+      "hotspots": {
+        "ai_tone": [
+          [
+            "중요합니다",
+            1
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "엔티티",
+            1
+          ],
+          [
+            "source",
+            28
+          ],
+          [
+            "citation",
+            10
+          ],
+          [
+            "Answer-first",
+            1
+          ],
+          [
+            "fan-out",
+            16
+          ],
+          [
+            "프롬프트",
+            1
+          ]
+        ]
+      },
+      "first_para": "## AI 질문 패턴에서 콘텐츠 갭을 찾는 법"
+    },
+    {
+      "path": "pages/03-chapter-3.md",
+      "toc_title": "03. Query Fan-out: AI가 내부에서 확장하는 질문 패턴",
+      "chars": 5216,
+      "images": 3,
+      "table_ratio": 0.46,
+      "issues": [
+        "heading-no-blank-after:1",
+        "image-no-blank-before:2",
+        "multiple-images:3",
+        "table-heavy:0.46"
+      ],
+      "hotspots": {
+        "inconsistent_terms": [
+          [
+            "엔터티",
+            1
+          ],
+          [
+            "source",
+            9
+          ],
+          [
+            "citation",
+            5
+          ],
+          [
+            "Fan-out",
+            6
+          ],
+          [
+            "fan-out",
+            20
+          ],
+          [
+            "Query Fan-out",
+            3
+          ],
+          [
+            "프롬프트",
+            3
+          ]
+        ]
+      },
+      "first_para": "## Query Fan-out: AI가 내부에서 확장하는 질문 패턴\n![Query Fan-out: AI가 내부에서 확장하는 질문 패턴 대표 이미지](../assets/images/page-heroes/halox-geo-03-chapter-3-hero.png)"
+    },
+    {
+      "path": "pages/04-01-answer-first-content.md",
+      "toc_title": "04-01. AI가 인용하는 Answer-first 콘텐츠는 어떻게 쓰는가",
+      "chars": 5291,
+      "images": 2,
+      "table_ratio": 0.54,
+      "issues": [
+        "multiple-images:2",
+        "table-heavy:0.54"
+      ],
+      "hotspots": {
+        "ai_tone": [
+          [
+            "중요합니다",
+            2
+          ],
+          [
+            "다양한",
+            1
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "source",
+            9
+          ],
+          [
+            "citation",
+            3
+          ],
+          [
+            "Answer-first",
+            14
+          ],
+          [
+            "answer-first",
+            2
+          ],
+          [
+            "fan-out",
+            3
+          ]
+        ]
+      },
+      "first_para": "## AI가 인용하는 Answer-first 콘텐츠는 어떻게 쓰는가"
+    },
+    {
+      "path": "pages/04-02-faq-schema-table-structure.md",
+      "toc_title": "04-02. FAQ/표/schema는 언제 쓰는가",
+      "chars": 6797,
+      "images": 2,
+      "table_ratio": 0.47,
+      "issues": [
+        "multiple-images:2",
+        "table-heavy:0.47"
+      ],
+      "hotspots": {
+        "inconsistent_terms": [
+          [
+            "엔터티",
+            1
+          ],
+          [
+            "엔티티",
+            1
+          ],
+          [
+            "source",
+            6
+          ],
+          [
+            "citation",
+            1
+          ],
+          [
+            "Answer-first",
+            2
+          ]
+        ],
+        "awkward": [
+          [
+            "억지로",
+            1
+          ]
+        ]
+      },
+      "first_para": "## FAQ/표/schema는 언제 쓰는가"
+    },
+    {
+      "path": "pages/04-03-geo-content-rewrite-checklist.md",
+      "toc_title": "04-03. 기존 글을 GEO 콘텐츠로 리라이트하는 체크리스트",
+      "chars": 5926,
+      "images": 2,
+      "table_ratio": 0.62,
+      "issues": [
+        "multiple-images:2",
+        "table-heavy:0.62"
+      ],
+      "hotspots": {
+        "ai_tone": [
+          [
+            "중요합니다",
+            1
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "엔터티",
+            2
+          ],
+          [
+            "source",
+            23
+          ],
+          [
+            "citation",
+            10
+          ],
+          [
+            "Answer-first",
+            2
+          ],
+          [
+            "fan-out",
+            2
+          ]
+        ]
+      },
+      "first_para": "## 기존 글을 GEO 콘텐츠로 리라이트하는 체크리스트"
+    },
+    {
+      "path": "pages/04-chapter-4.md",
+      "toc_title": "04. AI가 읽기 좋은 콘텐츠 구조: HTML에서 답변 재료까지",
+      "chars": 5213,
+      "images": 3,
+      "table_ratio": 0.49,
+      "issues": [
+        "heading-no-blank-after:1",
+        "image-no-blank-before:2",
+        "multiple-images:3",
+        "table-heavy:0.49"
+      ],
+      "hotspots": {
+        "inconsistent_terms": [
+          [
+            "엔터티",
+            2
+          ],
+          [
+            "source",
+            10
+          ],
+          [
+            "citation",
+            7
+          ],
+          [
+            "Answer-first",
+            3
+          ],
+          [
+            "fan-out",
+            4
+          ]
+        ],
+        "awkward": [
+          [
+            "검색자",
+            1
+          ],
+          [
+            "억지로",
+            1
+          ]
+        ]
+      },
+      "first_para": "## AI가 읽기 좋은 콘텐츠 구조: HTML에서 답변 재료까지\n![AI가 읽기 좋은 콘텐츠 구조: HTML에서 답변 재료까지 대표 이미지](../assets/images/page-heroes/halox-geo-04-chapter-4-hero.png)"
+    },
+    {
+      "path": "pages/05-01-source-citation-difference.md",
+      "toc_title": "05-01. 답변 근거(source)와 화면 인용(citation)은 무엇이 다른가",
+      "chars": 6789,
+      "images": 2,
+      "table_ratio": 0.51,
+      "issues": [
+        "multiple-images:2",
+        "table-heavy:0.51"
+      ],
+      "hotspots": {
+        "meta_reader_leak": [
+          [
+            "작성 예시",
+            2
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "엔터티",
+            1
+          ],
+          [
+            "엔티티",
+            1
+          ],
+          [
+            "source",
+            22
+          ],
+          [
+            "Source",
+            3
+          ],
+          [
+            "citation",
+            30
+          ],
+          [
+            "Citation",
+            3
+          ],
+          [
+            "프롬프트",
+            1
+          ]
+        ]
+      },
+      "first_para": "## 답변 근거(source)와 화면 인용(citation)은 무엇이 다른가"
+    },
+    {
+      "path": "pages/05-02-entity-consensus-offsite.md",
+      "toc_title": "05-02. Entity와 브랜드 합의 신호를 만드는 법",
+      "chars": 6566,
+      "images": 2,
+      "table_ratio": 0.56,
+      "issues": [
+        "multiple-images:2",
+        "table-heavy:0.56"
+      ],
+      "hotspots": {
+        "meta_reader_leak": [
+          [
+            "작성 예시",
+            2
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "엔터티",
+            6
+          ],
+          [
+            "엔티티",
+            4
+          ],
+          [
+            "source",
+            4
+          ],
+          [
+            "citation",
+            4
+          ]
+        ],
+        "awkward": [
+          [
+            "억지로",
+            1
+          ]
+        ]
+      },
+      "first_para": "## Entity와 브랜드 합의 신호를 만드는 법"
+    },
+    {
+      "path": "pages/05-03-offsite-source-map.md",
+      "toc_title": "05-03. 오프사이트 출처 후보 맵을 만드는 법",
+      "chars": 5286,
+      "images": 2,
+      "table_ratio": 0.44,
+      "issues": [
+        "multiple-images:2",
+        "table-heavy:0.44"
+      ],
+      "hotspots": {
+        "ai_tone": [
+          [
+            "중요합니다",
+            3
+          ],
+          [
+            "핵심입니다",
+            1
+          ]
+        ],
+        "meta_reader_leak": [
+          [
+            "작성 예시",
+            2
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "source",
+            13
+          ],
+          [
+            "citation",
+            3
+          ],
+          [
+            "fan-out",
+            4
+          ]
+        ]
+      },
+      "first_para": "## 오프사이트 출처 후보 맵을 만드는 법"
+    },
+    {
+      "path": "pages/05-04-channel-source-strategy.md",
+      "toc_title": "05-04. 채널별 답변 근거 전략표는 어떻게 만들까",
+      "chars": 4874,
+      "images": 2,
+      "table_ratio": 0.54,
+      "issues": [
+        "multiple-images:2",
+        "table-heavy:0.54"
+      ],
+      "hotspots": {
+        "ai_tone": [
+          [
+            "중요합니다",
+            2
+          ]
+        ],
+        "meta_reader_leak": [
+          [
+            "작성 예시",
+            2
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "엔터티",
+            1
+          ],
+          [
+            "source",
+            13
+          ]
+        ]
+      },
+      "first_para": "## 채널별 답변 근거 전략표는 어떻게 만들까"
+    },
+    {
+      "path": "pages/05-05-reputation-risk-ai-answer.md",
+      "toc_title": "05-05. 평판 리스크와 AI 답변 오해를 어떻게 줄일까",
+      "chars": 5407,
+      "images": 2,
+      "table_ratio": 0.5,
+      "issues": [
+        "multiple-images:2",
+        "table-heavy:0.5"
+      ],
+      "hotspots": {
+        "ai_tone": [
+          [
+            "중요합니다",
+            2
+          ]
+        ],
+        "meta_reader_leak": [
+          [
+            "작성 예시",
+            2
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "엔티티",
+            2
+          ],
+          [
+            "source",
+            18
+          ],
+          [
+            "citation",
+            4
+          ],
+          [
+            "answer-first",
+            1
+          ],
+          [
+            "prompt",
+            1
+          ],
+          [
+            "AEO",
+            1
+          ]
+        ]
+      },
+      "first_para": "## 평판 리스크와 AI 답변 오해를 어떻게 줄일까"
+    },
+    {
+      "path": "pages/05-06-wiki-directory-entity-management.md",
+      "toc_title": "05-06. 위키/디렉터리 엔티티 관리: 나무위키, 위키피디아, 프로필 사이트",
+      "chars": 9619,
+      "images": 2,
+      "table_ratio": 0.45,
+      "issues": [
+        "multiple-images:2",
+        "table-heavy:0.45"
+      ],
+      "hotspots": {
+        "ai_tone": [
+          [
+            "중요합니다",
+            1
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "엔터티",
+            1
+          ],
+          [
+            "엔티티",
+            17
+          ],
+          [
+            "source",
+            4
+          ],
+          [
+            "Source",
+            1
+          ],
+          [
+            "citation",
+            5
+          ]
+        ],
+        "awkward": [
+          [
+            "억지로",
+            1
+          ]
+        ]
+      },
+      "first_para": "## 위키/디렉터리 엔티티 관리: 나무위키, 위키피디아, 프로필 사이트"
+    },
+    {
+      "path": "pages/05-07-pr-media-trust-signal.md",
+      "toc_title": "05-07. 언론/PR 신뢰 신호 관리: 보도자료, 인터뷰, 기고, 뉴스룸",
+      "chars": 7612,
+      "images": 2,
+      "table_ratio": 0.49,
+      "issues": [
+        "multiple-images:2",
+        "table-heavy:0.49"
+      ],
+      "hotspots": {
+        "ai_tone": [
+          [
+            "중요합니다",
+            5
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "엔티티",
+            3
+          ],
+          [
+            "source",
+            10
+          ],
+          [
+            "citation",
+            7
+          ],
+          [
+            "answer-first",
+            1
+          ]
+        ]
+      },
+      "first_para": "## 언론/PR 신뢰 신호 관리: 보도자료, 인터뷰, 기고, 뉴스룸"
+    },
+    {
+      "path": "pages/05-08-reddit-community-usage-signal.md",
+      "toc_title": "05-08. Reddit/커뮤니티 실사용 신호 관리: 비교, 후기, 문제 해결 맥락",
+      "chars": 7166,
+      "images": 2,
+      "table_ratio": 0.43,
+      "issues": [
+        "multiple-images:2",
+        "table-heavy:0.43"
+      ],
+      "hotspots": {
+        "ai_tone": [
+          [
+            "도움이 됩니다",
+            1
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "source",
+            4
+          ],
+          [
+            "citation",
+            1
+          ],
+          [
+            "프롬프트",
+            1
+          ]
+        ]
+      },
+      "first_para": "## Reddit/커뮤니티 실사용 신호 관리: 비교, 후기, 문제 해결 맥락"
+    },
+    {
+      "path": "pages/05-09-external-blog-syndication-strategy.md",
+      "toc_title": "05-09. 외부 블로그/신디케이터 전략: 분산 콘텐츠로 답변 근거 넓히기",
+      "chars": 7450,
+      "images": 2,
+      "table_ratio": 0.51,
+      "issues": [
+        "multiple-images:2",
+        "table-heavy:0.51"
+      ],
+      "hotspots": {
+        "ai_tone": [
+          [
+            "중요합니다",
+            1
+          ],
+          [
+            "도움이 됩니다",
+            1
+          ],
+          [
+            "다양한",
+            1
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "엔티티",
+            4
+          ],
+          [
+            "source",
+            6
+          ],
+          [
+            "citation",
+            6
+          ]
+        ]
+      },
+      "first_para": "## 외부 블로그/신디케이터 전략: 분산 콘텐츠로 답변 근거 넓히기"
+    },
+    {
+      "path": "pages/05-10-offsite-entity-operations-checklist.md",
+      "toc_title": "05-10. 오프사이트 엔티티 운영표: 30일 실행 체크리스트",
+      "chars": 8453,
+      "images": 2,
+      "table_ratio": 0.41,
+      "issues": [
+        "multiple-images:2",
+        "table-heavy:0.41"
+      ],
+      "hotspots": {
+        "inconsistent_terms": [
+          [
+            "엔터티",
+            1
+          ],
+          [
+            "엔티티",
+            11
+          ],
+          [
+            "source",
+            28
+          ],
+          [
+            "citation",
+            17
+          ],
+          [
+            "answer-first",
+            1
+          ],
+          [
+            "fan-out",
+            1
+          ]
+        ]
+      },
+      "first_para": "## 오프사이트 엔티티 운영표: 30일 실행 체크리스트"
+    },
+    {
+      "path": "pages/05-chapter-5.md",
+      "toc_title": "05. 답변 근거/source, 화면 인용/citation, 엔터티 전략",
+      "chars": 7195,
+      "images": 3,
+      "table_ratio": 0.46,
+      "issues": [
+        "multiple-images:3",
+        "table-heavy:0.46"
+      ],
+      "hotspots": {
+        "ai_tone": [
+          [
+            "중요합니다",
+            1
+          ],
+          [
+            "다양한",
+            1
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "엔터티",
+            4
+          ],
+          [
+            "엔티티",
+            8
+          ],
+          [
+            "source",
+            26
+          ],
+          [
+            "Source",
+            1
+          ],
+          [
+            "citation",
+            20
+          ],
+          [
+            "Citation",
+            1
+          ],
+          [
+            "Answer-first",
+            1
+          ],
+          [
+            "fan-out",
+            2
+          ]
+        ]
+      },
+      "first_para": "## 답변 근거/source, 화면 인용/citation, 엔터티 전략"
+    },
+    {
+      "path": "pages/06-01-technical-geo-checklist.md",
+      "toc_title": "06-01. 테크니컬 GEO 기본 점검표",
+      "chars": 6808,
+      "images": 2,
+      "table_ratio": 0.61,
+      "issues": [
+        "multiple-images:2",
+        "table-heavy:0.61"
+      ],
+      "hotspots": {
+        "meta_reader_leak": [
+          [
+            "작성 예시",
+            2
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "엔터티",
+            2
+          ],
+          [
+            "source",
+            11
+          ],
+          [
+            "citation",
+            7
+          ]
+        ]
+      },
+      "first_para": "## 테크니컬 GEO 기본 점검표"
+    },
+    {
+      "path": "pages/06-02-csr-ssr-rendering.md",
+      "toc_title": "06-02. CSR/SSR 렌더링은 GEO에서 왜 중요한가",
+      "chars": 5409,
+      "images": 2,
+      "table_ratio": 0.52,
+      "issues": [
+        "multiple-images:2",
+        "table-heavy:0.52"
+      ],
+      "hotspots": {
+        "ai_tone": [
+          [
+            "중요합니다",
+            1
+          ],
+          [
+            "도움이 됩니다",
+            1
+          ]
+        ],
+        "meta_reader_leak": [
+          [
+            "비공개",
+            1
+          ],
+          [
+            "작성 예시",
+            2
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "source",
+            8
+          ],
+          [
+            "citation",
+            1
+          ],
+          [
+            "fan-out",
+            1
+          ]
+        ]
+      },
+      "first_para": "## CSR/SSR 렌더링은 GEO에서 왜 중요한가"
+    },
+    {
+      "path": "pages/06-03-llms-txt-migration-risk.md",
+      "toc_title": "06-03. llms.txt와 사이트 이전 리스크 관리",
+      "chars": 5110,
+      "images": 2,
+      "table_ratio": 0.48,
+      "issues": [
+        "multiple-images:2",
+        "table-heavy:0.48"
+      ],
+      "hotspots": {
+        "meta_reader_leak": [
+          [
+            "내부 운영",
+            1
+          ],
+          [
+            "작성 예시",
+            2
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "source",
+            9
+          ],
+          [
+            "citation",
+            10
+          ]
+        ]
+      },
+      "first_para": "## llms.txt와 사이트 이전 리스크 관리"
+    },
+    {
+      "path": "pages/06-04-ai-crawler-robots-sitemap.md",
+      "toc_title": "06-04. AI 크롤러 접근성과 robots/sitemap 점검법",
+      "chars": 5077,
+      "images": 2,
+      "table_ratio": 0.48,
+      "issues": [
+        "html-like",
+        "multiple-images:2",
+        "table-heavy:0.48"
+      ],
+      "hotspots": {
+        "meta_reader_leak": [
+          [
+            "작성 예시",
+            2
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "source",
+            5
+          ],
+          [
+            "citation",
+            2
+          ]
+        ]
+      },
+      "first_para": "## AI 크롤러 접근성과 robots/sitemap 점검법"
+    },
+    {
+      "path": "pages/06-05-schema-internal-link-structure.md",
+      "toc_title": "06-05. Schema와 내부 링크는 AI 이해를 어떻게 돕나",
+      "chars": 9331,
+      "images": 2,
+      "table_ratio": 0.42,
+      "issues": [
+        "html-like",
+        "multiple-images:2",
+        "table-heavy:0.42"
+      ],
+      "hotspots": {
+        "ai_tone": [
+          [
+            "중요합니다",
+            2
+          ]
+        ],
+        "meta_reader_leak": [
+          [
+            "작성 예시",
+            2
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "엔터티",
+            5
+          ],
+          [
+            "source",
+            3
+          ],
+          [
+            "citation",
+            3
+          ],
+          [
+            "answer-first",
+            1
+          ],
+          [
+            "AIO",
+            1
+          ],
+          [
+            "AEO",
+            1
+          ]
+        ]
+      },
+      "first_para": "## Schema와 내부 링크는 AI 이해를 어떻게 돕나"
+    },
+    {
+      "path": "pages/06-06-google-seo-geo-validation-tools.md",
+      "toc_title": "06-06. Google 공식 도구로 SEO/GEO 기술 상태 점검하기",
+      "chars": 10708,
+      "images": 2,
+      "table_ratio": 0.64,
+      "issues": [
+        "heading-no-blank-after:1",
+        "image-no-blank-before:2",
+        "multiple-images:2",
+        "table-heavy:0.64"
+      ],
+      "hotspots": {
+        "ai_tone": [
+          [
+            "중요합니다",
+            2
+          ]
+        ],
+        "meta_reader_leak": [
+          [
+            "작성 예시",
+            2
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "source",
+            8
+          ],
+          [
+            "citation",
+            7
+          ],
+          [
+            "AIO",
+            2
+          ],
+          [
+            "AEO",
+            2
+          ]
+        ]
+      },
+      "first_para": "## Google 공식 도구로 SEO/GEO 기술 상태 점검하기\n![Google 공식 도구로 SEO/GEO 기술 상태 점검하기 대표 이미지](../assets/images/page-heroes/halox-geo-06-06-google-seo-geo-validation-tools-hero.png)"
+    },
+    {
+      "path": "pages/06-07-schema-type-checklist.md",
+      "toc_title": "06-07. Schema 타입별 실전 점검표: Organization/Person/FAQ/Product",
+      "chars": 10748,
+      "images": 2,
+      "table_ratio": 0.35,
+      "issues": [
+        "html-like",
+        "heading-no-blank-after:1",
+        "image-no-blank-before:2",
+        "multiple-images:2",
+        "table-heavy:0.35"
+      ],
+      "hotspots": {
+        "ai_tone": [
+          [
+            "중요합니다",
+            2
+          ]
+        ],
+        "meta_reader_leak": [
+          [
+            "공개 가능한",
+            5
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "source",
+            1
+          ],
+          [
+            "citation",
+            1
+          ],
+          [
+            "fan-out",
+            3
+          ]
+        ]
+      },
+      "first_para": "## Schema 타입별 실전 점검표: Organization/Person/FAQ/Product\n![Schema 타입별 실전 점검표: Organization/Person/FAQ/Product 대표 이미지](../assets/images/page-heroes/halox-geo-06-07-schema-type-checklis"
+    },
+    {
+      "path": "pages/06-08-meta-canonical-snippet-checklist.md",
+      "toc_title": "06-08. 메타 정보 실전 점검: title/meta description/canonical/robots meta",
+      "chars": 6352,
+      "images": 2,
+      "table_ratio": 0.41,
+      "issues": [
+        "html-like",
+        "heading-no-blank-after:1",
+        "image-no-blank-before:2",
+        "multiple-images:2",
+        "table-heavy:0.41"
+      ],
+      "hotspots": {
+        "ai_tone": [
+          [
+            "중요합니다",
+            1
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "source",
+            7
+          ],
+          [
+            "citation",
+            7
+          ],
+          [
+            "LLMO",
+            1
+          ],
+          [
+            "AIO",
+            2
+          ],
+          [
+            "AEO",
+            2
+          ]
+        ]
+      },
+      "first_para": "## 메타 정보 실전 점검: title/meta description/canonical/robots meta\n![메타 정보 실전 점검: title/meta description/canonical/robots meta 대표 이미지](../assets/images/page-heroes/halox-geo-06-08-meta-c"
+    },
+    {
+      "path": "pages/06-09-sitelinks-rich-results-section-links.md",
+      "toc_title": "06-09. 사이트링크와 리치 리절트 차이: 검색결과 섹션 링크는 어떻게 만들어지나",
+      "chars": 9561,
+      "images": 2,
+      "table_ratio": 0.43,
+      "issues": [
+        "html-like",
+        "heading-no-blank-after:1",
+        "image-no-blank-before:2",
+        "multiple-images:2",
+        "table-heavy:0.43"
+      ],
+      "hotspots": {
+        "ai_tone": [
+          [
+            "중요합니다",
+            2
+          ],
+          [
+            "도움이 됩니다",
+            2
+          ]
+        ],
+        "meta_reader_leak": [
+          [
+            "내부 운영",
+            1
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "엔터티",
+            2
+          ],
+          [
+            "source",
+            8
+          ],
+          [
+            "citation",
+            6
+          ],
+          [
+            "Answer-first",
+            2
+          ],
+          [
+            "LLMO",
+            1
+          ],
+          [
+            "AIO",
+            1
+          ],
+          [
+            "AEO",
+            1
+          ]
+        ],
+        "awkward": [
+          [
+            "억지로",
+            1
+          ]
+        ]
+      },
+      "first_para": "## 사이트링크와 리치 리절트 차이: 검색결과 섹션 링크는 어떻게 만들어지나\n![사이트링크와 리치 리절트 차이: 검색결과 섹션 링크는 어떻게 만들어지나 대표 이미지](../assets/images/page-heroes/halox-geo-06-09-sitelinks-rich-results-section-links-hero."
+    },
+    {
+      "path": "pages/06-chapter-6.md",
+      "toc_title": "06. 테크니컬 GEO와 사이트 구조",
+      "chars": 8676,
+      "images": 3,
+      "table_ratio": 0.49,
+      "issues": [
+        "heading-no-blank-after:1",
+        "image-no-blank-before:2",
+        "multiple-images:3",
+        "table-heavy:0.49"
+      ],
+      "hotspots": {
+        "inconsistent_terms": [
+          [
+            "엔터티",
+            2
+          ],
+          [
+            "source",
+            15
+          ],
+          [
+            "citation",
+            14
+          ]
+        ]
+      },
+      "first_para": "## 테크니컬 GEO와 사이트 구조\n![테크니컬 GEO와 사이트 구조 대표 이미지](../assets/images/page-heroes/halox-geo-06-chapter-6-hero.png)"
+    },
+    {
+      "path": "pages/07-01-b2b-saas-geo.md",
+      "toc_title": "07-01. B2B SaaS GEO는 무엇이 다른가",
+      "chars": 4713,
+      "images": 2,
+      "table_ratio": 0.43,
+      "issues": [
+        "html-like",
+        "image-no-blank-before:33",
+        "multiple-images:2",
+        "table-heavy:0.43"
+      ],
+      "hotspots": {
+        "ai_tone": [
+          [
+            "중요합니다",
+            1
+          ],
+          [
+            "도움이 됩니다",
+            1
+          ],
+          [
+            "핵심입니다",
+            1
+          ]
+        ],
+        "meta_reader_leak": [
+          [
+            "작성 예시",
+            2
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "source",
+            2
+          ],
+          [
+            "citation",
+            4
+          ],
+          [
+            "AIO",
+            1
+          ]
+        ]
+      },
+      "first_para": "## B2B SaaS GEO는 무엇이 다른가"
+    },
+    {
+      "path": "pages/07-02-commerce-platform-aio.md",
+      "toc_title": "07-02. 커머스와 플랫폼은 GEO보다 AIO를 먼저 봐야 할까",
+      "chars": 5893,
+      "images": 2,
+      "table_ratio": 0.43,
+      "issues": [
+        "html-like",
+        "image-no-blank-before:33",
+        "multiple-images:2",
+        "table-heavy:0.43"
+      ],
+      "hotspots": {
+        "ai_tone": [
+          [
+            "중요합니다",
+            2
+          ]
+        ],
+        "meta_reader_leak": [
+          [
+            "작성 예시",
+            2
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "citation",
+            1
+          ],
+          [
+            "AIO",
+            14
+          ]
+        ]
+      },
+      "first_para": "## 커머스와 플랫폼은 GEO보다 AIO를 먼저 봐야 할까"
+    },
+    {
+      "path": "pages/07-03-local-specialist-geo.md",
+      "toc_title": "07-03. 로컬/전문 서비스 GEO는 무엇을 봐야 하나",
+      "chars": 4885,
+      "images": 2,
+      "table_ratio": 0.43,
+      "issues": [
+        "html-like",
+        "image-no-blank-before:34",
+        "multiple-images:2",
+        "table-heavy:0.43"
+      ],
+      "hotspots": {
+        "ai_tone": [
+          [
+            "중요합니다",
+            2
+          ]
+        ],
+        "meta_reader_leak": [
+          [
+            "작성 예시",
+            2
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "엔티티",
+            1
+          ],
+          [
+            "source",
+            6
+          ],
+          [
+            "citation",
+            1
+          ],
+          [
+            "AIO",
+            1
+          ]
+        ]
+      },
+      "first_para": "## 로컬/전문 서비스 GEO는 무엇을 봐야 하나"
+    },
+    {
+      "path": "pages/07-04-pr-newsroom-entity-geo.md",
+      "toc_title": "07-04. PR/뉴스룸 GEO는 왜 엔티티 전략인가",
+      "chars": 4465,
+      "images": 2,
+      "table_ratio": 0.58,
+      "issues": [
+        "html-like",
+        "image-no-blank-before:25",
+        "multiple-images:2",
+        "table-heavy:0.58"
+      ],
+      "hotspots": {
+        "ai_tone": [
+          [
+            "도움이 됩니다",
+            1
+          ]
+        ],
+        "meta_reader_leak": [
+          [
+            "작성 예시",
+            2
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "엔티티",
+            6
+          ],
+          [
+            "source",
+            8
+          ],
+          [
+            "citation",
+            3
+          ],
+          [
+            "answer-first",
+            2
+          ],
+          [
+            "프롬프트",
+            1
+          ]
+        ]
+      },
+      "first_para": "## PR/뉴스룸 GEO는 왜 엔티티 전략인가"
+    },
+    {
+      "path": "pages/07-05-finance-regulated-geo.md",
+      "toc_title": "07-05. 금융/규제 산업 GEO는 무엇을 조심해야 하나",
+      "chars": 4348,
+      "images": 2,
+      "table_ratio": 0.6,
+      "issues": [
+        "html-like",
+        "image-no-blank-before:24",
+        "multiple-images:2",
+        "table-heavy:0.6"
+      ],
+      "hotspots": {
+        "ai_tone": [
+          [
+            "중요합니다",
+            5
+          ]
+        ],
+        "meta_reader_leak": [
+          [
+            "작성 예시",
+            2
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "source",
+            12
+          ],
+          [
+            "citation",
+            2
+          ],
+          [
+            "answer-first",
+            1
+          ],
+          [
+            "AEO",
+            1
+          ]
+        ]
+      },
+      "first_para": "## 금융/규제 산업 GEO는 무엇을 조심해야 하나"
+    },
+    {
+      "path": "pages/07-06-campaign-url-citation-tracking.md",
+      "toc_title": "07-06. 캠페인 URL 인용 추적은 어떻게 설계할까",
+      "chars": 5068,
+      "images": 2,
+      "table_ratio": 0.61,
+      "issues": [
+        "html-like",
+        "image-no-blank-before:24",
+        "multiple-images:2",
+        "table-heavy:0.61"
+      ],
+      "hotspots": {
+        "meta_reader_leak": [
+          [
+            "작성 예시",
+            2
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "source",
+            12
+          ],
+          [
+            "citation",
+            15
+          ]
+        ]
+      },
+      "first_para": "## 캠페인 URL 인용 추적은 어떻게 설계할까"
+    },
+    {
+      "path": "pages/07-chapter-7.md",
+      "toc_title": "07. 산업별 GEO 전략",
+      "chars": 4819,
+      "images": 3,
+      "table_ratio": 0.4,
+      "issues": [
+        "html-like",
+        "heading-no-blank-after:1",
+        "image-no-blank-before:2",
+        "image-no-blank-before:39",
+        "multiple-images:3",
+        "table-heavy:0.4"
+      ],
+      "hotspots": {
+        "meta_reader_leak": [
+          [
+            "비공개",
+            1
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "엔티티",
+            2
+          ],
+          [
+            "source",
+            7
+          ],
+          [
+            "citation",
+            4
+          ],
+          [
+            "AIO",
+            2
+          ]
+        ]
+      },
+      "first_para": "## 산업별 GEO 전략\n![산업별 GEO 전략 대표 이미지](../assets/images/page-heroes/halox-geo-07-chapter-7-hero.png)"
+    },
+    {
+      "path": "pages/08-01-english-category-assets.md",
+      "toc_title": "08-01. 영문 카테고리 자산은 왜 먼저 필요한가",
+      "chars": 6574,
+      "images": 2,
+      "table_ratio": 0.51,
+      "issues": [
+        "html-like",
+        "image-no-blank-before:50",
+        "multiple-images:2",
+        "table-heavy:0.51"
+      ],
+      "hotspots": {
+        "ai_tone": [
+          [
+            "중요합니다",
+            1
+          ]
+        ],
+        "meta_reader_leak": [
+          [
+            "작성 예시",
+            1
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "source",
+            11
+          ],
+          [
+            "citation",
+            7
+          ],
+          [
+            "answer-first",
+            1
+          ],
+          [
+            "fan-out",
+            1
+          ]
+        ]
+      },
+      "first_para": "## 영문 카테고리 자산은 왜 먼저 필요한가"
+    },
+    {
+      "path": "pages/08-02-locale-hreflang-geo.md",
+      "toc_title": "08-02. Locale/hreflang은 GEO에서 어떻게 봐야 하나",
+      "chars": 7518,
+      "images": 2,
+      "table_ratio": 0.47,
+      "issues": [
+        "html-like",
+        "image-no-blank-before:57",
+        "multiple-images:2",
+        "table-heavy:0.47"
+      ],
+      "hotspots": {
+        "ai_tone": [
+          [
+            "중요합니다",
+            2
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "source",
+            10
+          ],
+          [
+            "citation",
+            1
+          ]
+        ]
+      },
+      "first_para": "## Locale/hreflang은 GEO에서 어떻게 봐야 하나"
+    },
+    {
+      "path": "pages/08-03-global-source-map.md",
+      "toc_title": "08-03. 글로벌 답변 근거 맵을 만드는 법",
+      "chars": 7519,
+      "images": 2,
+      "table_ratio": 0.55,
+      "issues": [
+        "html-like",
+        "image-no-blank-before:48",
+        "multiple-images:2",
+        "table-heavy:0.55"
+      ],
+      "hotspots": {
+        "ai_tone": [
+          [
+            "중요합니다",
+            1
+          ]
+        ],
+        "meta_reader_leak": [
+          [
+            "공개 문서",
+            1
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "엔티티",
+            2
+          ],
+          [
+            "source",
+            51
+          ],
+          [
+            "Source",
+            2
+          ],
+          [
+            "citation",
+            9
+          ]
+        ],
+        "awkward": [
+          [
+            "억지로",
+            1
+          ]
+        ]
+      },
+      "first_para": "## 글로벌 답변 근거 맵을 만드는 법"
+    },
+    {
+      "path": "pages/08-chapter-8.md",
+      "toc_title": "08. 글로벌/영문 GEO 전략",
+      "chars": 5093,
+      "images": 3,
+      "table_ratio": 0.47,
+      "issues": [
+        "html-like",
+        "heading-no-blank-after:1",
+        "image-no-blank-before:2",
+        "image-no-blank-before:44",
+        "multiple-images:3",
+        "table-heavy:0.47"
+      ],
+      "hotspots": {
+        "inconsistent_terms": [
+          [
+            "엔티티",
+            1
+          ],
+          [
+            "source",
+            9
+          ],
+          [
+            "citation",
+            3
+          ],
+          [
+            "Answer-first",
+            1
+          ]
+        ]
+      },
+      "first_para": "## 글로벌/영문 GEO 전략\n![글로벌/영문 GEO 전략 대표 이미지](../assets/images/page-heroes/halox-geo-08-chapter-8-hero.png)"
+    },
+    {
+      "path": "pages/09-01-geo-agency-checklist.md",
+      "toc_title": "09-01. GEO 리포트는 무엇을 보여줘야 하나",
+      "chars": 4939,
+      "images": 2,
+      "table_ratio": 0.45,
+      "issues": [
+        "html-like",
+        "image-no-blank-before:34",
+        "multiple-images:2",
+        "table-heavy:0.45"
+      ],
+      "hotspots": {
+        "inconsistent_terms": [
+          [
+            "source",
+            20
+          ],
+          [
+            "citation",
+            14
+          ],
+          [
+            "answer-first",
+            1
+          ]
+        ]
+      },
+      "first_para": "## GEO 리포트는 무엇을 보여줘야 하나"
+    },
+    {
+      "path": "pages/09-02-geo-tool-report-criteria.md",
+      "toc_title": "09-02. mention/source/citation 지표는 어떻게 해석하나",
+      "chars": 6000,
+      "images": 2,
+      "table_ratio": 0.5,
+      "issues": [
+        "html-like",
+        "image-no-blank-before:33",
+        "multiple-images:2",
+        "table-heavy:0.5"
+      ],
+      "hotspots": {
+        "inconsistent_terms": [
+          [
+            "엔티티",
+            1
+          ],
+          [
+            "source",
+            30
+          ],
+          [
+            "citation",
+            34
+          ],
+          [
+            "answer-first",
+            2
+          ],
+          [
+            "프롬프트",
+            1
+          ]
+        ]
+      },
+      "first_para": "## mention/source/citation 지표는 어떻게 해석하나"
+    },
+    {
+      "path": "pages/09-03-geo-business-model.md",
+      "toc_title": "09-03. GEO 실행 범위와 비용은 어떻게 판단하나",
+      "chars": 4028,
+      "images": 2,
+      "table_ratio": 0.48,
+      "issues": [
+        "html-like",
+        "image-no-blank-before:55",
+        "multiple-images:2",
+        "table-heavy:0.48"
+      ],
+      "hotspots": {
+        "ai_tone": [
+          [
+            "중요합니다",
+            1
+          ]
+        ],
+        "meta_reader_leak": [
+          [
+            "작성 예시",
+            2
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "source",
+            5
+          ],
+          [
+            "citation",
+            3
+          ],
+          [
+            "프롬프트",
+            1
+          ]
+        ]
+      },
+      "first_para": "## GEO 실행 범위와 비용은 어떻게 판단하나"
+    },
+    {
+      "path": "pages/09-04-geo-proposal-structure.md",
+      "toc_title": "09-04. GEO 제안서 비교: 과장된 약속은 어떻게 걸러낼까",
+      "chars": 5032,
+      "images": 2,
+      "table_ratio": 0.5,
+      "issues": [
+        "html-like",
+        "image-no-blank-before:63",
+        "multiple-images:2",
+        "table-heavy:0.5"
+      ],
+      "hotspots": {
+        "meta_reader_leak": [
+          [
+            "작성 예시",
+            2
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "엔터티",
+            1
+          ],
+          [
+            "source",
+            11
+          ],
+          [
+            "citation",
+            10
+          ],
+          [
+            "answer-first",
+            1
+          ]
+        ]
+      },
+      "first_para": "## GEO 제안서 비교: 과장된 약속은 어떻게 걸러낼까"
+    },
+    {
+      "path": "pages/09-05-recurring-geo-report-product.md",
+      "toc_title": "09-05. GEO 리포트 운영: 브랜드 가시성을 매달 관리하는 법",
+      "chars": 5137,
+      "images": 2,
+      "table_ratio": 0.5,
+      "issues": [
+        "html-like",
+        "image-no-blank-before:21",
+        "multiple-images:2",
+        "table-heavy:0.5"
+      ],
+      "hotspots": {
+        "meta_reader_leak": [
+          [
+            "작성 예시",
+            2
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "source",
+            14
+          ],
+          [
+            "citation",
+            13
+          ]
+        ]
+      },
+      "first_para": "## GEO 리포트 운영: 브랜드 가시성을 매달 관리하는 법"
+    },
+    {
+      "path": "pages/09-06-geo-solution-recommendation.md",
+      "toc_title": "09-06. GEO 솔루션 추천: AI 검색 최적화 도구 고르는 법",
+      "chars": 7548,
+      "images": 2,
+      "table_ratio": 0.43,
+      "issues": [
+        "html-like",
+        "heading-no-blank-after:1",
+        "image-no-blank-before:2",
+        "image-no-blank-before:38",
+        "multiple-images:2",
+        "table-heavy:0.43"
+      ],
+      "hotspots": {
+        "ai_tone": [
+          [
+            "중요합니다",
+            1
+          ]
+        ],
+        "meta_reader_leak": [
+          [
+            "내부 운영",
+            1
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "source",
+            10
+          ],
+          [
+            "citation",
+            11
+          ],
+          [
+            "프롬프트",
+            1
+          ],
+          [
+            "AIO",
+            1
+          ],
+          [
+            "AEO",
+            2
+          ]
+        ]
+      },
+      "first_para": "## GEO 솔루션 추천: AI 검색 최적화 도구 고르는 법\n![GEO 솔루션 추천: AI 검색 최적화 도구 고르는 법 대표 이미지](../assets/images/page-heroes/halox-geo-09-06-geo-solution-recommendation-hero.png)"
+    },
+    {
+      "path": "pages/09-07-seo-tools-vs-geo-tools-comparison.md",
+      "toc_title": "09-07. SEO 도구와 GEO 도구 비교: Semrush, Ahrefs, Profound, HaloX",
+      "chars": 7784,
+      "images": 2,
+      "table_ratio": 0.54,
+      "issues": [
+        "html-like",
+        "heading-no-blank-after:1",
+        "image-no-blank-before:2",
+        "image-no-blank-before:40",
+        "multiple-images:2",
+        "table-heavy:0.54"
+      ],
+      "hotspots": {
+        "ai_tone": [
+          [
+            "중요합니다",
+            1
+          ],
+          [
+            "도움이 됩니다",
+            1
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "source",
+            16
+          ],
+          [
+            "citation",
+            18
+          ],
+          [
+            "answer-first",
+            1
+          ],
+          [
+            "프롬프트",
+            1
+          ]
+        ],
+        "awkward": [
+          [
+            "억지로",
+            1
+          ]
+        ]
+      },
+      "first_para": "## SEO 도구와 GEO 도구 비교: Semrush, Ahrefs, Profound, HaloX는 무엇이 다른가\n![SEO 도구와 GEO 도구 비교: Semrush, Ahrefs, Profound, HaloX는 무엇이 다른가 대표 이미지](../assets/images/page-heroes/halox-geo-09-07-"
+    },
+    {
+      "path": "pages/09-chapter-9.md",
+      "toc_title": "09. GEO 리포트와 실행 검증: AI 검색 성과를 읽는 법",
+      "chars": 5319,
+      "images": 3,
+      "table_ratio": 0.45,
+      "issues": [
+        "html-like",
+        "heading-no-blank-after:1",
+        "image-no-blank-before:2",
+        "image-no-blank-before:61",
+        "multiple-images:3",
+        "table-heavy:0.45"
+      ],
+      "hotspots": {
+        "inconsistent_terms": [
+          [
+            "source",
+            15
+          ],
+          [
+            "citation",
+            13
+          ],
+          [
+            "Answer-first",
+            1
+          ],
+          [
+            "fan-out",
+            1
+          ]
+        ]
+      },
+      "first_para": "## GEO 리포트와 실행 검증: AI 검색 성과를 읽는 법\n![GEO 리포트와 실행 검증: AI 검색 성과를 읽는 법 대표 이미지](../assets/images/page-heroes/halox-geo-09-chapter-9-hero.png)"
+    },
+    {
+      "path": "pages/10-01-week1-baseline-workshop.md",
+      "toc_title": "10-01. 1주차: GEO 기준선 진단",
+      "chars": 6254,
+      "images": 2,
+      "table_ratio": 0.55,
+      "issues": [
+        "html-like",
+        "image-no-blank-before:77",
+        "multiple-images:2",
+        "table-heavy:0.55"
+      ],
+      "hotspots": {
+        "ai_tone": [
+          [
+            "핵심입니다",
+            1
+          ]
+        ],
+        "meta_reader_leak": [
+          [
+            "작성 예시",
+            2
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "source",
+            15
+          ],
+          [
+            "citation",
+            18
+          ],
+          [
+            "Fan-out",
+            4
+          ],
+          [
+            "프롬프트",
+            1
+          ]
+        ]
+      },
+      "first_para": "## 1주차: GEO 기준선 진단"
+    },
+    {
+      "path": "pages/10-02-week2-fanout-gap-workshop.md",
+      "toc_title": "10-02. 2주차: Fan-out 질문맵과 콘텐츠 갭",
+      "chars": 5795,
+      "images": 2,
+      "table_ratio": 0.54,
+      "issues": [
+        "html-like",
+        "image-no-blank-before:77",
+        "multiple-images:2",
+        "table-heavy:0.54"
+      ],
+      "hotspots": {
+        "ai_tone": [
+          [
+            "중요합니다",
+            1
+          ]
+        ],
+        "meta_reader_leak": [
+          [
+            "작성 예시",
+            2
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "엔터티",
+            1
+          ],
+          [
+            "source",
+            12
+          ],
+          [
+            "citation",
+            4
+          ],
+          [
+            "Answer-first",
+            2
+          ],
+          [
+            "Fan-out",
+            18
+          ],
+          [
+            "fan-out",
+            1
+          ]
+        ]
+      },
+      "first_para": "## 2주차: Fan-out 질문맵과 콘텐츠 갭"
+    },
+    {
+      "path": "pages/10-03-week3-content-source-workshop.md",
+      "toc_title": "10-03. 3주차: 콘텐츠 리라이트와 출처 설계",
+      "chars": 6704,
+      "images": 2,
+      "table_ratio": 0.58,
+      "issues": [
+        "html-like",
+        "image-no-blank-before:87",
+        "multiple-images:2",
+        "table-heavy:0.58"
+      ],
+      "hotspots": {
+        "ai_tone": [
+          [
+            "중요합니다",
+            1
+          ],
+          [
+            "다양한",
+            1
+          ],
+          [
+            "핵심입니다",
+            1
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "엔터티",
+            3
+          ],
+          [
+            "source",
+            12
+          ],
+          [
+            "citation",
+            9
+          ],
+          [
+            "Answer-first",
+            6
+          ],
+          [
+            "answer-first",
+            1
+          ],
+          [
+            "Fan-out",
+            1
+          ],
+          [
+            "fan-out",
+            1
+          ],
+          [
+            "LLMO",
+            1
+          ],
+          [
+            "AIO",
+            1
+          ],
+          [
+            "AEO",
+            1
+          ]
+        ]
+      },
+      "first_para": "## 3주차: 콘텐츠 리라이트와 출처 설계"
+    },
+    {
+      "path": "pages/10-04-week4-report-action-plan.md",
+      "toc_title": "10-04. 4주차: GEO 실행 리포트와 30일 액션 플랜",
+      "chars": 6960,
+      "images": 2,
+      "table_ratio": 0.44,
+      "issues": [
+        "html-like",
+        "image-no-blank-before:72",
+        "multiple-images:2",
+        "table-heavy:0.44"
+      ],
+      "hotspots": {
+        "inconsistent_terms": [
+          [
+            "source",
+            15
+          ],
+          [
+            "citation",
+            8
+          ],
+          [
+            "Fan-out",
+            1
+          ]
+        ]
+      },
+      "first_para": "## 4주차: GEO 실행 리포트와 30일 액션 플랜"
+    },
+    {
+      "path": "pages/10-chapter-10.md",
+      "toc_title": "10. GEO 워크플로우: 4주 실행 로드맵과 리포트",
+      "chars": 6177,
+      "images": 3,
+      "table_ratio": 0.46,
+      "issues": [
+        "html-like",
+        "heading-no-blank-after:1",
+        "image-no-blank-before:2",
+        "image-no-blank-before:48",
+        "multiple-images:3",
+        "table-heavy:0.46"
+      ],
+      "hotspots": {
+        "meta_reader_leak": [
+          [
+            "강의",
+            1
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "source",
+            11
+          ],
+          [
+            "citation",
+            7
+          ],
+          [
+            "Answer-first",
+            3
+          ],
+          [
+            "Fan-out",
+            4
+          ],
+          [
+            "fan-out",
+            1
+          ],
+          [
+            "프롬프트",
+            1
+          ]
+        ]
+      },
+      "first_para": "## GEO 워크플로우: 4주 실행 로드맵과 리포트\n![GEO 워크플로우: 4주 실행 로드맵과 리포트 대표 이미지](../assets/images/page-heroes/halox-geo-10-chapter-10-hero.png)"
+    },
+    {
+      "path": "pages/11-01-agentic-commerce-search-shift.md",
+      "toc_title": "11-01. AI 구매 에이전트 시대의 커머스 검색 변화",
+      "chars": 4144,
+      "images": 2,
+      "table_ratio": 0.47,
+      "issues": [
+        "html-like",
+        "multiple-images:2",
+        "table-heavy:0.47"
+      ],
+      "hotspots": {
+        "inconsistent_terms": [
+          [
+            "source",
+            2
+          ],
+          [
+            "citation",
+            1
+          ],
+          [
+            "프롬프트",
+            1
+          ],
+          [
+            "LLMO",
+            1
+          ],
+          [
+            "AIO",
+            7
+          ],
+          [
+            "AEO",
+            1
+          ]
+        ]
+      },
+      "first_para": "## AI 구매 에이전트 시대의 커머스 검색 변화"
+    },
+    {
+      "path": "pages/11-02-ai-customer-product-data.md",
+      "toc_title": "11-02. AI 고객을 위한 상품 정보 구조화",
+      "chars": 4873,
+      "images": 2,
+      "table_ratio": 0.55,
+      "issues": [
+        "html-like",
+        "multiple-images:2",
+        "table-heavy:0.55"
+      ],
+      "hotspots": {
+        "ai_tone": [
+          [
+            "도움이 됩니다",
+            1
+          ]
+        ],
+        "meta_reader_leak": [
+          [
+            "작성 예시",
+            1
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "Answer-first",
+            2
+          ]
+        ]
+      },
+      "first_para": "## AI 고객을 위한 상품 정보 구조화"
+    },
+    {
+      "path": "pages/11-03-product-schema-merchant-feed.md",
+      "toc_title": "11-03. Product schema와 merchant feed 점검법",
+      "chars": 6311,
+      "images": 2,
+      "table_ratio": 0.42,
+      "issues": [
+        "html-like",
+        "multiple-images:2",
+        "table-heavy:0.42"
+      ],
+      "hotspots": {
+        "ai_tone": [
+          [
+            "중요합니다",
+            1
+          ],
+          [
+            "도움이 됩니다",
+            1
+          ]
+        ]
+      },
+      "first_para": "## Product schema와 merchant feed 점검법"
+    },
+    {
+      "path": "pages/11-04-commerce-geo-risk-checklist.md",
+      "toc_title": "11-04. 커머스 GEO 리스크와 2주 점검 체크리스트",
+      "chars": 4947,
+      "images": 2,
+      "table_ratio": 0.4,
+      "issues": [
+        "html-like",
+        "multiple-images:2",
+        "table-heavy:0.4"
+      ],
+      "hotspots": {
+        "inconsistent_terms": [
+          [
+            "source",
+            1
+          ],
+          [
+            "프롬프트",
+            1
+          ]
+        ]
+      },
+      "first_para": "## 커머스 GEO 리스크와 2주 점검 체크리스트"
+    },
+    {
+      "path": "pages/11-chapter-11.md",
+      "toc_title": "11. 커머스 GEO와 AI 구매 에이전트",
+      "chars": 4916,
+      "images": 2,
+      "table_ratio": 0.52,
+      "issues": [
+        "html-like",
+        "heading-no-blank-after:1",
+        "image-no-blank-before:2",
+        "multiple-images:2",
+        "table-heavy:0.52"
+      ],
+      "hotspots": {
+        "inconsistent_terms": [
+          [
+            "source",
+            3
+          ],
+          [
+            "citation",
+            1
+          ],
+          [
+            "AIO",
+            2
+          ]
+        ]
+      },
+      "first_para": "## 커머스 GEO와 AI 구매 에이전트\n![커머스 GEO와 AI 구매 에이전트 대표 이미지](../assets/images/page-heroes/halox-geo-11-chapter-11-hero.png)"
+    },
+    {
+      "path": "pages/12-01-local-seo-local-geo-difference.md",
+      "toc_title": "12-01. 로컬 SEO와 로컬 GEO는 무엇이 다른가",
+      "chars": 5929,
+      "images": 2,
+      "table_ratio": 0.57,
+      "issues": [
+        "html-like",
+        "multiple-images:2",
+        "table-heavy:0.57"
+      ],
+      "hotspots": {
+        "meta_reader_leak": [
+          [
+            "강사",
+            2
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "source",
+            1
+          ],
+          [
+            "citation",
+            1
+          ]
+        ]
+      },
+      "first_para": "## 로컬 SEO와 로컬 GEO는 무엇이 다른가"
+    },
+    {
+      "path": "pages/12-02-nap-name-address-phone-checklist.md",
+      "toc_title": "12-02. NAP: 이름/주소/전화번호 일관성 점검",
+      "chars": 6836,
+      "images": 2,
+      "table_ratio": 0.51,
+      "issues": [
+        "html-like",
+        "multiple-images:2",
+        "table-heavy:0.51"
+      ],
+      "hotspots": {
+        "ai_tone": [
+          [
+            "중요합니다",
+            1
+          ]
+        ],
+        "meta_reader_leak": [
+          [
+            "강사",
+            1
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "엔터티",
+            1
+          ],
+          [
+            "엔티티",
+            4
+          ],
+          [
+            "citation",
+            2
+          ]
+        ],
+        "awkward": [
+          [
+            "억지로",
+            1
+          ]
+        ]
+      },
+      "first_para": "## NAP: 이름/주소/전화번호 일관성 점검"
+    },
+    {
+      "path": "pages/12-03-naver-place-google-business-map-seo.md",
+      "toc_title": "12-03. 네이버 플레이스, Google Business Profile, 지도 SEO",
+      "chars": 7163,
+      "images": 2,
+      "table_ratio": 0.55,
+      "issues": [
+        "html-like",
+        "multiple-images:2",
+        "table-heavy:0.55"
+      ],
+      "hotspots": {
+        "ai_tone": [
+          [
+            "중요합니다",
+            2
+          ],
+          [
+            "다양한",
+            1
+          ]
+        ],
+        "meta_reader_leak": [
+          [
+            "강사",
+            1
+          ]
+        ]
+      },
+      "first_para": "## 네이버 플레이스, Google Business Profile, 지도 SEO"
+    },
+    {
+      "path": "pages/12-04-review-offline-authority-strategy.md",
+      "toc_title": "12-04. 리뷰 전략: 네이버 영수증 리뷰, 지도 리뷰, 외부 후기",
+      "chars": 6643,
+      "images": 2,
+      "table_ratio": 0.61,
+      "issues": [
+        "html-like",
+        "multiple-images:2",
+        "table-heavy:0.61"
+      ],
+      "hotspots": {
+        "ai_tone": [
+          [
+            "중요합니다",
+            3
+          ]
+        ],
+        "meta_reader_leak": [
+          [
+            "내부 운영",
+            1
+          ],
+          [
+            "비공개",
+            1
+          ],
+          [
+            "강사",
+            2
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "엔터티",
+            1
+          ]
+        ]
+      },
+      "first_para": "## 리뷰 전략: 네이버 영수증 리뷰, 지도 리뷰, 외부 후기"
+    },
+    {
+      "path": "pages/12-05-local-question-set-conversion-checklist.md",
+      "toc_title": "12-05. 병원/오프라인 매장 GEO 질문셋과 방문 전환 체크리스트",
+      "chars": 7136,
+      "images": 2,
+      "table_ratio": 0.6,
+      "issues": [
+        "html-like",
+        "multiple-images:2",
+        "table-heavy:0.6"
+      ],
+      "hotspots": {
+        "inconsistent_terms": [
+          [
+            "source",
+            5
+          ],
+          [
+            "citation",
+            4
+          ],
+          [
+            "Answer-first",
+            1
+          ],
+          [
+            "Fan-out",
+            1
+          ],
+          [
+            "프롬프트",
+            1
+          ]
+        ]
+      },
+      "first_para": "## 병원/오프라인 매장 GEO 질문셋과 방문 전환 체크리스트"
+    },
+    {
+      "path": "pages/12-06-medical-ad-review-risk.md",
+      "toc_title": "12-06. 의료광고와 후기 리스크: 병원 SEO/GEO에서 조심할 표현",
+      "chars": 7078,
+      "images": 2,
+      "table_ratio": 0.62,
+      "issues": [
+        "html-like",
+        "multiple-images:2",
+        "table-heavy:0.62"
+      ],
+      "hotspots": {
+        "ai_tone": [
+          [
+            "중요합니다",
+            1
+          ],
+          [
+            "핵심입니다",
+            1
+          ]
+        ],
+        "meta_reader_leak": [
+          [
+            "비공개",
+            1
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "source",
+            1
+          ],
+          [
+            "citation",
+            1
+          ]
+        ]
+      },
+      "first_para": "## 의료광고와 후기 리스크: 병원 SEO/GEO에서 조심할 표현"
+    },
+    {
+      "path": "pages/12-07-local-seo-geo-30day-workflow.md",
+      "toc_title": "12-07. 로컬 SEO/GEO 30일 운영 워크플로우",
+      "chars": 4264,
+      "images": 2,
+      "table_ratio": 0.65,
+      "issues": [
+        "html-like",
+        "heading-no-blank-after:1",
+        "image-no-blank-before:2",
+        "multiple-images:2",
+        "table-heavy:0.65"
+      ],
+      "hotspots": {
+        "ai_tone": [
+          [
+            "중요합니다",
+            1
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "source",
+            5
+          ],
+          [
+            "citation",
+            5
+          ],
+          [
+            "Fan-out",
+            1
+          ],
+          [
+            "Query Fan-out",
+            1
+          ]
+        ]
+      },
+      "first_para": "## 로컬 SEO/GEO 30일 운영 워크플로우\n![로컬 SEO/GEO 30일 운영 워크플로우 대표 이미지](../assets/images/page-heroes/halox-geo-12-07-local-seo-geo-30day-workflow-hero.png)"
+    },
+    {
+      "path": "pages/12-chapter-12.md",
+      "toc_title": "12. 병원/오프라인 매장 SEO/GEO 전략",
+      "chars": 5689,
+      "images": 2,
+      "table_ratio": 0.59,
+      "issues": [
+        "html-like",
+        "heading-no-blank-after:1",
+        "image-no-blank-before:2",
+        "multiple-images:2",
+        "table-heavy:0.59"
+      ],
+      "hotspots": {
+        "inconsistent_terms": [
+          [
+            "엔티티",
+            1
+          ]
+        ]
+      },
+      "first_para": "## 병원/오프라인 매장 SEO/GEO 전략\n![병원/오프라인 매장 SEO/GEO 전략 대표 이미지](../assets/images/page-heroes/halox-geo-12-chapter-12-hero.png)"
+    },
+    {
+      "path": "pages/90-01-pr-agency-geo-service-case.md",
+      "toc_title": "90-01. PR/마케팅 에이전시: GEO를 설명 가능한 서비스로 만드는 법",
+      "chars": 6119,
+      "images": 2,
+      "table_ratio": 0.6,
+      "issues": [
+        "html-like",
+        "multiple-images:2",
+        "table-heavy:0.6"
+      ],
+      "hotspots": {
+        "meta_reader_leak": [
+          [
+            "상품화",
+            1
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "엔티티",
+            3
+          ],
+          [
+            "source",
+            23
+          ],
+          [
+            "Source",
+            1
+          ],
+          [
+            "citation",
+            14
+          ],
+          [
+            "Answer-first",
+            4
+          ],
+          [
+            "Fan-out",
+            2
+          ],
+          [
+            "Query Fan-out",
+            2
+          ]
+        ]
+      },
+      "first_para": "## PR/마케팅 에이전시: GEO를 설명 가능한 서비스로 만드는 법"
+    },
+    {
+      "path": "pages/90-02-campaign-url-citation-tracking-case.md",
+      "toc_title": "90-02. 캠페인 URL 인용 추적: 한 번 언급과 반복 인용의 차이",
+      "chars": 6098,
+      "images": 2,
+      "table_ratio": 0.69,
+      "issues": [
+        "html-like",
+        "multiple-images:2",
+        "table-heavy:0.69"
+      ],
+      "hotspots": {
+        "inconsistent_terms": [
+          [
+            "엔티티",
+            1
+          ],
+          [
+            "source",
+            25
+          ],
+          [
+            "citation",
+            14
+          ],
+          [
+            "Answer-first",
+            2
+          ],
+          [
+            "Fan-out",
+            2
+          ],
+          [
+            "Query Fan-out",
+            1
+          ]
+        ]
+      },
+      "first_para": "## 캠페인 URL 인용 추적: 한 번 언급과 반복 인용의 차이"
+    },
+    {
+      "path": "pages/90-03-enterprise-newsroom-entity-hub-case.md",
+      "toc_title": "90-03. 엔터프라이즈 뉴스룸: 뉴스룸을 엔티티 허브로 바꾸는 법",
+      "chars": 5530,
+      "images": 2,
+      "table_ratio": 0.69,
+      "issues": [
+        "html-like",
+        "multiple-images:2",
+        "table-heavy:0.69"
+      ],
+      "hotspots": {
+        "ai_tone": [
+          [
+            "도움이 됩니다",
+            1
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "엔티티",
+            14
+          ],
+          [
+            "source",
+            15
+          ],
+          [
+            "citation",
+            5
+          ],
+          [
+            "Answer-first",
+            2
+          ],
+          [
+            "answer-first",
+            1
+          ],
+          [
+            "Fan-out",
+            1
+          ]
+        ]
+      },
+      "first_para": "## 엔터프라이즈 뉴스룸: 뉴스룸을 엔티티 허브로 바꾸는 법"
+    },
+    {
+      "path": "pages/90-04-local-specialist-geo-case.md",
+      "toc_title": "90-04. 로컬/전문 서비스: 지역 질문과 방문 전환을 연결하는 법",
+      "chars": 5185,
+      "images": 2,
+      "table_ratio": 0.7,
+      "issues": [
+        "html-like",
+        "multiple-images:2",
+        "table-heavy:0.7"
+      ],
+      "hotspots": {
+        "inconsistent_terms": [
+          [
+            "source",
+            6
+          ],
+          [
+            "citation",
+            4
+          ]
+        ]
+      },
+      "first_para": "## 로컬/전문 서비스: 지역 질문과 방문 전환을 연결하는 법"
+    },
+    {
+      "path": "pages/90-05-finance-regulated-geo-case.md",
+      "toc_title": "90-05. 금융/규제 산업: 신뢰, 리스크, 비브랜드 질문을 함께 보는 법",
+      "chars": 5406,
+      "images": 2,
+      "table_ratio": 0.64,
+      "issues": [
+        "html-like",
+        "multiple-images:2",
+        "table-heavy:0.64"
+      ],
+      "hotspots": {
+        "inconsistent_terms": [
+          [
+            "엔티티",
+            1
+          ],
+          [
+            "source",
+            13
+          ],
+          [
+            "citation",
+            6
+          ],
+          [
+            "Answer-first",
+            1
+          ],
+          [
+            "Fan-out",
+            1
+          ]
+        ]
+      },
+      "first_para": "## 금융/규제 산업: 신뢰, 리스크, 비브랜드 질문을 함께 보는 법"
+    },
+    {
+      "path": "pages/90-06-commerce-platform-geo-case.md",
+      "toc_title": "90-06. 커머스/플랫폼: 상품 데이터와 AI 구매 에이전트 대응",
+      "chars": 5750,
+      "images": 2,
+      "table_ratio": 0.67,
+      "issues": [
+        "html-like",
+        "multiple-images:2",
+        "table-heavy:0.67"
+      ],
+      "hotspots": {
+        "ai_tone": [
+          [
+            "중요합니다",
+            1
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "source",
+            4
+          ],
+          [
+            "citation",
+            7
+          ],
+          [
+            "Answer-first",
+            2
+          ],
+          [
+            "Fan-out",
+            1
+          ]
+        ]
+      },
+      "first_para": "## 커머스/플랫폼: 상품 데이터와 AI 구매 에이전트 대응"
+    },
+    {
+      "path": "pages/90-industry-geo-casebook.md",
+      "toc_title": "90. 산업별 GEO 케이스북",
+      "chars": 6071,
+      "images": 2,
+      "table_ratio": 0.63,
+      "issues": [
+        "html-like",
+        "multiple-images:2",
+        "table-heavy:0.63"
+      ],
+      "hotspots": {
+        "meta_reader_leak": [
+          [
+            "작성 예시",
+            1
+          ],
+          [
+            "워크북",
+            1
+          ]
+        ],
+        "inconsistent_terms": [
+          [
+            "엔티티",
+            5
+          ],
+          [
+            "source",
+            19
+          ],
+          [
+            "citation",
+            11
+          ],
+          [
+            "Answer-first",
+            2
+          ],
+          [
+            "Fan-out",
+            2
+          ],
+          [
+            "fan-out",
+            1
+          ],
+          [
+            "Query Fan-out",
+            1
+          ],
+          [
+            "AIO",
+            1
+          ],
+          [
+            "AEO",
+            1
+          ]
+        ]
+      },
+      "first_para": "## 산업별 GEO 케이스북"
+    },
+    {
+      "path": "pages/91-halox-functional-mapping.md",
+      "toc_title": "91. 부록: HaloX GEO 솔루션과 브랜드 가시성 분석 연결 맵",
+      "chars": 4650,
+      "images": 2,
+      "table_ratio": 0.54,
+      "issues": [
+        "html-like",
+        "multiple-images:2",
+        "table-heavy:0.54"
+      ],
+      "hotspots": {
+        "inconsistent_terms": [
+          [
+            "엔터티",
+            1
+          ],
+          [
+            "source",
+            11
+          ],
+          [
+            "citation",
+            11
+          ],
+          [
+            "answer-first",
+            2
+          ],
+          [
+            "Fan-out",
+            2
+          ]
+        ]
+      },
+      "first_para": "## 부록: HaloX GEO 솔루션과 브랜드 가시성 분석 연결 맵"
+    }
+  ],
+  "pages": [
+    {
+      "path": "pages/00-01-what-is-geo.md",
+      "title": "00-01. GEO 뜻: 생성형 엔진 최적화란 무엇인가",
+      "chars": 4151,
+      "images": 2,
+      "table_ratio": 0.48,
+      "headings": 10
+    },
+    {
+      "path": "pages/00-02-geo-seo-aeo-aio.md",
+      "title": "00-02. GEO/SEO/AEO/AIO/LLMO 차이",
+      "chars": 4308,
+      "images": 2,
+      "table_ratio": 0.52,
+      "headings": 11
+    },
+    {
+      "path": "pages/00-03-ai-search-difference.md",
+      "title": "00-03. AI 검색은 기존 검색과 무엇이 다른가",
+      "chars": 3594,
+      "images": 2,
+      "table_ratio": 0.52,
+      "headings": 10
+    },
+    {
+      "path": "pages/00-04-how-to-use-this-book.md",
+      "title": "00-04. GEO 워크플로우: 이 책을 실무에 적용하는 법",
+      "chars": 4869,
+      "images": 2,
+      "table_ratio": 0.61,
+      "headings": 9
+    },
+    {
+      "path": "pages/00-chapter-0.md",
+      "title": "00. GEO를 처음 이해하는 사람을 위한 시작",
+      "chars": 3663,
+      "images": 3,
+      "table_ratio": 0.28,
+      "headings": 7
+    },
+    {
+      "path": "pages/01-01-seo-keywords-still-matter.md",
+      "title": "01-01. 키워드 리서치: 검색량이 아니라 시장 언어를 수집하는 일",
+      "chars": 7044,
+      "images": 2,
+      "table_ratio": 0.3,
+      "headings": 13
+    },
+    {
+      "path": "pages/01-02-keyword-to-prompt.md",
+      "title": "01-02. SERP 분석: 검색결과를 의도 지도로 읽는 법",
+      "chars": 5792,
+      "images": 2,
+      "table_ratio": 0.35,
+      "headings": 13
+    },
+    {
+      "path": "pages/01-03-search-intent-ai-question.md",
+      "title": "01-03. 검색 의도: 키워드 뒤의 목적을 읽는 법",
+      "chars": 6118,
+      "images": 2,
+      "table_ratio": 0.27,
+      "headings": 14
+    },
+    {
+      "path": "pages/01-04-question-set-portion.md",
+      "title": "01-04. 콘텐츠 구조: 검색 의도를 답변 구조로 바꾸는 법",
+      "chars": 6502,
+      "images": 2,
+      "table_ratio": 0.17,
+      "headings": 15
+    },
+    {
+      "path": "pages/01-05-week1-baseline-diagnosis.md",
+      "title": "01-05. 온페이지 SEO: 검색결과에서 약속한 답을 페이지에서 증명하는 법",
+      "chars": 6367,
+      "images": 2,
+      "table_ratio": 0.13,
+      "headings": 15
+    },
+    {
+      "path": "pages/01-06-serp-analysis-content-gap.md",
+      "title": "01-06. 내부 링크: 페이지 사이의 의미 관계를 설계하는 법",
+      "chars": 6374,
+      "images": 2,
+      "table_ratio": 0.25,
+      "headings": 17
+    },
+    {
+      "path": "pages/01-07-onpage-seo-answer-first.md",
+      "title": "01-07. 테크니컬 SEO: 좋은 콘텐츠가 검색엔진과 AI에게 읽히게 만드는 조건",
+      "chars": 6444,
+      "images": 2,
+      "table_ratio": 0.27,
+      "headings": 14
+    },
+    {
+      "path": "pages/01-08-technical-seo-geo.md",
+      "title": "01-08. 권위/백링크/엔티티: 믿을 만한 브랜드로 이해되게 만드는 외부 신호",
+      "chars": 6188,
+      "images": 2,
+      "table_ratio": 0.2,
+      "headings": 14
+    },
+    {
+      "path": "pages/01-09-authority-entity-seo-geo.md",
+      "title": "01-09. 측정/개선: SEO와 GEO를 월간 운영 루프로 만드는 법",
+      "chars": 6244,
+      "images": 2,
+      "table_ratio": 0.14,
+      "headings": 14
+    },
+    {
+      "path": "pages/01-10-seo-measurement-gsc-ga4-naver.md",
+      "title": "01-10. SEO에서 GEO로 확장하는 통합 실습",
+      "chars": 8951,
+      "images": 2,
+      "table_ratio": 0.19,
+      "headings": 20
+    },
+    {
+      "path": "pages/01-chapter-1.md",
+      "title": "01. SEO 기본기와 GEO 확장 전략",
+      "chars": 5735,
+      "images": 2,
+      "table_ratio": 0.32,
+      "headings": 8
+    },
+    {
+      "path": "pages/02-01-chatgpt-brand-visibility.md",
+      "title": "02-01. ChatGPT 브랜드 노출은 어떻게 확인하나",
+      "chars": 5155,
+      "images": 2,
+      "table_ratio": 0.56,
+      "headings": 11
+    },
+    {
+      "path": "pages/02-02-perplexity-ai-overviews-citation.md",
+      "title": "02-02. Perplexity SEO와 Google AI Overviews 최적화는 어떻게 다르게 볼까",
+      "chars": 5912,
+      "images": 2,
+      "table_ratio": 0.42,
+      "headings": 10
+    },
+    {
+      "path": "pages/02-03-mention-source-citation.md",
+      "title": "02-03. 브랜드 언급률, 답변 근거, 화면 인용은 어떻게 나눠 읽나",
+      "chars": 5194,
+      "images": 2,
+      "table_ratio": 0.66,
+      "headings": 11
+    },
+    {
+      "path": "pages/02-04-ai-search-report.md",
+      "title": "02-04. AI 검색 리포트는 어떤 지표로 읽어야 하나",
+      "chars": 5206,
+      "images": 2,
+      "table_ratio": 0.44,
+      "headings": 11
+    },
+    {
+      "path": "pages/02-chapter-2.md",
+      "title": "02. AI 검색 모니터링: 브랜드 언급률, 답변 근거, 화면 인용 읽는 법",
+      "chars": 5498,
+      "images": 3,
+      "table_ratio": 0.56,
+      "headings": 10
+    },
+    {
+      "path": "pages/03-01-fan-out-question-map.md",
+      "title": "03-01. Fan-out은 AI가 질문을 어떻게 쪼개는가",
+      "chars": 5236,
+      "images": 2,
+      "table_ratio": 0.56,
+      "headings": 10
+    },
+    {
+      "path": "pages/03-02-question-type-portfolio.md",
+      "title": "03-02. 사용자 질문셋과 AI 질문 패턴을 어떻게 분리할까",
+      "chars": 6196,
+      "images": 2,
+      "table_ratio": 0.64,
+      "headings": 13
+    },
+    {
+      "path": "pages/03-03-content-gap-from-questions.md",
+      "title": "03-03. AI 질문 패턴에서 콘텐츠 갭을 찾는 법",
+      "chars": 6687,
+      "images": 2,
+      "table_ratio": 0.63,
+      "headings": 14
+    },
+    {
+      "path": "pages/03-chapter-3.md",
+      "title": "03. Query Fan-out: AI가 내부에서 확장하는 질문 패턴",
+      "chars": 5216,
+      "images": 3,
+      "table_ratio": 0.46,
+      "headings": 9
+    },
+    {
+      "path": "pages/04-01-answer-first-content.md",
+      "title": "04-01. AI가 인용하는 Answer-first 콘텐츠는 어떻게 쓰는가",
+      "chars": 5291,
+      "images": 2,
+      "table_ratio": 0.54,
+      "headings": 13
+    },
+    {
+      "path": "pages/04-02-faq-schema-table-structure.md",
+      "title": "04-02. FAQ/표/schema는 언제 쓰는가",
+      "chars": 6797,
+      "images": 2,
+      "table_ratio": 0.47,
+      "headings": 14
+    },
+    {
+      "path": "pages/04-03-geo-content-rewrite-checklist.md",
+      "title": "04-03. 기존 글을 GEO 콘텐츠로 리라이트하는 체크리스트",
+      "chars": 5926,
+      "images": 2,
+      "table_ratio": 0.62,
+      "headings": 13
+    },
+    {
+      "path": "pages/04-chapter-4.md",
+      "title": "04. AI가 읽기 좋은 콘텐츠 구조: HTML에서 답변 재료까지",
+      "chars": 5213,
+      "images": 3,
+      "table_ratio": 0.49,
+      "headings": 9
+    },
+    {
+      "path": "pages/05-01-source-citation-difference.md",
+      "title": "05-01. 답변 근거(source)와 화면 인용(citation)은 무엇이 다른가",
+      "chars": 6789,
+      "images": 2,
+      "table_ratio": 0.51,
+      "headings": 17
+    },
+    {
+      "path": "pages/05-02-entity-consensus-offsite.md",
+      "title": "05-02. Entity와 브랜드 합의 신호를 만드는 법",
+      "chars": 6566,
+      "images": 2,
+      "table_ratio": 0.56,
+      "headings": 17
+    },
+    {
+      "path": "pages/05-03-offsite-source-map.md",
+      "title": "05-03. 오프사이트 출처 후보 맵을 만드는 법",
+      "chars": 5286,
+      "images": 2,
+      "table_ratio": 0.44,
+      "headings": 15
+    },
+    {
+      "path": "pages/05-04-channel-source-strategy.md",
+      "title": "05-04. 채널별 답변 근거 전략표는 어떻게 만들까",
+      "chars": 4874,
+      "images": 2,
+      "table_ratio": 0.54,
+      "headings": 14
+    },
+    {
+      "path": "pages/05-05-reputation-risk-ai-answer.md",
+      "title": "05-05. 평판 리스크와 AI 답변 오해를 어떻게 줄일까",
+      "chars": 5407,
+      "images": 2,
+      "table_ratio": 0.5,
+      "headings": 15
+    },
+    {
+      "path": "pages/05-06-wiki-directory-entity-management.md",
+      "title": "05-06. 위키/디렉터리 엔티티 관리: 나무위키, 위키피디아, 프로필 사이트",
+      "chars": 9619,
+      "images": 2,
+      "table_ratio": 0.45,
+      "headings": 19
+    },
+    {
+      "path": "pages/05-07-pr-media-trust-signal.md",
+      "title": "05-07. 언론/PR 신뢰 신호 관리: 보도자료, 인터뷰, 기고, 뉴스룸",
+      "chars": 7612,
+      "images": 2,
+      "table_ratio": 0.49,
+      "headings": 19
+    },
+    {
+      "path": "pages/05-08-reddit-community-usage-signal.md",
+      "title": "05-08. Reddit/커뮤니티 실사용 신호 관리: 비교, 후기, 문제 해결 맥락",
+      "chars": 7166,
+      "images": 2,
+      "table_ratio": 0.43,
+      "headings": 17
+    },
+    {
+      "path": "pages/05-09-external-blog-syndication-strategy.md",
+      "title": "05-09. 외부 블로그/신디케이터 전략: 분산 콘텐츠로 답변 근거 넓히기",
+      "chars": 7450,
+      "images": 2,
+      "table_ratio": 0.51,
+      "headings": 18
+    },
+    {
+      "path": "pages/05-10-offsite-entity-operations-checklist.md",
+      "title": "05-10. 오프사이트 엔티티 운영표: 30일 실행 체크리스트",
+      "chars": 8453,
+      "images": 2,
+      "table_ratio": 0.41,
+      "headings": 19
+    },
+    {
+      "path": "pages/05-chapter-5.md",
+      "title": "05. 답변 근거/source, 화면 인용/citation, 엔터티 전략",
+      "chars": 7195,
+      "images": 3,
+      "table_ratio": 0.46,
+      "headings": 12
+    },
+    {
+      "path": "pages/06-01-technical-geo-checklist.md",
+      "title": "06-01. 테크니컬 GEO 기본 점검표",
+      "chars": 6808,
+      "images": 2,
+      "table_ratio": 0.61,
+      "headings": 16
+    },
+    {
+      "path": "pages/06-02-csr-ssr-rendering.md",
+      "title": "06-02. CSR/SSR 렌더링은 GEO에서 왜 중요한가",
+      "chars": 5409,
+      "images": 2,
+      "table_ratio": 0.52,
+      "headings": 16
+    },
+    {
+      "path": "pages/06-03-llms-txt-migration-risk.md",
+      "title": "06-03. llms.txt와 사이트 이전 리스크 관리",
+      "chars": 5110,
+      "images": 2,
+      "table_ratio": 0.48,
+      "headings": 15
+    },
+    {
+      "path": "pages/06-04-ai-crawler-robots-sitemap.md",
+      "title": "06-04. AI 크롤러 접근성과 robots/sitemap 점검법",
+      "chars": 5077,
+      "images": 2,
+      "table_ratio": 0.48,
+      "headings": 14
+    },
+    {
+      "path": "pages/06-05-schema-internal-link-structure.md",
+      "title": "06-05. Schema와 내부 링크는 AI 이해를 어떻게 돕나",
+      "chars": 9331,
+      "images": 2,
+      "table_ratio": 0.42,
+      "headings": 17
+    },
+    {
+      "path": "pages/06-06-google-seo-geo-validation-tools.md",
+      "title": "06-06. Google 공식 도구로 SEO/GEO 기술 상태 점검하기",
+      "chars": 10708,
+      "images": 2,
+      "table_ratio": 0.64,
+      "headings": 17
+    },
+    {
+      "path": "pages/06-07-schema-type-checklist.md",
+      "title": "06-07. Schema 타입별 실전 점검표: Organization/Person/FAQ/Product",
+      "chars": 10748,
+      "images": 2,
+      "table_ratio": 0.35,
+      "headings": 16
+    },
+    {
+      "path": "pages/06-08-meta-canonical-snippet-checklist.md",
+      "title": "06-08. 메타 정보 실전 점검: title/meta description/canonical/robots meta",
+      "chars": 6352,
+      "images": 2,
+      "table_ratio": 0.41,
+      "headings": 12
+    },
+    {
+      "path": "pages/06-09-sitelinks-rich-results-section-links.md",
+      "title": "06-09. 사이트링크와 리치 리절트 차이: 검색결과 섹션 링크는 어떻게 만들어지나",
+      "chars": 9561,
+      "images": 2,
+      "table_ratio": 0.43,
+      "headings": 15
+    },
+    {
+      "path": "pages/06-chapter-6.md",
+      "title": "06. 테크니컬 GEO와 사이트 구조",
+      "chars": 8676,
+      "images": 3,
+      "table_ratio": 0.49,
+      "headings": 11
+    },
+    {
+      "path": "pages/07-01-b2b-saas-geo.md",
+      "title": "07-01. B2B SaaS GEO는 무엇이 다른가",
+      "chars": 4713,
+      "images": 2,
+      "table_ratio": 0.43,
+      "headings": 16
+    },
+    {
+      "path": "pages/07-02-commerce-platform-aio.md",
+      "title": "07-02. 커머스와 플랫폼은 GEO보다 AIO를 먼저 봐야 할까",
+      "chars": 5893,
+      "images": 2,
+      "table_ratio": 0.43,
+      "headings": 18
+    },
+    {
+      "path": "pages/07-03-local-specialist-geo.md",
+      "title": "07-03. 로컬/전문 서비스 GEO는 무엇을 봐야 하나",
+      "chars": 4885,
+      "images": 2,
+      "table_ratio": 0.43,
+      "headings": 17
+    },
+    {
+      "path": "pages/07-04-pr-newsroom-entity-geo.md",
+      "title": "07-04. PR/뉴스룸 GEO는 왜 엔티티 전략인가",
+      "chars": 4465,
+      "images": 2,
+      "table_ratio": 0.58,
+      "headings": 12
+    },
+    {
+      "path": "pages/07-05-finance-regulated-geo.md",
+      "title": "07-05. 금융/규제 산업 GEO는 무엇을 조심해야 하나",
+      "chars": 4348,
+      "images": 2,
+      "table_ratio": 0.6,
+      "headings": 12
+    },
+    {
+      "path": "pages/07-06-campaign-url-citation-tracking.md",
+      "title": "07-06. 캠페인 URL 인용 추적은 어떻게 설계할까",
+      "chars": 5068,
+      "images": 2,
+      "table_ratio": 0.61,
+      "headings": 13
+    },
+    {
+      "path": "pages/07-chapter-7.md",
+      "title": "07. 산업별 GEO 전략",
+      "chars": 4819,
+      "images": 3,
+      "table_ratio": 0.4,
+      "headings": 11
+    },
+    {
+      "path": "pages/08-01-english-category-assets.md",
+      "title": "08-01. 영문 카테고리 자산은 왜 먼저 필요한가",
+      "chars": 6574,
+      "images": 2,
+      "table_ratio": 0.51,
+      "headings": 14
+    },
+    {
+      "path": "pages/08-02-locale-hreflang-geo.md",
+      "title": "08-02. Locale/hreflang은 GEO에서 어떻게 봐야 하나",
+      "chars": 7518,
+      "images": 2,
+      "table_ratio": 0.47,
+      "headings": 15
+    },
+    {
+      "path": "pages/08-03-global-source-map.md",
+      "title": "08-03. 글로벌 답변 근거 맵을 만드는 법",
+      "chars": 7519,
+      "images": 2,
+      "table_ratio": 0.55,
+      "headings": 16
+    },
+    {
+      "path": "pages/08-chapter-8.md",
+      "title": "08. 글로벌/영문 GEO 전략",
+      "chars": 5093,
+      "images": 3,
+      "table_ratio": 0.47,
+      "headings": 10
+    },
+    {
+      "path": "pages/09-01-geo-agency-checklist.md",
+      "title": "09-01. GEO 리포트는 무엇을 보여줘야 하나",
+      "chars": 4939,
+      "images": 2,
+      "table_ratio": 0.45,
+      "headings": 13
+    },
+    {
+      "path": "pages/09-02-geo-tool-report-criteria.md",
+      "title": "09-02. mention/source/citation 지표는 어떻게 해석하나",
+      "chars": 6000,
+      "images": 2,
+      "table_ratio": 0.5,
+      "headings": 15
+    },
+    {
+      "path": "pages/09-03-geo-business-model.md",
+      "title": "09-03. GEO 실행 범위와 비용은 어떻게 판단하나",
+      "chars": 4028,
+      "images": 2,
+      "table_ratio": 0.48,
+      "headings": 13
+    },
+    {
+      "path": "pages/09-04-geo-proposal-structure.md",
+      "title": "09-04. GEO 제안서 비교: 과장된 약속은 어떻게 걸러낼까",
+      "chars": 5032,
+      "images": 2,
+      "table_ratio": 0.5,
+      "headings": 15
+    },
+    {
+      "path": "pages/09-05-recurring-geo-report-product.md",
+      "title": "09-05. GEO 리포트 운영: 브랜드 가시성을 매달 관리하는 법",
+      "chars": 5137,
+      "images": 2,
+      "table_ratio": 0.5,
+      "headings": 16
+    },
+    {
+      "path": "pages/09-06-geo-solution-recommendation.md",
+      "title": "09-06. GEO 솔루션 추천: AI 검색 최적화 도구 고르는 법",
+      "chars": 7548,
+      "images": 2,
+      "table_ratio": 0.43,
+      "headings": 13
+    },
+    {
+      "path": "pages/09-07-seo-tools-vs-geo-tools-comparison.md",
+      "title": "09-07. SEO 도구와 GEO 도구 비교: Semrush, Ahrefs, Profound, HaloX",
+      "chars": 7784,
+      "images": 2,
+      "table_ratio": 0.54,
+      "headings": 12
+    },
+    {
+      "path": "pages/09-chapter-9.md",
+      "title": "09. GEO 리포트와 실행 검증: AI 검색 성과를 읽는 법",
+      "chars": 5319,
+      "images": 3,
+      "table_ratio": 0.45,
+      "headings": 10
+    },
+    {
+      "path": "pages/10-01-week1-baseline-workshop.md",
+      "title": "10-01. 1주차: GEO 기준선 진단",
+      "chars": 6254,
+      "images": 2,
+      "table_ratio": 0.55,
+      "headings": 16
+    },
+    {
+      "path": "pages/10-02-week2-fanout-gap-workshop.md",
+      "title": "10-02. 2주차: Fan-out 질문맵과 콘텐츠 갭",
+      "chars": 5795,
+      "images": 2,
+      "table_ratio": 0.54,
+      "headings": 15
+    },
+    {
+      "path": "pages/10-03-week3-content-source-workshop.md",
+      "title": "10-03. 3주차: 콘텐츠 리라이트와 출처 설계",
+      "chars": 6704,
+      "images": 2,
+      "table_ratio": 0.58,
+      "headings": 16
+    },
+    {
+      "path": "pages/10-04-week4-report-action-plan.md",
+      "title": "10-04. 4주차: GEO 실행 리포트와 30일 액션 플랜",
+      "chars": 6960,
+      "images": 2,
+      "table_ratio": 0.44,
+      "headings": 17
+    },
+    {
+      "path": "pages/10-chapter-10.md",
+      "title": "10. GEO 워크플로우: 4주 실행 로드맵과 리포트",
+      "chars": 6177,
+      "images": 3,
+      "table_ratio": 0.46,
+      "headings": 12
+    },
+    {
+      "path": "pages/11-01-agentic-commerce-search-shift.md",
+      "title": "11-01. AI 구매 에이전트 시대의 커머스 검색 변화",
+      "chars": 4144,
+      "images": 2,
+      "table_ratio": 0.47,
+      "headings": 11
+    },
+    {
+      "path": "pages/11-02-ai-customer-product-data.md",
+      "title": "11-02. AI 고객을 위한 상품 정보 구조화",
+      "chars": 4873,
+      "images": 2,
+      "table_ratio": 0.55,
+      "headings": 12
+    },
+    {
+      "path": "pages/11-03-product-schema-merchant-feed.md",
+      "title": "11-03. Product schema와 merchant feed 점검법",
+      "chars": 6311,
+      "images": 2,
+      "table_ratio": 0.42,
+      "headings": 12
+    },
+    {
+      "path": "pages/11-04-commerce-geo-risk-checklist.md",
+      "title": "11-04. 커머스 GEO 리스크와 2주 점검 체크리스트",
+      "chars": 4947,
+      "images": 2,
+      "table_ratio": 0.4,
+      "headings": 12
+    },
+    {
+      "path": "pages/11-chapter-11.md",
+      "title": "11. 커머스 GEO와 AI 구매 에이전트",
+      "chars": 4916,
+      "images": 2,
+      "table_ratio": 0.52,
+      "headings": 10
+    },
+    {
+      "path": "pages/12-01-local-seo-local-geo-difference.md",
+      "title": "12-01. 로컬 SEO와 로컬 GEO는 무엇이 다른가",
+      "chars": 5929,
+      "images": 2,
+      "table_ratio": 0.57,
+      "headings": 13
+    },
+    {
+      "path": "pages/12-02-nap-name-address-phone-checklist.md",
+      "title": "12-02. NAP: 이름/주소/전화번호 일관성 점검",
+      "chars": 6836,
+      "images": 2,
+      "table_ratio": 0.51,
+      "headings": 14
+    },
+    {
+      "path": "pages/12-03-naver-place-google-business-map-seo.md",
+      "title": "12-03. 네이버 플레이스, Google Business Profile, 지도 SEO",
+      "chars": 7163,
+      "images": 2,
+      "table_ratio": 0.55,
+      "headings": 16
+    },
+    {
+      "path": "pages/12-04-review-offline-authority-strategy.md",
+      "title": "12-04. 리뷰 전략: 네이버 영수증 리뷰, 지도 리뷰, 외부 후기",
+      "chars": 6643,
+      "images": 2,
+      "table_ratio": 0.61,
+      "headings": 16
+    },
+    {
+      "path": "pages/12-05-local-question-set-conversion-checklist.md",
+      "title": "12-05. 병원/오프라인 매장 GEO 질문셋과 방문 전환 체크리스트",
+      "chars": 7136,
+      "images": 2,
+      "table_ratio": 0.6,
+      "headings": 17
+    },
+    {
+      "path": "pages/12-06-medical-ad-review-risk.md",
+      "title": "12-06. 의료광고와 후기 리스크: 병원 SEO/GEO에서 조심할 표현",
+      "chars": 7078,
+      "images": 2,
+      "table_ratio": 0.62,
+      "headings": 16
+    },
+    {
+      "path": "pages/12-07-local-seo-geo-30day-workflow.md",
+      "title": "12-07. 로컬 SEO/GEO 30일 운영 워크플로우",
+      "chars": 4264,
+      "images": 2,
+      "table_ratio": 0.65,
+      "headings": 10
+    },
+    {
+      "path": "pages/12-chapter-12.md",
+      "title": "12. 병원/오프라인 매장 SEO/GEO 전략",
+      "chars": 5689,
+      "images": 2,
+      "table_ratio": 0.59,
+      "headings": 12
+    },
+    {
+      "path": "pages/90-01-pr-agency-geo-service-case.md",
+      "title": "90-01. PR/마케팅 에이전시: GEO를 설명 가능한 서비스로 만드는 법",
+      "chars": 6119,
+      "images": 2,
+      "table_ratio": 0.6,
+      "headings": 18
+    },
+    {
+      "path": "pages/90-02-campaign-url-citation-tracking-case.md",
+      "title": "90-02. 캠페인 URL 인용 추적: 한 번 언급과 반복 인용의 차이",
+      "chars": 6098,
+      "images": 2,
+      "table_ratio": 0.69,
+      "headings": 19
+    },
+    {
+      "path": "pages/90-03-enterprise-newsroom-entity-hub-case.md",
+      "title": "90-03. 엔터프라이즈 뉴스룸: 뉴스룸을 엔티티 허브로 바꾸는 법",
+      "chars": 5530,
+      "images": 2,
+      "table_ratio": 0.69,
+      "headings": 18
+    },
+    {
+      "path": "pages/90-04-local-specialist-geo-case.md",
+      "title": "90-04. 로컬/전문 서비스: 지역 질문과 방문 전환을 연결하는 법",
+      "chars": 5185,
+      "images": 2,
+      "table_ratio": 0.7,
+      "headings": 17
+    },
+    {
+      "path": "pages/90-05-finance-regulated-geo-case.md",
+      "title": "90-05. 금융/규제 산업: 신뢰, 리스크, 비브랜드 질문을 함께 보는 법",
+      "chars": 5406,
+      "images": 2,
+      "table_ratio": 0.64,
+      "headings": 19
+    },
+    {
+      "path": "pages/90-06-commerce-platform-geo-case.md",
+      "title": "90-06. 커머스/플랫폼: 상품 데이터와 AI 구매 에이전트 대응",
+      "chars": 5750,
+      "images": 2,
+      "table_ratio": 0.67,
+      "headings": 18
+    },
+    {
+      "path": "pages/90-industry-geo-casebook.md",
+      "title": "90. 산업별 GEO 케이스북",
+      "chars": 6071,
+      "images": 2,
+      "table_ratio": 0.63,
+      "headings": 14
+    },
+    {
+      "path": "pages/91-halox-functional-mapping.md",
+      "title": "91. 부록: HaloX GEO 솔루션과 브랜드 가시성 분석 연결 맵",
+      "chars": 4650,
+      "images": 2,
+      "table_ratio": 0.54,
+      "headings": 8
+    }
+  ],
+  "unused_images": [
+    "assets/book-cover/halox-geo-wikidocs-cover.png",
+    "assets/images/chapter-heroes/halox-geo-keyword-to-question-hero-1600x900.png"
+  ]
+}
