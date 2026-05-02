@@ -97,7 +97,7 @@ AI 답변은 변동성이 있습니다. 그래서 결과만 남기면 나중에 
 
 | 질문군 | 예시 | 확인할 지표 |
 |---|---|---|
-| 브랜드 | AcmeGEO는 어떤 도구인가? | answer accuracy, entity |
+| 브랜드 | AcmeGEO는 어떤 도구인가? | answer accuracy, 엔티티 |
 | 카테고리 | GEO 도구는 무엇을 측정해야 하나? | source, citation |
 | 비교 | GEO 도구와 SEO 도구 차이는? | co-mention, answer quality |
 | 추천 | B2B SaaS 팀에 맞는 GEO 도구 추천 | mention, 경쟁사 |

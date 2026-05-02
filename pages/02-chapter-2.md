@@ -80,12 +80,12 @@ Google의 [AI features and your website](https://developers.google.com/search/do
 
 ## 측정 결과를 SEO/GEO 액션으로 바꾸는 기준
 
-AI 검색 모니터링의 목적은 점수를 확인하는 것이 아니라 다음 작업을 정하는 것입니다. mention이 낮으면 카테고리 콘텐츠와 비교 콘텐츠를 봅니다. source가 약하면 공식 가이드, 사례, offsite 출처, entity 설명을 봅니다. citation이 약하면 title, 첫 문단, schema, internal link, canonical을 봅니다. 답변 품질이 약하면 E-E-A-T 관점에서 경험, 전문성, 권위, 신뢰를 증명하는 근거가 충분한지 확인합니다.
+AI 검색 모니터링의 목적은 점수를 확인하는 것이 아니라 다음 작업을 정하는 것입니다. mention이 낮으면 카테고리 콘텐츠와 비교 콘텐츠를 봅니다. source가 약하면 공식 가이드, 사례, offsite 출처, 엔티티 설명을 봅니다. citation이 약하면 title, 첫 문단, schema, internal link, canonical을 봅니다. 답변 품질이 약하면 E-E-A-T 관점에서 경험, 전문성, 권위, 신뢰를 증명하는 근거가 충분한지 확인합니다.
 
 | 약한 지표 | 먼저 볼 SEO/GEO 자산 | 담당 |
 |---|---|---|
 | mention 낮음 | 카테고리 콘텐츠, 비교 콘텐츠, 질문셋 커버리지 | SEO/콘텐츠 |
-| source 약함 | 공식 가이드, 고객 사례, offsite 출처, entity 설명 | 콘텐츠/PR/브랜드 |
+| source 약함 | 공식 가이드, 고객 사례, offsite 출처, 엔티티 설명 | 콘텐츠/PR/브랜드 |
 | citation 약함 | title, 첫 문단, schema, internal link, canonical | SEO/개발 |
 | answer quality 낮음 | FAQ, 제품 설명, E-E-A-T 근거, 최신성 | 브랜드/제품/콘텐츠 |
 

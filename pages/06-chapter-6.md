@@ -3,7 +3,7 @@
 ![테크니컬 GEO와 사이트 구조 대표 이미지](../assets/images/page-heroes/halox-geo-06-chapter-6-hero.png)
 
 
-테크니컬 GEO는 AI가 콘텐츠를 발견하고, 읽고, 해석하고, 다시 인용할 수 있게 만드는 사이트의 기본 구조입니다. 04장에서 좋은 콘텐츠 구조를 만들고 05장에서 source/citation/entity 신호를 설계했다면, 06장에서는 그 구조와 신호가 실제 HTML, 렌더링, schema, sitemap, robots, 내부 링크, canonical에서도 유지되는지 확인합니다. 좋은 글을 많이 써도 AI 크롤러가 접근하지 못하거나 핵심 본문이 렌더링 뒤에만 보이면 답변 근거(source)/화면 인용(citation) 성과를 안정적으로 만들기 어렵습니다.
+테크니컬 GEO는 AI가 콘텐츠를 발견하고, 읽고, 해석하고, 다시 인용할 수 있게 만드는 사이트의 기본 구조입니다. 04장에서 좋은 콘텐츠 구조를 만들고 05장에서 source/citation/엔티티 신호를 설계했다면, 06장에서는 그 구조와 신호가 실제 HTML, 렌더링, schema, sitemap, robots, 내부 링크, canonical에서도 유지되는지 확인합니다. 좋은 글을 많이 써도 AI 크롤러가 접근하지 못하거나 핵심 본문이 렌더링 뒤에만 보이면 답변 근거(source)/화면 인용(citation) 성과를 안정적으로 만들기 어렵습니다.
 
 이 장은 마케팅팀과 개발팀이 같은 체크리스트를 보고 이야기할 수 있도록 구성합니다. `robots.txt`, `sitemap.xml`, canonical, 응답 코드, CSR/SSR, schema, 내부 링크, llms.txt, 사이트 이전 리스크를 각각 따로 보되, 최종 판단은 “AI 답변에 쓸 수 있는 근거가 안정적으로 노출되는가”로 모읍니다. 여기에 title/meta description 같은 메타 정보, 리치 리절트, Google 공식 점검 도구, PageSpeed/Search Console까지 연결해 SEO 기술 점검과 GEO 기술 점검을 한 흐름으로 봅니다.
 
@@ -11,7 +11,7 @@
 
 ## 04장/05장과 06장이 나뉘는 기준
 
-04장은 `무엇을 어떤 구조로 써야 하는가`를 다룹니다. 05장은 그 콘텐츠가 웹 전체의 source/citation/entity 신호와 연결되는지 봅니다. 06장은 `그 콘텐츠와 신호가 실제로 크롤러와 AI에게 발견되고 읽히는가`를 확인합니다. 세 장을 분리해서 봐야 콘텐츠팀, PR/브랜드팀, 개발팀의 역할이 명확해집니다.
+04장은 `무엇을 어떤 구조로 써야 하는가`를 다룹니다. 05장은 그 콘텐츠가 웹 전체의 source/citation/엔티티 신호와 연결되는지 봅니다. 06장은 `그 콘텐츠와 신호가 실제로 크롤러와 AI에게 발견되고 읽히는가`를 확인합니다. 세 장을 분리해서 봐야 콘텐츠팀, PR/브랜드팀, 개발팀의 역할이 명확해집니다.
 
 | 질문 | 04/05장에서 볼 것 | 06장에서 볼 것 |
 |---|---|---|
@@ -20,7 +20,7 @@
 | FAQ가 있는가 | 질문과 답이 독자 문제에 맞는가 | FAQ 본문과 FAQPage schema가 충돌하지 않는가 |
 | 내부 링크가 있는가 | 다음 질문으로 자연스럽게 이어지는가 | 크롤러가 링크를 발견할 수 있는 href 구조인가 |
 | source 후보 URL이 있는가 | 05장에서 답변 근거 후보와 외부 source를 정했는가 | 그 URL이 200/301, sitemap, canonical, robots에서 안정적인가 |
-| entity 신호가 있는가 | 조직/인물/제품 설명이 외부 채널과 일치하는가 | Organization/Person/ProfilePage schema와 대표 URL이 같은 설명을 말하는가 |
+| 엔티티 신호가 있는가 | 조직/인물/제품 설명이 외부 채널과 일치하는가 | Organization/Person/ProfilePage schema와 대표 URL이 같은 설명을 말하는가 |
 | schema가 있는가 | 본문 의미를 보조하는가 | JSON-LD가 최신 본문/title/canonical과 일치하는가 |
 | schema 타입이 맞는가 | Organization, Person/ProfilePage, FAQPage, Article, Product 등 페이지 유형에 맞는가 | 본문에 보이는 정보만 구조화했는가 |
 | 메타 정보가 맞는가 | title, meta description, canonical, robots meta가 본문과 같은 주제를 말하는가 | 대표 URL과 검색/공유 설명이 일관적인가 |
@@ -37,7 +37,7 @@ AI가 HTML을 Markdown식 텍스트로 바꿔 읽는다고 생각하면, 기술 
 | citation 후보 URL이 보이지 않음 | 색인, canonical, sitemap, 내부 링크 | 대표 URL sitemap 포함/canonical 수정 |
 | source로 오래된 URL이 반복됨 | redirect, 301, robots meta | 구 URL 301 정리/robots meta 확인 |
 | 본문은 있는데 AI 답변 품질이 낮음 | 초기 HTML, H2, table, FAQ schema | 핵심 답변 HTML 본문화 |
-| entity 설명이 흔들림 | Organization/Person/Product schema | sameAs와 공식 URL 정렬 |
+| 엔티티 설명이 흔들림 | Organization/Person/Product schema | sameAs와 공식 URL 정렬 |
 | 글로벌 URL이 혼선 | hreflang/canonical/locale | 언어별 alternate 링크 수정 |
 | 리치 결과 후보가 약함 | Rich Results Test/Schema Validator | FAQ/Product/Article schema 오류 수정 |
 
