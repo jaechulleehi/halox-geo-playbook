@@ -32,6 +32,8 @@ ChatGPT는 사용자의 질문을 따라 정의형, 비교형, 추천형, 검증
 
 ChatGPT는 항상 화면 인용을 보여주는 환경만 있는 것은 아닙니다. 그래서 이 페이지에서는 citation 유무만으로 판단하지 않고, 답변 문장 안의 설명 품질과 추천 문맥을 먼저 봅니다. 화면 인용이 중요한 플랫폼은 다음 페이지의 [Perplexity SEO와 Google AI Overviews 최적화](https://wikidocs.net/346602)에서 따로 봅니다.
 
+![ChatGPT 브랜드 노출 기준선 만들기](../assets/images/body-figures/halox-geo-02-01-chatgpt-brand-visibility-baseline-codex-only.png)
+
 ## 좋은 신호와 위험 신호
 
 좋은 신호는 브랜드가 단순히 이름으로 등장하는 것이 아니라, 특정 문제 해결 방식과 함께 설명되는 것입니다. 예를 들어 “AI 검색 모니터링을 위해 질문셋, 답변 근거, 화면 인용을 함께 보는 도구”처럼 카테고리와 기능이 같이 붙으면 좋은 신호입니다.

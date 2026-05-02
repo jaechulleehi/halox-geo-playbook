@@ -38,6 +38,8 @@ AI 검색 리포트는 첫 페이지에서 결론을 보여줘야 합니다. 팀
 
 이 구조가 있으면 리포트는 보고서가 아니라 실행 회의의 기준이 됩니다.
 
+![AI 검색 리포트를 액션으로 읽는 흐름](../assets/images/body-figures/halox-geo-02-04-ai-search-report-action-flow-codex-only.png)
+
 ## 좋은 리포트 문장 예시
 
 나쁜 문장:

@@ -24,6 +24,8 @@ HaloX의 [AVI 점수 가이드](https://haloxlabs.ai/ko/blog/avi-score-explained
 
 이 흐름을 지키면 `브랜드가 나왔다/안 나왔다`에서 멈추지 않습니다. 어떤 질문군에서 빠졌는지, 왜 빠졌는지, 무엇을 고치면 다음 측정에서 달라지는지까지 볼 수 있습니다.
 
+![AI 검색 모니터링의 네 가지 지표 분리](../assets/images/body-figures/halox-geo-02-chapter-2-monitoring-metrics-map-codex-only.png)
+
 ## 네 가지 지표를 먼저 분리한다
 
 | 지표 | 의미 | 확인 질문 | 바로 이어지는 액션 |
