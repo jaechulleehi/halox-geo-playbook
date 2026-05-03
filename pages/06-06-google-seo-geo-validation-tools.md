@@ -1,4 +1,4 @@
-## Google 공식 도구로 SEO/GEO 기술 상태 점검하기
+## Google 공식 도구 기반 SEO/GEO 기술 점검
 
 ![Google 공식 도구로 SEO GEO 점검](../assets/images/page-heroes/halox-geo-06-06-google-seo-geo-validation-tools-hero.png)
 

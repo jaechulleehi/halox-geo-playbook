@@ -1,4 +1,4 @@
-## AI 크롤러 접근성과 robots/sitemap 점검법
+## AI 크롤러 접근성과 GEO robots/sitemap 점검
 
 ![AI 크롤러 접근성과 robots sitemap](../assets/images/page-heroes/halox-geo-06-04-ai-crawler-robots-sitemap-hero.png)
 

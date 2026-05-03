@@ -40,7 +40,7 @@ AcmeGEO가 국내에서 `GEO 도구`로 설명되더라도, 영어권에서는 `
 
 이 장은 `영문 카테고리 자산 → locale/hreflang → 글로벌 답변 근거 맵` 순서로 읽습니다. 세 단계가 함께 맞아야 AI가 시장별 답변에서 브랜드를 안정적으로 이해합니다.
 
-먼저 [08-01. 영문 카테고리 자산은 왜 먼저 필요한가](https://wikidocs.net/346359)에서 영어권에서 우리는 어떤 카테고리의 어떤 후보인지 정의합니다. 다음으로 [08-02. Locale/hreflang은 GEO에서 어떻게 봐야 하나](https://wikidocs.net/346360)에서 언어/지역별 대표 URL과 canonical 충돌을 점검합니다. 마지막으로 [08-03. 글로벌 답변 근거 맵을 만드는 법](https://wikidocs.net/346361)에서 미디어, 리뷰, 디렉터리, 커뮤니티, 파트너 source map을 만듭니다.
+먼저 [08-01. 영문 GEO 카테고리 자산 구축](https://wikidocs.net/346359)에서 영어권에서 우리는 어떤 카테고리의 어떤 후보인지 정의합니다. 다음으로 [08-02. Locale/hreflang과 글로벌 GEO URL 전략](https://wikidocs.net/346360)에서 언어/지역별 대표 URL과 canonical 충돌을 점검합니다. 마지막으로 [08-03. 글로벌 source map: 시장별 답변 근거 설계](https://wikidocs.net/346361)에서 미디어, 리뷰, 디렉터리, 커뮤니티, 파트너 source map을 만듭니다.
 
 ## Google 공식 문서로 확인할 기준
 

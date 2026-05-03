@@ -1,4 +1,4 @@
-## PR/마케팅 에이전시: GEO를 설명 가능한 서비스로 만드는 법
+## PR/마케팅 에이전시 GEO 서비스 설계
 
 ![PR 마케팅 에이전시 GEO 서비스 패키지](../assets/images/page-heroes/halox-geo-90-01-pr-agency-geo-service-case-hero.png)
 

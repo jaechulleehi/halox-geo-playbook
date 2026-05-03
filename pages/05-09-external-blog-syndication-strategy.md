@@ -1,4 +1,4 @@
-## 외부 블로그/신디케이터 전략: 분산 콘텐츠로 답변 근거 넓히기
+## GEO 외부 블로그/신디케이터 전략: 답변 근거 확장
 
 ![외부 블로그 신디케이션 대표 이미지](../assets/images/page-heroes/halox-geo-05-09-external-blog-syndication-strategy-hero.png)
 

@@ -1,4 +1,4 @@
-## 커머스 GEO 리스크와 2주 점검 체크리스트
+## 커머스 GEO 리스크 2주 점검
 
 ![커머스 GEO 리스크와 2주 점검 체크리스트](../assets/images/page-heroes/halox-geo-11-04-commerce-geo-risk-checklist-hero.png)
 

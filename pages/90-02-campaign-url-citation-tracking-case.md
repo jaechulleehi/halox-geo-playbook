@@ -1,4 +1,4 @@
-## 캠페인 URL 인용 추적: 한 번 언급과 반복 인용의 차이
+## 캠페인 URL citation 추적: 일회성 언급과 반복 인용
 
 ![캠페인 URL 인용 추적과 성과 비교](../assets/images/page-heroes/halox-geo-90-02-campaign-url-citation-tracking-case-hero.png)
 

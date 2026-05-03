@@ -1,4 +1,4 @@
-## GEO 실행 범위와 비용은 어떻게 판단하나
+## GEO 실행 범위와 비용 판단
 
 ![GEO 실행 범위와 비용 판단](../assets/images/page-heroes/halox-geo-09-03-geo-business-model-hero.png)
 

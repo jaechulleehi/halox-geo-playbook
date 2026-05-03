@@ -1,4 +1,4 @@
-## Locale/hreflang은 GEO에서 어떻게 봐야 하나
+## Locale/hreflang과 글로벌 GEO URL 전략
 
 ![Locale hreflang GEO 점검](../assets/images/page-heroes/halox-geo-08-02-locale-hreflang-geo-hero.png)
 

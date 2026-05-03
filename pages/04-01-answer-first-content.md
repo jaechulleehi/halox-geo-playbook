@@ -1,4 +1,4 @@
-## AI가 인용하는 Answer-first 콘텐츠는 어떻게 쓰는가
+## AI가 인용하는 Answer-first 콘텐츠 작성 전략
 
 ![Answer-first 콘텐츠 구조와 출처 연결](../assets/images/page-heroes/halox-geo-04-01-answer-first-content-hero.png)
 

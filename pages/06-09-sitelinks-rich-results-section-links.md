@@ -1,4 +1,4 @@
-## 사이트링크와 리치 리절트 차이: 검색결과 섹션 링크는 어떻게 만들어지나
+## SEO 사이트링크와 리치 리절트: 검색결과 섹션 링크
 
 ![사이트링크와 리치 리절트 차이](../assets/images/page-heroes/halox-geo-06-09-sitelinks-rich-results-section-links-hero.png)
 

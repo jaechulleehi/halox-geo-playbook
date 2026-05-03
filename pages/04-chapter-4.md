@@ -1,4 +1,4 @@
-## AI가 읽기 좋은 콘텐츠 구조: HTML에서 답변 재료까지
+## AI 검색 최적화 콘텐츠 구조: Answer-first와 schema
 
 ![AI가 읽기 좋은 콘텐츠 구조: HTML에서 답변 재료까지 대표 이미지](../assets/images/page-heroes/halox-geo-04-chapter-4-hero.png)
 
@@ -53,7 +53,7 @@ Google의 [유용한 콘텐츠 만들기](https://developers.google.com/search/d
 
 ## 이 장을 읽는 순서
 
-먼저 [04-01. AI가 인용하는 Answer-first 콘텐츠는 어떻게 쓰는가](https://wikidocs.net/346347)를 읽고 첫 답변 구조를 고칩니다. FAQ/표/schema 판단이 필요하면 [04-02. FAQ/표/schema는 언제 쓰는가](https://wikidocs.net/346348)로 이동합니다. 기존 글을 실제 작업표로 바꾸려면 [04-03. 기존 글을 GEO 콘텐츠로 리라이트하는 체크리스트](https://wikidocs.net/346349)를 봅니다.
+먼저 [04-01. AI가 인용하는 Answer-first 콘텐츠 작성 전략](https://wikidocs.net/346347)를 읽고 첫 답변 구조를 고칩니다. FAQ/표/schema 판단이 필요하면 [04-02. FAQ/표/schema 활용 기준](https://wikidocs.net/346348)로 이동합니다. 기존 글을 실제 작업표로 바꾸려면 [04-03. GEO 콘텐츠 리라이트: 기존 글을 AI 답변 재료로 바꾸기](https://wikidocs.net/346349)를 봅니다.
 
 ## HaloX로 이어지는 지점
 

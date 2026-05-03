@@ -1,4 +1,4 @@
-## AI 고객을 위한 상품 정보 구조화
+## 커머스 GEO 상품 정보 구조화
 
 ![AI 고객을 위한 상품 정보 구조화](../assets/images/page-heroes/halox-geo-11-02-ai-customer-product-data-hero.png)
 

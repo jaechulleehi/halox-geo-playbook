@@ -1,4 +1,4 @@
-## llms.txt와 사이트 이전 리스크 관리
+## llms.txt와 GEO 사이트 이전 리스크 관리
 
 ![llms.txt와 사이트 이전 리스크](../assets/images/page-heroes/halox-geo-06-03-llms-txt-migration-risk-hero.png)
 

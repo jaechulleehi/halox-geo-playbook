@@ -1,4 +1,4 @@
-## 언론/PR 신뢰 신호 관리: 보도자료, 인터뷰, 기고, 뉴스룸
+## GEO 언론/PR 신뢰 신호: 보도자료, 인터뷰, 뉴스룸
 
 ![언론과 PR 신뢰 신호 대표 이미지](../assets/images/page-heroes/halox-geo-05-07-pr-media-trust-signal-hero.png)
 

@@ -1,4 +1,4 @@
-## 브랜드 언급률, 답변 근거, 화면 인용은 어떻게 나눠 읽나
+## 브랜드 언급률/source/citation 지표 분리
 
 ![브랜드 언급률과 답변 근거와 화면 인용 구분](../assets/images/page-heroes/halox-geo-02-03-mention-source-citation-hero.png)
 
@@ -80,4 +80,4 @@ citation URL:
 
 ## 다음 흐름
 
-이 조합을 해석한 뒤 [02-04 AI 검색 리포트](https://wikidocs.net/346604)에서 팀이 실행할 수 있는 30일 액션으로 바꿉니다. 출처와 인용을 더 깊게 보려면 [답변 근거(source)와 화면 인용(citation)은 무엇이 다른가](https://wikidocs.net/346350)로 이어갑니다.
+이 조합을 해석한 뒤 [02-04 AI 검색 리포트](https://wikidocs.net/346604)에서 팀이 실행할 수 있는 30일 액션으로 바꿉니다. 출처와 인용을 더 깊게 보려면 [답변 근거(source)와 화면 인용(citation)은 어디가 달라지는가](https://wikidocs.net/346350)로 이어갑니다.

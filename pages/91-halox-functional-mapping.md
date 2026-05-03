@@ -1,4 +1,4 @@
-## 부록: HaloX GEO 솔루션과 브랜드 가시성 분석 연결 맵
+## 부록: HaloX GEO 솔루션과 브랜드 가시성 분석 맵
 
 ![HaloX GEO 기능과 분석 프레임 연결 맵](../assets/images/page-heroes/halox-geo-91-halox-functional-mapping-hero.png)
 

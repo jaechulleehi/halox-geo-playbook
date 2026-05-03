@@ -1,4 +1,4 @@
-## 로컬/전문 서비스 GEO는 무엇을 봐야 하나
+## 로컬/전문 서비스 GEO: 지역 질문과 전환
 
 ![로컬 전문 서비스 GEO 흐름](../assets/images/page-heroes/halox-geo-07-03-local-specialist-geo-hero.png)
 

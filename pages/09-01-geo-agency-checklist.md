@@ -1,4 +1,4 @@
-## GEO 리포트는 무엇을 보여줘야 하나
+## GEO 리포트 핵심 항목과 실행 판단 기준
 
 ![GEO 리포트 판단 흐름](../assets/images/page-heroes/halox-geo-09-01-geo-agency-checklist-hero.png)
 

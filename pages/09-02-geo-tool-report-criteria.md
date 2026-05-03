@@ -1,4 +1,4 @@
-## mention/source/citation 지표는 어떻게 해석하나
+## mention/source/citation 지표 해석
 
 ![mention source citation 리포트 해석](../assets/images/page-heroes/halox-geo-09-02-geo-tool-report-criteria-hero.png)
 

@@ -1,4 +1,4 @@
-## FAQ/표/schema는 언제 쓰는가
+## FAQ/표/schema 활용 기준
 
 ![FAQ와 표와 schema 구조화 흐름](../assets/images/page-heroes/halox-geo-04-02-faq-schema-table-structure-hero.png)
 

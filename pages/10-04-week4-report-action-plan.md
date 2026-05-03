@@ -1,4 +1,4 @@
-## 4주차: GEO 실행 리포트와 30일 액션 플랜
+## 4주차 GEO 실행 리포트와 30일 액션 플랜
 
 ![4주차 GEO 실행 리포트](../assets/images/page-heroes/halox-geo-10-04-week4-report-action-plan-hero.png)
 

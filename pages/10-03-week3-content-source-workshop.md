@@ -1,4 +1,4 @@
-## 3주차: 콘텐츠 리라이트와 출처 설계
+## 3주차: GEO 콘텐츠 리라이트와 source 설계
 
 ![3주차 콘텐츠 리라이트와 source 설계](../assets/images/page-heroes/halox-geo-10-03-week3-content-source-workshop-hero.png)
 

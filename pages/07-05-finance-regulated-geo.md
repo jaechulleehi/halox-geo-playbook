@@ -1,4 +1,4 @@
-## 금융/규제 산업 GEO는 무엇을 조심해야 하나
+## 금융/규제 산업 GEO: 신뢰와 리스크 관리
 
 ![금융 규제 산업 GEO 흐름](../assets/images/page-heroes/halox-geo-07-05-finance-regulated-geo-hero.png)
 

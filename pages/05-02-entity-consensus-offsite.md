@@ -1,4 +1,4 @@
-## 엔티티와 브랜드 합의 신호를 만드는 법
+## 엔티티와 브랜드 합의 신호 설계
 
 ![엔티티와 브랜드 합의 신호](../assets/images/page-heroes/halox-geo-05-02-entity-consensus-offsite-hero.png)
 

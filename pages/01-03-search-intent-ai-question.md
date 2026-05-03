@@ -1,4 +1,4 @@
-## 검색 의도: 키워드 뒤의 목적을 읽는 법
+## SEO 검색 의도 분석: 키워드 뒤의 목적과 AI 질문
 
 ![검색 의도 대표 이미지](../assets/images/page-heroes/halox-geo-01-03-search-intent-ai-question-hero.png)
 
@@ -33,7 +33,7 @@ GEO에서는 이 여정이 AI 답변 안에서 압축됩니다. 사용자는 한
 ```text
 GEO 도구
 → GEO 도구란 무엇인가?
-→ GEO 도구는 SEO 도구와 무엇이 다른가?
+→ GEO 도구는 SEO 도구와 어디가 달라지는가?
 → B2B SaaS 팀은 어떤 GEO 도구를 골라야 하나?
 → GEO 도구 리포트에서 mention/source/citation은 어떻게 해석하나?
 → GEO 도구 도입 전에 어떤 데이터를 준비해야 하나?

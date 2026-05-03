@@ -1,4 +1,4 @@
-## 엔터프라이즈 뉴스룸: 뉴스룸을 엔티티 허브로 바꾸는 법
+## 엔터프라이즈 뉴스룸을 엔티티 허브로 설계하기
 
 ![엔터프라이즈 뉴스룸 엔티티 허브](../assets/images/page-heroes/halox-geo-90-03-enterprise-newsroom-entity-hub-case-hero.png)
 

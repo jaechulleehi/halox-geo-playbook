@@ -1,4 +1,4 @@
-## 로컬 SEO와 로컬 GEO는 무엇이 다른가
+## 로컬 SEO와 로컬 GEO 차이
 
 ![로컬 SEO와 로컬 GEO 차이](../assets/images/page-heroes/halox-geo-12-01-local-seo-local-geo-difference-hero.png)
 

@@ -1,4 +1,4 @@
-## 병원/오프라인 매장 GEO 질문셋과 방문 전환 체크리스트
+## 병원/오프라인 매장 GEO 질문셋과 방문 전환
 
 ![지역 질문셋과 방문 전환 체크리스트](../assets/images/page-heroes/halox-geo-12-05-local-question-set-conversion-checklist-hero.png)
 

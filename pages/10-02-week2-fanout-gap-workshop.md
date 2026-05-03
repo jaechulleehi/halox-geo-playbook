@@ -1,4 +1,4 @@
-## 2주차: Fan-out 질문맵과 콘텐츠 갭
+## 2주차 Fan-out 질문맵과 콘텐츠 갭 분석
 
 ![2주차 Fan-out 질문맵](../assets/images/page-heroes/halox-geo-10-02-week2-fanout-gap-workshop-hero.png)
 

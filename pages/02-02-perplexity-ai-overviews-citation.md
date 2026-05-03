@@ -1,4 +1,4 @@
-## Perplexity SEO와 Google AI Overviews 최적화는 어떻게 다르게 볼까
+## Perplexity SEO와 Google AI Overviews 최적화 비교
 
 ![Perplexity와 AI Overviews 인용 비교](../assets/images/page-heroes/halox-geo-02-02-perplexity-ai-overviews-citation-hero.png)
 
@@ -77,4 +77,4 @@ AI 답변의 핵심 문장:
 
 ## 다음 흐름
 
-플랫폼별 측정값을 리포트 지표로 정리하려면 [브랜드 언급률, 답변 근거, 화면 인용은 어떻게 나눠 읽나](https://wikidocs.net/346603)를 읽습니다.
+플랫폼별 측정값을 리포트 지표로 정리하려면 [브랜드 언급률, 답변 근거, 화면 인용은 지표 분리](https://wikidocs.net/346603)를 읽습니다.

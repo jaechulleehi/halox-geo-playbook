@@ -1,4 +1,4 @@
-## 측정/개선: SEO와 GEO를 월간 운영 루프로 만드는 법
+## SEO/GEO 성과 측정: 월간 개선 루프 만들기
 
 ![측정과 개선 대표 이미지](../assets/images/page-heroes/halox-geo-01-09-authority-entity-seo-geo-hero.png)
 

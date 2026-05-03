@@ -1,4 +1,4 @@
-## AI 질문 패턴에서 콘텐츠 갭을 찾는 법
+## GEO 콘텐츠 갭 분석: AI 질문 패턴 활용
 
 ![질문셋에서 콘텐츠 갭을 찾는 흐름](../assets/images/page-heroes/halox-geo-03-03-content-gap-from-questions-hero.png)
 
@@ -93,4 +93,4 @@ AcmeGEO 사이트에는 기능 목록은 있지만 리포트 예시와 source/ci
 
 ## 다음 흐름
 
-이전: [03-02. 사용자 질문셋과 AI 질문 패턴을 어떻게 분리할까](https://wikidocs.net/346345) / 다음: [04. AI가 읽기 좋은 콘텐츠 구조](https://wikidocs.net/346332)
+이전: [03-02. GEO 질문셋과 AI 내부 질문 패턴 분리](https://wikidocs.net/346345) / 다음: [04. AI가 읽기 좋은 콘텐츠 구조](https://wikidocs.net/346332)

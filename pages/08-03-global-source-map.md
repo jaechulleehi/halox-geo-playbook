@@ -1,4 +1,4 @@
-## 글로벌 답변 근거 맵을 만드는 법
+## 글로벌 source map: 시장별 답변 근거 설계
 
 ![글로벌 source map](../assets/images/page-heroes/halox-geo-08-03-global-source-map-hero.png)
 

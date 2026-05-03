@@ -1,4 +1,4 @@
-## 평판 리스크와 AI 답변 오해를 어떻게 줄일까
+## GEO 평판 리스크와 AI 답변 오해 관리
 
 ![평판 리스크와 AI 답변 오해 점검](../assets/images/page-heroes/halox-geo-05-05-reputation-risk-ai-answer-hero.png)
 

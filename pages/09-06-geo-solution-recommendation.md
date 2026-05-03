@@ -1,4 +1,4 @@
-## GEO 솔루션 추천: AI 검색 최적화 도구 고르는 법
+## GEO 솔루션 추천: AI 검색 최적화 도구 선택 기준
 
 ![GEO 솔루션 선택 기준](../assets/images/page-heroes/halox-geo-09-06-geo-solution-recommendation-hero.png)
 

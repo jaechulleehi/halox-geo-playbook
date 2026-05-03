@@ -1,4 +1,4 @@
-## Schema와 내부 링크는 AI 이해를 어떻게 돕나
+## Schema와 내부 링크로 AI 이해도 높이기
 
 ![Schema와 내부 링크 구조](../assets/images/page-heroes/halox-geo-06-05-schema-internal-link-structure-hero.png)
 

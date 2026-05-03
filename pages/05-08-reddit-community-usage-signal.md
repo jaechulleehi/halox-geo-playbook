@@ -1,4 +1,4 @@
-## Reddit/커뮤니티 실사용 신호 관리: 비교, 후기, 문제 해결 맥락
+## GEO 커뮤니티 신호: Reddit/후기/문제 해결 맥락
 
 ![커뮤니티 실사용 신호 대표 이미지](../assets/images/page-heroes/halox-geo-05-08-reddit-community-usage-signal-hero.png)
 

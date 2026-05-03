@@ -1,4 +1,4 @@
-## GEO 리포트 운영: 브랜드 가시성을 매달 관리하는 법
+## GEO 리포트 운영: 브랜드 가시성 월간 관리
 
 ![월간 GEO 리포트 운영](../assets/images/page-heroes/halox-geo-09-05-recurring-geo-report-product-hero.png)
 

@@ -1,4 +1,4 @@
-## 캠페인 URL 인용 추적은 어떻게 설계할까
+## 캠페인 URL citation 추적 설계
 
 ![캠페인 URL citation 추적](../assets/images/page-heroes/halox-geo-07-06-campaign-url-citation-tracking-hero.png)
 

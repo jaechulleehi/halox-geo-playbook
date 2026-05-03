@@ -1,4 +1,4 @@
-## AI 검색 리포트는 어떤 지표로 읽어야 하나
+## AI 검색 리포트 핵심 지표와 해석 기준
 
 ![AI 검색 리포트 지표와 30일 액션 흐름](../assets/images/page-heroes/halox-geo-02-04-ai-search-report-hero.png)
 

@@ -1,4 +1,4 @@
-## 내부 링크: 페이지 사이의 의미 관계를 설계하는 법
+## SEO 내부 링크: 페이지 사이의 의미 관계 설계
 
 ![내부 링크 대표 이미지](../assets/images/page-heroes/halox-geo-01-06-serp-analysis-content-gap-hero.png)
 
@@ -59,7 +59,7 @@ SEO 실무에서 자주 쓰는 구조가 허브와 클러스터입니다. 허브
 
 | 실제 query | 사용자의 다음 질문 | 우선 연결할 내부 페이지 |
 |---|---|---|
-| GEO 뜻 | SEO와 무엇이 다른가? | GEO/SEO/AEO/AIO 차이, AI 검색 차이 |
+| GEO 뜻 | SEO와 어디가 달라지는가? | GEO/SEO/AEO/AIO 차이, AI 검색 차이 |
 | AI 검색 최적화 방법 | 실제로 어떤 순서로 실행하나? | 4주 실행 로드맵, Answer-first 콘텐츠 |
 | GEO 도구 비교 | 어떤 지표로 골라야 하나? | mention/source/citation, GEO 리포트 지표 |
 | ChatGPT 브랜드 노출 확인 | 우리 브랜드 기준선을 어떻게 잡나? | 기준선 진단, AI 검색 모니터링 |

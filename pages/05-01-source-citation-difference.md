@@ -1,4 +1,4 @@
-## 답변 근거(source)와 화면 인용(citation)은 무엇이 다른가
+## 답변 근거(source)와 화면 인용(citation) 차이
 
 ![답변 근거와 화면 인용의 차이](../assets/images/page-heroes/halox-geo-05-01-source-citation-difference-hero.png)
 

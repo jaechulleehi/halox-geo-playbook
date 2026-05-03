@@ -1,4 +1,4 @@
-## 커머스와 플랫폼은 GEO보다 AIO를 먼저 봐야 할까
+## 커머스/플랫폼 AIO와 GEO 전략
 
 ![커머스와 플랫폼 AIO GEO 흐름](../assets/images/page-heroes/halox-geo-07-02-commerce-platform-aio-hero.png)
 

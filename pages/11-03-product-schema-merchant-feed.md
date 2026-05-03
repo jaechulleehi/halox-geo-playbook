@@ -1,4 +1,4 @@
-## Product schema와 merchant feed 점검법
+## Product schema와 merchant feed 점검
 
 ![Product schema와 merchant feed 점검 흐름](../assets/images/page-heroes/halox-geo-11-03-product-schema-merchant-feed-hero.png)
 

@@ -1,4 +1,4 @@
-## GEO 리포트와 실행 검증: AI 검색 성과를 읽는 법
+## GEO 리포트와 AI 검색 성과 검증
 
 ![GEO 리포트와 실행 검증: AI 검색 성과를 읽는 법 대표 이미지](../assets/images/page-heroes/halox-geo-09-chapter-9-hero.png)
 
@@ -47,7 +47,7 @@ AcmeGEO 리포트라면 `GEO 점수 72점`보다 `추천형 질문 30개 중 men
 
 ## 이 장을 읽는 순서
 
-직접 실행한 결과를 확인하려면 [09-01. GEO 리포트는 무엇을 보여줘야 하나](https://wikidocs.net/346362)와 [09-02. mention/source/citation 지표는 어떻게 해석하나](https://wikidocs.net/346363)를 먼저 읽습니다. 월간 운영을 만들고 싶다면 [09-05. GEO 리포트 운영](https://wikidocs.net/346398)으로 이어갑니다.
+직접 실행한 결과를 확인하려면 [09-01. GEO 리포트 핵심 항목과 실행 판단 기준](https://wikidocs.net/346362)와 [09-02. mention/source/citation 지표 해석](https://wikidocs.net/346363)를 먼저 읽습니다. 월간 운영을 만들고 싶다면 [09-05. GEO 리포트 운영](https://wikidocs.net/346398)으로 이어갑니다.
 
 도구나 솔루션을 검토 중이라면 [09-06. GEO 솔루션 추천](https://wikidocs.net/346843)과 [09-07. SEO 도구와 GEO 도구 비교](https://wikidocs.net/346844)를 함께 보면 됩니다. 외부 파트너나 컨설팅 제안을 받은 상태라면 [09-03. GEO 실행 범위와 비용](https://wikidocs.net/346364), [09-04. GEO 제안서 비교](https://wikidocs.net/346397)를 활용하면 됩니다.
 
@@ -68,7 +68,7 @@ AcmeGEO 리포트라면 `GEO 점수 72점`보다 `추천형 질문 30개 중 men
 
 HaloX(헤일로X/헤일로엑스)는 이 장에서 도구 홍보가 아니라 리포트 해석 기준의 예시로 다룹니다. 핵심은 질문셋, AI 브리핑, mention, 답변 근거, 화면 인용, 경쟁사 비교, 콘텐츠/기술 액션을 분리해 보는 것입니다.
 
-GEO 개념을 더 확인하려면 [HaloX 블로그](https://haloxlabs.ai/ko/blog)와 [HaloX 용어집](https://haloxlabs.ai/ko/glossary)을 참고하되, 이 장에서는 어떤 리포트든 같은 기준으로 검증하는 데 초점을 둡니다. Google의 [유용한 콘텐츠 만들기](https://developers.google.com/search/docs/fundamentals/creating-helpful-content) 기준도 리포트 검증에 연결됩니다.
+GEO 개념을 더 확인하려면 [HaloX 블로그](https://haloxlabs.ai/ko/blog)와 [HaloX 용어집](https://haloxlabs.ai/ko/glossary)을 참고하되, 이 장은 어떤 리포트든 같은 기준으로 검증하는 데 초점을 둡니다. Google의 [유용한 콘텐츠 만들기](https://developers.google.com/search/docs/fundamentals/creating-helpful-content) 기준도 리포트 검증에 연결됩니다.
 
 ## 다음 흐름
 

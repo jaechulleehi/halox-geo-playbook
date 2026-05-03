@@ -1,4 +1,4 @@
-## SEO 도구와 GEO 도구 비교: Semrush, Ahrefs, Profound, HaloX는 무엇이 다른가
+## SEO 도구와 GEO 도구 비교: Semrush/Ahrefs/Profound/HaloX
 
 ![SEO 도구와 GEO 도구 비교](../assets/images/page-heroes/halox-geo-09-07-seo-tools-vs-geo-tools-comparison-hero.png)
 

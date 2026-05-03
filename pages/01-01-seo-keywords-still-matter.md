@@ -1,4 +1,4 @@
-## 키워드 리서치: 검색량이 아니라 시장 언어를 수집하는 일
+## SEO 키워드 리서치: 검색량보다 시장 언어
 
 ![키워드 리서치 대표 이미지](../assets/images/page-heroes/halox-geo-01-01-seo-keywords-still-matter-hero.png)
 
@@ -77,7 +77,7 @@ GEO 도구 / AI 검색 모니터링 / ChatGPT 브랜드 노출 / GEO 리포트 /
 그래서 AcmeGEO는 키워드를 바로 글 제목으로 바꾸지 않고, 질문으로 확장했습니다.
 
 - `GEO 도구` → B2B SaaS 팀이 GEO 도구를 고를 때 어떤 지표를 봐야 할까?
-- `ChatGPT 브랜드 노출` → 우리 브랜드가 ChatGPT 답변에 나오는지 어떻게 확인할까?
+- `ChatGPT 브랜드 노출` → 우리 브랜드가 ChatGPT 답변에 등장하는지 측정하는 기준
 - `GEO 리포트` → GEO 리포트에서 mention/source/citation은 어떻게 해석할까?
 - `Perplexity SEO` → Perplexity와 Google AI Overviews의 citation은 어떻게 다를까?
 - `GEO 대행사` → 대행사 제안서에서 과장된 약속은 어떻게 걸러낼까?

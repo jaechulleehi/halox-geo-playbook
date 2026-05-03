@@ -1,4 +1,4 @@
-## 채널별 답변 근거 전략표는 어떻게 만들까
+## GEO 채널별 답변 근거 전략표 설계
 
 ![채널별 답변 근거 전략](../assets/images/page-heroes/halox-geo-05-04-channel-source-strategy-hero.png)
 

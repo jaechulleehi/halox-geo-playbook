@@ -1,4 +1,4 @@
-## 금융/규제 산업: 신뢰, 리스크, 비브랜드 질문을 함께 보는 법
+## 금융/규제 산업 GEO: 신뢰/리스크/비브랜드 질문
 
 ![금융 규제 산업의 신뢰와 리스크 관리](../assets/images/page-heroes/halox-geo-90-05-finance-regulated-geo-case-hero.png)
 

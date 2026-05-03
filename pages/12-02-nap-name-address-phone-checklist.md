@@ -1,4 +1,4 @@
-## NAP: 이름/주소/전화번호 일관성 점검
+## 로컬 SEO NAP 일관성: 이름/주소/전화번호 점검
 
 ![NAP 이름 주소 전화번호 일관성 점검](../assets/images/page-heroes/halox-geo-12-02-nap-name-address-phone-checklist-hero.png)
 

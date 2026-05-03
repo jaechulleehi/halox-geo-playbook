@@ -1,4 +1,4 @@
-## GEO 제안서 비교: 과장된 약속은 어떻게 걸러낼까
+## GEO 제안서 비교: 과장된 약속 걸러내기
 
 ![GEO 제안서 비교 기준](../assets/images/page-heroes/halox-geo-09-04-geo-proposal-structure-hero.png)
 

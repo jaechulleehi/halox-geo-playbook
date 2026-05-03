@@ -1,4 +1,4 @@
-## AI 구매 에이전트 시대의 커머스 검색 변화
+## AI 구매 에이전트와 커머스 GEO 검색 변화
 
 ![AI 구매 에이전트 시대의 커머스 검색 변화](../assets/images/page-heroes/halox-geo-11-01-agentic-commerce-search-shift-hero.png)
 

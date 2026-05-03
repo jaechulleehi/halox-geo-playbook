@@ -1,4 +1,4 @@
-## 영문 카테고리 자산은 왜 먼저 필요한가
+## 영문 GEO 카테고리 자산 구축
 
 ![영문 카테고리 자산 전략](../assets/images/page-heroes/halox-geo-08-01-english-category-assets-hero.png)
 

@@ -1,4 +1,4 @@
-## 의료광고와 후기 리스크: 병원 SEO/GEO에서 조심할 표현
+## 병원 SEO/GEO 의료광고와 후기 표현 리스크
 
 ![의료광고와 후기 리스크 검수 기준](../assets/images/page-heroes/halox-geo-12-06-medical-ad-review-risk-hero.png)
 

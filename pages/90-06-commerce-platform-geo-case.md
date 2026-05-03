@@ -1,4 +1,4 @@
-## 커머스/플랫폼: 상품 데이터와 AI 구매 에이전트 대응
+## 커머스/플랫폼 GEO: 상품 데이터와 AI 구매 에이전트 대응
 
 ![커머스 플랫폼과 AI 구매 에이전트 대응](../assets/images/page-heroes/halox-geo-90-06-commerce-platform-geo-case-hero.png)
 

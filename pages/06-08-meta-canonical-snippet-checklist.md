@@ -1,4 +1,4 @@
-## 메타 정보 실전 점검: title/meta description/canonical/robots meta
+## SEO 메타 정보와 canonical/robots meta 점검
 
 ![메타 정보 실전 점검](../assets/images/page-heroes/halox-geo-06-08-meta-canonical-snippet-checklist-hero.png)
 

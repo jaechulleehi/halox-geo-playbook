@@ -1,4 +1,4 @@
-## Schema 타입별 실전 점검표: Organization/Person/FAQ/Product
+## Schema 타입별 GEO 점검표: Organization/Person/FAQ/Product
 
 ![Schema 타입별 실전 점검표](../assets/images/page-heroes/halox-geo-06-07-schema-type-checklist-hero.png)
 
@@ -26,7 +26,7 @@ Schema 타입은 페이지의 목적에 맞춰 고릅니다. Organization은 회
   "@type": "FAQPage",
   "mainEntity": [{
     "@type": "Question",
-    "name": "GEO 리포트에서 source와 citation은 무엇이 다른가요?",
+    "name": "GEO 리포트에서 source와 citation은 어디가 달라지는가요?",
     "acceptedAnswer": {
       "@type": "Answer",
       "text": "source는 답변 근거이고, citation은 사용자 화면에 보이는 인용 링크입니다."

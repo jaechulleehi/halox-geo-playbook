@@ -1,4 +1,4 @@
-## 리뷰 전략: 네이버 영수증 리뷰, 지도 리뷰, 외부 후기
+## 로컬 SEO/GEO 리뷰 전략: 네이버/지도/외부 후기
 
 ![리뷰와 오프라인 권위 신호 전략](../assets/images/page-heroes/halox-geo-12-04-review-offline-authority-strategy-hero.png)
 

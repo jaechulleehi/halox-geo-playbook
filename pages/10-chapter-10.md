@@ -50,9 +50,9 @@ GEO 리포트가 흔히 약해지는 이유도 여기에 있습니다. “브랜
 
 ## 이 장을 읽는 순서
 
-먼저 [10-01. 1주차: GEO 기준선 진단](https://wikidocs.net/346365)에서 질문셋과 기준선 리포트를 만듭니다. 다음으로 [10-02. 2주차: Fan-out 질문맵과 콘텐츠 갭](https://wikidocs.net/346366)에서 약한 질문군을 하위 질문으로 펼칩니다.
+먼저 [10-01. 1주차 GEO 기준선 진단: 질문셋과 브랜드 노출](https://wikidocs.net/346365)에서 질문셋과 기준선 리포트를 만듭니다. 다음으로 [10-02. 2주차 Fan-out 질문맵과 콘텐츠 갭 분석](https://wikidocs.net/346366)에서 약한 질문군을 하위 질문으로 펼칩니다.
 
-그다음 [10-03. 3주차: 콘텐츠 리라이트와 출처 설계](https://wikidocs.net/346367)에서 Answer-first 콘텐츠, source map, 기술 요청을 정리합니다. 마지막으로 [10-04. 4주차: GEO 실행 리포트와 30일 액션 플랜](https://wikidocs.net/346368)에서 다음 달 실행 항목과 재측정 기준을 확정합니다.
+그다음 [10-03. 3주차: GEO 콘텐츠 리라이트와 source 설계](https://wikidocs.net/346367)에서 Answer-first 콘텐츠, source map, 기술 요청을 정리합니다. 마지막으로 [10-04. 4주차 GEO 실행 리포트와 30일 액션 플랜](https://wikidocs.net/346368)에서 다음 달 실행 항목과 재측정 기준을 확정합니다.
 
 ## 리포트에 들어갈 최소 데이터
 
@@ -62,7 +62,7 @@ mention, 답변 근거(source), 화면 인용(citation)은 [02. AI 검색 모니
 
 ## HaloX와 연결되는 지점
 
-4주 실행 로드맵에서 HaloX는 기능 소개용 화면이 아니라 분석과 리포트의 기준으로 사용합니다. 1주차에는 질문셋과 AI 브리핑으로 기준선을 잡고, 2주차에는 질문별 콘텐츠 갭을 찾고, 3주차에는 답변 근거/화면 인용과 콘텐츠 구조를 연결하고, 4주차에는 [09-05. GEO 리포트 운영: 브랜드 가시성을 매달 관리하는 법](https://wikidocs.net/346398)의 흐름으로 확장합니다.
+4주 실행 로드맵에서 HaloX는 기능 소개용 화면이 아니라 분석과 리포트의 기준으로 사용합니다. 1주차에는 질문셋과 AI 브리핑으로 기준선을 잡고, 2주차에는 질문별 콘텐츠 갭을 찾고, 3주차에는 답변 근거/화면 인용과 콘텐츠 구조를 연결하고, 4주차에는 [09-05. GEO 리포트 운영: 브랜드 가시성 월간 관리](https://wikidocs.net/346398)의 흐름으로 확장합니다.
 
 실행 로드맵에서 만든 결과물은 HaloX의 [GEO 블로그](https://haloxlabs.ai/ko/blog)와 연결해 개념을 더 깊게 확인할 수 있습니다. 특히 [GEO란 무엇인가](https://haloxlabs.ai/ko/blog/what-is-geo-optimization), [SEO/GEO 키워드 전략](https://haloxlabs.ai/ko/blog/seo-geo-keyword-strategy-framework), [AI에게 인용되는 콘텐츠 가이드](https://haloxlabs.ai/ko/blog/how-to-get-cited-by-ai), [GEO 콘텐츠 구조화 가이드](https://haloxlabs.ai/ko/blog/geo-content-structure)는 1~3주차 판단 기준으로 함께 보기 좋습니다.
 
@@ -88,4 +88,4 @@ mention, 답변 근거(source), 화면 인용(citation)은 [02. AI 검색 모니
 
 ## 다음 흐름
 
-이 장은 앞선 [09. GEO 리포트와 실행 검증: AI 검색 성과를 읽는 법](https://wikidocs.net/346337)의 판단 기준을 실제 실행 계획으로 바꿉니다. 4주 실행 로드맵을 마친 뒤에는 [90. 산업별 GEO 케이스북](https://wikidocs.net/346381)을 참고해 업종별로 어떤 질문과 출처를 더 봐야 하는지 확인합니다.
+이 장은 앞선 [09. GEO 리포트와 AI 검색 성과 검증](https://wikidocs.net/346337)의 판단 기준을 실제 실행 계획으로 바꿉니다. 4주 실행 로드맵을 마친 뒤에는 [90. 산업별 GEO 케이스북](https://wikidocs.net/346381)을 참고해 업종별로 어떤 질문과 출처를 더 봐야 하는지 확인합니다.

@@ -1,4 +1,4 @@
-## AI 검색은 기존 검색과 무엇이 다른가
+## AI 검색 최적화가 기존 SEO와 달라지는 지점
 
 ![기존 검색과 AI 검색의 차이](../assets/images/page-heroes/halox-geo-00-03-ai-search-difference-hero.png)
 

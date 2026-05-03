@@ -1,4 +1,4 @@
-## 오프사이트 출처 후보 맵을 만드는 법
+## 오프사이트 source map: 외부 출처 후보 설계
 
 ![오프사이트 출처 후보 맵](../assets/images/page-heroes/halox-geo-05-03-offsite-source-map-hero.png)
 

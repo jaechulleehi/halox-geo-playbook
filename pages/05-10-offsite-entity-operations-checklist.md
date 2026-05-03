@@ -1,4 +1,4 @@
-## 오프사이트 엔티티 운영표: 30일 실행 체크리스트
+## 오프사이트 엔티티 30일 운영표
 
 ![오프사이트 엔티티 운영표 대표 이미지](../assets/images/page-heroes/halox-geo-05-10-offsite-entity-operations-checklist-hero.png)
 

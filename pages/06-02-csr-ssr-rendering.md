@@ -1,4 +1,4 @@
-## CSR/SSR 렌더링은 GEO에서 왜 중요한가
+## CSR/SSR 렌더링과 GEO 크롤링 리스크
 
 ![CSR SSR 렌더링과 GEO 읽기 흐름](../assets/images/page-heroes/halox-geo-06-02-csr-ssr-rendering-hero.png)
 

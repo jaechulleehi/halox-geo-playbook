@@ -1,4 +1,4 @@
-## ChatGPT 브랜드 노출은 어떻게 확인하나
+## ChatGPT 브랜드 노출 측정과 기준선 기록
 
 ![ChatGPT 브랜드 노출 측정 흐름](../assets/images/page-heroes/halox-geo-02-01-chatgpt-brand-visibility-hero.png)
 

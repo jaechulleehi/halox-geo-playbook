@@ -1,4 +1,4 @@
-## B2B SaaS GEO는 무엇이 다른가
+## B2B SaaS GEO 전략: 비교/검증 질문 대응
 
 ![B2B SaaS GEO 전략 흐름](../assets/images/page-heroes/halox-geo-07-01-b2b-saas-geo-hero.png)
 

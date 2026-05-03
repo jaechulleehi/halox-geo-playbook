@@ -1,6 +1,6 @@
 # 생성형 엔진 최적화(GEO) 실전 교과서: SEO에서 AI 검색 최적화까지
 
-GEO는 ChatGPT, Perplexity, Gemini, Google AI Overviews 같은 AI 검색에서 브랜드가 언급되고, 인용되고, 추천되도록 콘텐츠와 출처, 기술 구조를 설계하는 전략입니다. 이 책은 생성형 엔진 최적화(GEO), AI 검색 최적화, LLM SEO/LLMO를 처음 접하는 사람이 GEO 뜻을 이해하고 실무 실행으로 옮길 수 있도록 만든 GEO 실전 플레이북입니다.
+GEO는 ChatGPT, Perplexity, Gemini, Google AI Overviews 같은 AI 검색에서 브랜드가 언급되고, 인용되고, 추천되도록 콘텐츠와 출처, 기술 구조를 설계하는 전략입니다. 이 책은 생성형 엔진 최적화(GEO), AI 검색 최적화, LLM SEO/LLMO를 GEO 입문자가 GEO 뜻을 이해하고 실무 실행으로 옮길 수 있도록 만든 GEO 실전 플레이북입니다.
 
 기존 SEO가 검색 결과 페이지의 노출과 클릭을 다뤘다면, GEO 최적화는 AI 답변 안에서 브랜드가 어떤 질문에 등장하는지, 어떤 답변 근거(source)를 바탕으로 설명되는지, 화면 인용(citation)과 경쟁사 비교 문맥이 어떻게 잡히는지를 함께 봅니다. 이 책은 SEO 키워드를 AI 질문셋으로 바꾸고, ChatGPT 브랜드 노출, Perplexity SEO, Google AI Overviews 최적화, 브랜드 언급률, AI 검색 리포트, 콘텐츠 갭, 출처 전략, 기술 점검을 직접 정리할 수 있도록 돕습니다.
 

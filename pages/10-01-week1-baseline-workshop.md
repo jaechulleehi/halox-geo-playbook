@@ -1,4 +1,4 @@
-## 1주차: GEO 기준선 진단
+## 1주차 GEO 기준선 진단: 질문셋과 브랜드 노출
 
 ![1주차 GEO 기준선 진단](../assets/images/page-heroes/halox-geo-10-01-week1-baseline-workshop-hero.png)
 

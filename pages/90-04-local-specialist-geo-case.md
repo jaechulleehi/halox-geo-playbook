@@ -1,4 +1,4 @@
-## 로컬/전문 서비스: 지역 질문과 방문 전환을 연결하는 법
+## 로컬/전문 서비스 GEO: 지역 질문과 방문 전환
 
 ![지역 질문과 리뷰와 방문 전환 흐름](../assets/images/page-heroes/halox-geo-90-04-local-specialist-geo-case-hero.png)
 

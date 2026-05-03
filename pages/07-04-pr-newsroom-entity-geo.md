@@ -1,4 +1,4 @@
-## PR/뉴스룸 GEO는 왜 엔티티 전략인가
+## PR/뉴스룸 GEO와 엔티티 전략
 
 ![PR 뉴스룸 GEO 전략](../assets/images/page-heroes/halox-geo-07-04-pr-newsroom-entity-geo-hero.png)
 
