@@ -2,131 +2,79 @@
 
 ![Perplexity와 AI Overviews 인용 비교](../assets/images/page-heroes/halox-geo-02-02-perplexity-ai-overviews-citation-hero.png)
 
-Perplexity SEO와 Google AI Overviews 최적화는 모두 AI 검색 노출을 다루지만 보는 화면과 지표가 다릅니다. Perplexity는 답변과 출처 링크가 함께 보이는 경우가 많고, Google AI Overviews는 기존 검색 결과 페이지 안에서 AI 요약과 웹 결과가 함께 움직입니다.
+Perplexity SEO와 Google AI Overviews 최적화는 모두 AI 검색 노출을 다루지만 같은 지표로 읽으면 안 됩니다. Perplexity는 답변과 출처 링크의 관계가 비교적 선명하고, Google AI Overviews는 기존 검색결과 페이지 안에서 AI 요약과 웹 결과가 함께 움직입니다.
 
-그래서 두 플랫폼을 같은 표에 넣고 단순 언급 횟수만 비교하면 해석이 흐려집니다. GEO에서는 플랫폼별로 질문, 화면 인용(citation), 출처 반복성, 검색 결과와 AI 답변의 차이를 나눠 봐야 합니다.
+그래서 두 플랫폼을 한 줄 점수로 묶으면 원인이 흐려집니다. GEO에서는 플랫폼별로 질문, 답변 근거(source), 화면 인용(citation), 검색 결과와 AI 답변의 차이를 나눠 봐야 합니다.
 
 [TOC]
 
 ## 두 플랫폼의 차이
 
-| 구분 | Perplexity SEO | Google AI Overviews 최적화 |
+Perplexity는 “답변이 어떤 출처를 사용했는가”를 추적하기 좋습니다. 반면 Google AI Overviews는 기존 SEO 성과, SERP 구성, AI 요약 노출이 함께 얽힙니다. 같은 URL이 두 플랫폼에서 다르게 보일 수 있는 이유입니다.
+
+| 구분 | Perplexity | Google AI Overviews |
 |---|---|---|
-| 기본 화면 | 답변과 출처 링크 중심 | 검색 결과 페이지 안의 AI 요약 영역 |
-| 먼저 볼 것 | 어떤 출처가 반복 인용되는가 | AI 요약에 포함되는 주제/문장/링크 |
-| 강한 질문 | 비교/검증/리서치형 질문 | 정보 탐색/상업 조사/로컬/커머스 질문 |
-| 위험 신호 | 경쟁사나 제3자 자료만 출처가 됨 | 기존 SEO 노출은 있는데 AI 요약에는 빠짐 |
-| 실행 방향 | 출처 후보 맵, 외부 자료, 명확한 답변 구조 | 검색 결과 품질, 본문 답변성, 구조화 데이터 |
+| 주로 볼 것 | 답변 문장과 인용 URL의 연결 | 검색결과와 AI 요약의 관계 |
+| 강한 신호 | 특정 URL이 반복 인용됨 | 상위 검색결과/AI 요약에 함께 노출됨 |
+| 조심할 점 | 한 번의 인용을 과대평가하지 않기 | SEO 순위와 AI 요약 노출을 혼동하지 않기 |
 
-두 플랫폼 모두 “좋은 글을 많이 쓰면 된다”로 끝나지 않습니다. Perplexity에서는 출처로 반복 채택될 만한 자료가 중요하고, Google AI Overviews에서는 기존 검색 결과와 AI 요약이 만나는 지점을 함께 봐야 합니다.
+Perplexity에서 인용됐다고 Google AI Overviews에서도 유리하다고 단정할 수 없습니다. 반대로 Google 검색 상위에 있어도 AI 요약에 들어가지 않을 수 있습니다.
 
-![Perplexity와 AI Overviews 인용 구조 비교](../assets/images/body-figures/halox-geo-02-02-perplexity-ai-overviews-citation-map-codex-only.png)
+## Perplexity에서 볼 것
 
-## Perplexity SEO에서 볼 것
+Perplexity는 질문별로 어떤 출처가 답변 재료로 쓰였는지 보기 좋습니다. 여기서 중요한 것은 “우리 URL이 나왔는가”보다 “어떤 문장의 근거로 쓰였는가”입니다.
 
-Perplexity를 볼 때는 답변 본문보다 출처 목록을 먼저 확인합니다. 우리 사이트가 citation으로 보이는지, 경쟁사/리뷰/뉴스/문서형 채널 중 어떤 출처가 반복되는지, 답변 문장이 그 출처의 어떤 내용을 가져오는지 기록합니다.
+다음 순서로 봅니다.
 
-| 확인 항목 | 기록 방법 | 해석 |
-|---|---|---|
-| 우리 URL citation | 있음/없음 | 사용자가 클릭할 수 있는 출처로 보이는지 확인 |
-| 반복 citation 도메인 | 경쟁사/뉴스/블로그/문서/커뮤니티 | AI가 신뢰하는 출처 유형 파악 |
-| 답변 문장과 출처 일치 | 답변 내용이 어떤 출처에서 온 것처럼 보이는지 | 우리 콘텐츠의 표현/표/FAQ 보강 방향 결정 |
-| 경쟁사 citation | 어떤 경쟁사가 반복되는지 | 비교/리뷰/제3자 출처 확보 필요성 판단 |
-| 질문 유형 | 비교/검증/추천/리서치 | Perplexity에서 강한 질문군 확인 |
+1. 같은 질문을 3~5회 반복해 인용 URL이 안정적으로 나오는지 확인한다.
+2. 우리 URL이 브랜드 설명, 비교 근거, 가격/기능 근거 중 어디에 붙는지 본다.
+3. 경쟁 URL이 반복된다면 그 페이지가 어떤 정보를 더 잘 제공하는지 확인한다.
+4. 인용은 됐지만 답변 문맥이 약하면 페이지의 첫 문단/표/FAQ 구조를 고친다.
 
-좋은 질문 예시는 다음과 같습니다.
+한 번 인용된 URL은 신호입니다. 반복 인용되는 URL은 운영 대상입니다.
 
-- `GEO 도구를 비교할 때 무엇을 봐야 하나?`
-- `AI 검색 모니터링 도구 추천해줘`
-- `ChatGPT 브랜드 노출을 확인하는 방법은?`
-- `B2B SaaS 브랜드가 GEO를 시작하는 순서는?`
+## Google AI Overviews에서 볼 것
 
-이 질문에서 우리 브랜드가 source나 citation으로 등장하지 않는다면, 단순히 페이지를 더 쓰기보다 어떤 출처 유형이 선택되고 있는지 먼저 봐야 합니다.
+Google AI Overviews는 기존 검색결과와 분리해서 볼 수 없습니다. 같은 질문에서 일반 검색 상위 결과, AI 요약 안의 문장, 표시되는 출처가 함께 움직입니다.
 
-## Google AI Overviews 최적화에서 볼 것
+먼저 GSC와 SERP를 함께 봅니다. 검색 노출은 있는데 AI 요약에 들어가지 못한다면 답변 구조가 약할 수 있습니다. 반대로 AI 요약에 인용되는데 클릭이 약하다면 제목/스니펫/페이지 약속이 약할 수 있습니다.
 
-Google AI Overviews는 기존 SEO와 완전히 분리되지 않습니다. 검색 결과 상위 문서, 본문 구조, schema, FAQ, 표, 최신성, 브랜드 신뢰 신호가 함께 작동합니다. Google의 [AI features and your website](https://developers.google.com/search/docs/appearance/ai-features)는 Google 검색의 AI 기능이 웹사이트 발견과 연결될 수 있음을 설명합니다.
-
-따라서 Google AI Overviews 최적화는 검색 순위와 AI 요약 포함 여부를 같이 봐야 합니다.
-
-| 확인 질문 | 왜 중요한가 | 연결 액션 |
-|---|---|---|
-| 기존 검색 결과에는 보이는데 AI Overviews에는 빠지는가? | SEO 노출과 AI 요약 포함이 다를 수 있음 | 첫 문단/FAQ/표/본문 답변성 보강 |
-| AI 요약에는 나오지만 우리 URL이 화면 인용으로 보이지 않는가? | 주제는 맞지만 citation 경쟁에서 밀림 | 제목/스니펫/구조화 데이터/내부 링크 점검 |
-| 경쟁사 글이 더 명확한 답변 구조를 갖고 있는가? | AI가 비교 기준을 더 쉽게 가져갈 수 있음 | 비교표/선택 기준/사례 추가 |
-| FAQ/표/schema가 실제 본문 내용과 일치하는가? | 구조화 신호와 본문 불일치 방지 | 04장/06장 점검으로 연결 |
-| 커머스라면 상품 데이터, 리뷰, 가격, 재고 신호가 읽히는가? | 구매형 질문은 데이터 구조가 중요 | 11장 커머스 GEO로 연결 |
-
-Google의 [유용한 콘텐츠 만들기](https://developers.google.com/search/docs/fundamentals/creating-helpful-content)는 사람에게 유용하고 신뢰할 수 있는 콘텐츠를 강조합니다. AI Overviews 대응도 결국 질문에 직접 답하는 본문, 명확한 출처, 신뢰 가능한 정보 구조에서 출발해야 합니다.
-
-## SERP/GSC와 함께 읽는 법
-
-Google AI Overviews는 기존 SEO와 분리해서 보면 원인을 놓치기 쉽습니다. 어떤 query에서 일반 검색 노출은 있는데 AI Overviews에 빠지는지, 반대로 AI 요약에는 주제가 나오지만 우리 URL이 citation으로 보이지 않는지 함께 봐야 합니다. 이때 GSC의 impressions, CTR, average position, landing page 데이터를 같이 보면 콘텐츠 문제인지, 스니펫 문제인지, citation 후보 URL 문제인지 더 잘 나눌 수 있습니다.
-
-| 관찰 | 함께 볼 SEO 데이터 | 해석 | 다음 액션 |
-|---|---|---|---|
-| 일반 검색 노출 있음 / AI Overviews citation 없음 | GSC impressions, average position | 주제 관련성은 있으나 답변 구조가 약할 수 있음 | 첫 문단, 표, FAQ, schema 보강 |
-| 순위 5~20위 / AI 요약 경쟁사 인용 | query, landing page, 경쟁 페이지 | 상위 후보이나 신뢰/구조/권위가 부족 | 내부 링크, 외부 source, 콘텐츠 깊이 보강 |
-| CTR 낮음 / AI 요약에도 빠짐 | title, meta description, SERP feature | 검색결과 약속이 약하거나 의도 불일치 | title/meta와 H2 재정렬 |
-| Perplexity는 citation 있음 / Google은 없음 | citation URL, canonical, 색인 상태 | 플랫폼별 source 선택 기준 차이 | 대표 URL과 색인/구조화 데이터 확인 |
-| AI 요약은 있음 / GA4 engagement 낮음 | landing page engagement, CTA | 클릭 이후 답변 만족도가 약함 | 첫 화면 답변, 내부 링크, CTA 개선 |
-
-이 표는 AI Overviews 대응을 감으로 하지 않게 도와줍니다. `AI에 안 나온다`가 아니라 `어떤 query에서, 어떤 landing page가, 어떤 검색성과를 가진 상태에서 빠지는가`로 바꿔야 실행이 선명해집니다.
+Google AI Overviews 최적화는 “AI 요약에 들어가자”가 아니라 “검색자가 본 질문에 대해 페이지가 명확한 답과 근거를 제공하게 만들자”에 가깝습니다.
 
 ## citation 후보 URL 점검 순서
 
-1. AI 답변에 인용되기를 원하는 핵심 URL을 고릅니다.
-2. 해당 URL이 Google에 색인되어 있는지 확인합니다.
-3. 같은 query에서 GSC impressions와 CTR이 있는지 봅니다.
-4. title, H1/H2, 첫 문단이 query 의도와 맞는지 확인합니다.
-5. 본문에 정의, 비교표, 절차, FAQ가 실제로 있는지 봅니다.
-6. canonical이 대표 URL을 가리키는지 점검합니다.
-7. 내부 링크와 sitemap에 포함되어 있는지 확인합니다.
-8. Perplexity/AI Overviews에서 같은 질문으로 재측정합니다.
+화면 인용(citation)을 늘리고 싶다면 먼저 URL 단위로 읽어야 합니다. 사이트 전체 권위보다 질문별 후보 URL의 구조가 더 직접적인 경우가 많습니다.
 
-AcmeGEO라면 `GEO 리포트 예시` 페이지를 citation 후보로 정할 수 있습니다. 이 URL이 색인되어 있고, `GEO 리포트 지표`, `AI 검색 모니터링 리포트` query에서 impressions가 생기는지 확인한 뒤, 본문 구조와 canonical, 내부 링크를 점검합니다.
+- 질문에 대한 답이 첫 화면에 바로 있는가
+- 페이지 제목과 첫 문단이 같은 약속을 하는가
+- 표/FAQ/schema가 답변을 보조하는가
+- 최신성, 저자, 회사 정보, 사례가 확인되는가
+- 내부 링크가 관련 페이지로 자연스럽게 이어지는가
 
-## 측정표
+![Perplexity와 AI Overviews 인용 구조 비교](../assets/images/body-figures/halox-geo-02-02-perplexity-ai-overviews-citation-map-codex-only.png)
 
-| 질문 | 플랫폼 | 브랜드 mention | 화면 인용(citation) | 반복 출처 | 다음 액션 |
-|---|---|---|---|---|---|
-| GEO 도구 추천 | Perplexity | 없음 | 경쟁사 블로그 2개 | 리뷰/비교 글 | 비교 콘텐츠와 외부 출처 확보 |
-| AI 검색 최적화 방법 | Google AI Overviews | 부분 언급 | 우리 URL 없음 | 상위 SEO 글 | 첫 문단/FAQ/schema 보강 |
-| ChatGPT 브랜드 노출 확인 방법 | Perplexity | 있음 | 우리 URL 없음 | 제3자 설명 글 | 공식 가이드와 용어 정의 보강 |
-| 로컬 병원 GEO 방법 | Google AI Overviews | 없음 | 병원/지도/리뷰 글 | 로컬 출처 | 지역 질문셋과 리뷰/NAP 콘텐츠 보강 |
+*Perplexity는 출처 반복성을, AI Overviews는 검색결과와 AI 요약의 겹침을 함께 본다.*
 
-## 플랫폼별 실행 판단
+## 운영 판단
 
-| 상황 | 해석 | 우선 액션 |
-|---|---|---|
-| Perplexity에서 경쟁사 citation만 반복 | 외부 출처와 비교 자산이 약함 | 제3자 리뷰/비교 글/가이드 자산 확보 |
-| Perplexity에서 우리 URL은 나오지만 설명이 약함 | source는 있으나 answer quality가 낮음 | 첫 문단, 표, FAQ, 핵심 메시지 정리 |
-| Google 일반 검색에는 보이지만 AI Overviews에는 빠짐 | 본문 답변성이나 구조화 신호가 약할 수 있음 | answer-first 문단, schema, FAQ 보강 |
-| AI Overviews에는 나오지만 우리 URL이 없음 | 주제는 맞지만 citation 경쟁에서 밀림 | 원문 명확성, 내부 링크, 최신성 점검 |
-| 두 플랫폼 모두에서 빠짐 | 카테고리/출처/권위 신호가 모두 약함 | 질문셋 재설계 후 콘텐츠/오프사이트 동시 보강 |
-
-## 측정 템플릿
-
-```text
-측정일:
-질문 원문:
-플랫폼: Perplexity / Google AI Overviews
-지역/언어:
-질문 유형: 비교/검증/추천/정보/로컬/커머스
-AI 요약 또는 답변 노출 여부:
-브랜드 mention: 있음/없음
-우리 URL citation: 있음/없음
-반복 citation 도메인:
-경쟁사 citation:
-일반 검색 순위 또는 노출 상태:
-답변에서 빠진 정보:
-보강할 페이지:
-다음 액션:
-재측정일:
-```
-
-## HaloX로 이어지는 지점
+Perplexity에서 반복 인용되지만 Google AI Overviews에는 보이지 않는다면, 검색 의도와 SERP 경쟁을 다시 봅니다. 반대로 Google 검색에서는 잘 보이지만 Perplexity에서 인용되지 않는다면, 페이지 안의 답변 단위와 출처 신호를 점검합니다.
 
 플랫폼별 가시성을 한 리포트로 묶어 보고 싶다면 HaloX의 [AVI 점수 가이드](https://haloxlabs.ai/ko/blog/avi-score-explained)를 참고합니다. 단, 운영에서는 플랫폼별 원인을 분리해 보는 것이 먼저입니다. 커머스 쪽은 [커머스 GEO와 AI 구매 에이전트](https://wikidocs.net/346596)에서 더 자세히 다룹니다.
+
+## 정리 양식
+
+```text
+질문:
+플랫폼:
+반복 측정 횟수:
+우리 브랜드 언급:
+우리 URL citation:
+경쟁 URL citation:
+AI 답변의 핵심 문장:
+검색결과 TOP10과 겹치는 URL:
+다음 수정 대상 URL:
+```
+
+## 다음 흐름
 
 플랫폼별 측정값을 리포트 지표로 정리하려면 [브랜드 언급률, 답변 근거, 화면 인용은 어떻게 나눠 읽나](https://wikidocs.net/346603)를 읽습니다.
