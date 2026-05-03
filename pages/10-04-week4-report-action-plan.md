@@ -45,4 +45,4 @@ AcmeGEO는 추천형 질문에서 mention은 늘었지만 citation은 아직 약
 
 ## 다음 흐름
 
-4주 흐름이 끝나면 [월간 GEO 리포트 운영](https://wikidocs.net/346398)의 월간 리포트 운영으로 반복합니다.
+4주 흐름이 끝나면 [월간 GEO 리포트 운영](https://wikidocs.net/346398)으로 이어가 매달 같은 기준으로 반복합니다.
