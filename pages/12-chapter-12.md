@@ -47,7 +47,7 @@
 
 ![로컬 업종 GEO 운영 모델](../assets/images/body-figures/halox-geo-12-chapter-12-local-geo-operation-model-codex-only.png)
 
-<small>로컬 업종의 GEO는 발견, 신뢰, 비교, 전환, 리스크를 분리해 보고 각 단계에 맞는 지도, 리뷰, 콘텐츠, 전환 자산을 맞춘다.</small>
+*로컬 업종의 GEO는 발견, 신뢰, 비교, 전환, 리스크를 분리해 보고 각 단계에 맞는 지도, 리뷰, 콘텐츠, 전환 자산을 맞춘다.*
 
 ## 로컬 업종에서 먼저 봐야 할 신호
 

@@ -24,7 +24,7 @@ Google의 유용한 콘텐츠 기준을 이 업종에 적용하면 핵심은 독
 
 ![규제 산업 GEO 위험 통제 보드](../assets/images/body-figures/halox-geo-07-05-regulated-industry-risk-control-board-codex-only.png)
 
-<small>규제 산업에서는 노출 확대보다 과장, 누락, 오해 가능성을 먼저 분리해 안전한 답변 근거를 만들어야 한다.</small>
+*규제 산업에서는 노출 확대보다 과장, 누락, 오해 가능성을 먼저 분리해 안전한 답변 근거를 만들어야 한다.*
 
 
 ## 사례로 이해하기

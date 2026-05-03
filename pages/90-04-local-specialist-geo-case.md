@@ -70,7 +70,7 @@ AcmeClinic 강남점은 실제로 야간 상담을 운영하고 있었지만, AI
 
 ![로컬 전문 서비스 방문 전환 보드](../assets/images/body-figures/halox-geo-90-04-local-specialist-visit-conversion-board-codex-only.png)
 
-<small>로컬/전문 서비스 케이스는 NAP, 지도, 리뷰, 지점 페이지, 전환 정보, 표현 리스크를 함께 봐야 지역 질문이 실제 방문으로 이어진다.</small>
+*로컬/전문 서비스 케이스는 NAP, 지도, 리뷰, 지점 페이지, 전환 정보, 표현 리스크를 함께 봐야 지역 질문이 실제 방문으로 이어진다.*
 
 ## 4주 실행 흐름
 

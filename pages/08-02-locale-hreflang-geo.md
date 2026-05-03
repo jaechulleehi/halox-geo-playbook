@@ -57,7 +57,7 @@ Google의 [canonical 지정 가이드](https://developers.google.com/search/docs
 
 ![Locale hreflang canonical 리스크 맵](../assets/images/body-figures/halox-geo-08-02-locale-hreflang-canonical-risk-map-codex-only.png)
 
-<small>locale, hreflang, canonical은 검색엔진과 AI 크롤러가 어느 시장의 페이지를 읽을지 정하는 신호다.</small>
+*locale, hreflang, canonical은 검색엔진과 AI 크롤러가 어느 시장의 페이지를 읽을지 정하는 신호다.*
 
 
 ## URL 구조별 장단점

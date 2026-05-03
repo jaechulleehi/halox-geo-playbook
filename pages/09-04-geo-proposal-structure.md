@@ -63,7 +63,7 @@ AcmeGEO가 제안서를 받는다면 “AI 답변 1위 보장”보다 “추천
 
 ![GEO 제안서 과장 약속 필터 매트릭스](../assets/images/body-figures/halox-geo-09-04-proposal-promise-filter-matrix-codex-only.png)
 
-<small>GEO 제안서는 보장 문구보다 측정 조건, 데이터 출처, 실행 범위, 검증 주기를 기준으로 비교해야 한다.</small>
+*GEO 제안서는 보장 문구보다 측정 조건, 데이터 출처, 실행 범위, 검증 주기를 기준으로 비교해야 한다.*
 
 
 ## 과장된 약속 체크리스트

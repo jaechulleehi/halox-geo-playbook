@@ -77,7 +77,7 @@ AI 답변은 변동성이 있습니다. 그래서 결과만 남기면 나중에 
 
 ![1주차 기준선 측정 보드](../assets/images/body-figures/halox-geo-10-01-week1-baseline-measurement-board-codex-only.png)
 
-<small>1주차 기준선은 질문셋과 측정 조건을 고정한 뒤 mention, source, citation을 분리해 기록하는 단계다.</small>
+*1주차 기준선은 질문셋과 측정 조건을 고정한 뒤 mention, source, citation을 분리해 기록하는 단계다.*
 
 
 ## 따라 해보는 순서

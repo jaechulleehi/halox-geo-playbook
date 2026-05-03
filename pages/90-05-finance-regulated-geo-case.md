@@ -101,7 +101,7 @@ AcmeFinance는 새 요금제를 출시했지만, AI 답변은 6개월 전 블로
 
 ![금융 규제 산업 신뢰 리스크 필터](../assets/images/body-figures/halox-geo-90-05-finance-regulated-trust-risk-filter-codex-only.png)
 
-<small>금융/규제 산업에서는 비브랜드 질문 대응과 함께 수수료, 보안, 약관, 손실 위험, 법무 검수 흐름을 같은 리포트에서 관리해야 한다.</small>
+*금융/규제 산업에서는 비브랜드 질문 대응과 함께 수수료, 보안, 약관, 손실 위험, 법무 검수 흐름을 같은 리포트에서 관리해야 한다.*
 
 ## 측정표
 

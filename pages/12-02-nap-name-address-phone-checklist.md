@@ -134,7 +134,7 @@ GEO 관점에서는 이 불일치가 더 위험합니다. AI가 여러 출처를
 
 ![NAP 로컬 엔티티 일관성 맵](../assets/images/body-figures/halox-geo-12-02-nap-entity-consistency-map-codex-only.png)
 
-<small>NAP 점검은 채널별 표기 차이를 줄이는 작업이 아니라, AI와 검색엔진이 같은 지점과 브랜드를 같은 엔티티로 식별하게 만드는 작업이다.</small>
+*NAP 점검은 채널별 표기 차이를 줄이는 작업이 아니라, AI와 검색엔진이 같은 지점과 브랜드를 같은 엔티티로 식별하게 만드는 작업이다.*
 
 ## NAP 점검을 검색엔진 관점으로 확장하기
 

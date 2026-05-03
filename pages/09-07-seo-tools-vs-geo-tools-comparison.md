@@ -41,7 +41,7 @@ AI 검색에서는 사용자가 목록보다 답변을 먼저 봅니다. 이때 
 
 ![SEO 도구와 GEO 도구 역할 비교 맵](../assets/images/body-figures/halox-geo-09-07-seo-tools-geo-tools-role-map-codex-only.png)
 
-<small>SEO 도구는 검색 수요와 순위를, GEO 도구는 AI 답변 안의 언급, 근거, 인용 흐름을 다르게 읽는다.</small>
+*SEO 도구는 검색 수요와 순위를, GEO 도구는 AI 답변 안의 언급, 근거, 인용 흐름을 다르게 읽는다.*
 
 
 ## Semrush와 Ahrefs는 GEO에서 어디까지 유효한가

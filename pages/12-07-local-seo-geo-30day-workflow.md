@@ -21,7 +21,7 @@
 
 ![로컬 SEO GEO 30일 운영 루프](../assets/images/body-figures/halox-geo-12-07-local-30day-operation-loop-codex-only.png)
 
-<small>30일 운영 루프는 기준선 진단, 기본 신호 수정, 콘텐츠와 리뷰 보강, AI 답변 측정과 월간 리포트로 이어진다.</small>
+*30일 운영 루프는 기준선 진단, 기본 신호 수정, 콘텐츠와 리뷰 보강, AI 답변 측정과 월간 리포트로 이어진다.*
 
 ## 1주차: 기준선 진단
 

@@ -50,7 +50,7 @@
 
 ![영문 카테고리 자산 브리프 구조](../assets/images/body-figures/halox-geo-08-01-english-category-asset-brief-codex-only.png)
 
-<small>영문 카테고리 자산은 번역 문장보다 카테고리 언어, 문제 정의, 비교 기준, 근거 자료를 먼저 잡아야 한다.</small>
+*영문 카테고리 자산은 번역 문장보다 카테고리 언어, 문제 정의, 비교 기준, 근거 자료를 먼저 잡아야 한다.*
 
 
 ## 첫 문단 적용 예시

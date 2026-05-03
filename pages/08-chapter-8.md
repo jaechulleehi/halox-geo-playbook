@@ -44,7 +44,7 @@ AcmeGEO가 국내에서 `GEO 도구`로 설명되더라도, 영어권에서는 `
 
 ![글로벌 GEO 현지화 전환 흐름](../assets/images/body-figures/halox-geo-08-chapter-8-global-geo-localization-funnel-codex-only.png)
 
-<small>글로벌 GEO는 번역이 아니라 국내 근거를 시장 언어, 현지 source, 검색 의도로 다시 조립하는 과정이다.</small>
+*글로벌 GEO는 번역이 아니라 국내 근거를 시장 언어, 현지 source, 검색 의도로 다시 조립하는 과정이다.*
 
 
 ## 글로벌 확장 3단계

@@ -61,7 +61,7 @@ AcmeGEO 리포트라면 `GEO 점수 72점`보다 `추천형 질문 30개 중 men
 
 ![GEO 리포트 검증 루프](../assets/images/body-figures/halox-geo-09-chapter-9-report-validation-loop-codex-only.png)
 
-<small>GEO 리포트는 점수표가 아니라 상태, 원인, 액션, 재측정을 연결하는 검증 루프다.</small>
+*GEO 리포트는 점수표가 아니라 상태, 원인, 액션, 재측정을 연결하는 검증 루프다.*
 
 
 ## 이 장에서 다루는 세부 페이지

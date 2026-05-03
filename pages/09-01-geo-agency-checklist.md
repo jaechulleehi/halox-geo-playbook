@@ -34,7 +34,7 @@ GEO 리포트의 목적은 보고가 아니라 판단입니다. 리포트를 보
 
 ![GEO 리포트를 회의 안건으로 바꾸는 구조](../assets/images/body-figures/halox-geo-09-01-agency-report-meeting-agenda-codex-only.png)
 
-<small>좋은 GEO 리포트는 지표 나열에서 멈추지 않고 회의에서 결정할 질문과 액션으로 바뀌어야 한다.</small>
+*좋은 GEO 리포트는 지표 나열에서 멈추지 않고 회의에서 결정할 질문과 액션으로 바뀌어야 한다.*
 
 
 ## 리포트를 회의 안건으로 바꾸는 법

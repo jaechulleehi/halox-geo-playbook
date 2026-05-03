@@ -115,7 +115,7 @@ Google의 [비즈니스 프로필 소개](https://support.google.com/business/an
 
 ![지도 프로필 월간 운영 보드](../assets/images/body-figures/halox-geo-12-03-map-profile-monthly-operations-board-codex-only.png)
 
-<small>지도 프로필은 한 번 등록하고 끝나는 자산이 아니라 영업시간, 사진, 리뷰, 카테고리, URL을 주기적으로 맞추는 운영 자산이다.</small>
+*지도 프로필은 한 번 등록하고 끝나는 자산이 아니라 영업시간, 사진, 리뷰, 카테고리, URL을 주기적으로 맞추는 운영 자산이다.*
 
 ## 지도 SEO 체크리스트
 

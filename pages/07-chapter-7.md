@@ -39,7 +39,7 @@
 
 ![산업별 GEO 전략 선택 프레임](../assets/images/body-figures/halox-geo-07-chapter-7-industry-strategy-selector-codex-only.png)
 
-<small>산업별 GEO는 업종명보다 질문 맥락, 신뢰 기준, 전환 경로를 함께 보고 선택한다.</small>
+*산업별 GEO는 업종명보다 질문 맥락, 신뢰 기준, 전환 경로를 함께 보고 선택한다.*
 
 
 ## 산업별 적용 패키지

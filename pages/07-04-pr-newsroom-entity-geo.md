@@ -25,7 +25,7 @@ Google의 Article structured data는 기사형 콘텐츠의 기본 구조를 이
 
 ![뉴스룸 엔티티 허브 구조](../assets/images/body-figures/halox-geo-07-04-newsroom-entity-hub-codex-only.png)
 
-<small>뉴스룸은 보도자료 보관함이 아니라 회사, 제품, 인물, 성과 근거를 연결하는 엔티티 허브로 설계해야 한다.</small>
+*뉴스룸은 보도자료 보관함이 아니라 회사, 제품, 인물, 성과 근거를 연결하는 엔티티 허브로 설계해야 한다.*
 
 
 ## 사례로 이해하기

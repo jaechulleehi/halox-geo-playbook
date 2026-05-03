@@ -33,7 +33,7 @@ Google의 Product structured data와 Merchant Center 제품 데이터 사양을 
 
 ![커머스 상품 데이터와 AI 답변 연결 구조](../assets/images/body-figures/halox-geo-07-02-commerce-product-data-answer-loop-codex-only.png)
 
-<small>커머스 GEO와 AIO는 상품 데이터, 리뷰, 재고, 가격 정보가 AI 답변 안에서 같은 방향으로 읽힐 때 강해진다.</small>
+*커머스 GEO와 AIO는 상품 데이터, 리뷰, 재고, 가격 정보가 AI 답변 안에서 같은 방향으로 읽힐 때 강해진다.*
 
 
 ## 커머스/플랫폼에서 먼저 볼 것

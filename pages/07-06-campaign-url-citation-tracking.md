@@ -24,7 +24,7 @@ GEO 관점에서는 캠페인 시작 전부터 대표 URL, 추적 URL, canonical
 
 ![캠페인 URL 인용 추적 생애주기](../assets/images/body-figures/halox-geo-07-06-campaign-url-citation-lifecycle-codex-only.png)
 
-<small>캠페인 URL은 시작, 확산, 종료, 보존 시점마다 인용 여부와 기준 URL을 따로 추적해야 한다.</small>
+*캠페인 URL은 시작, 확산, 종료, 보존 시점마다 인용 여부와 기준 URL을 따로 추적해야 한다.*
 
 
 ## 사례로 이해하기

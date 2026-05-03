@@ -77,7 +77,7 @@
 
 ![2주차 Fan-out 질문맵과 콘텐츠 갭 우선순위](../assets/images/body-figures/halox-geo-10-02-week2-fanout-gap-priority-map-codex-only.png)
 
-<small>2주차에는 Fan-out 질문을 콘텐츠 갭으로 바꾸고, 영향도와 실행 난이도로 우선순위를 정한다.</small>
+*2주차에는 Fan-out 질문을 콘텐츠 갭으로 바꾸고, 영향도와 실행 난이도로 우선순위를 정한다.*
 
 
 ## 2주차에서 3주차 작업으로 넘기는 기준

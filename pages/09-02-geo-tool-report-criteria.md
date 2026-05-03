@@ -33,7 +33,7 @@ mention/source/citation은 따로 볼 때보다 조합으로 읽어야 합니다
 
 ![mention source citation 해석 맵](../assets/images/body-figures/halox-geo-09-02-mention-source-citation-interpretation-map-codex-only.png)
 
-<small>mention, source, citation은 따로 보는 지표가 아니라 조합으로 원인과 다음 액션을 판단해야 한다.</small>
+*mention, source, citation은 따로 보는 지표가 아니라 조합으로 원인과 다음 액션을 판단해야 한다.*
 
 
 ## 플랫폼별로 같은 지표도 다르게 보인다
