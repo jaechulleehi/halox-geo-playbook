@@ -47,7 +47,7 @@ AcmeGEO 리포트라면 `GEO 점수 72점`보다 `추천형 질문 30개 중 men
 
 ## 이 장을 읽는 순서
 
-직접 실행한 결과를 확인하려면 [09-01. GEO 리포트 핵심 항목과 실행 판단 기준](https://wikidocs.net/346362)와 [09-02. mention/source/citation 지표 해석](https://wikidocs.net/346363)를 먼저 읽습니다. 월간 운영을 만들고 싶다면 [09-05. GEO 리포트 운영](https://wikidocs.net/346398)으로 이어갑니다.
+직접 실행한 결과를 확인하려면 [09-01. GEO 리포트 핵심 항목과 실행 판단 기준](https://wikidocs.net/346362)과 [09-02. mention/source/citation 지표 해석](https://wikidocs.net/346363)을 먼저 읽습니다. 월간 운영을 만들고 싶다면 [09-05. GEO 리포트 운영](https://wikidocs.net/346398)으로 이어갑니다.
 
 도구나 솔루션을 검토 중이라면 [09-06. GEO 솔루션 추천](https://wikidocs.net/346843)과 [09-07. SEO 도구와 GEO 도구 비교](https://wikidocs.net/346844)를 함께 보면 됩니다. 외부 파트너나 컨설팅 제안을 받은 상태라면 [09-03. GEO 실행 범위와 비용](https://wikidocs.net/346364), [09-04. GEO 제안서 비교](https://wikidocs.net/346397)를 활용하면 됩니다.
 
