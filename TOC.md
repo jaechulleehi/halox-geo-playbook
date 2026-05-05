@@ -74,7 +74,7 @@
   - [09-01. GEO 리포트 핵심 항목과 실행 판단 기준](pages/09-01-geo-agency-checklist.md)
   - [09-02. mention/source/citation 지표 해석](pages/09-02-geo-tool-report-criteria.md)
   - [09-03. GEO 실행 범위와 비용 판단](pages/09-03-geo-business-model.md)
-  - [09-04. GEO 제안서 비교: 과장된 약속 걸러내기](pages/09-04-geo-proposal-structure.md)
+  - [09-04. GEO 제안서 검토: 측정 조건과 실행 범위 확인](pages/09-04-geo-proposal-structure.md)
   - [09-05. GEO 리포트 운영: 브랜드 가시성 월간 관리](pages/09-05-recurring-geo-report-product.md)
   - [09-06. GEO 솔루션 추천: AI 검색 최적화 도구 선택 기준](pages/09-06-geo-solution-recommendation.md)
   - [09-07. SEO 도구와 GEO 도구 비교: Semrush/Ahrefs/Profound/HaloX](pages/09-07-seo-tools-vs-geo-tools-comparison.md)
