@@ -73,6 +73,19 @@ Google의 [AI features and your website](https://developers.google.com/search/do
 
 HaloX 자료로는 [쿼리 팬아웃](https://haloxlabs.ai/ko/glossary/query-fan-out), [PAA](https://haloxlabs.ai/ko/glossary/paa), [SEO/GEO 키워드 전략 프레임워크](https://haloxlabs.ai/ko/blog/seo-geo-keyword-strategy-framework), [GEO 콘텐츠 구조화 가이드](https://haloxlabs.ai/ko/blog/geo-content-structure)를 함께 봅니다.
 
+## Fan-out을 리포트 입력값으로 쓰기
+
+Query Fan-out은 어려운 개념처럼 보이지만, 실무에서는 하나의 검색어가 여러 AI 질문으로 갈라지는 현상을 기록하는 일입니다. 이 장의 산출물은 긴 질문 목록이 아니라 우선순위가 있는 질문맵입니다.
+
+| 질문 유형 | 확인할 것 |
+|---|---|
+| 정의형 | AI가 우리 카테고리를 어떻게 설명하는가 |
+| 비교형 | 경쟁 브랜드와 어떤 기준으로 묶이는가 |
+| 검증형 | 신뢰, 보안, 사례, 가격 같은 의심 질문이 있는가 |
+| 실행형 | 사용자가 다음에 읽어야 할 공식 URL이 있는가 |
+
+Fan-out 질문맵이 있어야 04장의 Answer-first 콘텐츠와 09장의 리포트 판단이 서로 이어집니다.
+
 ## 다음 흐름
 
 03장에서 약한 질문군을 하위 판단으로 펼쳤다면, 다음은 그 빈칸을 실제 페이지와 출처로 채우는 일입니다. [04장 AI가 읽기 좋은 콘텐츠 구조](https://wikidocs.net/346332)에서는 답변형 콘텐츠로 바꾸고, [05장 답변 근거/화면 인용/엔티티 전략](https://wikidocs.net/346333)에서는 내부 콘텐츠 밖의 신뢰 신호를 설계합니다.

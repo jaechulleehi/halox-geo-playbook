@@ -59,6 +59,20 @@ Google의 [유용한 콘텐츠 만들기](https://developers.google.com/search/d
 
 AI가 읽기 좋은 글 구조는 HaloX의 [GEO 콘텐츠 구조화 가이드](https://haloxlabs.ai/ko/blog/geo-content-structure), [AI에게 인용되는 콘텐츠 만드는 법](https://haloxlabs.ai/ko/blog/how-to-get-cited-by-ai), [AI 검색이 선택하는 콘텐츠의 5가지 공통점](https://haloxlabs.ai/ko/blog/ai-preferred-content-structure)과 함께 보면 좋습니다. 이 장은 WikiDocs 안에서 실습 기준을 잡고, HaloX 글은 실제 콘텐츠 운영 맥락을 더 넓게 설명하는 자료로 연결합니다.
 
+## Answer-first를 실행 문서로 바꾸기
+
+AI 검색 최적화 콘텐츠는 “AI가 좋아하는 문장”을 쓰는 일이 아닙니다. 독자가 먼저 답을 얻고, AI도 답변 근거로 재사용할 수 있도록 정의, 조건, 비교 기준, FAQ, 표, schema를 정리하는 일입니다.
+
+| 콘텐츠 요소 | GEO에서의 역할 |
+|---|---|
+| 첫 문단 | 질문에 대한 짧은 답과 대상 독자 제시 |
+| 비교표 | 선택 기준과 경쟁 문맥을 명확히 정리 |
+| FAQ | 실제 질문을 문서 구조 안에 반영 |
+| schema | 검색엔진과 AI가 구조를 해석할 단서 제공 |
+| 내부 링크 | 다음 질문으로 이어지는 경로 제공 |
+
+04장을 마치면 “새 글을 쓰자”가 아니라 “어떤 질문군의 어떤 답변 공백을 어떤 URL에서 메울 것인가”가 남아야 합니다.
+
 ## 다음 흐름
 
 04장에서 자사 페이지 안의 답변 재료를 정리했다면 [05. 답변 근거, 화면 인용, 엔티티 전략](https://wikidocs.net/346333)으로 넘어갑니다. 05장에서는 그 답변 재료가 웹 전체의 신뢰 신호와 연결되는지 확인합니다.

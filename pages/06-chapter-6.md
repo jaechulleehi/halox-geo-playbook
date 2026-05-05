@@ -71,6 +71,23 @@ Google 공식 도구로 검증하려면 [06-06. Google 공식 도구 기반 SEO/
 
 메타 정보와 리치 리절트까지 확인할 때는 Google의 [구조화 데이터 소개](https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data), [Rich Results Test](https://search.google.com/test/rich-results), [PageSpeed Insights](https://pagespeed.web.dev/), [Search Console 성과 보고서](https://support.google.com/webmasters/answer/7576553)를 함께 봅니다.
 
+## HaloX 사이트 진단과 연결하기
+
+테크니컬 GEO는 개발 체크리스트가 아니라 “AI가 발견하고, 읽고, 해석하고, 인용할 수 있는가”를 확인하는 작업입니다. HaloX 기준으로는 `사이트 진단`에서 접근성/메타/schema/렌더링 이슈를 먼저 보고, `인용 추적`에서 실제 citation 후보 URL이 빠지는지 확인합니다.
+
+| 점검 축 | 확인할 것 | 실행 티켓 예시 |
+|---|---|---|
+| 발견 | sitemap, robots, canonical, 상태 코드 | 핵심 URL 색인/접근성 점검 |
+| 읽기 | 초기 HTML, 렌더링 후 DOM, 본문/표/FAQ 노출 | CSR 의존 구간 SSR/정적 본문 보강 |
+| 해석 | title, meta, heading, schema, 내부 링크 | Organization/FAQ/Product schema 정리 |
+| 인용 | citation 후보 URL의 대표성 | 중복 URL/리디렉션/canonical 정리 |
+
+## 보고서에 남길 문장
+
+```text
+현재 문제는 콘텐츠 품질만의 문제가 아니라 AI와 검색엔진이 핵심 URL을 안정적으로 발견/해석하는 조건의 문제입니다. 사이트 진단 이슈를 먼저 닫은 뒤 같은 질문셋으로 citation 변화를 다시 봅니다.
+```
+
 ## 다음 흐름
 
 이 장은 앞선 [05. 답변 근거/화면 인용/엔티티 전략](https://wikidocs.net/346333)의 흐름을 이어받습니다. 기술 점검까지 마치면 [07. 산업별 GEO 전략](https://wikidocs.net/346335)으로 넘어가 업종별로 어떤 기술 요소가 더 중요한지 봅니다.
