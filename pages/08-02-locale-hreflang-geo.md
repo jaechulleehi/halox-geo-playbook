@@ -18,11 +18,11 @@ hreflang이 있어도 canonical이 엇갈리거나 sitemap이 섞이면 source/c
 
 ## 실행 흐름
 
-1. 대표 질문을 정한다.
-2. 현재 AI 답변에서 mention/source/citation을 나눠 본다.
-3. 경쟁 브랜드나 반복 URL이 어떤 이유로 등장하는지 확인한다.
-4. 우리 공식 페이지, 외부 출처, 기술 조건 중 먼저 고칠 곳을 고른다.
-5. 같은 질문군으로 30일 뒤 다시 본다.
+1. 국가/언어별로 측정할 질문과 URL을 분리한다.
+2. hreflang, canonical, sitemap이 같은 locale 구조를 가리키는지 확인한다.
+3. AI 답변이 잘못된 언어 URL이나 글로벌 홈을 인용하는지 기록한다.
+4. 지역별 공식 페이지, 가격/정책/사례 페이지를 연결한다.
+5. 같은 locale 질문으로 URL citation이 바로잡혔는지 다시 본다.
 
 ![언어/지역 URL과 canonical 정렬](../assets/images/body-figures/halox-geo-08-02-locale-hreflang-canonical-risk-map-codex-only.png)
 

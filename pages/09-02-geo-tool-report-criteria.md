@@ -18,11 +18,11 @@ mention/source/citation은 한 점수로 합치기보다 조합으로 읽어야 
 
 ## 실행 흐름
 
-1. 대표 질문을 정한다.
-2. 현재 AI 답변에서 mention/source/citation을 나눠 본다.
-3. 경쟁 브랜드나 반복 URL이 어떤 이유로 등장하는지 확인한다.
-4. 우리 공식 페이지, 외부 출처, 기술 조건 중 먼저 고칠 곳을 고른다.
-5. 같은 질문군으로 30일 뒤 다시 본다.
+1. 도구가 어떤 모델, 기간, 질문셋으로 측정했는지 확인한다.
+2. mention, source, citation이 분리되어 나오는지 본다.
+3. 경쟁사가 왜 등장했는지 URL과 문맥으로 설명되는지 확인한다.
+4. 점수 화면이 콘텐츠/기술/출처 실행 과제로 이어지는지 본다.
+5. 보고서 export가 고객 회의 문장으로 바로 쓰이는지 검토한다.
 
 ![세 지표를 운영 액션으로 읽는 법](../assets/images/body-figures/halox-geo-09-02-mention-source-citation-interpretation-map-codex-only.png)
 

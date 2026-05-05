@@ -18,11 +18,11 @@
 
 ## 실행 흐름
 
-1. 대표 질문을 정한다.
-2. 현재 AI 답변에서 mention/source/citation을 나눠 본다.
-3. 경쟁 브랜드나 반복 URL이 어떤 이유로 등장하는지 확인한다.
-4. 우리 공식 페이지, 외부 출처, 기술 조건 중 먼저 고칠 곳을 고른다.
-5. 같은 질문군으로 30일 뒤 다시 본다.
+1. 한국어 기준 문장을 그대로 번역하지 말고 영어권 카테고리 표현을 먼저 찾는다.
+2. 영문 비브랜드 질문에서 반복되는 경쟁 브랜드와 source를 기록한다.
+3. category page, comparison page, glossary, report sample 중 빠진 자산을 고른다.
+4. 영문 첫 문단과 비교 기준을 영어권 구매 질문에 맞게 다시 쓴다.
+5. 같은 영문 질문 세트로 30일 뒤 후보 진입과 citation을 다시 본다.
 
 ![영문 카테고리 언어와 source 설계](../assets/images/body-figures/halox-geo-08-01-english-category-asset-brief-codex-only.png)
 
