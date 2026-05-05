@@ -80,7 +80,7 @@ GEO 도구 / AI 검색 모니터링 / ChatGPT 브랜드 노출 / GEO 리포트 /
 - `ChatGPT 브랜드 노출` → 우리 브랜드가 ChatGPT 답변에 등장하는지 측정하는 기준
 - `GEO 리포트` → GEO 리포트에서 mention/source/citation은 어떻게 해석할까?
 - `Perplexity SEO` → Perplexity와 Google AI Overviews의 citation은 어떻게 다를까?
-- `GEO 대행사` → 대행사 제안서에서 과장된 약속은 어떻게 걸러낼까?
+- `GEO 대행사` → 대행사 제안서에서 검증되지 않은 약속은 어떻게 걸러낼까?
 
 이렇게 바꾸면 키워드 리서치가 단어 목록에서 끝나지 않고, 2장 이후의 AI 검색 모니터링 질문셋으로 이어집니다.
 
