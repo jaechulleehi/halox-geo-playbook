@@ -1,48 +1,50 @@
 ## 캠페인 URL citation 추적: 일회성 언급과 반복 인용
 
-![캠페인 URL 인용 추적과 성과 비교](../assets/images/page-heroes/halox-geo-90-02-campaign-url-citation-tracking-case-hero.png)
+![캠페인 URL citation 추적](../assets/images/page-heroes/halox-geo-90-02-campaign-url-citation-tracking-case-hero.png)
 
-캠페인 페이지는 짧은 기간에 만들어지고 사라지기 쉽습니다. 그래서 AI 답변에 한 번 언급되는 것과 반복적으로 citation으로 남는 것은 전혀 다른 의미입니다.
+캠페인 GEO의 핵심은 일시적인 노출을 성과로 착각하지 않는 것입니다. 이벤트 페이지가 한 번 언급되었는지, 특정 질문에서 반복 citation 되는지, 캠페인 종료 뒤에도 오래된 정보가 남는지까지 봐야 합니다.
 
-반복 인용을 보려면 URL 구조, 페이지 유지 기간, 공식 설명, 외부 보도, 캠페인 종료 후 안내까지 함께 설계해야 합니다. 단기 성과 페이지도 출처 전략이 필요합니다.
+AcmeCampaign은 6주짜리 B2B 리포트 캠페인을 운영합니다. 목표는 리포트 다운로드가 아니라 “AI search report template”, “GEO benchmark for SaaS” 같은 질문에서 캠페인 URL이 근거로 잡히는지 확인하는 것입니다.
 
 [TOC]
 
-## 인용 추적 기준
+## 기준선 진단
 
-| 기준 | 읽는 법 |
-|---|---|
-| URL | 캠페인 종료 후에도 의미가 남는 주소인지 본다 |
-| 근거 | 공식 페이지와 외부 보도가 같은 메시지를 말하는지 본다 |
-| 반복 | 같은 질문에서 여러 번 citation으로 붙는지 본다 |
+| 항목 | 현재 상태 | 문제 |
+|---|---|---|
+| 캠페인 URL | 랜딩 페이지 1개 | 종료 후 유지 계획 없음 |
+| 질문셋 | 브랜드명 중심 | 비브랜드 리포트 질문 부족 |
+| source | 보도자료/블로그 | 공식 리포트 본문 citation 약함 |
+| citation | 일부 AI 답변에서 블로그 인용 | 랜딩 URL 직접 인용 적음 |
+| 리스크 | 날짜/수치 업데이트 불명확 | 종료 후 오래된 수치 인용 가능 |
 
-## 사례 적용 흐름
+## 왜 캠페인 URL은 사라지는가
 
-1. 캠페인 질문군을 정한다
-2. 캠페인 URL과 공식 설명을 고정한다
-3. 외부 보도와 소셜 확산 URL을 분리해 기록한다
-4. AI 답변에서 mention/source/citation을 따로 본다
-5. 종료 후에도 설명 페이지를 남길지 결정한다
+캠페인 페이지는 보통 짧은 문구, 다운로드 폼, 광고 카피 중심으로 만들어집니다. AI 답변이 인용하기에는 데이터 정의, 방법론, 표, FAQ, 업데이트 날짜가 부족합니다. 그래서 AI는 캠페인 URL보다 보도자료나 외부 요약 글을 인용합니다.
 
-![캠페인 URL 인용 추적 라이프사이클](../assets/images/body-figures/halox-geo-90-02-campaign-url-citation-lifecycle-map-codex-only.png)
+![캠페인 URL citation 라이프사이클](../assets/images/body-figures/halox-geo-90-02-campaign-url-citation-lifecycle-map-codex-only.png)
 
-*캠페인 URL 인용 추적 라이프사이클*
+*캠페인 URL은 공개 전, 운영 중, 종료 후 상태를 나눠 citation 유지와 오래된 정보 리스크를 함께 관리해야 한다.*
 
-## 캠페인 예시
+## 4주 실행 흐름
 
-AcmeCampaign은 2주짜리 리포트 이벤트를 열면서 랜딩 URL을 캠페인명만으로 만들지 않습니다. 리포트 주제, 발표일, 핵심 데이터, 종료 후 아카이브를 남겨 AI가 이후 질문에서도 근거로 삼을 수 있게 합니다.
+| 주차 | 실행 | 측정 |
+|---|---|---|
+| 1주차 | 캠페인 질문셋/기준선 측정 | mention/source/citation |
+| 2주차 | 랜딩에 방법론, 표, FAQ, 업데이트 날짜 추가 | 공식 URL citation |
+| 3주차 | PR, 뉴스룸, 외부 요약 글을 같은 메시지로 정렬 | source 다양성 |
+| 4주차 | 종료 후 안내와 evergreen URL 정리 | 오래된 정보 오류 |
 
-## 정리 양식
+## 미니 리포트 예시
 
 ```text
-캠페인명:
-대표 질문:
-공식 URL:
-외부 source:
-citation 여부:
-종료 후 처리:
+질문: GEO benchmark for SaaS teams
+이전 답변: 경쟁사 블로그 2건 인용, AcmeCampaign 미언급
+수정: 캠페인 랜딩에 방법론/표/FAQ/업데이트 날짜 추가
+재측정: mention 0→3/10, 공식 랜딩 citation 0→2/10
+다음 액션: 리포트 요약 페이지를 evergreen URL로 분리
 ```
 
 ## 다음 흐름
 
-뉴스룸 사례는 [엔터프라이즈 뉴스룸 엔티티 허브](https://wikidocs.net/346620)에서 봅니다.
+캠페인 URL을 관리했다면 상시 자산인 뉴스룸을 엔티티 허브로 설계하는 사례를 봅니다. 이어서 [엔터프라이즈 뉴스룸을 엔티티 허브로 설계하기](https://wikidocs.net/346620)를 봅니다.
