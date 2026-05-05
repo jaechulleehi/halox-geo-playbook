@@ -1,78 +1,54 @@
 ## Schema 타입별 GEO 점검표: Organization/Person/FAQ/Product
 
-![Schema 타입별 실전 점검표](../assets/images/page-heroes/halox-geo-06-07-schema-type-checklist-hero.png)
+![Schema 타입별 GEO 점검표](../assets/images/page-heroes/halox-geo-06-07-schema-type-checklist-hero.png)
 
-Schema 타입은 페이지의 목적에 맞춰 고릅니다. Organization은 회사/브랜드, Person은 인물, FAQPage는 실제 FAQ, Product 또는 SoftwareApplication은 제품/소프트웨어 설명에 맞습니다.
+Schema는 많이 넣을수록 좋은 장식이 아닙니다. 페이지 역할에 맞는 타입을 고르고, 본문에 실제로 존재하는 정보를 구조화해야 합니다. GEO에서는 schema가 브랜드 엔티티, 질문 답변, 상품 정보, 작성자 신뢰를 보강하는지 봅니다.
 
-중요한 원칙은 하나입니다. 화면 본문에 없는 정보를 schema에만 넣지 않습니다. 구조화 데이터는 본문을 보강하는 장치이지 본문을 대체하는 장치가 아닙니다.
+이 페이지는 Organization, Person, FAQ, Product를 중심으로 어떤 페이지에 무엇을 넣고 무엇을 피해야 하는지 정리합니다.
 
 [TOC]
 
-## 타입별 역할
+## 페이지 역할에 맞는 타입을 고른다
 
-| 타입 | 잘 맞는 페이지 |
-|---|---|
-| Organization | 회사 소개, 브랜드 프로필, 공식 사이트 기준 정보 |
-| Person/ProfilePage | 대표자, 저자, 전문가 프로필 |
-| FAQPage | 화면에 실제 FAQ가 있는 설명/가이드 페이지 |
-| Product/SoftwareApplication | 제품, SaaS, 기능, 가격, 리뷰 정보가 있는 페이지 |
+모든 페이지에 같은 schema를 넣으면 신호가 흐려집니다. 회사 소개, 전문가 글, FAQ, 상품 상세, 리포트 예시는 각각 다른 구조가 필요합니다.
 
-## FAQPage 예시
+| Schema 타입 | 어울리는 페이지 | 확인할 점 |
+|---|---|---|
+| Organization | 회사 소개, 제품 홈, 자료실 | 브랜드명, URL, sameAs, 로고 |
+| Person | 전문가 글, 인터뷰, 작성자 페이지 | 직책, 전문 영역, 소속 |
+| FAQPage | 실제 FAQ, 비교/설명 페이지 | 본문에 보이는 질문과 답변 |
+| Product | 상품 상세, 플랜 페이지 | 가격, 재고, 리뷰, 브랜드 |
+| Article/BlogPosting | 블로그, 가이드, 리포트 | 제목, 날짜, 작성자, 요약 |
 
-```html
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [{
-    "@type": "Question",
-    "name": "GEO 리포트에서 source와 citation은 어디가 달라지는가요?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "source는 답변 근거이고, citation은 사용자 화면에 보이는 인용 링크입니다."
-    }
-  }]
-}
-</script>
-```
+## schema와 본문은 같은 말을 해야 한다
 
-이 FAQ는 페이지 화면에도 보여야 합니다. schema만 있고 본문에는 없으면 신뢰 신호가 약해질 수 있습니다.
+FAQ schema에 넣은 질문이 본문에 보이지 않거나, Product schema의 가격이 상세 페이지와 다르면 구조화 데이터는 오히려 신뢰를 낮춥니다. GEO에서는 특히 AI가 답변 근거로 삼을 수 있는 문장과 schema 값이 맞아야 합니다.
 
-## Product/SoftwareApplication에서 볼 것
+커머스는 Product schema와 merchant feed를 함께 봐야 하고, 로컬/병원은 LocalBusiness, Physician, MedicalClinic 같은 타입을 사용할 때 실제 표시 정보와 규제 표현을 같이 검토해야 합니다.
 
-제품 schema를 넣을 때는 실제 제품 설명과 맞아야 합니다. 이름, 설명, URL, 카테고리, 가격 정보, 리뷰 정보가 과장되거나 오래되면 안 됩니다.
+![Schema 타입별 GEO 점검 보드](../assets/images/body-figures/halox-geo-06-07-schema-type-selector-codex-only.png)
 
-| 필드 | 확인 기준 |
-|---|---|
-| name | 공식 제품명과 일치 |
-| description | 첫 문단의 제품 설명과 충돌하지 않음 |
-| url | canonical 대표 URL과 일치 |
-| applicationCategory | 실제 제품 카테고리와 일치 |
+*Schema 타입은 페이지 역할과 질문 의도에 맞춰 선택해야 한다.*
 
-![Schema 타입 선택과 fan-out 연결](../assets/images/body-figures/halox-geo-06-07-schema-type-selector-codex-only.png)
+## AcmeGEO 적용 예시
 
-*Schema 타입은 페이지 목적과 fan-out 노드에 맞춰 고른다.*
+AcmeGEO는 모든 글에 FAQPage schema를 넣었습니다. 하지만 일부 질문은 본문에 보이지 않고, 회사 소개 페이지에는 Organization schema가 빠져 있습니다. AI 답변은 AcmeGEO를 어떤 조직으로 이해해야 하는지보다 단편 FAQ만 읽게 됩니다.
 
-## 선택 순서
-
-1. 페이지가 회사/인물/FAQ/제품 중 무엇을 설명하는지 정한다.
-2. 본문에 해당 정보가 실제로 있는지 확인한다.
-3. schema 필드와 본문 문장을 맞춘다.
-4. Rich Results Test로 오류를 확인한다.
-5. 같은 질문군에서 source/citation 변화를 재측정한다.
+수정은 FAQPage를 줄이고 Organization, Article, FAQ를 페이지 역할에 맞게 나누는 것입니다. 리포트 예시 페이지에는 FAQ를 유지하되, 회사 소개와 자료실에는 브랜드 엔티티와 대표 URL을 보강합니다.
 
 ## 정리 양식
 
 ```text
-URL:
-페이지 목적:
-선택 schema 타입:
-본문에 보이는 필드:
-누락/충돌 필드:
+페이지 URL:
+페이지 역할:
+현재 schema 타입:
+필요 schema 타입:
+본문과 맞지 않는 값:
+보강할 질문/답변:
 검증 도구 결과:
-수정 액션:
+재측정 질문:
 ```
 
 ## 다음 흐름
 
-schema 타입을 고른 뒤에는 [메타 정보 실전 점검](https://wikidocs.net/346855)에서 title, meta description, canonical, robots meta를 함께 봅니다.
+schema를 정리한 뒤에는 검색결과와 AI 답변에서 첫 설명으로 쓰이는 메타, canonical, robots meta를 확인해야 합니다. 이어서 [SEO 메타 정보와 canonical/robots meta 점검](https://wikidocs.net/346855)을 읽습니다.

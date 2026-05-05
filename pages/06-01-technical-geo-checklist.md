@@ -1,78 +1,56 @@
 ## 테크니컬 GEO 기본 점검표
 
-![테크니컬 GEO 기본 점검 흐름](../assets/images/page-heroes/halox-geo-06-01-technical-geo-checklist-hero.png)
+![테크니컬 GEO 기본 점검](../assets/images/page-heroes/halox-geo-06-01-technical-geo-checklist-hero.png)
 
-테크니컬 GEO는 개발자가 보는 복잡한 기술 목록이 아닙니다. AI와 검색엔진이 핵심 페이지를 발견하고, 읽고, 해석하고, 답변 근거로 연결할 수 있는지 확인하는 작업입니다.
+테크니컬 GEO는 개발 체크리스트를 길게 만드는 일이 아닙니다. AI와 검색엔진이 페이지를 발견하고, 읽고, 해석하고, 답변 근거로 인용할 수 있는지 확인하는 작업입니다.
 
-콘텐츠와 출처를 잘 만들어도 URL이 발견되지 않거나, 렌더링 뒤에야 본문이 보이거나, canonical과 sitemap이 엇갈리면 답변 근거(source)와 화면 인용(citation) 후보가 약해집니다.
+콘텐츠와 source를 보강했는데도 공식 URL이 citation으로 잡히지 않는다면 기술 조건을 봐야 합니다. HaloX의 사이트 진단도 SEO 점수만 보여주는 화면이 아니라 URL별 SEO/GEO 점수, 이슈 패널, Pages 테이블을 통해 개발/SEO/콘텐츠 작업을 나누는 기준입니다.
 
 [TOC]
 
-## 네 층으로 본다
+## 기술 점검은 네 단계로 본다
 
-| 층 | 확인 질문 |
-|---|---|
-| 발견 | sitemap, 내부 링크, robots에서 핵심 URL을 찾을 수 있는가 |
-| 읽기 | 초기 HTML 또는 렌더링 후 DOM에서 본문이 보이는가 |
-| 해석 | title, heading, schema, 내부 링크가 같은 주제를 가리키는가 |
-| 인용 | 질문에 대한 답과 근거가 URL 단위로 분명한가 |
+기술 이슈는 한꺼번에 보면 복잡합니다. 먼저 AI가 페이지를 만나는 순서대로 나눕니다.
 
-이 네 층을 나누면 “기술 문제”라는 막연한 말이 실제 개발 티켓으로 바뀝니다.
+| 단계 | 확인할 질문 | 대표 항목 |
+|---|---|---|
+| 발견 | URL을 찾을 수 있는가 | sitemap, 내부 링크, robots |
+| 접근 | crawler가 막히지 않는가 | HTTP 상태, robots.txt, robots meta |
+| 해석 | 본문과 구조를 읽을 수 있는가 | SSR/CSR, 제목, 메타, heading, schema |
+| 인용 | 답변 근거 URL로 쓸 수 있는가 | canonical, 첫 답변, FAQ, 업데이트 날짜 |
 
-## 먼저 볼 10분 점검
+## HaloX 사이트 진단에서 먼저 볼 것
 
-처음부터 모든 로그와 크롤링 데이터를 볼 필요는 없습니다. 핵심 URL 3~5개를 골라 아래 순서로 확인합니다.
+Overview에서는 SEO/GEO/성능 점수와 진단 추이를 봅니다. 점수만 보고 끝내지 말고 어떤 URL이 어떤 문제를 갖는지 Pages와 Issues로 내려가야 합니다.
 
-1. URL이 sitemap에 들어 있는가
-2. robots.txt가 핵심 경로를 막지 않는가
-3. 페이지 첫 화면에 답변 문장이 보이는가
-4. title/H1 또는 페이지 제목/H2가 질문과 맞는가
-5. canonical이 자기 자신 또는 올바른 대표 URL을 가리키는가
-6. 주요 내부 링크가 실제 href로 연결되는가
-7. schema가 본문 정보와 충돌하지 않는가
-8. 모바일/데스크톱에서 중요한 본문이 사라지지 않는가
+Pages 테이블에서는 핵심 랜딩, 블로그, 뉴스룸, 리포트 예시, 상품/지점 페이지를 구분합니다. 비브랜드 질문에서 빠지는 페이지가 기술적으로도 약하다면 콘텐츠 수정 전에 개발 티켓이 먼저입니다.
 
-## URL별 빠른 진단 예시
+Issues에서는 치명/경고/권장 이슈를 실행 담당으로 나눕니다. robots나 HTTP 상태는 개발, 메타/heading은 SEO/콘텐츠, schema와 내부 링크는 개발과 콘텐츠가 함께 봅니다.
 
-AcmeGEO의 리포트 예시 페이지가 citation 후보가 되지 않는다고 가정해 보겠습니다. 이때 “콘텐츠가 약하다”로 끝내지 말고 기술 조건을 같이 봅니다.
+![테크니컬 GEO 점검 레이어](../assets/images/body-figures/halox-geo-06-01-technical-geo-checklist-stack-codex-only.png)
 
-```text
-URL: /ko/report-sample
-문제 질문: AI 검색 브랜드 가시성 리포트 예시는?
-sitemap: 있음
-robots: 허용
-초기 HTML: 핵심 리포트 설명이 없음
-렌더링 후 DOM: 설명이 보임
-canonical: /ko/report-sample
-내부 링크: 제품 페이지에서 연결 약함
-다음 액션: 핵심 설명을 초기 HTML에 포함하고 제품/가이드 페이지에서 내부 링크 연결
-```
+*테크니컬 GEO는 URL을 발견하고, 접근하고, 해석하고, 인용하는 흐름으로 나눠야 실행 티켓이 보인다.*
 
-![테크니컬 GEO 4계층 점검표](../assets/images/body-figures/halox-geo-06-01-technical-geo-checklist-stack-codex-only.png)
+## AcmeGEO 적용 예시
 
-*기술 점검은 발견, 읽기, 해석, 인용 가능성을 나눠 보면 실행 과제가 분명해진다.*
+AcmeGEO의 리포트 예시 페이지는 내용이 충분하지만 “GEO 리포트 도구 추천” 질문에서 공식 URL citation이 생기지 않습니다. 사이트 진단을 보니 해당 URL은 sitemap에 늦게 반영되고, canonical이 다른 페이지를 가리키며, 첫 화면의 핵심 답변이 JavaScript 렌더링 뒤에야 나타납니다.
 
-## SEO 기술 점검과 GEO 기술 점검의 차이
-
-SEO 기술 점검은 색인, 속도, 구조화 데이터, 모바일 사용성 같은 기본기를 봅니다. GEO 기술 점검은 그 위에 “AI가 답변 재료로 삼을 수 있는 URL인가”를 더 봅니다.
-
-둘은 경쟁하지 않습니다. SEO 기본기가 약하면 GEO도 흔들립니다. 다만 GEO에서는 질문별 URL, 답변 문장, source/citation 연결까지 함께 읽어야 합니다.
+이 경우 콘텐츠를 더 쓰는 것보다 sitemap/canonical/렌더링 문제를 먼저 고칩니다. 수정 뒤에는 같은 질문 세트로 공식 URL citation이 회복되는지 확인합니다.
 
 ## 정리 양식
 
 ```text
-핵심 질문:
 점검 URL:
-sitemap 포함 여부:
-robots 허용 여부:
-초기 HTML 본문 확인:
-렌더링 후 DOM 확인:
-canonical:
-내부 링크:
-schema:
-다음 개발/콘텐츠 액션:
+연결된 질문군:
+발견 이슈:
+접근 이슈:
+해석 이슈:
+인용 이슈:
+개발 티켓:
+콘텐츠/SEO 티켓:
+재측정 질문:
 ```
 
 ## 다음 흐름
 
-기본 점검 뒤에는 [CSR/SSR 렌더링은 GEO에서 왜 중요한가](https://wikidocs.net/346354)에서 실제 본문이 언제 보이는지 확인합니다.
+기본 점검 뒤에는 페이지 본문이 초기 HTML과 렌더링 후 DOM에서 어떻게 보이는지 확인해야 합니다. 이어서 [CSR/SSR 렌더링과 GEO 크롤링 리스크](https://wikidocs.net/346354)를 봅니다.
