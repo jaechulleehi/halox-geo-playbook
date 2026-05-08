@@ -2,44 +2,52 @@
 
 ![영문 GEO 카테고리 자산 구축](../assets/images/page-heroes/halox-geo-08-01-english-category-assets-hero.png)
 
-영문 GEO 카테고리 자산은 한국어 페이지를 영어로 번역한 글이 아닙니다. 영어권 고객이 실제로 검색하고 AI에게 묻는 질문에 대해 “이 시장을 어떻게 이해해야 하는지”, “어떤 기준으로 도구를 비교해야 하는지”, “어떤 리포트와 근거를 봐야 하는지”를 한곳에서 설명하는 기준 페이지입니다.
+영문 GEO 카테고리 자산은 한국어 페이지를 영어로 옮긴 글이 아닙니다. 영어권 사용자가 실제로 묻는 질문에 맞춰 시장 정의, 비교 기준, 리포트 예시, 신뢰 근거를 다시 설계한 기준 페이지입니다.
 
-AI 답변은 회사 소개나 기능 나열보다 질문에 바로 답하는 페이지를 더 쉽게 근거로 삼습니다. 그래서 영문 자산을 만들 때는 먼저 영어권 질문을 모으고, 그 질문을 category page, comparison page, glossary, docs/guide, case study로 나눠 설계해야 합니다.
+예를 들어 한국어 사이트에 `GEO 리포트` 설명이 이미 있어도, 영어권 사용자는 `GEO report example`, `AI search visibility report`, `LLM citation tracking`처럼 다른 표현으로 묻습니다. 이 질문에 바로 답하지 못하면 영문 페이지가 있어도 AI 답변은 경쟁사 블로그, 해외 용어집, SaaS 리뷰 페이지를 근거로 삼을 수 있습니다.
 
 [TOC]
 
-## 먼저 정해야 할 것: 어떤 영어 질문에 답할 것인가
+## 영문 자산은 번역물이 아니라 답변 페이지다
 
-영문 페이지를 만들기 전에 “무엇을 영어로 설명할지”보다 “영어권 사용자가 어떤 말로 문제를 묻는지”를 먼저 정해야 합니다. 같은 GEO라도 독자는 `GEO`라고 묻지 않을 수 있습니다. `AI search visibility`, `LLM SEO`, `AI answer citation tracking`, `GEO report example`처럼 다른 표현으로 같은 문제에 접근할 수 있습니다.
+글로벌 페이지를 만들 때 가장 흔한 실수는 한국어 메시지를 그대로 영어로 옮기는 것입니다. 문장은 영어가 되었지만 독자의 질문은 여전히 비어 있습니다. 영어권 사용자는 제품 소개보다 다음 질문을 먼저 확인합니다.
 
-이 질문을 놓치면 영문 페이지가 있어도 AI 답변에서는 경쟁사 블로그, 해외 glossary, SaaS 리뷰 페이지가 반복 인용됩니다. 페이지가 영어로 존재하는 것과 AI가 답변 근거로 쓰기 좋은 구조를 갖춘 것은 다른 문제입니다.
+- 이 도구는 어떤 카테고리에 속하는가?
+- 기존 SEO 도구와 무엇이 다른가?
+- 리포트에는 어떤 지표가 들어가야 하는가?
+- mention, source, citation은 어떻게 다른가?
+- 측정 결과를 콘텐츠 수정이나 외부 출처 보강으로 어떻게 연결하는가?
 
-## 카테고리 자산은 페이지 유형별로 역할을 나눈다
+그래서 영문 GEO 자산은 “우리 제품을 영어로 소개하는 페이지”가 아니라 “영어권 질문에 답하는 페이지 묶음”으로 봐야 합니다. 한 페이지가 모든 질문을 떠안기보다, 질문의 성격에 따라 URL 역할을 나누는 편이 좋습니다.
 
-하나의 영문 랜딩 페이지에 모든 내용을 넣으면 독자도 AI도 핵심을 잡기 어렵습니다. 대신 질문의 성격에 맞춰 URL 역할을 나눠야 합니다.
+## 페이지 유형별로 맡는 질문이 다르다
+
+카테고리 자산은 여러 URL이 함께 움직일 때 힘이 생깁니다. 각 URL은 하나의 대표 질문군을 맡아야 합니다.
 
 | 자산 유형 | 독자가 묻는 질문 | 페이지가 해야 할 일 | 예시 주제 |
 |---|---|---|---|
-| Category page | 이 시장이나 도구가 무엇인가? | 카테고리 정의, 사용 맥락, 주요 기준을 설명한다 | AI search visibility platform |
-| Comparison page | 무엇과 비교해야 하는가? | 비교 기준, 차이, 선택 상황을 정리한다 | GEO vs SEO, Profound vs HaloX |
-| Glossary | 이 용어를 어떻게 이해해야 하는가? | 용어 정의와 오해를 짧고 명확하게 푼다 | LLM SEO, citation tracking |
-| Docs/guide | 실제로 어떻게 쓰는가? | 설정 방법, 리포트 읽는 법, 운영 절차를 보여준다 | GEO report example |
-| Case study | 어떤 상황에서 효과가 있었는가? | 산업/팀/문제별 적용 과정을 설명한다 | agency GEO operations |
+| Category page | 이 시장이나 도구가 무엇인가? | 카테고리 정의, 사용 맥락, 선택 기준을 설명한다 | AI search visibility platform |
+| Comparison page | 무엇과 비교해야 하는가? | 비교 기준과 선택 상황을 정리한다 | GEO vs SEO, Profound vs HaloX |
+| Glossary | 이 용어는 무슨 뜻인가? | 용어 정의와 흔한 오해를 짧게 푼다 | LLM SEO, citation tracking |
+| Docs/guide | 실제로 어떻게 쓰는가? | 리포트 읽는 법, 설정 방법, 운영 절차를 보여준다 | GEO report example |
+| Case study | 어떤 상황에서 효과가 있었는가? | 산업/팀/문제별 적용 과정을 보여준다 | agency GEO operations |
 
-## 좋은 영문 카테고리 페이지의 기준
+이 표는 페이지를 많이 만들자는 뜻이 아닙니다. 한 URL이 어떤 질문을 맡을지 먼저 정하자는 뜻입니다. 역할이 분명해야 제목, 첫 문단, 표, FAQ, 내부 링크가 흔들리지 않습니다.
 
-좋은 영문 GEO 페이지는 제품을 먼저 소개하지 않습니다. 독자가 이미 가진 질문에 먼저 답하고, 그 답을 설명하는 과정에서 제품의 역할을 자연스럽게 보여줍니다.
+## `GEO report example`은 기능 소개가 아니다
 
-예를 들어 `GEO report example` 페이지를 만든다면 “우리 리포트에는 이런 기능이 있습니다”로 시작하면 약합니다. 영어권 독자는 보통 다음 질문을 가지고 들어옵니다.
+`GEO report example` 페이지를 만든다고 가정해 보겠습니다. 약한 페이지는 “우리 리포트는 다양한 지표를 제공합니다”로 시작합니다. 독자는 그 문장을 보고도 무엇을 확인해야 할지 모릅니다.
+
+좋은 페이지는 먼저 독자의 질문에 답합니다.
 
 | 영어권 질문 | 페이지에서 답해야 할 내용 |
 |---|---|
-| What should a GEO report include? | mention/source/citation, 질문셋, 경쟁 URL, 실행 액션이 왜 필요한지 설명한다 |
+| What should a GEO report include? | 질문셋, mention/source/citation, 경쟁 URL, 다음 액션이 왜 필요한지 설명한다 |
 | How do you separate mention, source, and citation? | 세 지표의 차이를 표로 보여주고 실제 해석 예시를 붙인다 |
 | How do you turn AI visibility data into content actions? | 측정 결과가 어떤 콘텐츠 수정/신규 페이지/외부 출처 보강으로 이어지는지 보여준다 |
 | How often should GEO performance be reviewed? | 주간/월간 리포트에서 봐야 할 항목과 재측정 질문을 제안한다 |
 
-이렇게 구성하면 페이지는 단순한 기능 소개가 아니라 “GEO 리포트를 판단하는 기준”이 됩니다. 독자는 바로 이해하고, AI 답변도 인용할 만한 문장과 표를 찾기 쉬워집니다.
+이렇게 쓰면 페이지는 단순 기능 설명이 아니라 리포트를 판단하는 기준이 됩니다. 독자는 “이 리포트를 어떻게 읽어야 하는지”를 이해하고, AI 답변도 인용하기 좋은 문장과 표를 찾기 쉬워집니다.
 
 ![영문 카테고리 자산 브리프](../assets/images/body-figures/halox-geo-08-01-english-category-asset-brief-codex-only.png)
 
@@ -49,11 +57,11 @@ AI 답변은 회사 소개나 기능 나열보다 질문에 바로 답하는 페
 
 ### 1. 시장과 독자를 좁힌다
 
-먼저 어느 시장의 누구를 대상으로 할지 정합니다. “글로벌 고객”처럼 넓게 잡으면 질문이 흐려집니다. 미국 B2B SaaS 마케터, 영국 PR 에이전시, 싱가포르 커머스 운영자처럼 독자를 좁히면 필요한 페이지 유형도 분명해집니다.
+먼저 어느 시장의 누구를 대상으로 할지 정합니다. “글로벌 사용자”처럼 넓게 잡으면 질문이 흐려집니다. 미국 B2B SaaS 마케터, 영국 PR 에이전시, 싱가포르 커머스 운영자처럼 독자를 좁히면 필요한 페이지 유형도 분명해집니다.
 
 ### 2. 영어권 질문 10개를 모은다
 
-제품명 중심 질문보다 문제 중심 질문을 먼저 모읍니다. 예를 들어 `HaloX pricing`보다 `how to measure AI search visibility`, `GEO report template`, `AI answer citation tracking tool` 같은 질문이 카테고리 자산의 출발점이 됩니다.
+제품명 중심 질문보다 문제 중심 질문을 먼저 모읍니다. `HaloX pricing` 같은 브랜드 질문도 필요하지만, 카테고리 자산의 출발점은 보통 `how to measure AI search visibility`, `GEO report template`, `AI answer citation tracking tool` 같은 문제 질문입니다.
 
 질문은 세 그룹으로 나누면 좋습니다.
 
@@ -65,11 +73,11 @@ AI 답변은 회사 소개나 기능 나열보다 질문에 바로 답하는 페
 
 ### 3. 현재 AI 답변의 source/citation을 확인한다
 
-영어 질문으로 ChatGPT, Perplexity, Google AI Overviews 등을 확인합니다. 여기서 중요한 것은 단순히 우리 브랜드가 언급되는지가 아닙니다. 어떤 도메인이 답변 근거(source)로 쓰이고, 화면에 어떤 URL이 citation으로 노출되는지 따로 기록해야 합니다.
+영어 질문으로 ChatGPT, Perplexity, Google AI Overviews 등을 확인합니다. 이때 브랜드가 언급되는지만 보면 부족합니다. 어떤 도메인이 답변 근거(source)로 쓰이는지, 화면에 어떤 URL이 citation으로 보이는지 따로 기록해야 합니다.
 
-경쟁사 glossary가 반복 인용된다면 용어 정의 페이지가 부족할 수 있습니다. 해외 블로그가 반복 인용된다면 카테고리 설명과 비교 기준이 약할 수 있습니다. 공식 docs가 전혀 잡히지 않는다면 기능 설명보다 “사용자가 묻는 운영 질문”에 답하는 가이드가 필요합니다.
+경쟁사 glossary가 반복 인용된다면 용어 정의 페이지가 부족할 수 있습니다. 해외 블로그가 반복 인용된다면 카테고리 설명과 비교 기준이 약할 수 있습니다. 공식 docs가 전혀 잡히지 않는다면 기능 설명보다 사용자가 묻는 운영 질문에 답하는 가이드가 필요합니다.
 
-### 4. URL별로 대표 질문을 하나씩 맡긴다
+### 4. URL별 대표 질문을 정한다
 
 한 URL은 하나의 대표 질문군을 맡아야 합니다. `AI search visibility platform` 페이지는 카테고리 정의와 선택 기준을 맡고, `GEO report example` 페이지는 리포트 구성과 해석 기준을 맡고, `GEO vs SEO` 페이지는 비교 기준을 맡는 식입니다.
 
@@ -79,7 +87,9 @@ AI 답변은 회사 소개나 기능 나열보다 질문에 바로 답하는 페
 
 페이지를 발행한 뒤에는 같은 질문으로 다시 측정해야 합니다. 질문을 매번 바꾸면 개선 여부를 판단하기 어렵습니다. 처음 정한 영어 질문셋을 유지하고, mention/source/citation 변화와 실제 인용 URL 변화를 봅니다.
 
-## AcmeGlobal 적용 예시
+## 가상 기업 AcmeGlobal 예시
+
+AcmeGlobal은 이 책에서 설명을 돕기 위해 만든 가상의 B2B SaaS 기업입니다. 실제 기업 사례가 아니라, 독자가 자기 상황에 대입해 보기 위한 예시입니다.
 
 AcmeGlobal은 미국 시장을 대상으로 `GEO tool` 페이지를 만들었습니다. 하지만 AI 답변에서는 경쟁사 블로그와 해외 glossary가 반복 인용됩니다. AcmeGlobal 페이지는 제품 기능을 설명하지만, 영어권 사용자가 궁금해하는 `GEO report example`, `AI answer citation tracking`, `how to measure AI search visibility` 같은 질문에는 충분히 답하지 못합니다.
 

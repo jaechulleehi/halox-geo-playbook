@@ -29,7 +29,7 @@ GEO 관점에서 사이트 이전은 검색 순위만의 문제가 아닙니다.
 
 *llms.txt와 사이트 이전은 독립 작업이 아니라 대표 URL, sitemap, canonical, citation 보존을 함께 보는 작업이다.*
 
-## AcmeGEO 적용 예시
+## 가상 기업 AcmeGEO 예시
 
 AcmeGEO가 `/geo-report` 페이지를 `/ai-search-report`로 바꿨습니다. 콘텐츠는 좋아졌지만 이전 URL이 404가 되고, 외부 블로그와 오래된 리포트는 여전히 예전 URL을 가리킵니다. AI 답변은 새 공식 URL 대신 외부 글을 계속 citation으로 보여줍니다.
 

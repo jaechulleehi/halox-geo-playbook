@@ -192,7 +192,7 @@ SEO와 GEO는 따로 놀지 않습니다. 키워드 리서치는 AI 질문셋의
 | Source map | 뉴스룸, 디렉터리, 파트너, 고객 사례 | PR/브랜드 |
 | Monthly report | GSC, GA4, 네이버, AI 답변, KPI, 다음 액션 | 전체 |
 
-## AcmeGEO 연속 케이스: 최종 산출물 묶기
+## 가상 기업 AcmeGEO 연속 케이스: 최종 산출물 묶기
 
 AcmeGEO 팀은 `GEO 도구 비교` 프로젝트를 하나의 글 발행으로 끝내지 않았습니다. 먼저 SEO brief를 만들고, 콘텐츠팀이 Answer-first 구조로 초안을 작성했습니다. SEO 담당자는 title/meta와 내부 링크를 점검했고, 개발팀은 schema와 canonical을 확인했습니다. PR팀은 외부 디렉터리와 뉴스룸의 카테고리 설명을 수정했습니다.
 

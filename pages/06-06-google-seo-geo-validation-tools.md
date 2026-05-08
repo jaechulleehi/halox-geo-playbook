@@ -30,7 +30,7 @@ GEO 기술 점검은 감으로 판단하면 안 됩니다. Search Console, URL I
 
 *공식 도구는 검색엔진 관점을 확인하고, HaloX 사이트 진단은 그 결과를 실행 티켓으로 나누는 데 쓴다.*
 
-## AcmeGEO 적용 예시
+## 가상 기업 AcmeGEO 예시
 
 AcmeGEO의 비교 페이지가 AI 답변에 잘 나오지 않습니다. Search Console에서는 색인됐지만 URL Inspection에서 Google 선택 canonical이 다른 페이지로 잡힙니다. Rich Results Test에서는 FAQ schema 오류가 있고, HaloX 사이트 진단에서는 해당 URL의 GEO 점수가 낮습니다.
 

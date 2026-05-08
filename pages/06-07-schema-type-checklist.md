@@ -30,7 +30,7 @@ FAQ schema에 넣은 질문이 본문에 보이지 않거나, Product schema의 
 
 *Schema 타입은 페이지 역할과 질문 의도에 맞춰 선택해야 한다.*
 
-## AcmeGEO 적용 예시
+## 가상 기업 AcmeGEO 예시
 
 AcmeGEO는 모든 글에 FAQPage schema를 넣었습니다. 하지만 일부 질문은 본문에 보이지 않고, 회사 소개 페이지에는 Organization schema가 빠져 있습니다. AI 답변은 AcmeGEO를 어떤 조직으로 이해해야 하는지보다 단편 FAQ만 읽게 됩니다.
 
