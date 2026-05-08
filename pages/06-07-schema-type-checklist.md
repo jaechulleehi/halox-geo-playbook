@@ -36,6 +36,20 @@ AcmeGEO는 모든 글에 FAQPage schema를 넣었습니다. 하지만 일부 질
 
 수정은 FAQPage를 줄이고 Organization, Article, FAQ를 페이지 역할에 맞게 나누는 것입니다. 리포트 예시 페이지에는 FAQ를 유지하되, 회사 소개와 자료실에는 브랜드 엔티티와 대표 URL을 보강합니다.
 
+## 작성 예시
+
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "AcmeGEO",
+  "url": "https://example.com",
+  "sameAs": ["https://www.linkedin.com/company/example"]
+}
+```
+
+schema는 본문을 대신하지 않습니다. 본문에 없는 가격, 후기, 기능을 schema에만 넣으면 신뢰 신호가 아니라 충돌 신호가 됩니다.
+
 ## 정리 양식
 
 ```text

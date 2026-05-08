@@ -36,6 +36,17 @@ AcmeGEO의 리포트 예시 페이지 title은 “블로그 상세”로 남아 
 
 수정은 title을 “GEO 리포트 예시: 고객과 임원에게 설명하는 문장”처럼 바꾸고, 첫 문단에 AVI, 인용률, 출처 가시성, 다음 액션을 넣는 것입니다. canonical과 robots meta도 대표 URL 기준으로 확인합니다.
 
+## 수정 전/후 예시
+
+| 항목 | 수정 전 | 수정 후 |
+|---|---|---|
+| title | 블로그 상세 | GEO 리포트 예시: mention/source/citation 읽는 법 |
+| description | AcmeGEO의 다양한 기능을 확인하세요 | GEO 리포트에서 브랜드 언급, 답변 근거, 화면 인용을 분리해 읽는 기준을 설명합니다 |
+| canonical | `/ko/geo-report` | `/en/geo-report-example` |
+| 첫 문단 | 제품 소개 중심 | 리포트에 들어가야 할 항목을 먼저 답변 |
+
+수정 후에는 같은 질문으로 citation URL이 바뀌는지 확인합니다.
+
 ## 정리 양식
 
 ```text
