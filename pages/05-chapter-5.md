@@ -24,7 +24,7 @@ GEO에서 출처 전략은 “백링크를 많이 만들자”가 아닙니다. 
 - **화면 인용**은 사용자가 실제로 볼 수 있는 링크나 출처 표시입니다.
 - **엔티티**는 웹 전체가 브랜드를 어떤 이름, 카테고리, 제품, 인물, 조직으로 이해하는지에 대한 합의 신호입니다.
 
-![답변 근거와 엔티티 신호 레이어 지도](../assets/images/body-figures/halox-geo-05-chapter-5-source-citation-entity-layer-map-codex-only.png)
+![답변 근거와 엔티티 신호 레이어 지도](../assets/images/body-figures/halox-geo-05-chapter-5-source-citation-entity-layer-map.png)
 
 _답변 근거, 화면 인용, 브랜드 언급, 엔티티를 한 장의 신호 레이어로 분리하면 05장의 역할이 더 선명해집니다._
 

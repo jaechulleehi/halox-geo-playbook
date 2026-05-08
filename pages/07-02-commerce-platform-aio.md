@@ -29,7 +29,7 @@
 
 사이트 진단에서는 상품 URL, 카테고리 URL, 정책 URL을 나눠 봅니다. Product schema, canonical, 품절/리다이렉트, robots, 페이지 속도, 내부 링크가 맞지 않으면 AI 답변 이전에 검색엔진과 crawler가 상품을 안정적으로 읽기 어렵습니다.
 
-![커머스 상품 데이터와 AI 답변 루프](../assets/images/body-figures/halox-geo-07-02-commerce-product-data-answer-loop-codex-only.png)
+![커머스 상품 데이터와 AI 답변 루프](../assets/images/body-figures/halox-geo-07-02-commerce-product-data-answer-loop.png)
 
 *커머스 GEO는 상품 상세, schema, feed, 리뷰, 정책 정보가 같은 방향으로 맞을 때 작동한다.*
 

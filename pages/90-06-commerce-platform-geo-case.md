@@ -22,7 +22,7 @@
 
 이 사례는 11장의 커머스 운영 흐름을 적용합니다. 상품 정보 구조화, Product schema, merchant feed, 리뷰 맥락, 카테고리 FAQ를 같은 기준으로 맞춥니다. AI 구매 에이전트는 “좋은 상품”보다 “조건에 맞는 상품”을 찾기 때문에 필드가 명확해야 합니다.
 
-![커머스 AI 구매 데이터 QA 루프](../assets/images/body-figures/halox-geo-90-06-commerce-ai-purchase-data-qa-loop-codex-only.png)
+![커머스 AI 구매 데이터 QA 루프](../assets/images/body-figures/halox-geo-90-06-commerce-ai-purchase-data-qa-loop.png)
 
 *커머스 GEO는 상품 상세페이지, schema, feed, 리뷰 맥락을 같은 구매 조건으로 정렬하는 데이터 QA 루프다.*
 

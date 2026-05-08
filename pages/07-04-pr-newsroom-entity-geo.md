@@ -29,7 +29,7 @@ AI 답변은 공식 사이트만 읽지 않습니다. 언론 기사, 인터뷰, 
 
 사이트 진단은 뉴스룸과 자료실의 기술 상태를 봅니다. sitemap, canonical, 제목/메타, schema, 내부 링크가 약하면 좋은 보도자료도 근거 URL로 안정적으로 쓰이기 어렵습니다.
 
-![뉴스룸 엔티티 허브 구조](../assets/images/body-figures/halox-geo-07-04-newsroom-entity-hub-codex-only.png)
+![뉴스룸 엔티티 허브 구조](../assets/images/body-figures/halox-geo-07-04-newsroom-entity-hub.png)
 
 *뉴스룸은 보도자료 저장소가 아니라 공식 설명, 외부 인용, 리포트 근거를 연결하는 엔티티 허브다.*
 

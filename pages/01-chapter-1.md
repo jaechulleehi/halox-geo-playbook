@@ -27,7 +27,7 @@ GEO도 여기서 출발합니다. AI 검색은 사용자의 질문에 바로 답
 
 이 순서가 중요한 이유는 각 단계가 다음 단계의 입력값이 되기 때문입니다. 키워드 리서치를 제대로 하지 않으면 SERP 분석의 기준이 흔들립니다. SERP 분석 없이 검색 의도를 판단하면 콘텐츠 구조가 추측이 됩니다. 내부 링크와 기술 SEO가 약하면 좋은 글도 검색엔진과 AI가 충분히 발견하지 못합니다.
 
-![SEO에서 GEO로 확장되는 1장 전체 흐름](../assets/images/body-figures/halox-geo-01-chapter-1-seo-to-geo-overview-codex-only.png)
+![SEO에서 GEO로 확장되는 1장 전체 흐름](../assets/images/body-figures/halox-geo-01-chapter-1-seo-to-geo-overview.png)
 
 ## SEO에서 GEO로 넘어갈 때 바뀌는 질문
 

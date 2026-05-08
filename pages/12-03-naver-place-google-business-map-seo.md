@@ -28,7 +28,7 @@
 
 사이트 진단에서는 지점 페이지와 지도 프로필의 정보가 맞는지 간접적으로 확인합니다. 지도 프로필에서 연결한 URL이 홈인지 지점 페이지인지, 예약/전화/길찾기 링크가 명확한지 봅니다.
 
-![지도 프로필 월간 운영 보드](../assets/images/body-figures/halox-geo-12-03-map-profile-monthly-operations-board-codex-only.png)
+![지도 프로필 월간 운영 보드](../assets/images/body-figures/halox-geo-12-03-map-profile-monthly-operations-board.png)
 
 *지도 프로필은 등록 정보가 아니라 지역 질문, 방문 조건, 공식 URL을 연결하는 운영 채널이다.*
 

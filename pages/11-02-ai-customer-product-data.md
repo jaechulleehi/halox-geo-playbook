@@ -29,7 +29,7 @@ AI는 이런 충돌을 사람처럼 문의해서 해결하지 않습니다. 더 
 
 사이트 진단은 상품 페이지가 기술적으로 읽히는지 확인합니다. Product schema, canonical, 품절 처리, 내부 링크, 이미지 alt, 메타 설명이 상품 정보와 충돌하지 않아야 합니다.
 
-![상품 정보 일관성 보드](../assets/images/body-figures/halox-geo-11-02-product-info-consistency-board-codex-only.png)
+![상품 정보 일관성 보드](../assets/images/body-figures/halox-geo-11-02-product-info-consistency-board.png)
 
 *상품 상세, schema, feed, 리뷰, 정책 문서가 서로 다른 말을 하면 AI 추천 근거가 약해진다.*
 

@@ -14,7 +14,7 @@
 
 같은 “추천해줘” 질문이라도 B2B SaaS에서는 보안/연동/도입 사례를 봐야 하고, 로컬 서비스에서는 위치/리뷰/예약 가능성을 봐야 합니다. 금융/규제 산업에서는 공식 정책과 위험 고지가 먼저이고, 커머스에서는 가격/재고/배송/반품 정보가 답변 품질을 좌우합니다.
 
-![산업별 GEO 전략 선택 프레임](../assets/images/body-figures/halox-geo-07-chapter-7-industry-strategy-selector-codex-only.png)
+![산업별 GEO 전략 선택 프레임](../assets/images/body-figures/halox-geo-07-chapter-7-industry-strategy-selector.png)
 
 *산업별 GEO는 업종명보다 질문 맥락, 신뢰 기준, 전환 경로를 함께 보고 선택한다.*
 

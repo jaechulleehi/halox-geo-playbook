@@ -27,7 +27,7 @@ Product schema는 페이지 안의 상품 정보를 구조화해 검색엔진과
 
 프롬프트 분석과 인용 추적 결과도 함께 봅니다. 특정 조건형 질문에서 경쟁 상품만 citation으로 반복된다면, 그 질문에 필요한 속성이 schema/feed/상세 중 어디에 빠졌는지 확인합니다.
 
-![Schema와 feed 충돌 우선순위 지도](../assets/images/body-figures/halox-geo-11-03-schema-feed-conflict-priority-map-codex-only.png)
+![Schema와 feed 충돌 우선순위 지도](../assets/images/body-figures/halox-geo-11-03-schema-feed-conflict-priority-map.png)
 
 *schema와 feed 점검은 오류 찾기가 아니라 구매 질문에서 빠지는 근거를 데이터 층별로 찾는 작업이다.*
 

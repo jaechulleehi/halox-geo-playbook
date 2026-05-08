@@ -16,7 +16,7 @@ GEO 입문에서 가장 흔한 오해는 “AI가 인용할 만한 글을 하나
 
 이 장은 GEO를 검색 순위의 대체재가 아니라 **AI 답변 시장에서 브랜드가 어떻게 검토되는지 관리하는 일**로 잡습니다. 검색 결과 1위가 되더라도 AI 답변에서 빠질 수 있고, 검색 유입은 적어도 특정 비교/추천 질문에서 강하게 언급될 수 있습니다.
 
-![AI 검색 판단 흐름](../assets/images/body-figures/halox-geo-00-ai-search-judgment-flow-codex-only.png)
+![AI 검색 판단 흐름](../assets/images/body-figures/halox-geo-00-ai-search-judgment-flow.png)
 
 ## AI 검색 환경을 먼저 구분한다
 

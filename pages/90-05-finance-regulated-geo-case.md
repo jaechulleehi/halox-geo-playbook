@@ -24,7 +24,7 @@
 
 금융 GEO 리포트에는 mention만 넣으면 안 됩니다. 질문별로 공식 URL citation, 조건 누락, 오래된 정보, 위험 표현, 수정 담당을 함께 남겨야 합니다. 특히 비브랜드 질문에서는 경쟁사와 함께 비교되는 문맥을 확인합니다.
 
-![금융 규제 신뢰 리스크 필터](../assets/images/body-figures/halox-geo-90-05-finance-regulated-trust-risk-filter-codex-only.png)
+![금융 규제 신뢰 리스크 필터](../assets/images/body-figures/halox-geo-90-05-finance-regulated-trust-risk-filter.png)
 
 *금융/규제 산업 GEO는 더 많이 언급되는 것보다 틀리게 언급되지 않는 상태를 먼저 만든다.*
 

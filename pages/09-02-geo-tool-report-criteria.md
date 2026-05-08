@@ -26,7 +26,7 @@ mention/source/citation은 한 점수로 합치기보다 조합으로 읽어야 
 4. 점수 화면이 콘텐츠/기술/출처 실행 과제로 이어지는지 본다.
 5. 보고서 export가 고객 회의 문장으로 바로 쓰이는지 검토한다.
 
-![세 지표를 운영 액션으로 읽는 법](../assets/images/body-figures/halox-geo-09-02-mention-source-citation-interpretation-map-codex-only.png)
+![세 지표를 운영 액션으로 읽는 법](../assets/images/body-figures/halox-geo-09-02-mention-source-citation-interpretation-map.png)
 
 *세 지표를 운영 액션으로 읽는 법*
 

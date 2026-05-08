@@ -28,10 +28,10 @@
 - `pages/00-04-how-to-use-this-book.md`
 - `pages/01-chapter-1.md`
 - `pages/01-01-seo-keywords-still-matter.md`
-- `pages/01-02-keyword-to-prompt.md`
+- `pages/01-02-serp-analysis-content-gap.md`
 - `pages/01-03-search-intent-ai-question.md`
-- `pages/01-04-question-set-portion.md`
-- `pages/01-05-week1-baseline-diagnosis.md`
+- `pages/01-04-seo-content-structure-answer-first.md`
+- `pages/01-05-onpage-seo-promise-proof.md`
 - `pages/02-chapter-2.md`
 - `pages/02-01-chatgpt-brand-visibility.md`
 - `pages/02-02-perplexity-ai-overviews-citation.md`

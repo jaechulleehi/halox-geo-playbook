@@ -25,7 +25,7 @@ GEO 관점에서 사이트 이전은 검색 순위만의 문제가 아닙니다.
 
 이전 전에는 인용 추적에서 현재 반복 citation URL을 뽑아야 합니다. 이전 후에는 그 URL이 어디로 연결되는지, 새 URL이 sitemap과 canonical에 반영됐는지, 공식 문서와 외부 글이 새 URL을 가리키는지 확인합니다.
 
-![llms.txt와 사이트 이전 리스크 지도](../assets/images/body-figures/halox-geo-06-03-llms-txt-migration-risk-board-codex-only.png)
+![llms.txt와 사이트 이전 리스크 지도](../assets/images/body-figures/halox-geo-06-03-llms-txt-migration-risk-board.png)
 
 *llms.txt와 사이트 이전은 독립 작업이 아니라 대표 URL, sitemap, canonical, citation 보존을 함께 보는 작업이다.*
 

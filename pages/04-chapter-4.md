@@ -27,7 +27,7 @@ AI fan-out 노드에서 발견한 콘텐츠 갭
 
 이 흐름이 없으면 리라이트는 문장 다듬기에서 끝납니다. GEO 리라이트는 문체 교정이 아니라 **AI 답변에 재사용될 수 있는 정보 단위**를 만드는 일입니다.
 
-![AI가 읽기 좋은 콘텐츠 구조 단면도](../assets/images/body-figures/halox-geo-04-chapter-4-content-structure-cutaway-codex-only.png)
+![AI가 읽기 좋은 콘텐츠 구조 단면도](../assets/images/body-figures/halox-geo-04-chapter-4-content-structure-cutaway.png)
 
 _제목, 첫 답변, 표, FAQ, schema, 내부 링크가 같은 질문에 답하도록 정렬되는 흐름입니다._
 

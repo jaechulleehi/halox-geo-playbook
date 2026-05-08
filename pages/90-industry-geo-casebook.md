@@ -30,7 +30,7 @@
 다음 액션: 콘텐츠/source/기술/운영 중 무엇을 고칠 것인가
 ```
 
-![산업별 GEO 케이스북 4주 적용 지도](../assets/images/body-figures/halox-geo-90-industry-casebook-4week-application-map-codex-only.png)
+![산업별 GEO 케이스북 4주 적용 지도](../assets/images/body-figures/halox-geo-90-industry-casebook-4week-application-map.png)
 
 *케이스북은 업종별 성공담이 아니라 질문셋, 근거, 오류, 다음 액션을 반복하는 실행 지도다.*
 

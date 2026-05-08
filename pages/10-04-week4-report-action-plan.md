@@ -26,7 +26,7 @@
 4. 다음 30일 액션을 3개 이하로 줄이고 담당자와 산출물을 붙인다.
 5. 월간 리포트 문장으로 남겨 다음 사이클의 기준선으로 쓴다.
 
-![30일 액션 플랜으로 마무리하는 흐름](../assets/images/body-figures/halox-geo-10-04-week4-report-action-plan-priority-board-codex-only.png)
+![30일 액션 플랜으로 마무리하는 흐름](../assets/images/body-figures/halox-geo-10-04-week4-report-action-plan-priority-board.png)
 
 *30일 액션 플랜으로 마무리하는 흐름*
 

@@ -48,7 +48,7 @@ Answer-first 콘텐츠는 AI와 독자가 첫 화면에서 답을 확인할 수 
 
 차이는 분명합니다. 앞 문장은 글의 주제를 말하고, 뒤 문장은 독자의 질문에 답합니다.
 
-![Answer-first 첫 답변 5요소](../assets/images/body-figures/halox-geo-04-01-answer-first-five-elements-codex-only.png)
+![Answer-first 첫 답변 5요소](../assets/images/body-figures/halox-geo-04-01-answer-first-five-elements.png)
 
 *첫 답변은 결론, 기준, 근거, 예외, 다음 행동을 짧게 묶는 구간이다.*
 

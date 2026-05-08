@@ -26,7 +26,7 @@ FAQ schema에 넣은 질문이 본문에 보이지 않거나, Product schema의 
 
 커머스는 Product schema와 merchant feed를 함께 봐야 하고, 로컬/병원은 LocalBusiness, Physician, MedicalClinic 같은 타입을 사용할 때 실제 표시 정보와 규제 표현을 같이 검토해야 합니다.
 
-![Schema 타입별 GEO 점검 보드](../assets/images/body-figures/halox-geo-06-07-schema-type-selector-codex-only.png)
+![Schema 타입별 GEO 점검 보드](../assets/images/body-figures/halox-geo-06-07-schema-type-selector.png)
 
 *Schema 타입은 페이지 역할과 질문 의도에 맞춰 선택해야 한다.*
 

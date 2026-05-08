@@ -25,7 +25,7 @@
 - **해석할 수 있는가**: title, meta description, heading, schema, canonical이 같은 주제를 말하는가
 - **인용할 수 있는가**: 대표 URL이 안정적이고 오래된 URL/복제본/이전 URL과 충돌하지 않는가
 
-![테크니컬 GEO 아키텍처](../assets/images/body-figures/halox-geo-06-chapter-6-technical-geo-architecture-codex-only.png)
+![테크니컬 GEO 아키텍처](../assets/images/body-figures/halox-geo-06-chapter-6-technical-geo-architecture.png)
 
 _콘텐츠 구조는 URL, HTML, schema, robots, sitemap, rendering 검증을 지나야 AI가 안정적으로 읽을 수 있습니다._
 

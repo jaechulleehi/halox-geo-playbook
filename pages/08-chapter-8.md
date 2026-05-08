@@ -23,7 +23,7 @@
 
 먼저 시장별 질문셋을 만들고, 그 질문에서 AI가 인용하는 출처를 확인합니다. 그다음 category page, comparison page, glossary, docs/guide, case study 중 무엇을 먼저 만들지 정합니다.
 
-![글로벌 GEO 로컬라이제이션 흐름](../assets/images/body-figures/halox-geo-08-chapter-8-global-geo-localization-funnel-codex-only.png)
+![글로벌 GEO 로컬라이제이션 흐름](../assets/images/body-figures/halox-geo-08-chapter-8-global-geo-localization-funnel.png)
 
 *글로벌 GEO는 번역 후 발행이 아니라 시장 질문, URL 구조, 현지 source, 재측정 순서로 운영한다.*
 

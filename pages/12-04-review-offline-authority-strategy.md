@@ -28,7 +28,7 @@
 
 사이트 진단에서는 후기/사례/FAQ가 있는 공식 페이지의 구조를 봅니다. 리뷰 원문을 그대로 옮기기보다 방문 전 질문에 답하는 FAQ와 안내 문장으로 정리해야 합니다.
 
-![리뷰 권위 신호 지도](../assets/images/body-figures/halox-geo-12-04-review-authority-signal-map-codex-only.png)
+![리뷰 권위 신호 지도](../assets/images/body-figures/halox-geo-12-04-review-authority-signal-map.png)
 
 *리뷰는 별점이 아니라 방문 전 질문에 답하는 실제 맥락과 답변 품질로 읽어야 한다.*
 

@@ -27,7 +27,7 @@
 
 사이트 진단은 2주차 작업과 연결됩니다. 공식 URL이 citation 후보가 되려면 메타, canonical, robots, schema, 내부 링크가 안정적이어야 합니다. 4주차 리포트에서는 “어떤 URL을 고쳤고 어떤 질문에서 citation이 바뀌었는가”를 남깁니다.
 
-![오프사이트 엔티티 30일 운영 보드](../assets/images/body-figures/halox-geo-05-10-offsite-entity-30day-operation-board-codex-only.png)
+![오프사이트 엔티티 30일 운영 보드](../assets/images/body-figures/halox-geo-05-10-offsite-entity-30day-operation-board.png)
 
 *30일 운영표는 외부 채널 활동을 질문셋, citation, 공식 URL 수정, 재측정으로 묶는다.*
 

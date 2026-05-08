@@ -22,7 +22,7 @@
 
 이 사례는 12장의 운영 흐름을 그대로 적용합니다. NAP로 로컬 엔티티를 맞추고, 지도 프로필과 공식 지점 페이지를 연결한 뒤, 리뷰 맥락과 방문 전환 질문을 정리합니다. 병원/전문 업종은 의료광고와 후기 표현 리스크를 별도 질문셋으로 측정합니다.
 
-![로컬 전문 서비스 방문 전환 보드](../assets/images/body-figures/halox-geo-90-04-local-specialist-visit-conversion-board-codex-only.png)
+![로컬 전문 서비스 방문 전환 보드](../assets/images/body-figures/halox-geo-90-04-local-specialist-visit-conversion-board.png)
 
 *로컬 GEO는 지도 후보, AI 답변 후보, 방문 전환 정보를 한 보드에서 같이 봐야 한다.*
 

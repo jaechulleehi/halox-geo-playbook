@@ -26,7 +26,7 @@ GEO 기술 점검은 감으로 판단하면 안 됩니다. Search Console, URL I
 
 예를 들어 핵심 리포트 예시 페이지가 noindex 상태라면 전체 사이트 점수가 높아도 GEO 관점에서는 큰 문제입니다. 반대로 낮은 우선순위의 오래된 글 하나가 느리다고 해서 이번 주 작업의 핵심이 되지는 않습니다.
 
-![공식 도구와 HaloX 사이트 진단 연결](../assets/images/body-figures/halox-geo-06-06-google-validation-workflow-codex-only.png)
+![공식 도구와 HaloX 사이트 진단 연결](../assets/images/body-figures/halox-geo-06-06-google-validation-workflow.png)
 
 *공식 도구는 검색엔진 관점을 확인하고, HaloX 사이트 진단은 그 결과를 실행 티켓으로 나누는 데 쓴다.*
 

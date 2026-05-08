@@ -49,7 +49,7 @@
 
 이렇게 쓰면 페이지는 단순 기능 설명이 아니라 리포트를 판단하는 기준이 됩니다. 독자는 “이 리포트를 어떻게 읽어야 하는지”를 이해하고, AI 답변도 인용하기 좋은 문장과 표를 찾기 쉬워집니다.
 
-![영문 카테고리 자산 브리프](../assets/images/body-figures/halox-geo-08-01-english-category-asset-brief-codex-only.png)
+![영문 카테고리 자산 브리프](../assets/images/body-figures/halox-geo-08-01-english-category-asset-brief.png)
 
 *영문 카테고리 자산은 제품 소개문이 아니라 영어권 질문, 비교 기준, 리포트 근거, 실행 방법을 한 URL에서 설명하는 기준 페이지다.*
 

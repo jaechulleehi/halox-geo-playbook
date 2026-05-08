@@ -28,7 +28,7 @@
 
 사이트 진단에서는 campaign URL의 HTTP 상태, canonical, robots, sitemap 반영, 종료 후 리다이렉트 계획을 봅니다. 특히 종료된 캠페인을 404로 닫아버리면 AI 답변에 남은 citation이 깨진 근거가 됩니다.
 
-![캠페인 URL citation 생애주기](../assets/images/body-figures/halox-geo-07-06-campaign-url-citation-lifecycle-codex-only.png)
+![캠페인 URL citation 생애주기](../assets/images/body-figures/halox-geo-07-06-campaign-url-citation-lifecycle.png)
 
 *캠페인 URL은 시작 전 기준 URL, 운영 중 citation, 종료 후 보존 URL을 함께 설계해야 한다.*
 

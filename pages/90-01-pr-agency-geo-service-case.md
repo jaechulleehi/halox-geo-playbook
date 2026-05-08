@@ -33,7 +33,7 @@ AcmePR은 먼저 프롬프트 분석으로 질문군별 답변을 봅니다. 인
 
 그다음 전략맵에서 이번 달 실행 클러스터를 고릅니다. 예를 들어 `보안 비교`, `도입 사례`, `가격/범위`, `규제 대응` 중 하나를 우선순위로 정하고, 콘텐츠 제작이나 PR 출처 보강으로 넘깁니다. 주간 리포트는 점수표가 아니라 “이번 주 어떤 질문에서 공식 citation이 회복됐는가”를 설명합니다.
 
-![PR 에이전시 GEO 서비스 패키지 맵](../assets/images/body-figures/halox-geo-90-01-pr-agency-geo-service-package-map-codex-only.png)
+![PR 에이전시 GEO 서비스 패키지 맵](../assets/images/body-figures/halox-geo-90-01-pr-agency-geo-service-package-map.png)
 
 *PR 에이전시 GEO 서비스는 기사 배포가 아니라 질문셋, 출처, 실행 범위, 재측정 리포트를 묶는 운영 패키지다.*
 

@@ -26,7 +26,7 @@ GEO가 필요해졌다고 SEO 데이터가 사라지는 것은 아닙니다. 키
 4. 두 도구의 결과를 콘텐츠/기술/출처 작업으로 합친다.
 5. 다음 달에는 검색 성과와 AI 답변 변화를 함께 보고한다.
 
-![검색 순위 데이터와 AI 답변 데이터를 함께 읽는 법](../assets/images/body-figures/halox-geo-09-07-seo-tools-geo-tools-role-map-codex-only.png)
+![검색 순위 데이터와 AI 답변 데이터를 함께 읽는 법](../assets/images/body-figures/halox-geo-09-07-seo-tools-geo-tools-role-map.png)
 
 *검색 순위 데이터와 AI 답변 데이터를 함께 읽는 법*
 

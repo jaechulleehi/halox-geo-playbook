@@ -29,7 +29,7 @@
 
 넷째, 사이트 진단과 상품 데이터 점검으로 상세/schema/feed/정책의 불일치를 수정합니다.
 
-![2주 커머스 GEO 리스크 스프린트](../assets/images/body-figures/halox-geo-11-04-two-week-commerce-risk-sprint-codex-only.png)
+![2주 커머스 GEO 리스크 스프린트](../assets/images/body-figures/halox-geo-11-04-two-week-commerce-risk-sprint.png)
 
 *2주 점검은 상품 데이터 변경 속도와 AI 답변의 citation 변화를 맞추는 운영 리듬이다.*
 

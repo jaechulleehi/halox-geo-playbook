@@ -16,7 +16,7 @@
 
 그래서 커머스 GEO의 실패는 노출 부족만이 아닙니다. AI가 오래된 가격을 말하거나, 품절 상품을 추천하거나, 반품 불가 조건을 놓치는 것도 실패입니다. 좋은 커머스 GEO는 AI를 속이는 일이 아니라 AI가 오해하지 않도록 상품 정보를 정직하고 일관되게 제공하는 일입니다.
 
-![커머스 GEO 5개 층 운영 모델](../assets/images/body-figures/halox-geo-11-chapter-11-commerce-geo-five-layer-map-codex-only.png)
+![커머스 GEO 5개 층 운영 모델](../assets/images/body-figures/halox-geo-11-chapter-11-commerce-geo-five-layer-map.png)
 
 *커머스 GEO는 상품 상세페이지, 구조화 데이터, 피드, 정책 문서, 외부 신호가 함께 맞아야 구매 후보와 전환 경로가 안정적으로 연결된다.*
 

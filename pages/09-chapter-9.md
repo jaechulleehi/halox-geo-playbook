@@ -30,7 +30,7 @@ GEO 리포트는 점수표가 아니라 의사결정 도구입니다. 좋은 리
 
 AcmeGEO 리포트라면 `GEO 점수 72점`보다 `추천형 질문 30개 중 mention 8개, citation 3개, 경쟁사 source 반복 12개, 다음 액션은 비교표/리포트 샘플/canonical 점검`처럼 읽혀야 합니다. 이렇게 써야 팀이 다음 행동을 정할 수 있습니다.
 
-![GEO 리포트 검증 루프](../assets/images/body-figures/halox-geo-09-chapter-9-report-validation-loop-codex-only.png)
+![GEO 리포트 검증 루프](../assets/images/body-figures/halox-geo-09-chapter-9-report-validation-loop.png)
 
 *GEO 리포트는 점수표가 아니라 상태, 원인, 액션, 재측정을 연결하는 검증 루프다.*
 

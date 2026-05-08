@@ -24,7 +24,7 @@
 
 프롬프트 분석에서도 영어 질문과 한국어 질문을 섞지 않습니다. 같은 제품이라도 `AI search visibility report`와 `AI 검색 리포트`는 별도 기준선으로 측정해야 합니다. 인용 추적에서는 영어 질문에서 어떤 locale URL이 citation 되는지 따로 봅니다.
 
-![Locale hreflang canonical 리스크 지도](../assets/images/body-figures/halox-geo-08-02-locale-hreflang-canonical-risk-map-codex-only.png)
+![Locale hreflang canonical 리스크 지도](../assets/images/body-figures/halox-geo-08-02-locale-hreflang-canonical-risk-map.png)
 
 *글로벌 URL 전략은 번역 페이지 수가 아니라 대표 locale URL이 안정적으로 인용되는지로 판단한다.*
 

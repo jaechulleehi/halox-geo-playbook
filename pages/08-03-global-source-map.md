@@ -24,7 +24,7 @@
 
 인용 추적에서는 반복되는 도메인을 우선순위로 정합니다. 공식 URL이 전혀 잡히지 않는지, 경쟁사 glossary가 반복되는지, 리뷰 플랫폼이 강한지에 따라 실행이 달라집니다. source/citation 약점은 조사 결과로 끝내지 말고 콘텐츠 티켓으로 바꿔야 합니다. 예를 들어 `GEO report template` 질문에서 경쟁사 docs가 반복된다면 영문 report example, glossary, comparison page를 먼저 만듭니다.
 
-![글로벌 source 우선순위 지도](../assets/images/body-figures/halox-geo-08-03-global-source-priority-map-codex-only.png)
+![글로벌 source 우선순위 지도](../assets/images/body-figures/halox-geo-08-03-global-source-priority-map.png)
 
 *글로벌 source map은 시장별 질문에서 반복 인용되는 도메인을 보고 공식 자산과 외부 신호의 우선순위를 정하는 작업이다.*
 

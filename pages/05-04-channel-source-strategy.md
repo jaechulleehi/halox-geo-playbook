@@ -29,7 +29,7 @@ GEO에서 채널 전략이 약하면 실행팀은 “블로그 더 쓰기”나 
 
 프롬프트 분석에서 약한 질문군을 고른 뒤, 인용 추적에서 현재 반복되는 도메인을 봅니다. 그다음 채널별로 “수정할 공식 문서”, “확보할 외부 근거”, “정리할 엔티티 필드”를 나눕니다.
 
-![채널별 source 전략 매트릭스](../assets/images/body-figures/halox-geo-05-04-channel-source-strategy-matrix-codex-only.png)
+![채널별 source 전략 매트릭스](../assets/images/body-figures/halox-geo-05-04-channel-source-strategy-matrix.png)
 
 *채널 전략표는 채널별 할 일을 늘리는 문서가 아니라 질문군별 근거 역할을 나누는 문서다.*
 

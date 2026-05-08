@@ -27,7 +27,7 @@
 
 사이트 진단에서는 지점 URL의 title, description, LocalBusiness/MedicalClinic schema, 예약/전화/길찾기 링크, canonical 상태를 확인합니다.
 
-![로컬 SEO와 로컬 GEO 신호 흐름](../assets/images/body-figures/halox-geo-12-01-local-seo-geo-signal-flow-codex-only.png)
+![로컬 SEO와 로컬 GEO 신호 흐름](../assets/images/body-figures/halox-geo-12-01-local-seo-geo-signal-flow.png)
 
 *로컬 SEO가 지도 후보군을 만드는 기반이라면, 로컬 GEO는 그 후보가 AI 답변에서 어떤 근거로 설명되는지까지 본다.*
 

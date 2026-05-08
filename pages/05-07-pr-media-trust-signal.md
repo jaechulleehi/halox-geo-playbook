@@ -28,7 +28,7 @@
 
 사이트 진단에서는 뉴스룸, 자료실, 리포트 예시 페이지의 sitemap, canonical, 메타, 내부 링크를 확인합니다. 좋은 PR 자산도 AI가 찾기 어려운 구조에 있으면 반복 citation으로 이어지기 어렵습니다.
 
-![PR/언론 신뢰 신호 파이프라인](../assets/images/body-figures/halox-geo-05-07-pr-media-trust-pipeline-codex-only.png)
+![PR/언론 신뢰 신호 파이프라인](../assets/images/body-figures/halox-geo-05-07-pr-media-trust-pipeline.png)
 
 *PR 자산은 언론 노출, 공식 뉴스룸, 리포트 예시, 재측정을 연결할 때 GEO 신호가 된다.*
 

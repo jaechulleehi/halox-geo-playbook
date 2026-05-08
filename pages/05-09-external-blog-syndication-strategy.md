@@ -28,7 +28,7 @@
 
 사이트 진단은 공식 URL의 읽힘 상태를 확인하는 데 씁니다. 외부 글이 좋아도 공식 URL의 canonical, 메타, schema, 내부 링크가 약하면 최종 citation이 외부 글에만 머무를 수 있습니다.
 
-![외부 블로그 신디케이션 분기 지도](../assets/images/body-figures/halox-geo-05-09-external-blog-syndication-branch-map-codex-only.png)
+![외부 블로그 신디케이션 분기 지도](../assets/images/body-figures/halox-geo-05-09-external-blog-syndication-branch-map.png)
 
 *외부 블로그 전략은 같은 글을 복제하는 것이 아니라 질문 의도별 근거를 분기하는 작업이다.*
 

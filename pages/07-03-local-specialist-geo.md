@@ -29,7 +29,7 @@ AI 검색의 지역 질문은 지도 순위와 다르게 움직일 수 있습니
 
 사이트 진단은 지점별 페이지가 있는지, LocalBusiness/MedicalClinic 같은 schema가 맞는지, 예약/전화/길찾기 링크가 명확한지 확인하는 데 씁니다. 로컬 페이지는 정보가 조금만 틀려도 방문 전환과 신뢰가 같이 흔들립니다.
 
-![로컬 전문 서비스 질문과 출처 지도](../assets/images/body-figures/halox-geo-07-03-local-specialist-question-source-map-codex-only.png)
+![로컬 전문 서비스 질문과 출처 지도](../assets/images/body-figures/halox-geo-07-03-local-specialist-question-source-map.png)
 
 *로컬 GEO는 지도, 리뷰, 공식 페이지, 예약 정보를 한 질문 안에서 같이 맞추는 작업이다.*
 

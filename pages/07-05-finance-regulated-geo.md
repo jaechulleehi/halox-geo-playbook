@@ -29,7 +29,7 @@
 
 사이트 진단은 중요한 문서가 검색엔진과 AI crawler에게 열려 있는지, canonical과 업데이트 날짜가 맞는지, 구조화 데이터와 내부 링크가 신뢰 신호를 보강하는지 확인합니다.
 
-![규제 산업 위험 통제 보드](../assets/images/body-figures/halox-geo-07-05-regulated-industry-risk-control-board-codex-only.png)
+![규제 산업 위험 통제 보드](../assets/images/body-figures/halox-geo-07-05-regulated-industry-risk-control-board.png)
 
 *규제 산업 GEO는 노출 증가와 표현 리스크 관리를 같은 보드에서 봐야 한다.*
 

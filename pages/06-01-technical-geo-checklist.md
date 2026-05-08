@@ -27,7 +27,7 @@ Pages 테이블에서는 핵심 랜딩, 블로그, 뉴스룸, 리포트 예시, 
 
 Issues에서는 치명/경고/권장 이슈를 실행 담당으로 나눕니다. robots나 HTTP 상태는 개발, 메타/heading은 SEO/콘텐츠, schema와 내부 링크는 개발과 콘텐츠가 함께 봅니다.
 
-![테크니컬 GEO 점검 레이어](../assets/images/body-figures/halox-geo-06-01-technical-geo-checklist-stack-codex-only.png)
+![테크니컬 GEO 점검 레이어](../assets/images/body-figures/halox-geo-06-01-technical-geo-checklist-stack.png)
 
 *테크니컬 GEO는 URL을 발견하고, 접근하고, 해석하고, 인용하는 흐름으로 나눠야 실행 티켓이 보인다.*
 

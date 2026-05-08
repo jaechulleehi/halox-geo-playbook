@@ -28,7 +28,7 @@
 
 특히 GEO에서는 비브랜드 질문에서 어느 카테고리 후보로 들어가는지가 핵심입니다. 브랜드명보다 문제/카테고리/지표 언어가 먼저 정리되어야 합니다.
 
-![브랜드 엔티티 합의 신호 지도](../assets/images/body-figures/halox-geo-05-02-entity-consensus-constellation-codex-only.png)
+![브랜드 엔티티 합의 신호 지도](../assets/images/body-figures/halox-geo-05-02-entity-consensus-constellation.png)
 
 *엔티티 합의 신호는 여러 채널이 같은 브랜드 정체성을 가리키는 상태다.*
 

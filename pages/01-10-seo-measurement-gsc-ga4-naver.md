@@ -158,7 +158,7 @@ GSC에서는 `GEO 도구`, `AI 검색 모니터링`, `ChatGPT 브랜드 노출` 
 | source는 잡히지만 citation 없음 | 대표 URL/구조 약함 | SEO/개발 | canonical, 내부 링크, 본문 구조 점검 |
 | 설명이 오래됨 | 엔티티 최신성 문제 | 브랜드/PR | 뉴스룸, 디렉터리, 공식 소개 업데이트 |
 
-![SEO 실습 산출물을 GEO 운영 패키지와 30일 계획으로 묶는 흐름](../assets/images/body-figures/halox-geo-01-10-integrated-practice-workflow-codex-only.png)
+![SEO 실습 산출물을 GEO 운영 패키지와 30일 계획으로 묶는 흐름](../assets/images/body-figures/halox-geo-01-10-integrated-practice-workflow.png)
 
 ## 앞 단계 산출물이 최종 운영으로 이어지는 방식
 

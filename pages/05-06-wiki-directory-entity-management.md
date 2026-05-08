@@ -26,7 +26,7 @@
 
 반대로 오래된 회사명, 잘못된 URL, 과거 제품 설명이 남아 있으면 비브랜드 질문에서 브랜드가 엉뚱한 후보군으로 들어갈 수 있습니다. 디렉터리 정리는 작은 작업처럼 보이지만, source/citation 해석의 기초가 됩니다.
 
-![위키/디렉터리 엔티티 필드 정렬](../assets/images/body-figures/halox-geo-05-06-wiki-directory-entity-field-alignment-codex-only.png)
+![위키/디렉터리 엔티티 필드 정렬](../assets/images/body-figures/halox-geo-05-06-wiki-directory-entity-field-alignment.png)
 
 *위키/디렉터리 관리는 홍보 문구 작성이 아니라 이름, URL, 카테고리, 설명 필드를 맞추는 작업이다.*
 

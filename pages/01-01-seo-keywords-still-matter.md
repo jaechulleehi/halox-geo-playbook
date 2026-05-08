@@ -49,7 +49,7 @@ Google Search Console은 이미 우리 사이트가 어떤 query에서 노출되
 
 콘텐츠팀은 고객이 이해하기 쉬운 표현을 모읍니다. SEO 담당자는 검색량, 노출, 클릭, 경쟁 강도를 봅니다. 세일즈팀은 구매 전 질문과 반박을 제공합니다. 고객지원팀은 사용 중 막히는 표현을 제공합니다. 브랜드팀은 반드시 지켜야 할 공식 용어와 피해야 할 표현을 정리합니다.
 
-![키워드를 시장 언어와 콘텐츠 후보로 묶는 흐름](../assets/images/body-figures/halox-geo-01-01-keyword-market-language-map-codex-only.png)
+![키워드를 시장 언어와 콘텐츠 후보로 묶는 흐름](../assets/images/body-figures/halox-geo-01-01-keyword-market-language-map.png)
 
 ## 실무 워크플로우
 

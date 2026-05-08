@@ -28,7 +28,7 @@ AI 답변은 공식 설명뿐 아니라 비교, 후기, 문제 해결 경험을 
 
 인용 추적에서는 커뮤니티 URL이 직접 citation으로 잡히는지보다, 커뮤니티에서 반복되는 비교 기준이 AI 답변에 어떤 식으로 반영되는지 봅니다. 공식 URL이 빠지고 커뮤니티 맥락만 강하면 공식 문서가 실제 질문에 답하지 못하는 상태일 수 있습니다.
 
-![커뮤니티 실사용 신호 루프](../assets/images/body-figures/halox-geo-05-08-community-usage-signal-loop-codex-only.png)
+![커뮤니티 실사용 신호 루프](../assets/images/body-figures/halox-geo-05-08-community-usage-signal-loop.png)
 
 *커뮤니티 신호는 홍보 댓글을 남기는 일이 아니라 실제 질문을 공식 문서와 리포트로 되돌리는 루프다.*
 

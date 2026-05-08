@@ -28,7 +28,7 @@
 
 마지막으로 전략맵에서 출처 보강을 콘텐츠/PR/디렉터리/기술 작업 중 어디로 넘길지 정합니다. source map은 조사표가 아니라 실행 우선순위 문서입니다.
 
-![오프사이트 source map 보드](../assets/images/body-figures/halox-geo-05-03-offsite-source-map-board-codex-only.png)
+![오프사이트 source map 보드](../assets/images/body-figures/halox-geo-05-03-offsite-source-map-board.png)
 
 *source map은 질문 유형, 공식 URL, 외부 출처, 경쟁 citation을 한 화면에서 연결하는 작업이다.*
 

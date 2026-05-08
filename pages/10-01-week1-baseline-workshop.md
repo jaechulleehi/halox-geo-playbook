@@ -26,7 +26,7 @@
 4. 아직 고치지 말고 빠지는 질문군과 반복 출처를 기준선으로 남긴다.
 5. 2주차 분석에 넘길 우선 질문 5개를 고른다.
 
-![질문셋과 기준선을 만드는 흐름](../assets/images/body-figures/halox-geo-10-01-week1-baseline-measurement-board-codex-only.png)
+![질문셋과 기준선을 만드는 흐름](../assets/images/body-figures/halox-geo-10-01-week1-baseline-measurement-board.png)
 
 *질문셋과 기준선을 만드는 흐름*
 

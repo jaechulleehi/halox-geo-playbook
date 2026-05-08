@@ -26,7 +26,7 @@
 4. 새 글, 기존 글 수정, FAQ, 표, schema 중 필요한 작업을 정한다.
 5. 3주차에 고칠 source와 콘텐츠 후보를 넘긴다.
 
-![질문 패턴에서 콘텐츠 갭을 찾는 흐름](../assets/images/body-figures/halox-geo-10-02-week2-fanout-gap-priority-map-codex-only.png)
+![질문 패턴에서 콘텐츠 갭을 찾는 흐름](../assets/images/body-figures/halox-geo-10-02-week2-fanout-gap-priority-map.png)
 
 *질문 패턴에서 콘텐츠 갭을 찾는 흐름*
 

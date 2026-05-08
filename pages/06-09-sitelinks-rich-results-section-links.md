@@ -26,7 +26,7 @@ GEO 관점에서는 섹션 링크가 질문별 답변 위치를 분명히 해줍
 
 사이트 진단에서는 heading, 메타, 내부 링크, schema 이슈를 확인합니다. 구조가 약한 페이지는 AI 답변에서 짧게 언급되더라도 citation 후보로 안정적으로 남기 어렵습니다.
 
-![사이트링크와 리치 리절트 구조](../assets/images/body-figures/halox-geo-06-09-sitelinks-rich-results-serp-anatomy-codex-only.png)
+![사이트링크와 리치 리절트 구조](../assets/images/body-figures/halox-geo-06-09-sitelinks-rich-results-serp-anatomy.png)
 
 *섹션 링크와 리치 리절트는 질문별 답변 위치를 검색결과와 AI 답변에 더 분명하게 보여주는 구조 신호다.*
 

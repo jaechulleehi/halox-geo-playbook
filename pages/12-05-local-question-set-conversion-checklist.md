@@ -28,7 +28,7 @@
 
 사이트 진단에서는 예약/전화/길찾기/FAQ 링크가 모바일에서 명확한지 확인합니다. 로컬 비즈니스는 데스크톱 화면보다 모바일에서 바로 전화/예약/길찾기로 이어지는 흐름을 우선 점검합니다.
 
-![로컬 질문과 방문 전환 퍼널](../assets/images/body-figures/halox-geo-12-05-local-question-conversion-funnel-codex-only.png)
+![로컬 질문과 방문 전환 퍼널](../assets/images/body-figures/halox-geo-12-05-local-question-conversion-funnel.png)
 
 *로컬 GEO 질문셋은 AI 답변에서 방문 전 행동으로 이어지는 흐름을 기준으로 설계한다.*
 

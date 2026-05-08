@@ -16,7 +16,7 @@ Query Fan-out은 사용자가 한 가지 질문을 던졌을 때 AI가 답변을
 
 AI Query Fan-out은 AI가 답변을 만들면서 내부적으로 수행하는 하위 판단을 추정하는 작업입니다. AI 답변의 비교 기준, 인용 출처, 빠진 검증 항목, 경쟁사와 함께 묶이는 문맥을 보고 “AI가 이 질문을 어떤 조각으로 나눴는가”를 읽습니다.
 
-![Query Fan-out의 전체 구조](../assets/images/body-figures/halox-geo-03-chapter-3-query-fanout-map-codex-only.png)
+![Query Fan-out의 전체 구조](../assets/images/body-figures/halox-geo-03-chapter-3-query-fanout-map.png)
 
 PAA와 연관 검색은 사람들이 실제로 많이 묻는 질문의 단서입니다. 하지만 그것이 곧 GPT가 내부에서 확장하는 질문 전체는 아닙니다. AI fan-out은 공개된 검색 단서와 실제 AI 답변 관찰을 함께 놓고 추정해야 합니다.
 

@@ -63,7 +63,7 @@ ChatGPT 답변은 URL 목록보다 문장 흐름을 먼저 봐야 합니다. 브
 
 다음 달 같은 질문에서 “AcmeGEO는 브랜드 언급률, 답변 근거, 화면 인용을 분리해 보여주는 도구”라고 설명되면 단순 노출보다 더 나은 변화입니다. 브랜드가 답변 안에서 명확한 역할을 얻었기 때문입니다.
 
-![ChatGPT 브랜드 노출 기준선 만들기](../assets/images/body-figures/halox-geo-02-01-chatgpt-brand-visibility-baseline-codex-only.png)
+![ChatGPT 브랜드 노출 기준선 만들기](../assets/images/body-figures/halox-geo-02-01-chatgpt-brand-visibility-baseline.png)
 
 *같은 질문군을 반복 측정해야 브랜드 노출의 방향을 읽을 수 있다.*
 

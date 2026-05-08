@@ -22,7 +22,7 @@
 
 뉴스룸은 “우리 소식”보다 “AI와 기자, 고객이 인용할 공식 설명”을 담아야 합니다. 회사 개요, 제품 카테고리, 주요 수치, 대표 인용문, 고객 사례, 미디어 키트, 업데이트 날짜를 분리해 둡니다.
 
-![뉴스룸 엔티티 허브 구조](../assets/images/body-figures/halox-geo-90-03-newsroom-entity-hub-architecture-codex-only.png)
+![뉴스룸 엔티티 허브 구조](../assets/images/body-figures/halox-geo-90-03-newsroom-entity-hub-architecture.png)
 
 *뉴스룸은 PR 저장소가 아니라 공식 엔티티 설명, 제품 맥락, 외부 출처를 연결하는 허브다.*
 

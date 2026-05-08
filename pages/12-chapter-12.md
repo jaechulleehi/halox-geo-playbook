@@ -18,7 +18,7 @@
 
 로컬 업종은 `검색 노출 → 지도 후보 → 리뷰 검토 → 방문/예약` 흐름이 짧습니다. 그래서 GEO도 콘텐츠만 보지 않고, 사용자가 실제로 방문하기 전 확인하는 신호를 순서대로 맞춰야 합니다.
 
-![로컬 업종 GEO 운영 모델](../assets/images/body-figures/halox-geo-12-chapter-12-local-geo-operation-model-codex-only.png)
+![로컬 업종 GEO 운영 모델](../assets/images/body-figures/halox-geo-12-chapter-12-local-geo-operation-model.png)
 
 *로컬 업종의 GEO는 발견, 신뢰, 비교, 전환, 리스크를 분리해 보고 각 단계에 맞는 지도, 리뷰, 콘텐츠, 전환 자산을 맞춘다.*
 

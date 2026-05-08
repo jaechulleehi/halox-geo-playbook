@@ -27,7 +27,7 @@ CSR/SSR 점검의 목적은 특정 프레임워크를 비판하는 것이 아닙
 
 인용 추적에서 공식 URL이 계속 빠진다면 렌더링 이슈와 함께 canonical, 내부 링크, schema를 같이 봅니다. 렌더링 문제 하나만 고쳐도 citation이 바로 생긴다고 단정하지 않습니다.
 
-![CSR/SSR 렌더링 점검 흐름](../assets/images/body-figures/halox-geo-06-02-csr-ssr-rendering-visibility-codex-only.png)
+![CSR/SSR 렌더링 점검 흐름](../assets/images/body-figures/halox-geo-06-02-csr-ssr-rendering-visibility.png)
 
 *렌더링 점검은 사람이 보는 화면, 초기 HTML, 렌더링 후 DOM, crawler 접근을 나눠 확인하는 작업이다.*
 

@@ -25,7 +25,7 @@
 
 사이트 진단에서는 지점 페이지와 예약 페이지의 기술 상태를 점검합니다. HTTP, title, description, canonical, schema, 내부 링크, 모바일 전환 요소를 URL별 티켓으로 나눕니다.
 
-![로컬 30일 운영 루프](../assets/images/body-figures/halox-geo-12-07-local-30day-operation-loop-codex-only.png)
+![로컬 30일 운영 루프](../assets/images/body-figures/halox-geo-12-07-local-30day-operation-loop.png)
 
 *로컬 SEO/GEO 운영은 기준선, 정보 수정, 방문 전환 보강, 재측정을 매달 반복하는 루프다.*
 

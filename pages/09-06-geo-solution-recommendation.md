@@ -26,7 +26,7 @@ GEO 솔루션을 고를 때는 “가장 유명한 도구”보다 우리 팀의
 4. 사이트 진단, 전략맵, 콘텐츠 제작 같은 실행 연결 기능을 분리해 평가한다.
 5. 무료 데모나 샘플 리포트로 팀 회의에서 쓸 수 있는지 검토한다.
 
-![AI 검색 최적화 도구를 고르는 법](../assets/images/body-figures/halox-geo-09-06-geo-tool-selection-decision-tree-codex-only.png)
+![AI 검색 최적화 도구를 고르는 법](../assets/images/body-figures/halox-geo-09-06-geo-tool-selection-decision-tree.png)
 
 *AI 검색 최적화 도구를 고르는 법*
 

@@ -22,7 +22,7 @@
 
 캠페인 페이지는 보통 짧은 문구, 다운로드 폼, 광고 카피 중심으로 만들어집니다. AI 답변이 인용하기에는 데이터 정의, 방법론, 표, FAQ, 업데이트 날짜가 부족합니다. 그래서 AI는 캠페인 URL보다 보도자료나 외부 요약 글을 인용합니다.
 
-![캠페인 URL citation 라이프사이클](../assets/images/body-figures/halox-geo-90-02-campaign-url-citation-lifecycle-map-codex-only.png)
+![캠페인 URL citation 라이프사이클](../assets/images/body-figures/halox-geo-90-02-campaign-url-citation-lifecycle-map.png)
 
 *캠페인 URL은 공개 전, 운영 중, 종료 후 상태를 나눠 citation 유지와 오래된 정보 리스크를 함께 관리해야 한다.*
 

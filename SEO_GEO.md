@@ -129,11 +129,11 @@
 | 1 | 검색 변화 이해 | AI 검색, AI 검색 엔진 최적화 | [00-03. AI 검색은 기존 검색과 무엇이 다른가](pages/00-03-ai-search-difference.md) | 기존 검색과 AI 답변형 검색의 차이 설명 |
 | 1 | 실행 입문 | GEO 최적화 방법, GEO 최적화 전략 | [00-04. GEO 워크플로우: 이 책을 실무에 적용하는 법](pages/00-04-how-to-use-this-book.md) | 책을 실무 순서로 읽는 방법 안내 |
 | 1 | SEO 기본기 | SEO 기본기, SEO 워크플로우, 검색 의도 분석, SERP 분석, 온페이지 SEO, 테크니컬 SEO | [01. SEO 기본기와 GEO 확장 전략](pages/01-chapter-1.md) | 기존 SEO 유입 구조를 GEO 질문셋과 AI 답변 근거로 확장하는 관문 |
-| 1 | 프롬프트 전환 | SEO 키워드를 질문/프롬프트로 바꾸는 법 | [01-02. SERP 분석: 검색결과를 의도 지도로 읽는 법](pages/01-02-keyword-to-prompt.md) | 키워드 목록을 실제 AI 질문으로 변환 |
-| 1 | SERP/콘텐츠 갭 | SERP 분석, 콘텐츠 갭 분석, SEO 콘텐츠 전략 | [01-06. 내부 링크: 페이지 사이의 의미 관계를 설계하는 법](pages/01-06-serp-analysis-content-gap.md) | 상위 검색 결과를 AI 답변 재료와 리라이트 후보로 변환 |
-| 1 | 온페이지 SEO | 온페이지 SEO, title, meta description, heading, FAQ | [01-07. 테크니컬 SEO: 좋은 콘텐츠가 검색엔진과 AI에게 읽히게 만드는 조건](pages/01-07-onpage-seo-answer-first.md) | 페이지 안의 SEO 요소를 Answer-first 구조로 정리 |
-| 1 | 테크니컬 SEO | 테크니컬 SEO, sitemap, robots, canonical, schema | [01-08. 권위/백링크/엔티티: 믿을 만한 브랜드로 이해되게 만드는 외부 신호](pages/01-08-technical-seo-geo.md) | 검색엔진/AI가 발견하고 읽을 수 있는 기술 조건 정리 |
-| 1 | 권위/엔티티 | E-E-A-T, 백링크, 엔티티, 브랜드 언급 | [01-09. 측정/개선: SEO와 GEO를 월간 운영 루프로 만드는 법](pages/01-09-authority-entity-seo-geo.md) | 외부 신뢰 신호를 source/citation/consensus로 확장 |
+| 1 | 프롬프트 전환 | SEO 키워드를 질문/프롬프트로 바꾸는 법 | [01-02. SERP 분석: 검색결과를 의도 지도로 읽는 법](pages/01-02-serp-analysis-content-gap.md) | 키워드 목록을 실제 AI 질문으로 변환 |
+| 1 | SERP/콘텐츠 갭 | SERP 분석, 콘텐츠 갭 분석, SEO 콘텐츠 전략 | [01-06. 내부 링크: 페이지 사이의 의미 관계를 설계하는 법](pages/01-06-internal-link-meaning-map.md) | 상위 검색 결과를 AI 답변 재료와 리라이트 후보로 변환 |
+| 1 | 온페이지 SEO | 온페이지 SEO, title, meta description, heading, FAQ | [01-07. 테크니컬 SEO: 좋은 콘텐츠가 검색엔진과 AI에게 읽히게 만드는 조건](pages/01-07-technical-seo-readable-content.md) | 페이지 안의 SEO 요소를 Answer-first 구조로 정리 |
+| 1 | 테크니컬 SEO | 테크니컬 SEO, sitemap, robots, canonical, schema | [01-08. 권위/백링크/엔티티: 믿을 만한 브랜드로 이해되게 만드는 외부 신호](pages/01-08-authority-entity-seo-geo.md) | 검색엔진/AI가 발견하고 읽을 수 있는 기술 조건 정리 |
+| 1 | 권위/엔티티 | E-E-A-T, 백링크, 엔티티, 브랜드 언급 | [01-09. 측정/개선: SEO와 GEO를 월간 운영 루프로 만드는 법](pages/01-09-seo-geo-measurement-loop.md) | 외부 신뢰 신호를 source/citation/consensus로 확장 |
 | 1 | SEO/GEO 측정 | Google Search Console, 구글 서치콘솔, GA4, 네이버 웹마스터 도구, SEO 리포트 | [01-10. SEO에서 GEO로 확장하는 통합 실습](pages/01-10-seo-measurement-gsc-ga4-naver.md) | 검색 유입/전환 지표와 AI 답변 mention/source/citation을 통합 |
 | 2 | 플랫폼 노출 | ChatGPT 브랜드 노출 | [02-01. ChatGPT 브랜드 노출은 어떻게 확인하나](pages/02-01-chatgpt-brand-visibility.md) | ChatGPT에서 브랜드가 어떻게 등장하는지 측정 |
 | 2 | 플랫폼 인용 | Perplexity SEO, Google AI Overviews 최적화, AI Overviews SEO | [02-02. Perplexity SEO와 Google AI Overviews 최적화는 어떻게 다르게 볼까](pages/02-02-perplexity-ai-overviews-citation.md) | 플랫폼별 source/citation 차이 설명 |

@@ -36,7 +36,7 @@
 
 이 순서대로 보면 “새 글 10개 작성” 같은 막연한 결론을 피할 수 있습니다. 실제로는 기존 URL 2개 수정, 비교 섹션 1개 추가, 외부 출처 1개 확보가 더 강한 액션일 수 있습니다.
 
-![질문 패턴을 콘텐츠 갭과 액션으로 바꾸기](../assets/images/body-figures/halox-geo-03-03-content-gap-action-flow-codex-only.png)
+![질문 패턴을 콘텐츠 갭과 액션으로 바꾸기](../assets/images/body-figures/halox-geo-03-03-content-gap-action-flow.png)
 
 *질문 패턴을 기준으로 빈칸을 찾으면 콘텐츠/출처/기술 액션이 분리된다.*
 
